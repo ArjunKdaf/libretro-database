@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "007 - GoldenEye (Europe)"
+	comment "GoldenEye 007 (Europe)"
 	esrb_rating "T"
-	rom ( crc 7425AE2D  )
+	rom ( crc 9EC14AEB  )
 )

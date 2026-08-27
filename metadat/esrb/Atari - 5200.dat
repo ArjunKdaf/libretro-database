@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Barroom Baseball (USA) (Proto)"
+	comment "Barroom Baseball (USA) (Proto 1)"
 	esrb_rating "E"
 	rom ( crc 21D19C8F )
 )
@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Castle Blast (USA) (Unl)"
+	comment "Castle Blast (USA)"
 	esrb_rating "EC"
 	rom ( crc 7C988054 )
 )

@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Dungeon & Guarder - Dragon Gore (Korea)"
+	comment "Dungeon & Guarder - Dragon Gore (Korea) (En)"
 	publisher "Gamepark"
 	rom ( crc 0E3BF8CE )
 )

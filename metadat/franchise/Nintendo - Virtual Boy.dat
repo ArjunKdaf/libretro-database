@@ -34,7 +34,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	franchise "Tetris"
 	rom ( crc 3CCB67AE )
 )

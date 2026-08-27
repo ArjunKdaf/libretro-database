@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "A.E. (USA) (Proto)"
+	comment "A.E. (USA) (Proto 1)"
 	releaseyear "1984"
 	rom ( crc 35484751 )
 )

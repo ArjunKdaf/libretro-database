@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Beatmania for WonderSwan (Japan)"
+	comment "beatmania for WonderSwan (Japan)"
 	serial "SWJ-KNM001"
 	rom (
 		crc 324622C9
@@ -60,7 +60,7 @@ game (
 )
 
 game (
-	comment "Chocobo no Fushigi na Dungeon for WonderSwan (Japan)"
+	comment "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)"
 	serial "SWJ-BAN002"
 	rom (
 		crc CCAA4853
@@ -68,7 +68,7 @@ game (
 )
 
 game (
-	comment "Chou Aniki - Otoko no Tamafuda (Japan)"
+	comment "Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)"
 	serial "SWJ-BAN023"
 	rom (
 		crc 7FFF2520
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Chou Denki Card Battle - Youfu Makai (Japan)"
+	comment "Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)"
 	serial "SWJ-KBS002"
 	rom (
 		crc 56E2C069
@@ -108,7 +108,7 @@ game (
 )
 
 game (
-	comment "Densha de Go! (Japan)"
+	comment "Densha de Go! (Japan) (Rev 1)"
 	serial "SWJ-TAT001"
 	rom (
 		crc B62E5DD0
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Digimon Adventure - Anode Tamer (Japan)"
+	comment "Digimon Adventure - Anode Tamer (Japan) (Rev 1)"
 	serial "SWJ-BAN01C"
 	rom (
 		crc 6E9DD148
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Digimon Adventure 02 - Tag Tamers (Japan)"
+	comment "Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)"
 	serial "SWJ-BAN032"
 	rom (
 		crc 6EDEDAF8
@@ -148,7 +148,7 @@ game (
 )
 
 game (
-	comment "Digital Monster - Ver. WonderSwan (Japan)"
+	comment "Digital Monster - Ver. WonderSwan (Japan) (Rev 1)"
 	serial "SWJ-BAN005"
 	rom (
 		crc AB59DE2E
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Fire Pro Wrestling for WonderSwan (Japan)"
+	comment "Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)"
 	serial "SWJ-KGT007"
 	rom (
 		crc F246A68E
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Goraku Ou Tango! (Japan)"
+	comment "Goraku Ou Tango! (Japan) (Rev 2)"
 	serial "SWJ-PAW001"
 	rom (
 		crc 00137E86
@@ -276,7 +276,7 @@ game (
 )
 
 game (
-	comment "Hunter X Hunter - Ishi o Tsugu Mono (Japan)"
+	comment "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)"
 	serial "SWJ-BAN02A"
 	rom (
 		crc 70AA800E
@@ -284,7 +284,7 @@ game (
 )
 
 game (
-	comment "Itou Junji Uzumaki - Noroi Simulation (Japan)"
+	comment "Uzumaki - Noroi Simulation (Japan)"
 	serial "SWJ-OMM002"
 	rom (
 		crc CA3F0B00
@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "Kiss Yori... - Seaside Serenade (Japan)"
+	comment "Kiss Yori... - Seaside Serenade (Japan) (Rev 2)"
 	serial "SWJ-KDX001"
 	rom (
 		crc 3B4C60C6
@@ -324,7 +324,7 @@ game (
 )
 
 game (
-	comment "Kosodate Quiz Dokodemo - My Angel (Japan)"
+	comment "Kosodate Quiz - Dokodemo My Angel (Japan)"
 	serial "SWJ-BAN007"
 	rom (
 		crc 4C48624C
@@ -332,7 +332,7 @@ game (
 )
 
 game (
-	comment "Kyousouba Ikusei Simulation - Keiba (Japan)"
+	comment "Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)"
 	serial "SWJ-BEC001"
 	rom (
 		crc ECFBCB1D
@@ -340,7 +340,7 @@ game (
 )
 
 game (
-	comment "Langrisser Millennium WS - The Last Century (Japan)"
+	comment "Langrisser Millennium WS - The Last Century (Japan) (Rev 1)"
 	serial "SWJ-BAN024"
 	rom (
 		crc 9E0854E2
@@ -380,7 +380,7 @@ game (
 )
 
 game (
-	comment "Mahjong Touryuumon (Japan)"
+	comment "Mahjong Touryuumon (Japan) (Rev 3)"
 	serial "SWJ-SUM001"
 	rom (
 		crc E7E7FD4C
@@ -388,7 +388,7 @@ game (
 )
 
 game (
-	comment "Makai Mura for WonderSwan (Japan)"
+	comment "Makaimura for WonderSwan (Japan)"
 	serial "SWJ-BAN011"
 	rom (
 		crc 00B31FBB
@@ -436,7 +436,7 @@ game (
 )
 
 game (
-	comment "Mingle Magnet (Japan)"
+	comment "Mingle Magnet (Japan) (En,Ja) (Rev 1)"
 	serial "SWJ-HAL002"
 	rom (
 		crc 9BAAC7BB
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Nice On (Japan)"
+	comment "Nice On (Japan) (Rev 1)"
 	serial "SWJ-SUM002"
 	rom (
 		crc B5DBCF12
@@ -492,7 +492,7 @@ game (
 )
 
 game (
-	comment "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan)"
+	comment "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)"
 	serial "SWJ-KGT001"
 	rom (
 		crc 44B3E67C
@@ -524,7 +524,7 @@ game (
 )
 
 game (
-	comment "Pro Mahjong Kiwame for WonderSwan (Japan)"
+	comment "Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)"
 	serial "SWJ-ATN001"
 	rom (
 		crc 90F7E6D6
@@ -572,7 +572,7 @@ game (
 )
 
 game (
-	comment "SD Gundam - Emotional Jam (Japan)"
+	comment "SD Gundam - Emotional Jam (Japan) (Rev 3)"
 	serial "SWJ-BAN006"
 	rom (
 		crc AE83F873
@@ -636,7 +636,7 @@ game (
 )
 
 game (
-	comment "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan)"
+	comment "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)"
 	serial "SWJ-TMY001"
 	rom (
 		crc 5B76F901
@@ -676,7 +676,7 @@ game (
 )
 
 game (
-	comment "Sotsugyou for WonderSwan (Japan)"
+	comment "Sotsugyou for WonderSwan (Japan) (Rev 1)"
 	serial "SWJ-BVL002"
 	rom (
 		crc F016DFE1
@@ -692,7 +692,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Compact (Japan)"
+	comment "Super Robot Taisen Compact (Japan) (Rev 2)"
 	serial "SWJ-BPR001"
 	rom (
 		crc 7021D54F
@@ -708,7 +708,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan)"
+	comment "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)"
 	serial "SWJ-BPR006"
 	rom (
 		crc ECBB46DE
@@ -716,7 +716,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan)"
+	comment "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)"
 	serial "SWJ-BPR007"
 	rom (
 		crc 0B0F8981
@@ -732,7 +732,7 @@ game (
 )
 
 game (
-	comment "Tanjou Debut for WonderSwan (Japan)"
+	comment "Tanjou Debut for WonderSwan (Japan) (Rev 1)"
 	serial "SWJ-BVL003"
 	rom (
 		crc 8B74F59A
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan)"
+	comment "Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)"
 	serial "SWJ-BPR005"
 	rom (
 		crc 7DA6ACB9
@@ -812,7 +812,7 @@ game (
 )
 
 game (
-	comment "Uzumaki - Denshi Kaiki Hen (Japan)"
+	comment "Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)"
 	serial "SWJ-OMM001"
 	rom (
 		crc 812020EF
@@ -820,7 +820,7 @@ game (
 )
 
 game (
-	comment "Vaitz Blade (Japan)"
+	comment "Vaitz Blade (Japan) (Rev 1)"
 	serial "SWJ-BAN00C"
 	rom (
 		crc 8FC9E145
@@ -852,7 +852,7 @@ game (
 )
 
 game (
-	comment "WonderSwan Handy Sonar (Japan)"
+	comment "WonderSwan Handy Sonar (Japan) (Rev 1)"
 	serial "SWJ-BAN00F"
 	rom (
 		crc 2AB9852D

@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Bikkuriman 2000 - Viva! Pocket Festiva! (Japan)"
+	comment "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)"
 	serial "NEOP00830"
 	rom (
 		crc 7A2D7635
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Evolution - Eternal Dungeons (Europe)"
+	comment "Evolution - Eternal Dungeons (Europe) (vA1)"
 	serial "NEOP0099"
 	rom (
 		crc BE47E531
@@ -132,7 +132,7 @@ game (
 )
 
 game (
-	comment "Fantastic Night Dreams Cotton (Europe)"
+	comment "Fantastic Night Dreams - Cotton (Europe)"
 	serial "NEOP0105"
 	rom (
 		crc 1BF412F5
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Fantastic Night Dreams Cotton (Japan)"
+	comment "Fantastic Night Dreams - Cotton (Japan)"
 	serial "NEOP00800"
 	rom (
 		crc B8A12409
@@ -148,7 +148,7 @@ game (
 )
 
 game (
-	comment "Faselei! (Europe)"
+	comment "Faselei! (USA, Europe)"
 	serial "NEOP0090"
 	rom (
 		crc E705E30E
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Ganbare Neo Poke-kun (Ka) (Japan)"
+	comment "Ganbare Neo Poke-kun (Kari) (Japan)"
 	serial "NEOP00970"
 	rom (
 		crc 6DF986A3
@@ -212,7 +212,7 @@ game (
 )
 
 game (
-	comment "Koi Koi Mahjong (Japan)"
+	comment "Koi Koi Mahjong (Japan) (v0B)"
 	serial "NEOP00910"
 	rom (
 		crc B51C3EBA
@@ -292,7 +292,7 @@ game (
 )
 
 game (
-	comment "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.11)"
+	comment "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v11)"
 	serial "NEOP00151"
 	rom (
 		crc 225FD7F9
@@ -300,7 +300,7 @@ game (
 )
 
 game (
-	comment "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13)"
+	comment "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v13)"
 	serial "NEOP00151"
 	rom (
 		crc 5D028C99
@@ -308,7 +308,7 @@ game (
 )
 
 game (
-	comment "Neo Geo Cup '98 Plus (World) (En,Ja)"
+	comment "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)"
 	serial "NEOP00391"
 	rom (
 		crc C0DA4FE9
@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "Neo Mystery Bonus - Real Casino Series (World) (En,Ja)"
+	comment "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)"
 	serial "NEOP00161"
 	rom (
 		crc E79DC5B3
@@ -396,7 +396,7 @@ game (
 )
 
 game (
-	comment "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04)"
+	comment "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05)"
 	serial "NEOP00520"
 	rom (
 		crc A0C26F9B
@@ -404,7 +404,7 @@ game (
 )
 
 game (
-	comment "Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)"
+	comment "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)"
 	serial "NEOP00520"
 	rom (
 		crc 8A88C50F
@@ -412,7 +412,7 @@ game (
 )
 
 game (
-	comment "Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)"
+	comment "Pachi-Slot Aruze Oukoku - Porcano 2 (Japan)"
 	serial "NEOP01020"
 	rom (
 		crc 96DDFBE3
@@ -420,7 +420,7 @@ game (
 )
 
 game (
-	comment "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
+	comment "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03)"
 	serial "NEOP00840"
 	rom (
 		crc D46CBC54
@@ -428,7 +428,7 @@ game (
 )
 
 game (
-	comment "Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)"
+	comment "Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04)"
 	serial "NEOP00740"
 	rom (
 		crc 0A7C32DF
@@ -452,7 +452,7 @@ game (
 )
 
 game (
-	comment "Pocket Love if (Japan)"
+	comment "Pocket Love - if (Japan)"
 	serial "NEOP00440"
 	rom (
 		crc C2EE1EE5
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Puyo Pop (World) (En,Ja) (v1.05)"
+	comment "Puyo Pop (Japan) (En,Ja) (v05)"
 	serial "NEOP00411"
 	rom (
 		crc 3090B2FD
@@ -500,7 +500,7 @@ game (
 )
 
 game (
-	comment "Puzzle Link (Europe)"
+	comment "Puzzle Link (USA, Europe)"
 	serial "NEOP0054"
 	rom (
 		crc 8D0610AC

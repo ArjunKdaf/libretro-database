@@ -4,13 +4,13 @@ clrmamepro (
 )
 
 game (
-	comment "Pole Position (USA) (C10F37D8)"
+	comment "Pole Position (USA) (Alt)"
 	franchise "Pole Position"
 	rom ( crc C10F37D8 )
 )
 
 game (
-	comment "Pole Position (USA) (A00ED3D6)"
+	comment "Pole Position (USA)"
 	franchise "Pole Position"
 	rom ( crc A00ED3D6 )
 )

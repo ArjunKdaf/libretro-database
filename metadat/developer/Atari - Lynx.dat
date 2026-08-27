@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Alien vs Predator (USA) (Proto) (1993-12-17)"
+	comment "Alien vs Predator (Europe) (Proto)"
 	developer "Rebellion"
 	rom ( crc 540E9BB7 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Blue Lightning (USA, Europe)"
+	comment "Blue Lightning (World)"
 	developer "Epyx"
 	rom ( crc DAF587B1 )
 )
@@ -88,7 +88,7 @@ game (
 )
 
 game (
-	comment "California Games (USA, Europe)"
+	comment "California Games (World)"
 	developer "Epyx"
 	rom ( crc A08F0B59 )
 )
@@ -106,7 +106,7 @@ game (
 )
 
 game (
-	comment "Daemonsgate (USA) (Proto)"
+	comment "Daemon's Gate (USA) (Proto 1)"
 	developer "Imagitec Design"
 	rom ( crc 99729395 )
 )
@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Chip's Challenge (USA, Europe)"
+	comment "Chip's Challenge (World)"
 	developer "Epyx"
 	rom ( crc 6A5F53ED )
 )
@@ -130,13 +130,13 @@ game (
 )
 
 game (
-	comment "Dracula the Undead (USA, Europe)"
+	comment "Dracula - The Undead (USA, Europe)"
 	developer "Hand Made Software"
 	rom ( crc 33BB74C7 )
 )
 
 game (
-	comment "Electrocop (USA, Europe)"
+	comment "Electrocop (World)"
 	developer "Epyx"
 	rom ( crc BD97116B )
 )
@@ -160,7 +160,7 @@ game (
 )
 
 game (
-	comment "Eye of the Beholder (USA) (Proto)"
+	comment "Eye of the Beholder (USA) (Proto 1)"
 	developer "NuFX"
 	rom ( crc 6BCEAA9C )
 )
@@ -178,19 +178,19 @@ game (
 )
 
 game (
-	comment "Eye of the Beholder (USA) (Unl)"
+	comment "Eye of the Beholder (World)"
 	developer "NuFX"
 	rom ( crc F1B307CB )
 )
 
 game (
-	comment "Gates of Zendocon (USA, Europe)"
+	comment "Gates of Zendocon (World)"
 	developer "Epyx"
 	rom ( crc 494CC568 )
 )
 
 game (
-	comment "Gauntlet - The Third Encounter (USA, Europe)"
+	comment "Gauntlet - The Third Encounter (World)"
 	developer "Epyx"
 	rom ( crc 7F0EC7AD )
 )
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)"
+	comment "Gauntlet - The Third Encounter (World) (Beta)"
 	developer "Epyx"
 	rom ( crc DCD723E3 )
 )
@@ -244,13 +244,13 @@ game (
 )
 
 game (
-	comment "Klax (USA, Europe) (Beta)"
+	comment "Klax (World) (Beta 1)"
 	developer "Atari"
 	rom ( crc 4D5D94F4 )
 )
 
 game (
-	comment "Klax (USA, Europe)"
+	comment "Klax (World)"
 	developer "Atari"
 	rom ( crc A53649F1 )
 )
@@ -274,7 +274,7 @@ game (
 )
 
 game (
-	comment "Lexis (USA)"
+	comment "Lexis (World)"
 	developer "Shadowsoft"
 	rom ( crc 0271B6E9 )
 )
@@ -286,13 +286,13 @@ game (
 )
 
 game (
-	comment "Loopz (USA) (Proto) (1992-11-05)"
+	comment "Loopz (USA) (v0.06) (Proto)"
 	developer "Audiogenic Software"
 	rom ( crc B1C25EF1 )
 )
 
 game (
-	comment "Lode Runner (USA) (Proto 2)"
+	comment "Lode Runner (World) (Proto 2)"
 	developer "Kurt Olsen"
 	rom ( crc AE5AC8A9 )
 )
@@ -304,7 +304,7 @@ game (
 )
 
 game (
-	comment "Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11)"
+	comment "Malibu Bikini Volleyball (USA, Europe) (Beta)"
 	developer "Hand Made Software"
 	rom ( crc 4329084A )
 )
@@ -316,13 +316,13 @@ game (
 )
 
 game (
-	comment "Marlboro Go! (Europe) (Proto)"
+	comment "Marlboro Go! (Europe) (Proto 2)"
 	developer "Digital Image"
 	rom ( crc C3FA0D4D )
 )
 
 game (
-	comment "Ms. Pac-Man (USA, Europe)"
+	comment "Ms. Pac-Man (World)"
 	developer "Atari"
 	rom ( crc 7DE3783A )
 )
@@ -352,13 +352,13 @@ game (
 )
 
 game (
-	comment "Paperboy (USA, Europe)"
+	comment "Paperboy (World)"
 	developer "Atari"
 	rom ( crc 4CDFBD57 )
 )
 
 game (
-	comment "Pit-Fighter (USA, Europe) (Beta) (1992-10-13)"
+	comment "Pit-Fighter (USA, Europe) (Beta)"
 	developer "Atari"
 	rom ( crc E7A5A4D0 )
 )
@@ -376,13 +376,13 @@ game (
 )
 
 game (
-	comment "Raiden (USA) (Proto)"
+	comment "Raiden (USA) (Beta)"
 	developer "BlueSky Software"
 	rom ( crc BCD10C3A )
 )
 
 game (
-	comment "Rampage (USA, Europe)"
+	comment "Rampage (World)"
 	developer "Atari"
 	rom ( crc B10B7C8E )
 )
@@ -406,31 +406,31 @@ game (
 )
 
 game (
-	comment "Road Riot 4WD (USA) (Proto 1)"
+	comment "Road Riot 4WD (USA) (Proto 2)"
 	developer "Images Software"
 	rom ( crc ECCEA0D5 )
 )
 
 game (
-	comment "Road Riot 4WD (USA) (Proto 2)"
+	comment "Road Riot 4WD (USA) (Proto 3)"
 	developer "Images Software"
 	rom ( crc 82555EEB )
 )
 
 game (
-	comment "Robo-Squash (USA, Europe)"
+	comment "Robo-Squash (World)"
 	developer "Atari"
 	rom ( crc D1DFF2B2 )
 )
 
 game (
-	comment "RoadBlasters (USA, Europe)"
+	comment "RoadBlasters (World)"
 	developer "Atari"
 	rom ( crc 6867E80C )
 )
 
 game (
-	comment "Road Riot 4WD (USA) (Proto 3)"
+	comment "Road Riot 4WD (USA) (Proto 4)"
 	developer "Images Software"
 	rom ( crc 69959A3B )
 )
@@ -454,13 +454,13 @@ game (
 )
 
 game (
-	comment "Rygar (USA, Europe)"
+	comment "Rygar (World)"
 	developer "NuFX"
 	rom ( crc 67E5BDBA )
 )
 
 game (
-	comment "Shanghai (USA, Europe)"
+	comment "Shanghai (World)"
 	developer "Atari"
 	rom ( crc 192BCD04 )
 )
@@ -508,7 +508,7 @@ game (
 )
 
 game (
-	comment "Todd's Adventures in Slime World (USA, Europe)"
+	comment "Todd's Adventures in Slime World (World)"
 	developer "Epyx"
 	rom ( crc AE267E29 )
 )
@@ -550,25 +550,25 @@ game (
 )
 
 game (
-	comment "Xenophobe (USA, Europe)"
+	comment "Xenophobe (World)"
 	developer "Epyx"
 	rom ( crc 9BED736D )
 )
 
 game (
-	comment "Zaku (USA) (Unl)"
+	comment "Zaku (World)"
 	developer "PenguiNet"
 	rom ( crc 4EA845DA )
 )
 
 game (
-	comment "Zaku (USA) (Beta) (Unl)"
+	comment "Zaku (World) (Beta)"
 	developer "PenguiNet"
 	rom ( crc B3747C71 )
 )
 
 game (
-	comment "Zarlor Mercenary (USA, Europe)"
+	comment "Zarlor Mercenary (World)"
 	developer "Epyx"
 	rom ( crc CB27199D )
 )

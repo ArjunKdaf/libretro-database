@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Out of this World + Helicopter Rescue (USA)"
+	comment "Out of This World + Helicopter Rescue (USA)"
 	serial "AC9419"
 	rom (
 		crc 0C2E4811
@@ -108,7 +108,7 @@ game (
 )
 
 game (
-	comment "Power Lords (USA) (Alt 1)"
+	comment "Power Lords (USA) (Alt)"
 	serial "AC9448"
 	rom (
 		crc 3351FEDA

@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Pokemon Tetris (Europe) (En,Ja,Fr)"
+	comment "Pokemon Tetris (Europe) (En,Fr,De)"
 	franchise "Pokemon"
 	rom (
 		crc 2FB23527

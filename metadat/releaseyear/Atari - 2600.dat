@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "Actionauts (USA) (Proto) (1984-06-22)"
+	comment "Actionauts (USA) (Proto)"
 	releaseyear "1984"
 	rom ( crc CEDDF26B )
 )
@@ -34,7 +34,7 @@ game (
 )
 
 game (
-	comment "Barnstorming (Brazil) (En) (Unl)"
+	comment "Barnstorming (Brazil) (En)"
 	releaseyear "1982"
 	rom ( crc 281736D6 )
 )
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Beany Bopper (Brazil) (En) (Unl)"
+	comment "Beany Bopper (Brazil) (En)"
 	releaseyear "1982"
 	rom ( crc 624C9345 )
 )
@@ -94,7 +94,7 @@ game (
 )
 
 game (
-	comment "Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13)"
+	comment "Cabbage Patch Kids - Adventures in the Park (USA) (Proto)"
 	releaseyear "1984"
 	rom ( crc 7025D30D )
 )
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "Halo 2600 (World) (Aftermarket) (Homebrew)"
+	comment "Halo 2600 (World)"
 	releaseyear "2010"
 	rom ( crc 3978A823 )
 )
@@ -322,7 +322,7 @@ game (
 )
 
 game (
-	comment "Pitfall II - Lost Caverns (USA)"
+	comment "David Crane's Pitfall II - Lost Caverns (USA)"
 	releaseyear "1983"
 	rom ( crc 097CE7AD )
 )
@@ -346,7 +346,7 @@ game (
 )
 
 game (
-	comment "RealSports Tennis (USA)"
+	comment "RealSports Tennis (USA, Europe) (En,Fr,De,Es,It)"
 	releaseyear "1983"
 	rom ( crc 379001A0 )
 )

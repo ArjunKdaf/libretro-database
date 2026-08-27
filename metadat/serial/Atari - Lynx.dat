@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Raiden (USA) (v3.0)"
+	comment "Raiden (USA) (Beta)"
 	serial "PA2078"
 	rom (
 		crc BCD10C3A

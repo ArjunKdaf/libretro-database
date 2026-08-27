@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Battle Spirit - Digimon Frontier (Japan)"
+	comment "Battle Spirit - Digimon Frontier (Japan) (Rev 1)"
 	serial "SWJ-BANC31"
 	rom (
 		crc 8BA49DAB
@@ -60,7 +60,7 @@ game (
 )
 
 game (
-	comment "Digimon Tamers - Battle Spirit (Japan) (En,Ja)"
+	comment "Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)"
 	serial "SWJ-BANC30"
 	rom (
 		crc C927BFCB
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Digimon Tamers - Brave Tamer (Japan)"
+	comment "Digimon Tamers - Brave Tamer (Japan) (Rev 1)"
 	serial "SWJ-BANC1D"
 	rom (
 		crc F1F4D41F
@@ -108,7 +108,7 @@ game (
 )
 
 game (
-	comment "Dokodemo Hamster 3 - Odekake Saffron (Japan)"
+	comment "Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)"
 	serial "SWJ-BECC01"
 	rom (
 		crc 93E19F13
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan)"
+	comment "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)"
 	serial "SWJ-SESC01"
 	rom (
 		crc 446E2581
@@ -268,7 +268,7 @@ game (
 )
 
 game (
-	comment "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan)"
+	comment "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)"
 	serial "SWJ-SQRC06"
 	rom (
 		crc 31E09BED
@@ -332,7 +332,7 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed (Japan)"
+	comment "Kidou Senshi Gundam SEED (Japan)"
 	serial "SWJ-BANC36"
 	rom (
 		crc BCE15137
@@ -380,7 +380,7 @@ game (
 )
 
 game (
-	comment "Kurupara! (Japan)"
+	comment "Kurupara! (Japan) (Rev 1)"
 	serial "SWJ-TMCC01"
 	rom (
 		crc 274719F5
@@ -404,7 +404,7 @@ game (
 )
 
 game (
-	comment "Meitantei Conan - Yuugure no Koujo (Japan)"
+	comment "Meitantei Conan - Yuugure no Oujo (Japan)"
 	serial "SWJ-BANC0E"
 	rom (
 		crc 9F6E3F8D
@@ -492,7 +492,7 @@ game (
 )
 
 game (
-	comment "Rockman EXE - N1 Battle (Japan)"
+	comment "Rockman EXE - N1 Battle (Japan) (Rev 1)"
 	serial "SWJ-CPCC01"
 	rom (
 		crc 1F10CA75
@@ -580,7 +580,7 @@ game (
 )
 
 game (
-	comment "Shaman King - Asu e no Ishi (Japan) (v1.1)"
+	comment "Shaman King - Asu e no Ishi (Japan) (Rev 1)"
 	serial "SWJ-BANC2D"
 	rom (
 		crc 34908CB4
@@ -588,7 +588,7 @@ game (
 )
 
 game (
-	comment "Sorobang (Japan)"
+	comment "Sorobang (Japan) (Rev 1)"
 	serial "SWJ-KGTC09"
 	rom (
 		crc 0E467D97
@@ -604,7 +604,7 @@ game (
 )
 
 game (
-	comment "Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan)"
+	comment "Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale)"
 	serial "SWJ-BANC16"
 	rom (
 		crc 9874E9A2
@@ -612,7 +612,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Compact 3 (Japan) (v1.5)"
+	comment "Super Robot Taisen Compact 3 (Japan) (Rev 5)"
 	serial "SWJ-BPRC09"
 	rom (
 		crc 6918C824
@@ -620,7 +620,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Compact 3 (Japan) (v1.6)"
+	comment "Super Robot Taisen Compact 3 (Japan) (Rev 6)"
 	serial "SWJ-BPRC09"
 	rom (
 		crc 188CA644

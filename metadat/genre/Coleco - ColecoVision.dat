@@ -334,7 +334,7 @@ game (
 )
 
 game (
-	comment "Flipper Slipper (USA) (Unl)"
+	comment "Flipper Slipper (USA)"
 	genre "Action"
 	rom ( crc 9788BCA7 )
 )
@@ -1054,7 +1054,7 @@ game (
 )
 
 game (
-	comment "Zaxxon (Taiwan) (En) (Unl)"
+	comment "Zaxxon (Taiwan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 5B0E2ADF )
 )

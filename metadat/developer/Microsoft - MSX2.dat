@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Brunilda (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Brunilda (World) (v1.1)"
 	developer "RetroWorks"
 	rom ( crc 9EB9BAD0 )
 )
@@ -778,7 +778,7 @@ game (
 )
 
 game (
-	comment "Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Sword of Ianna, The (World) (En,Es) (v1.2)"
 	developer "RetroWorks"
 	rom ( crc 3E9AEB2B )
 )
@@ -808,13 +808,13 @@ game (
 )
 
 game (
-	comment "Treasure of Usas, The (Japan, Europe) (Alt)"
+	comment "Treasure of Usas, The (Japan, Europe) (En) (Alt)"
 	developer "Konami"
 	rom ( crc 1F1F1F26 )
 )
 
 game (
-	comment "Treasure of Usas, The (Japan, Europe)"
+	comment "Treasure of Usas, The (Japan, Europe) (En)"
 	developer "Konami"
 	rom ( crc 30396650 )
 )
@@ -844,25 +844,25 @@ game (
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt 3)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt 3)"
 	developer "Konami"
 	rom ( crc 217935D0 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt)"
 	developer "Konami"
 	rom ( crc 0AEDEA40 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe)"
+	comment "Vampire Killer (Japan, Europe) (En)"
 	developer "Konami"
 	rom ( crc 5953D084 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt 2)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt 2)"
 	developer "Konami"
 	rom ( crc 038C250D )
 )

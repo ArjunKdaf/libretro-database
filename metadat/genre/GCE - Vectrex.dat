@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Armor..Attack (World)"
+	comment "Armor Attack (World)"
 	genre "Shooter"
 	rom ( crc B7510971 )
 )
@@ -52,19 +52,19 @@ game (
 )
 
 game (
-	comment "Blitz! - Action Football (USA, Europe) (0F11CE0C)"
+	comment "Blitz! - Action Football (World)"
 	genre "Sports"
 	rom ( crc 0F11CE0C )
 )
 
 game (
-	comment "Bedlam (USA, Europe)"
+	comment "Bedlam (World)"
 	genre "Shooter"
 	rom ( crc A2FA649B )
 )
 
 game (
-	comment "Berzerk (World)"
+	comment "Berzerk (USA)"
 	genre "Action"
 	rom ( crc EAFE2455 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Blitz! - Action Football (USA, Europe) (881B27C5)"
+	comment "Blitz! - Action Football (World) (Alt)"
 	genre "Sports"
 	rom ( crc 881B27C5 )
 )
@@ -94,7 +94,7 @@ game (
 )
 
 game (
-	comment "Heads-Up - Action Soccer (USA)"
+	comment "Heads-Up - Action Soccer (World)"
 	genre "Sports"
 	rom ( crc E61A7DE3 )
 )
@@ -112,7 +112,7 @@ game (
 )
 
 game (
-	comment "Fortress of Narzod (USA, Europe)"
+	comment "Fortress of Narzod (USA)"
 	genre "Shooter"
 	rom ( crc 13A35C8A )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (C10F37D8)"
+	comment "Pole Position (USA) (Alt)"
 	genre "Racing"
 	rom ( crc C10F37D8 )
 )
@@ -166,7 +166,7 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (A00ED3D6)"
+	comment "Pole Position (USA)"
 	genre "Racing"
 	rom ( crc A00ED3D6 )
 )
@@ -196,19 +196,19 @@ game (
 )
 
 game (
-	comment "Scramble (USA, Europe)"
+	comment "Scramble (World)"
 	genre "Shooter"
 	rom ( crc 707C8FFE )
 )
 
 game (
-	comment "Spike (USA, Europe)"
+	comment "Spike (World)"
 	genre "Platform"
 	rom ( crc 62A61843 )
 )
 
 game (
-	comment "Spin ball (USA)"
+	comment "Spinball (World)"
 	genre "Pinball"
 	rom ( crc 02F41733 )
 )
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "WebWars (USA)"
+	comment "WebWars (World)"
 	genre "Shooter"
 	rom ( crc 2EE20103 )
 )

@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Armor..Attack (World)"
+	comment "Armor Attack (World)"
 	publisher "GCE"
 	rom ( crc B7510971 )
 )
@@ -52,19 +52,19 @@ game (
 )
 
 game (
-	comment "Blitz! - Action Football (USA, Europe) (0F11CE0C)"
+	comment "Blitz! - Action Football (World)"
 	publisher "GCE"
 	rom ( crc 0F11CE0C )
 )
 
 game (
-	comment "Bedlam (USA, Europe)"
+	comment "Bedlam (World)"
 	publisher "Milton Bradley Co."
 	rom ( crc A2FA649B )
 )
 
 game (
-	comment "Berzerk (World)"
+	comment "Berzerk (USA)"
 	publisher "GCE"
 	rom ( crc EAFE2455 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Blitz! - Action Football (USA, Europe) (881B27C5)"
+	comment "Blitz! - Action Football (World) (Alt)"
 	publisher "GCE"
 	rom ( crc 881B27C5 )
 )
@@ -94,7 +94,7 @@ game (
 )
 
 game (
-	comment "Heads-Up - Action Soccer (USA)"
+	comment "Heads-Up - Action Soccer (World)"
 	publisher "Milton Bradley Co."
 	rom ( crc E61A7DE3 )
 )
@@ -112,7 +112,7 @@ game (
 )
 
 game (
-	comment "Fortress of Narzod (USA, Europe)"
+	comment "Fortress of Narzod (USA)"
 	publisher "GCE"
 	rom ( crc 13A35C8A )
 )
@@ -154,13 +154,13 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (C10F37D8)"
+	comment "Pole Position (USA) (Alt)"
 	publisher "GCE"
 	rom ( crc C10F37D8 )
 )
 
 game (
-	comment "Mr. Boston Clean Sweep (Europe)"
+	comment "Mr. Boston - Clean Sweep (USA)"
 	publisher "GCE"
 	rom ( crc BD4DA4C2 )
 )
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (A00ED3D6)"
+	comment "Pole Position (USA)"
 	publisher "GCE"
 	rom ( crc A00ED3D6 )
 )
@@ -202,19 +202,19 @@ game (
 )
 
 game (
-	comment "Scramble (USA, Europe)"
+	comment "Scramble (World)"
 	publisher "GCE"
 	rom ( crc 707C8FFE )
 )
 
 game (
-	comment "Spike (USA, Europe)"
+	comment "Spike (World)"
 	publisher "GCE"
 	rom ( crc 62A61843 )
 )
 
 game (
-	comment "Spin ball (USA)"
+	comment "Spinball (World)"
 	publisher "GCE"
 	rom ( crc 02F41733 )
 )
@@ -250,7 +250,7 @@ game (
 )
 
 game (
-	comment "WebWars (USA)"
+	comment "WebWars (World)"
 	publisher "GCE"
 	rom ( crc 2EE20103 )
 )

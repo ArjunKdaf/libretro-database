@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "Alien (Brazil) (En) (Unl)"
+	comment "Alien (Brazil) (En)"
 	franchise "Alien"
 	rom ( crc E61021EC )
 )

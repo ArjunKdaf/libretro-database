@@ -424,7 +424,7 @@ game (
 )
 
 game (
-	comment "Block Hole (Korea) (Unl)"
+	comment "Block Hole (Korea)"
 	users 2
 	rom ( crc 824AE486 )
 )
@@ -508,13 +508,13 @@ game (
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl)"
+	comment "Brother Adventure (Korea)"
 	users 2
 	rom ( crc 3CA757D0 )
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl) (Alt)"
+	comment "Brother Adventure (Korea) (Alt)"
 	users 2
 	rom ( crc FE0A902C )
 )
@@ -526,13 +526,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl)"
+	comment "Bubble Bobble (Korea)"
 	users 2
 	rom ( crc 6D1B1EE1 )
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl) (Alt)"
+	comment "Bubble Bobble (Korea) (Alt)"
 	users 2
 	rom ( crc 0BC2C4AC )
 )
@@ -736,7 +736,7 @@ game (
 )
 
 game (
-	comment "Circus Charlie (Japan) (Wii U Virtual Console)"
+	comment "Circus Charlie (Japan) (En) (Wii U Virtual Console)"
 	users 2
 	rom ( crc 83B8D8F3 )
 )
@@ -898,7 +898,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Korea) (Unl)"
+	comment "Double Dragon (Korea)"
 	users 1
 	rom ( crc C70E3A34 )
 )
@@ -1066,7 +1066,7 @@ game (
 )
 
 game (
-	comment "Fa Tetris (Korea) (Unl)"
+	comment "Fa Tetris (Korea)"
 	users 1
 	rom ( crc 1EC87E3A )
 )
@@ -3136,19 +3136,19 @@ game (
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (Unl)"
+	comment "Super Bubble Bobble (Korea)"
 	users 2
 	rom ( crc 37B5D39B )
 )
 
 game (
-	comment "Super Boy I (Korea) (Unl)"
+	comment "Super Boy I (Korea)"
 	users 1
 	rom ( crc 13B34548 )
 )
 
 game (
-	comment "Super Boy II (Korea) (Unl)"
+	comment "Super Boy II (Korea)"
 	users 1
 	rom ( crc 09206BFD )
 )
@@ -3286,7 +3286,7 @@ game (
 )
 
 game (
-	comment "Tetris (Korea) (Unl)"
+	comment "Tetris (Korea)"
 	users 2
 	rom ( crc ADCB026D )
 )

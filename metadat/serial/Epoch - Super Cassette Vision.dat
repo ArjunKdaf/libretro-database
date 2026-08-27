@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Astro Wars - Invaders from Space (Japan)"
+	comment "Astro Wars - Invaders from Space (Japan, France) (En)"
 	serial "1 NO.09070"
 	rom (
 		crc 2DBDB166
@@ -12,7 +12,7 @@ game (
 )
 
 game (
-	comment "Astro Wars II - Battle in Galaxy (Japan)"
+	comment "Astro Wars II - Battle in Galaxy (Japan) (En)"
 	serial "2 NO.09080"
 	rom (
 		crc 34781DE1
@@ -20,7 +20,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (Japan)"
+	comment "Boulder Dash (Japan) (En)"
 	serial "11 NO.09160"
 	rom (
 		crc E045884C
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Comic Circus (Japan)"
+	comment "Comic Circus (Japan) (En)"
 	serial "14 NO.09170"
 	rom (
 		crc EA55FAED
@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "Doraemon (Japan)"
+	comment "Doraemon (Japan) (En)"
 	serial "22 NO.09290"
 	rom (
 		crc D2DE91A6
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Elevator Fight (Japan)"
+	comment "Elevator Fight (Japan) (En)"
 	serial "7 NO.09110"
 	rom (
 		crc 72DD6031
@@ -68,7 +68,7 @@ game (
 )
 
 game (
-	comment "Kung Fu Road (Japan)"
+	comment "Kung Fu Road (Japan) (En)"
 	serial "17 NO.09230"
 	rom (
 		crc A895375A
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Milky Princess (Japan)"
+	comment "Milky Princess (Japan) (En)"
 	serial "15 NO.09180"
 	rom (
 		crc B2457990
@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Miner 2049er (Japan)"
+	comment "Miner 2049er (Japan) (En)"
 	serial "12 NO.09150"
 	rom (
 		crc B0FFC6E2
@@ -92,7 +92,7 @@ game (
 )
 
 game (
-	comment "Nebula (Japan)"
+	comment "Nebula (Japan) (En)"
 	serial "9 NO.09130"
 	rom (
 		crc 5E6A4CAF
@@ -100,7 +100,7 @@ game (
 )
 
 game (
-	comment "Nebula (Japan) (Alt 1)"
+	comment "Nebula (Japan) (En) (Alt)"
 	serial "9 NO.09130"
 	rom (
 		crc EFB4BDCD
@@ -108,7 +108,7 @@ game (
 )
 
 game (
-	comment "Pole Position II (Japan)"
+	comment "Pole Position II (Japan) (En)"
 	serial "30 NO.09360"
 	rom (
 		crc CB69903D
@@ -116,7 +116,7 @@ game (
 )
 
 game (
-	comment "Pop & Chips (Japan)"
+	comment "Pop & Chips (Japan) (En)"
 	serial "16 NO.09220"
 	rom (
 		crc CC4FB04D
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Punch Boy (Japan)"
+	comment "Punch Boy (Japan) (En)"
 	serial "6 NO.09100"
 	rom (
 		crc 4107F03A
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Super Baseball (Japan)"
+	comment "Super Baseball (Japan) (En)"
 	serial "5 NO.09090 NO.09091"
 	rom (
 		crc 56F1C473
@@ -148,7 +148,7 @@ game (
 )
 
 game (
-	comment "Super Golf (Japan)"
+	comment "Super Golf (Japan) (En)"
 	serial "3 NO.09050"
 	rom (
 		crc 0C0581C9
@@ -156,7 +156,7 @@ game (
 )
 
 game (
-	comment "Super Soccer (Japan)"
+	comment "Super Soccer (Japan) (En)"
 	serial "13 NO.09190"
 	rom (
 		crc 590EEEFD
@@ -164,7 +164,7 @@ game (
 )
 
 game (
-	comment "Ton Ton Ball (Japan)"
+	comment "Ton Ton Ball (Japan) (En)"
 	serial "18 NO.09250"
 	rom (
 		crc 7F873BFA
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Wheelie Racer (Japan)"
+	comment "Wheelie Racer (Japan, France) (En)"
 	serial "10 NO.09140"
 	rom (
 		crc 9D9B29DB

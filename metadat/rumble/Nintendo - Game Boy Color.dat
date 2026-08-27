@@ -21,19 +21,19 @@ game (
 )
 
 game (
-	comment "Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 9EBDB6C6 )
 )
 
 game (
-	comment "Hole In One Golf (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 27A53965 )
 )
 
 game (
-	comment "Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc F0B09DDB )
 )
@@ -69,19 +69,19 @@ game (
 )
 
 game (
-	comment "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 39C432A4 )
 )
 
 game (
-	comment "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 13C70DE9 )
 )
 
 game (
-	comment "Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 03CE8D9A )
 )
@@ -117,7 +117,7 @@ game (
 )
 
 game (
-	comment "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	rumble 1
 	rom ( crc 0FDD5B9E )
 )
@@ -129,7 +129,7 @@ game (
 )
 
 game (
-	comment "Top Gear Pocket (Japan) (Rumble Version)"
+	comment "Top Gear Pocket (Japan) (En) (Rumble Version)"
 	rumble 1
 	rom ( crc EBCCA3DA )
 )

@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed (Japan)"
+	comment "Kidou Senshi Gundam SEED (Japan)"
 	franchise "Gundam Seed"
 	rom ( crc BCE15137 )
 )

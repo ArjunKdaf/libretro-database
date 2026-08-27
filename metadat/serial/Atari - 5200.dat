@@ -276,7 +276,7 @@ game (
 )
 
 game (
-	comment "Montezuma's Revenge featuring Panama Joe (USA)"
+	comment "Montezuma's Revenge - Featuring Panama Joe (USA)"
 	serial "9460"
 	rom (
 		crc 2A640143
@@ -388,7 +388,7 @@ game (
 )
 
 game (
-	comment "RealSports Basketball (USA)"
+	comment "RealSports Basketball (USA) (Proto)"
 	serial "CX5219"
 	rom (
 		crc DD217276

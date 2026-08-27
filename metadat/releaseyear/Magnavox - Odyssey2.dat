@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "Comando Noturno (Brazil)"
+	comment "Comando Noturno (Brazil) (En)"
 	releaseyear "1985"
 	rom (
 		crc 26517E77
@@ -92,7 +92,7 @@ game (
 )
 
 game (
-	comment "Jumping Acrobats (Europe) (Alt 1)"
+	comment "Jumping Acrobats (Europe) (Alt)"
 	releaseyear "1981"
 	rom (
 		crc E7B26A56
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Out of this World + Helicopter Rescue (USA)"
+	comment "Out of This World + Helicopter Rescue (USA)"
 	releaseyear "1979"
 	rom (
 		crc 0C2E4811
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Power Lords (USA) (Alt 1)"
+	comment "Power Lords (USA) (Alt)"
 	releaseyear "1983"
 	rom (
 		crc 3351FEDA

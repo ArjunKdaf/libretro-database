@@ -322,7 +322,7 @@ game (
 )
 
 game (
-	comment "Evolution (USA) (Unl)"
+	comment "Evolution (USA)"
 	users 1
 	rom ( crc 4C933007 )
 )
@@ -346,7 +346,7 @@ game (
 )
 
 game (
-	comment "Flipper Slipper (USA) (Unl)"
+	comment "Flipper Slipper (USA)"
 	users 1
 	rom ( crc 9788BCA7 )
 )
@@ -1066,7 +1066,7 @@ game (
 )
 
 game (
-	comment "Zaxxon (Taiwan) (En) (Unl)"
+	comment "Zaxxon (Taiwan) (En)"
 	users 2
 	rom ( crc 5B0E2ADF )
 )

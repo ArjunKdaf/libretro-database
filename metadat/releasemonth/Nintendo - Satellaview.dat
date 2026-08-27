@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Albert Odyssey (Japan)"
+	comment "Albert Odyssey (Japan) (5-31)"
 	releasemonth "3"
 	rom ( crc 0E89FA41 )
 )
@@ -40,7 +40,7 @@ game (
 )
 
 game (
-	comment "Bakushow Mondai no Silicon Chounaikai (Japan) (6-22) (SoundLink Magazine) [b]"
+	comment "Bakushow Mondai no Silicon Chounaikai (Japan) (SoundLink Magazine)"
 	releasemonth "4"
 	rom ( crc B86E7AB1 )
 )
@@ -70,7 +70,7 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink)"
 	releasemonth "12"
 	rom ( crc 8FCC8355 )
 )
@@ -82,19 +82,19 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink)"
 	releasemonth "12"
 	rom ( crc 7442AD93 )
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)"
 	releasemonth "9"
 	rom ( crc 3D3EB686 )
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink)"
 	releasemonth "9"
 	rom ( crc FCAAFE47 )
 )
@@ -112,19 +112,19 @@ game (
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink)"
 	releasemonth "11"
 	rom ( crc F5357704 )
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink)"
 	releasemonth "11"
 	rom ( crc 6B90C767 )
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink)"
 	releasemonth "11"
 	rom ( crc 2B87DBAA )
 )
@@ -136,25 +136,25 @@ game (
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink)"
 	releasemonth "11"
 	rom ( crc 6986937E )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink)"
 	releasemonth "1"
 	rom ( crc 27D62709 )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink)"
 	releasemonth "1"
 	rom ( crc 5A88E3FB )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink)"
 	releasemonth "1"
 	rom ( crc FBA7789E )
 )
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "BS Shin Onigashima - Dai-1-wa (Japan) (SoundLink)"
+	comment "BS Shin Onigashima - Dai-1-wa (Japan) (1-11) (SoundLink)"
 	releasemonth "9"
 	rom ( crc 654EC9B9 )
 )
@@ -250,7 +250,7 @@ game (
 )
 
 game (
-	comment "BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-14)"
+	comment "BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-14) (SoundLink)"
 	releasemonth "2"
 	rom ( crc E64EA557 )
 )
@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "Cock-A-Doodle-Do (Japan)"
+	comment "Cock-A-Doodle-Do (Japan) (4-27) (Data Pack)"
 	releasemonth "4"
 	rom ( crc 2E831A4D )
 )
@@ -334,13 +334,13 @@ game (
 )
 
 game (
-	comment "Dokapon Gaiden - Honoo no Audition (Japan)"
+	comment "Dokapon Gaiden - Honoo no Audition (Japan) (5-19)"
 	releasemonth "2"
 	rom ( crc C436031E )
 )
 
 game (
-	comment "Dragon Slayer - Eiyuu Densetsu (Japan)"
+	comment "Dragon Slayer - Eiyuu Densetsu (Japan) (5-14)"
 	releasemonth "8"
 	rom ( crc CACBEB09 )
 )
@@ -352,13 +352,13 @@ game (
 )
 
 game (
-	comment "F-Zero (Japan)"
+	comment "F-Zero (Japan) (7-10)"
 	releasemonth "12"
 	rom ( crc 689130B5 )
 )
 
 game (
-	comment "Firemen, The (Japan)"
+	comment "Firemen, The (Japan) (2-9)"
 	releasemonth "2"
 	rom ( crc 927BA7C2 )
 )
@@ -400,7 +400,7 @@ game (
 )
 
 game (
-	comment "Golf Daisuki! O.B. Club (Japan)"
+	comment "Golf Daisuki! O.B. Club (Japan) (4-6)"
 	releasemonth "8"
 	rom ( crc FB1A2E4D )
 )
@@ -412,7 +412,7 @@ game (
 )
 
 game (
-	comment "Ikari no Yousai (Japan)"
+	comment "Ikari no Yousai (Japan) (7-5)"
 	releasemonth "2"
 	rom ( crc 721BC7CA )
 )
@@ -424,13 +424,13 @@ game (
 )
 
 game (
-	comment "Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink) [b]"
+	comment "Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink)"
 	releasemonth "9"
 	rom ( crc 85EBB7CC )
 )
 
 game (
-	comment "Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (SoundLink) [b]"
+	comment "Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (SoundLink)"
 	releasemonth "9"
 	rom ( crc 188C9ACB )
 )
@@ -448,7 +448,7 @@ game (
 )
 
 game (
-	comment "Let's Pachinko Nante Gindama 1 (Japan)"
+	comment "Let's Pachinko Nante Gindama 1 (Japan) (10-1)"
 	releasemonth "2"
 	rom ( crc 0472ABB6 )
 )
@@ -472,7 +472,7 @@ game (
 )
 
 game (
-	comment "Date: 11-24"
+	comment "Let's Pachinko Nante Gindama 4 (Japan) (11-24)"
 	releasemonth "2"
 	rom ( crc AA934596 )
 )
@@ -490,19 +490,19 @@ game (
 )
 
 game (
-	comment "Lord Monarch (Japan)"
+	comment "Lord Monarch (Japan) (6-1)"
 	releasemonth "12"
 	rom ( crc D3DEDFCC )
 )
 
 game (
-	comment "Date: 6-4"
+	comment "Mario Paint - BS Ban (Japan) (6-4)"
 	releasemonth "8"
 	rom ( crc 38830419 )
 )
 
 game (
-	comment "Nintama Rantarou 2 (Japan)"
+	comment "Nintama Rantarou 2 (Japan) (3-15)"
 	releasemonth "3"
 	rom ( crc 280E9777 )
 )
@@ -514,13 +514,13 @@ game (
 )
 
 game (
-	comment "Panel de Pon - Event '98 (Japan) (12-28)"
+	comment "Panel de Pon - Event '98 (Japan)"
 	releasemonth "12"
 	rom ( crc 720A850C )
 )
 
 game (
-	comment "Panel de Pon - Event '98 (Japan) (1-11)"
+	comment "Panel de Pon - Event '98 (Japan)"
 	releasemonth "12"
 	rom ( crc 725BF3AF )
 )
@@ -544,7 +544,7 @@ game (
 )
 
 game (
-	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)"
+	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink)"
 	releasemonth "3"
 	rom ( crc 5EA2B6BB )
 )
@@ -556,7 +556,7 @@ game (
 )
 
 game (
-	comment "Special Tee Shot (Japan)"
+	comment "Special Tee Shot (Japan) (En) (12-30)"
 	releasemonth "4"
 	rom ( crc 841C8EB9 )
 )
@@ -568,13 +568,13 @@ game (
 )
 
 game (
-	comment "Super Mahjong Taikai (Japan)"
+	comment "Super Mahjong Taikai (Japan) (5-27)"
 	releasemonth "6"
 	rom ( crc 881A70FD )
 )
 
 game (
-	comment "Super Ninja-kun (Japan)"
+	comment "Super Ninja-kun (Japan) (6-1)"
 	releasemonth "6"
 	rom ( crc 52A63EA3 )
 )

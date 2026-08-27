@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink)"
 	franchise "F-Zero"
 	rom ( crc 8FCC8355 )
 )
@@ -46,7 +46,7 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink)"
 	franchise "F-Zero"
 	rom ( crc 7442AD93 )
 )
@@ -58,13 +58,13 @@ game (
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)"
 	franchise "Fire Emblem"
 	rom ( crc 3D3EB686 )
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink)"
 	franchise "Fire Emblem"
 	rom ( crc FCAAFE47 )
 )
@@ -190,19 +190,19 @@ game (
 )
 
 game (
-	comment "DerbyStal 96 - Taiou 97-nendo Ban (Japan) (Data Pack)"
+	comment "DerbyStal 96 - Taiou 97-nendo Ban (Japan) (11-24) (Data Pack)"
 	franchise "Derby Stallion"
 	rom ( crc 1C19967C )
 )
 
 game (
-	comment "Dragon Slayer - Eiyuu Densetsu (Japan)"
+	comment "Dragon Slayer - Eiyuu Densetsu (Japan) (5-14)"
 	franchise "Dragon Slayer"
 	rom ( crc CACBEB09 )
 )
 
 game (
-	comment "F-Zero (Japan)"
+	comment "F-Zero (Japan) (7-10)"
 	franchise "F-Zero"
 	rom ( crc 689130B5 )
 )
@@ -262,7 +262,7 @@ game (
 )
 
 game (
-	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)"
+	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink)"
 	franchise "The Legend of Zelda"
 	rom ( crc 5EA2B6BB )
 )
@@ -274,7 +274,7 @@ game (
 )
 
 game (
-	comment "Shanghai - Banri no Choujou (Japan)"
+	comment "Shanghai - Banri no Choujou (Japan) (5-27)"
 	franchise "Shanghai"
 	rom ( crc BD681869 )
 )
@@ -286,7 +286,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman 2 (Japan)"
+	comment "Super Bomberman 2 (Japan) (En) (8-17)"
 	franchise "Bomberman"
 	rom ( crc 095F2969 )
 )
@@ -298,7 +298,7 @@ game (
 )
 
 game (
-	comment "Super Nazo Puyo - Rulue no Roux (Japan)"
+	comment "Super Nazo Puyo - Rulue no Roux (Japan) (4-4)"
 	franchise "Puyo Puyo"
 	rom ( crc 6B36B2AF )
 )
@@ -310,13 +310,13 @@ game (
 )
 
 game (
-	comment "Super Puyo Puyo (Japan)"
+	comment "Super Puyo Puyo (Japan) (11-3)"
 	franchise "Puyo Puyo"
 	rom ( crc F12266BC )
 )
 
 game (
-	comment "Super Puyo Puyo Tsuu BS Ban (Japan)"
+	comment "Super Puyo Puyo Tsuu BS Ban (Japan) (11-30)"
 	franchise "Puyo Puyo"
 	rom ( crc E63EE3B1 )
 )

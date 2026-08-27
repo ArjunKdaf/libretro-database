@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.0)"
 	esrb_rating "KA"
 	rom ( crc 7BAF43B0 )
 )
@@ -22,7 +22,7 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.1)"
 	esrb_rating "KA"
 	rom ( crc 450FEAB5 )
 )
@@ -46,7 +46,7 @@ game (
 )
 
 game (
-	comment "Insmouth no Yakata (Japan)"
+	comment "Innsmouth no Yakata (Japan)"
 	esrb_rating "T"
 	rom ( crc 83CB6A00 )
 )

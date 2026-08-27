@@ -60,7 +60,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (USA)"
+	comment "Boulder Dash (USA) (Beta)"
 	serial "TC-203"
 	rom (
 		crc 1796DE5E
@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Cosmic Crisis (USA)"
+	comment "Cosmic Crisis (Europe)"
 	serial "PG901"
 	rom (
 		crc 7C2C7C41
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "H.E.R.O (USA)"
+	comment "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)"
 	serial "VS-005"
 	rom (
 		crc 685AB9B5
@@ -260,7 +260,7 @@ game (
 )
 
 game (
-	comment "Jumpman Junior (USA)"
+	comment "Jumpman Junior (USA, Europe)"
 	serial "590"
 	rom (
 		crc 060C69E8
@@ -340,7 +340,7 @@ game (
 )
 
 game (
-	comment "Motocross Racer (USA) (Alt 1)"
+	comment "Motocross Racer (USA)"
 	serial "99026"
 	rom (
 		crc 0F4D800A
@@ -356,7 +356,7 @@ game (
 )
 
 game (
-	comment "Mountain King (USA) (Alt 1)"
+	comment "Mountain King (USA)"
 	serial "1605"
 	rom (
 		crc C173BBEC
@@ -452,7 +452,7 @@ game (
 )
 
 game (
-	comment "Quest for Quintana Roo (USA) (Alt 1)"
+	comment "Quest for Quintana Roo (USA)"
 	serial "1603"
 	rom (
 		crc EEC81C42
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Rock 'N' Bolt (USA) (Alt 1)"
+	comment "Rock n' Bolt (USA)"
 	serial "TC-202"
 	rom (
 		crc AF49A0C3
@@ -532,7 +532,7 @@ game (
 )
 
 game (
-	comment "Slither (USA)"
+	comment "Slither (USA, Europe)"
 	serial "2492"
 	rom (
 		crc 53D2651C
@@ -564,7 +564,7 @@ game (
 )
 
 game (
-	comment "Star Wars (USA)"
+	comment "Star Wars - The Arcade Game (USA)"
 	serial "9940"
 	rom (
 		crc 0E75B3BF
@@ -580,7 +580,7 @@ game (
 )
 
 game (
-	comment "Super Cobra (USA) (Alt 1)"
+	comment "Super Cobra (USA)"
 	serial "9850"
 	rom (
 		crc F84622D2
@@ -620,7 +620,7 @@ game (
 )
 
 game (
-	comment "Up 'N Down (USA)"
+	comment "Up 'n Down (USA)"
 	serial "009-21"
 	rom (
 		crc FDD52CA0
@@ -644,7 +644,7 @@ game (
 )
 
 game (
-	comment "Wizard of Id's Wizmath (USA)"
+	comment "Wizard of Id's - WizMath (USA)"
 	serial "WML-900"
 	rom (
 		crc B9BA2BB6

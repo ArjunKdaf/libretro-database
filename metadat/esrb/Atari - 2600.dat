@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "32 in 1 Game Cartridge (Europe)"
+	comment "32 in 1 Game Cartridge (Europe, Australia)"
 	esrb_rating "E"
 	rom ( crc EAEF28EA )
 )
@@ -64,19 +64,19 @@ game (
 )
 
 game (
-	comment "Alien (Brazil) (En) (Unl)"
+	comment "Alien (Brazil) (En)"
 	esrb_rating "E"
 	rom ( crc E61021EC )
 )
 
 game (
-	comment "Alpha Beam (Japan, USA) (En) (Beta) (1982-12-22)"
+	comment "Alpha Beam (Japan, USA) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc 85F1CB08 )
 )
 
 game (
-	comment "Alpha Beam (Europe) (Beta) (1983-06-03)"
+	comment "Alpha Beam (Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc 1651F45E )
 )
@@ -88,7 +88,7 @@ game (
 )
 
 game (
-	comment "Alpha Beam with Ernie (Europe)"
+	comment "Alpha Beam with Ernie (Europe) (Alt)"
 	esrb_rating "E"
 	rom ( crc D1ED3112 )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Asteroids (USA) (Atari Anthology)"
+	comment "Asteroids (USA)"
 	esrb_rating "E"
 	rom ( crc 70A59647 )
 )
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "Battlezone (Japan, USA) (En) (Beta) (1983-05-02)"
+	comment "Battlezone (Japan, USA) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc C1E6D7CF )
 )
@@ -214,7 +214,7 @@ game (
 )
 
 game (
-	comment "Battlezone (Japan, USA) (En) (Beta) (1983-05-12)"
+	comment "Battlezone (Japan, USA) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc 63F31AF6 )
 )
@@ -550,7 +550,7 @@ game (
 )
 
 game (
-	comment "RealSports Baseball (USA)"
+	comment "RealSports Baseball (USA, Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc 3C5A1B5F )
 )

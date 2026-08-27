@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Astro Wars - Invaders from Space (Japan, France)"
+	comment "Astro Wars - Invaders from Space (Japan, France) (En)"
 	esrb_rating "KA"
 	rom ( crc 2DBDB166 )
 )
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (France)"
+	comment "Boulder Dash (France) (En)"
 	esrb_rating "E"
 	rom ( crc 5DB59007 )
 )

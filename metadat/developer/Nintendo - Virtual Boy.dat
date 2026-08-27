@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.0)"
 	developer "Christian Radke (KR155E)"
 	rom ( crc 7BAF43B0 )
 )
@@ -28,37 +28,37 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.1)"
 	developer "Christian Radke (KR155E)"
 	rom ( crc 450FEAB5 )
 )
 
 game (
-	comment "Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)"
+	comment "Capitan Sevilla 2 (World) (Es)"
 	developer "Hi Score"
 	rom ( crc F18001F0 )
 )
 
 game (
-	comment "Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	developer "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	developer "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	developer "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	developer "ThunderStruck"
 	rom ( crc B5977E82 )
 )
@@ -76,13 +76,13 @@ game (
 )
 
 game (
-	comment "Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	developer "M.K., Mr. Anon"
 	rom ( crc 4450EDE0 )
 )
 
 game (
-	comment "Hyper Fighting (World) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	developer "M.K., Mr. Anon"
 	rom ( crc 4450EDE0 )
 )
@@ -94,13 +94,13 @@ game (
 )
 
 game (
-	comment "Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)"
+	comment "Mario Kart - Virtual Cup (World)"
 	developer "DogP"
 	rom ( crc 27988AB9 )
 )
 
 game (
-	comment "Insmouth no Yakata (Japan)"
+	comment "Innsmouth no Yakata (Japan)"
 	developer "Betop"
 	rom ( crc 83CB6A00 )
 )
@@ -166,43 +166,43 @@ game (
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	developer "Matej Horvat"
 	rom ( crc 3A2E0413 )
 )
@@ -250,7 +250,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	developer "Locomotive Corporation"
 	rom ( crc 3CCB67AE )
 )
@@ -268,7 +268,7 @@ game (
 )
 
 game (
-	comment "Virtual Bowling (Japan)"
+	comment "Virtual Bowling (Japan) (En)"
 	developer "Athena"
 	rom ( crc 20688279 )
 )

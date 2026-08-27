@@ -237,13 +237,13 @@ game (
 )
 
 game (
-	comment "Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)"
+	comment "Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)"
 	rumble 1
 	rom ( crc BA6BBC4C )
 )
 
 game (
-	comment "Mahjong Fight Club DS - Wi-Fi Taiou (Japan)"
+	comment "Wi-Fi Taiou - Mahjong Fight Club DS (Japan)"
 	rumble 1
 	rom ( crc 4F3EA785 )
 )
@@ -309,7 +309,7 @@ game (
 )
 
 game (
-	comment "Metroid Prime - Hunters (USA)"
+	comment "Metroid Prime - Hunters (USA, Australia)"
 	rumble 1
 	rom ( crc 7FE4554A )
 )
@@ -459,13 +459,13 @@ game (
 )
 
 game (
-	comment "Sega Superstars Tennis (Europe) (En,Fr,De,Es,It)"
+	comment "SEGA Superstars Tennis (Europe) (En,Fr,De,Es,It)"
 	rumble 1
 	rom ( crc 8B1362E2 )
 )
 
 game (
-	comment "Sega Superstars Tennis (USA) (En,Fr,De,Es,It)"
+	comment "SEGA Superstars Tennis (USA) (En,Fr,De,Es,It)"
 	rumble 1
 	rom ( crc 37688131 )
 )
@@ -501,7 +501,7 @@ game (
 )
 
 game (
-	comment "Star Fox Command (USA)"
+	comment "Star Fox Command (USA, Australia)"
 	rumble 1
 	rom ( crc 89883212 )
 )
@@ -627,13 +627,13 @@ game (
 )
 
 game (
-	comment "WWE SmackDown dae Raw 2008 featuring ECW (Korea)"
+	comment "WWE SmackDown dae Raw 2008 Featuring ECW (Korea)"
 	rumble 1
 	rom ( crc D27BCC56 )
 )
 
 game (
-	comment "WWE SmackDown vs Raw 2008 featuring ECW (Europe)"
+	comment "WWE SmackDown vs Raw 2008 Featuring ECW (United Kingdom)"
 	rumble 1
 	rom ( crc F2CF4C15 )
 )
@@ -645,7 +645,7 @@ game (
 )
 
 game (
-	comment "WWE SmackDown vs Raw 2008 featuring ECW (USA)"
+	comment "WWE SmackDown vs Raw 2008 Featuring ECW (USA)"
 	rumble 1
 	rom ( crc 2A92F69B )
 )

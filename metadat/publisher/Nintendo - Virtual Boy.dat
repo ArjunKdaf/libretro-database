@@ -16,25 +16,25 @@ game (
 )
 
 game (
-	comment "Fishbone (World) (Demo 2) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	publisher "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Demo 3) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	publisher "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	publisher "ThunderStruck"
 	rom ( crc B5977E82 )
 )
 
 game (
-	comment "Fishbone (World) (Aftermarket) (Homebrew)"
+	comment "Fishbone (World)"
 	publisher "ThunderStruck"
 	rom ( crc B5977E82 )
 )
@@ -52,13 +52,13 @@ game (
 )
 
 game (
-	comment "Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	publisher "virtual-boy.com"
 	rom ( crc 4450EDE0 )
 )
 
 game (
-	comment "Hyper Fighting (World) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	publisher "virtual-boy.com"
 	rom ( crc 4450EDE0 )
 )
@@ -70,13 +70,13 @@ game (
 )
 
 game (
-	comment "Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)"
+	comment "Mario Kart - Virtual Cup (World)"
 	publisher "DogP"
 	rom ( crc 27988AB9 )
 )
 
 game (
-	comment "Insmouth no Yakata (Japan)"
+	comment "Innsmouth no Yakata (Japan)"
 	publisher "I'Max"
 	rom ( crc 83CB6A00 )
 )
@@ -178,7 +178,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	publisher "Bullet Proof Software"
 	rom ( crc 3CCB67AE )
 )
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Virtual Bowling (Japan)"
+	comment "Virtual Bowling (Japan) (En)"
 	publisher "Athena"
 	rom ( crc 20688279 )
 )

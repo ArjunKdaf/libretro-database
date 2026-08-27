@@ -526,7 +526,7 @@ game (
 )
 
 game (
-	comment "Block Hole (Korea) (Unl)"
+	comment "Block Hole (Korea)"
 	publisher "Zemina"
 	rom ( crc 824AE486 )
 )
@@ -670,13 +670,13 @@ game (
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl)"
+	comment "Brother Adventure (Korea)"
 	publisher "Zemina"
 	rom ( crc 3CA757D0 )
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl) (Alt)"
+	comment "Brother Adventure (Korea) (Alt)"
 	publisher "Zemina"
 	rom ( crc FE0A902C )
 )
@@ -688,13 +688,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl)"
+	comment "Bubble Bobble (Korea)"
 	publisher "Clover"
 	rom ( crc 6D1B1EE1 )
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl) (Alt)"
+	comment "Bubble Bobble (Korea) (Alt)"
 	publisher "Clover"
 	rom ( crc 0BC2C4AC )
 )
@@ -826,7 +826,7 @@ game (
 )
 
 game (
-	comment "Casio Daishogai Keiba (Japan)"
+	comment "Casio Daishogai Keiba - Exciting Jockey (Japan)"
 	publisher "Casio"
 	rom ( crc 5312DB08 )
 )
@@ -994,7 +994,7 @@ game (
 )
 
 game (
-	comment "Circus Charlie (Japan) (Wii U Virtual Console)"
+	comment "Circus Charlie (Japan) (En) (Wii U Virtual Console)"
 	publisher "Konami"
 	rom ( crc 83B8D8F3 )
 )
@@ -1390,7 +1390,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Korea) (Unl)"
+	comment "Double Dragon (Korea)"
 	publisher "Melbourne House"
 	rom ( crc C70E3A34 )
 )
@@ -1636,7 +1636,7 @@ game (
 )
 
 game (
-	comment "Fa Tetris (Korea) (Unl)"
+	comment "Fa Tetris (Korea)"
 	publisher "FA Soft"
 	rom ( crc 1EC87E3A )
 )
@@ -1732,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Flash Point (Korea) (Unl)"
+	comment "Flash Point (Korea)"
 	publisher "Classic Consoles Center"
 	rom ( crc C4A33DA7 )
 )
@@ -1756,7 +1756,7 @@ game (
 )
 
 game (
-	comment "Flash Point (Korea) (Unl) (Alt)"
+	comment "Flash Point (Korea) (Alt)"
 	publisher "Classic Consoles Center"
 	rom ( crc 25708CFA )
 )
@@ -1972,7 +1972,7 @@ game (
 )
 
 game (
-	comment "Game World - 126 Games (Korea) (Unl)"
+	comment "Game World - 126 Games (Korea)"
 	publisher "Screen Software"
 	rom ( crc C13004C5 )
 )
@@ -4258,7 +4258,7 @@ game (
 )
 
 game (
-	comment "Shougi Sinan 1 (Japan)"
+	comment "Tanigawa Kouji no Shogi Shinan (Japan)"
 	publisher "Pony Canyon"
 	rom ( crc EAD8E29C )
 )
@@ -4534,31 +4534,31 @@ game (
 )
 
 game (
-	comment "Super Bioman 4 (Korea) (Unl)"
+	comment "Super Bioman 4 (Korea)"
 	publisher "Zemina"
 	rom ( crc 112ABF34 )
 )
 
 game (
-	comment "Super Boy 3 (Korea) (Unl)"
+	comment "Super Boy 3 (Korea)"
 	publisher "Zemina"
 	rom ( crc 9195C34C )
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (Unl)"
+	comment "Super Bubble Bobble (Korea)"
 	publisher "Zemina"
 	rom ( crc 37B5D39B )
 )
 
 game (
-	comment "Super Boy I (Korea) (Unl)"
+	comment "Super Boy I (Korea)"
 	publisher "Zemina"
 	rom ( crc 13B34548 )
 )
 
 game (
-	comment "Super Boy II (Korea) (Unl)"
+	comment "Super Boy II (Korea)"
 	publisher "Zemina"
 	rom ( crc 09206BFD )
 )
@@ -4762,7 +4762,7 @@ game (
 )
 
 game (
-	comment "Tetris (Korea) (Unl)"
+	comment "Tetris (Korea)"
 	publisher "Zemina"
 	rom ( crc ADCB026D )
 )

@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "beat mania for WonderSwan (Japan)"
+	comment "beatmania for WonderSwan (Japan)"
 	developer "ICCE Japan"
 	rom ( crc 324622C9 )
 )

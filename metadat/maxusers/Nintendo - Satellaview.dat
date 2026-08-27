@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Actraiser (Japan)"
+	comment "Actraiser (Japan) (9-12)"
 	users 1
 	rom ( crc B9A968FF )
 )
@@ -58,7 +58,7 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink)"
 	users 1
 	rom ( crc 8FCC8355 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink)"
+	comment "BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink)"
 	users 1
 	rom ( crc 7442AD93 )
 )
@@ -88,13 +88,13 @@ game (
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)"
 	users 1
 	rom ( crc 3D3EB686 )
 )
 
 game (
-	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)"
+	comment "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink)"
 	users 1
 	rom ( crc FCAAFE47 )
 )
@@ -136,19 +136,19 @@ game (
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc F5357704 )
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc 6B90C767 )
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc 2B87DBAA )
 )
@@ -160,25 +160,25 @@ game (
 )
 
 game (
-	comment "BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc 6986937E )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc 27D62709 )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc 5A88E3FB )
 )
 
 game (
-	comment "BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b]"
+	comment "BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink)"
 	users 1
 	rom ( crc FBA7789E )
 )
@@ -208,7 +208,7 @@ game (
 )
 
 game (
-	comment "BS Shin Onigashima - Dai-1-wa (Japan) (SoundLink)"
+	comment "BS Shin Onigashima - Dai-1-wa (Japan) (1-11) (SoundLink)"
 	users 1
 	rom ( crc 654EC9B9 )
 )
@@ -280,7 +280,7 @@ game (
 )
 
 game (
-	comment "BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-14)"
+	comment "BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-14) (SoundLink)"
 	users 1
 	rom ( crc E64EA557 )
 )
@@ -292,7 +292,7 @@ game (
 )
 
 game (
-	comment "BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (SoundLink)"
+	comment "BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (SoundLink)"
 	users 1
 	rom ( crc 834055A7 )
 )
@@ -352,7 +352,7 @@ game (
 )
 
 game (
-	comment "Cock-A-Doodle-Do (Japan)"
+	comment "Cock-A-Doodle-Do (Japan) (4-27) (Data Pack)"
 	users 1
 	rom ( crc 2E831A4D )
 )
@@ -376,7 +376,7 @@ game (
 )
 
 game (
-	comment "Dr. Mario BS (Japan) (4-3)"
+	comment "Dr. Mario BS (Japan) (En) (4-3)"
 	users 2
 	rom ( crc EF158E29 )
 )
@@ -388,7 +388,7 @@ game (
 )
 
 game (
-	comment "Dragon Slayer - Eiyuu Densetsu (Japan)"
+	comment "Dragon Slayer - Eiyuu Densetsu (Japan) (5-14)"
 	users 1
 	rom ( crc CACBEB09 )
 )
@@ -418,7 +418,7 @@ game (
 )
 
 game (
-	comment "Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (5-18) (SoundLink)"
+	comment "Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Premiere) (SoundLink)"
 	users 2
 	rom ( crc 59D5E1C5 )
 )
@@ -436,7 +436,7 @@ game (
 )
 
 game (
-	comment "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (11-5) (SoundLink)"
+	comment "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Premiere) (SoundLink)"
 	users 2
 	rom ( crc 84D46CA9 )
 )
@@ -454,13 +454,13 @@ game (
 )
 
 game (
-	comment "F-Zero (Japan)"
+	comment "F-Zero (Japan) (7-10)"
 	users 1
 	rom ( crc 689130B5 )
 )
 
 game (
-	comment "Firemen, The (Japan)"
+	comment "Firemen, The (Japan) (2-9)"
 	users 2
 	rom ( crc 927BA7C2 )
 )
@@ -490,13 +490,13 @@ game (
 )
 
 game (
-	comment "Kaizou Choujin Shubibinman Zero (Japan)"
+	comment "Kaizou Choujin Shubibinman Zero (Japan) (6-4)"
 	users 2
 	rom ( crc 26A4F6C3 )
 )
 
 game (
-	comment "Lord Monarch (Japan)"
+	comment "Lord Monarch (Japan) (6-1)"
 	users 1
 	rom ( crc D3DEDFCC )
 )
@@ -508,7 +508,7 @@ game (
 )
 
 game (
-	comment "Nintama Rantarou 2 (Japan)"
+	comment "Nintama Rantarou 2 (Japan) (3-15)"
 	users 1
 	rom ( crc 280E9777 )
 )
@@ -520,13 +520,13 @@ game (
 )
 
 game (
-	comment "Panel de Pon - Event '98 (Japan) (12-28)"
+	comment "Panel de Pon - Event '98 (Japan)"
 	users 2
 	rom ( crc 720A850C )
 )
 
 game (
-	comment "Panel de Pon - Event '98 (Japan) (1-11)"
+	comment "Panel de Pon - Event '98 (Japan)"
 	users 2
 	rom ( crc 725BF3AF )
 )
@@ -562,7 +562,7 @@ game (
 )
 
 game (
-	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)"
+	comment "Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink)"
 	users 1
 	rom ( crc 5EA2B6BB )
 )
@@ -580,13 +580,13 @@ game (
 )
 
 game (
-	comment "Special Tee Shot (Japan)"
+	comment "Special Tee Shot (Japan) (En) (12-30)"
 	users 2
 	rom ( crc 841C8EB9 )
 )
 
 game (
-	comment "Super Bomberman 2 (Japan)"
+	comment "Super Bomberman 2 (Japan) (En) (8-17)"
 	users 4
 	rom ( crc 095F2969 )
 )
@@ -610,13 +610,13 @@ game (
 )
 
 game (
-	comment "Super Mahjong Taikai (Japan)"
+	comment "Super Mahjong Taikai (Japan) (5-27)"
 	users 1
 	rom ( crc 881A70FD )
 )
 
 game (
-	comment "Super Ninja-kun (Japan)"
+	comment "Super Ninja-kun (Japan) (6-1)"
 	users 2
 	rom ( crc 52A63EA3 )
 )

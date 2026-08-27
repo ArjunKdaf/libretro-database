@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Daimakaimura (Japan)"
+	comment "Daimakaimura (Japan) (En)"
 	franchise "Ghost'n Goblins"
 	rom ( crc B486A8ED )
 )

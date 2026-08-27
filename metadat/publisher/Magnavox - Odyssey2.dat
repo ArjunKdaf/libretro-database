@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "Comando Noturno (Brazil)"
+	comment "Comando Noturno (Brazil) (En)"
 	publisher "Philips"
 	rom (
 		crc 26517E77
@@ -92,7 +92,7 @@ game (
 )
 
 game (
-	comment "Jumping Acrobats (Europe) (Alt 1)"
+	comment "Jumping Acrobats (Europe) (Alt)"
 	publisher "Philips"
 	rom (
 		crc E7B26A56
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Out of this World + Helicopter Rescue (USA)"
+	comment "Out of This World + Helicopter Rescue (USA)"
 	publisher "Magnavox"
 	rom (
 		crc 0C2E4811
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Power Lords (USA) (Alt 1)"
+	comment "Power Lords (USA) (Alt)"
 	publisher "Magnavox"
 	rom (
 		crc 3351FEDA

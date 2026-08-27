@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Dungeon & Guarder - Dragon Gore (Korea)"
+	comment "Dungeon & Guarder - Dragon Gore (Korea) (En)"
 	releaseyear "2001"
 	rom ( crc 0E3BF8CE )
 )

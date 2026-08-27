@@ -34,7 +34,7 @@ game (
 )
 
 game (
-	comment "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+	comment "NeoGeo Cup '98 (Japan, Europe) (En,Ja)"
 	developer "SNK"
 	rom ( crc 33ADD5BD )
 )

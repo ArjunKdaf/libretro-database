@@ -12,7 +12,7 @@ game (
 )
 
 game (
-	comment "Frogger (Brazil)"
+	comment "Frogger (Brazil) (En)"
 	franchise "Frogger"
 	rom (
 		crc A57D84F3
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Popeye (Brazil)"
+	comment "Popeye (Brazil) (En)"
 	franchise "Popeye"
 	rom (
 		crc 1B188870
@@ -44,7 +44,7 @@ game (
 )
 
 game (
-	comment "Skiing (France)"
+	comment "Faire du ski (France)"
 	franchise "Alpine Ski Racing"
 	rom (
 		crc E129490D

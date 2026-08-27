@@ -400,7 +400,7 @@ game (
 )
 
 game (
-	comment "Block Hole (Korea) (Unl)"
+	comment "Block Hole (Korea)"
 	releaseyear "1990"
 	rom ( crc 824AE486 )
 )
@@ -538,13 +538,13 @@ game (
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl)"
+	comment "Brother Adventure (Korea)"
 	releaseyear "1987"
 	rom ( crc 3CA757D0 )
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl) (Alt)"
+	comment "Brother Adventure (Korea) (Alt)"
 	releaseyear "1987"
 	rom ( crc FE0A902C )
 )
@@ -556,13 +556,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl)"
+	comment "Bubble Bobble (Korea)"
 	releaseyear "1990"
 	rom ( crc 6D1B1EE1 )
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl) (Alt)"
+	comment "Bubble Bobble (Korea) (Alt)"
 	releaseyear "1990"
 	rom ( crc 0BC2C4AC )
 )
@@ -688,7 +688,7 @@ game (
 )
 
 game (
-	comment "Casio Daishogai Keiba (Japan)"
+	comment "Casio Daishogai Keiba - Exciting Jockey (Japan)"
 	releaseyear "1984"
 	rom ( crc 5312DB08 )
 )
@@ -814,7 +814,7 @@ game (
 )
 
 game (
-	comment "Circus Charlie (Japan) (Wii U Virtual Console)"
+	comment "Circus Charlie (Japan) (En) (Wii U Virtual Console)"
 	releaseyear "1984"
 	rom ( crc 83B8D8F3 )
 )
@@ -1420,7 +1420,7 @@ game (
 )
 
 game (
-	comment "Fa Tetris (Korea) (Unl)"
+	comment "Fa Tetris (Korea)"
 	releaseyear "1989"
 	rom ( crc 1EC87E3A )
 )
@@ -1510,7 +1510,7 @@ game (
 )
 
 game (
-	comment "Flash Point (Korea) (Unl)"
+	comment "Flash Point (Korea)"
 	releaseyear "1990"
 	rom ( crc C4A33DA7 )
 )
@@ -1528,7 +1528,7 @@ game (
 )
 
 game (
-	comment "Flash Point (Korea) (Unl) (Alt)"
+	comment "Flash Point (Korea) (Alt)"
 	releaseyear "1990"
 	rom ( crc 25708CFA )
 )
@@ -1720,7 +1720,7 @@ game (
 )
 
 game (
-	comment "Game World - 126 Games (Korea) (Unl)"
+	comment "Game World - 126 Games (Korea)"
 	releaseyear "1988"
 	rom ( crc C13004C5 )
 )
@@ -3706,7 +3706,7 @@ game (
 )
 
 game (
-	comment "Shougi Sinan 1 (Japan)"
+	comment "Tanigawa Kouji no Shogi Shinan (Japan)"
 	releaseyear "1986"
 	rom ( crc EAD8E29C )
 )
@@ -3952,7 +3952,7 @@ game (
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (Unl)"
+	comment "Super Bubble Bobble (Korea)"
 	releaseyear "1988"
 	rom ( crc 37B5D39B )
 )
@@ -4132,7 +4132,7 @@ game (
 )
 
 game (
-	comment "Tetris (Korea) (Unl)"
+	comment "Tetris (Korea)"
 	releaseyear "1989"
 	rom ( crc ADCB026D )
 )

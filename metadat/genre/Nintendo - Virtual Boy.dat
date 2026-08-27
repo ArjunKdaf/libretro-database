@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.0)"
 	genre "Puzzle"
 	rom ( crc 7BAF43B0 )
 )
@@ -28,13 +28,13 @@ game (
 )
 
 game (
-	comment "BLOX (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "BLOX (World) (v1.1)"
 	genre "Puzzle"
 	rom ( crc 450FEAB5 )
 )
 
 game (
-	comment "Capitan Sevilla 2 (World) (Es) (Aftermarket) (Homebrew)"
+	comment "Capitan Sevilla 2 (World) (Es)"
 	genre "Action"
 	rom ( crc F18001F0 )
 )
@@ -52,13 +52,13 @@ game (
 )
 
 game (
-	comment "Hyper Fighting (World) (Beta) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	genre "Fighting"
 	rom ( crc 4450EDE0 )
 )
 
 game (
-	comment "Hyper Fighting (World) (Aftermarket) (Homebrew)"
+	comment "Hyper Fighting (World) (Beta)"
 	genre "Fighting"
 	rom ( crc 4450EDE0 )
 )
@@ -70,19 +70,19 @@ game (
 )
 
 game (
-	comment "Mario Kart - Virtual Cup (World) (Aftermarket) (Homebrew)"
+	comment "Mario Kart - Virtual Cup (World)"
 	genre "Racing"
 	rom ( crc 27988AB9 )
 )
 
 game (
-	comment "Insmouth no Yakata (Japan)"
+	comment "Innsmouth no Yakata (Japan)"
 	genre "Lightgun Shooter"
 	rom ( crc 83CB6A00 )
 )
 
 game (
-	comment "Mario Combat (World) (Aftermarket) (Homebrew)"
+	comment "Mario Combat (World)"
 	genre "Shooter"
 	rom ( crc FB91380F )
 )
@@ -148,43 +148,43 @@ game (
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	genre "Shoot'em Up"
 	rom ( crc 3A2E0413 )
 )
@@ -226,7 +226,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 3CCB67AE )
 )
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Virtual Bowling (Japan)"
+	comment "Virtual Bowling (Japan) (En)"
 	genre "Sports"
 	rom ( crc 20688279 )
 )

@@ -116,7 +116,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	serial "VUE-VTRJ-JPN"
 	rom (
 		crc 3CCB67AE
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Virtual Bowling (Japan)"
+	comment "Virtual Bowling (Japan) (En)"
 	serial "VUE-VVBJ-JPN"
 	rom (
 		crc 20688279

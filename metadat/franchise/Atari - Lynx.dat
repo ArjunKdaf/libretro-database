@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Alien vs Predator (USA) (Proto) (1993-12-17)"
+	comment "Alien vs Predator (Europe) (Proto)"
 	franchise "Alien"
 	rom ( crc 540E9BB7 )
 )
@@ -28,13 +28,13 @@ game (
 )
 
 game (
-	comment "Gauntlet - The Third Encounter (USA, Europe)"
+	comment "Gauntlet - The Third Encounter (World)"
 	franchise "Gauntlet"
 	rom ( crc 7F0EC7AD )
 )
 
 game (
-	comment "Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)"
+	comment "Gauntlet - The Third Encounter (World) (Beta)"
 	franchise "Gauntlet"
 	rom ( crc DCD723E3 )
 )
@@ -46,7 +46,7 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man (USA, Europe)"
+	comment "Ms. Pac-Man (World)"
 	franchise "Pac-Man"
 	rom ( crc 7DE3783A )
 )
@@ -64,25 +64,25 @@ game (
 )
 
 game (
-	comment "Paperboy (USA, Europe)"
+	comment "Paperboy (World)"
 	franchise "Paperboy"
 	rom ( crc 4CDFBD57 )
 )
 
 game (
-	comment "Raiden (USA) (Proto)"
+	comment "Raiden (USA) (Beta)"
 	franchise "Raiden"
 	rom ( crc BCD10C3A )
 )
 
 game (
-	comment "Rampage (USA, Europe)"
+	comment "Rampage (World)"
 	franchise "Rampage"
 	rom ( crc B10B7C8E )
 )
 
 game (
-	comment "Shanghai (USA, Europe)"
+	comment "Shanghai (World)"
 	franchise "Shanghai"
 	rom ( crc 192BCD04 )
 )

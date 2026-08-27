@@ -19,7 +19,7 @@ game (
 )
 
 game (
-	comment "Mario & Luigi - Superstar Saga (USA, Australia)"
+	comment "Mario & Luigi - Superstar Saga (USA)"
 	rumble 1
 	rom (
 		crc E718D850
@@ -171,7 +171,7 @@ game (
 )
 
 game (
-	comment "WarioWare - Twisted! (USA)"
+	comment "WarioWare - Twisted! (USA, Australia)"
 	rumble 1
 	rom (
 		crc CB4E844B

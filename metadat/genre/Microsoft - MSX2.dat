@@ -64,7 +64,7 @@ game (
 )
 
 game (
-	comment "Brunilda (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Brunilda (World) (v1.1)"
 	genre "Role-playing (RPG)"
 	rom ( crc 9EB9BAD0 )
 )
@@ -670,7 +670,7 @@ game (
 )
 
 game (
-	comment "Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Sword of Ianna, The (World) (En,Es) (v1.2)"
 	genre "Action"
 	rom ( crc 3E9AEB2B )
 )
@@ -700,13 +700,13 @@ game (
 )
 
 game (
-	comment "Treasure of Usas, The (Japan, Europe) (Alt)"
+	comment "Treasure of Usas, The (Japan, Europe) (En) (Alt)"
 	genre "Action"
 	rom ( crc 1F1F1F26 )
 )
 
 game (
-	comment "Treasure of Usas, The (Japan, Europe)"
+	comment "Treasure of Usas, The (Japan, Europe) (En)"
 	genre "Action"
 	rom ( crc 30396650 )
 )
@@ -730,25 +730,25 @@ game (
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt 3)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt 3)"
 	genre "Platform"
 	rom ( crc 217935D0 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt)"
 	genre "Platform"
 	rom ( crc 0AEDEA40 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe)"
+	comment "Vampire Killer (Japan, Europe) (En)"
 	genre "Platform"
 	rom ( crc 5953D084 )
 )
 
 game (
-	comment "Vampire Killer (Japan, Europe) (Alt 2)"
+	comment "Vampire Killer (Japan, Europe) (En) (Alt 2)"
 	genre "Platform"
 	rom ( crc 038C250D )
 )

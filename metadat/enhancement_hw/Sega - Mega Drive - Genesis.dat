@@ -10,7 +10,7 @@ game (
 )
 	
 game (
-	comment "Virtua Racing (Japan)"
+	comment "Virtua Racing (Japan) (En)"
 	enhancement_hw "Sega SVP"
 	rom ( crc 53A293B5  )
 )

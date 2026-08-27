@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Insmouth no Yakata (Japan)"
+	comment "Innsmouth no Yakata (Japan)"
 	releaseyear "1995"
 	rom ( crc 83CB6A00 )
 )
@@ -64,43 +64,43 @@ game (
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	releaseyear "2010"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2010 (World) (v1.2)"
 	releaseyear "2010"
 	rom ( crc E7CBC290 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	releaseyear "2011"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	releaseyear "2011"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	releaseyear "2011"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	releaseyear "2011"
 	rom ( crc 3A2E0413 )
 )
 
 game (
-	comment "Soviet Union 2011 (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Soviet Union 2011 (World) (v1.2)"
 	releaseyear "2011"
 	rom ( crc 3A2E0413 )
 )
@@ -130,7 +130,7 @@ game (
 )
 
 game (
-	comment "V-Tetris (Japan)"
+	comment "V-Tetris (Japan) (En)"
 	releaseyear "1995"
 	rom ( crc 3CCB67AE )
 )
@@ -148,7 +148,7 @@ game (
 )
 
 game (
-	comment "Virtual Bowling (Japan)"
+	comment "Virtual Bowling (Japan) (En)"
 	releaseyear "1995"
 	rom ( crc 20688279 )
 )

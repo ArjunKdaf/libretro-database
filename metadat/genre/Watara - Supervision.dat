@@ -22,7 +22,7 @@ game (
 )
 
 game (
-	comment "Carrier (USA, Europe)"
+	comment "Carrier (USA, Europe) (Rev 1)"
 	genre "Puzzle"
 	rom ( crc 5ECFB674 )
 )
@@ -46,13 +46,13 @@ game (
 )
 
 game (
-	comment "Cross High (USA, Europe)"
+	comment "Cross High (USA, Europe) (Rev 1)"
 	genre "Racing"
 	rom ( crc 1E6836A2 )
 )
 
 game (
-	comment "Crystball (USA, Europe)"
+	comment "Crystball (USA, Europe) (Rev 1)"
 	genre "Action"
 	rom ( crc 10DCC110 )
 )
@@ -70,7 +70,7 @@ game (
 )
 
 game (
-	comment "Hash Blocks (USA, Europe)"
+	comment "Hash Blocks (USA, Europe) (Rev 1)"
 	genre "Puzzle"
 	rom ( crc 6BD7C885 )
 )

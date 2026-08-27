@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Armor Battle (USA, Europe)"
+	comment "Armor Battle (USA, Europe) (Fast Tanks)"
 	users 2
 	rom ( crc 6F91FBC1 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Auto Racing (World)"
+	comment "Auto Racing (World) (Car-Relative Steering)"
 	users 2
 	rom ( crc B35C1101 )
 )
@@ -160,7 +160,7 @@ game (
 )
 
 game (
-	comment "Checkers (USA, Europe)"
+	comment "Checkers (USA, Europe) (Intellivision Lives!)"
 	users 2
 	rom ( crc 36E1D858 )
 )
@@ -286,7 +286,7 @@ game (
 )
 
 game (
-	comment "Electric Company, The - Math Fun (USA, Europe)"
+	comment "Electric Company, The - Math Fun (USA, Europe) (Reverse Entry)"
 	users 2
 	rom ( crc 54A3FC11 )
 )
@@ -418,7 +418,7 @@ game (
 )
 
 game (
-	comment "Las Vegas Poker & Blackjack (World)"
+	comment "Las Vegas Poker & Blackjack (World) (Intellivision Lives!)"
 	users 2
 	rom ( crc 604611C0 )
 )
@@ -802,7 +802,7 @@ game (
 )
 
 game (
-	comment "Space Battle (World)"
+	comment "Space Battle (World) (v1.1)"
 	users 2
 	rom ( crc F95504E0 )
 )
@@ -904,7 +904,7 @@ game (
 )
 
 game (
-	comment "Thin Ice (USA)"
+	comment "Thin Ice (USA) (Beta)"
 	users 2
 	rom ( crc D6495910 )
 )

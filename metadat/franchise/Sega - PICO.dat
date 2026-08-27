@@ -12,7 +12,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Advance Generation - Minna de Pico - Pokemon Waiwai Battle! (Japan)"
+	comment "Pocket Monsters Advance Generation - Minna de Pico - Pokemon Wai Wai Battle! (Japan)"
 	franchise "Pokemon"
 	rom (
 		crc C3B77D13
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog's Gameworld (Japan) (Rev 1)"
+	comment "Sonic The Hedgehog's Gameworld (Japan) (Rev A)"
 	franchise "Sonic the Hedgehog"
 	rom (
 		crc B8F507FA

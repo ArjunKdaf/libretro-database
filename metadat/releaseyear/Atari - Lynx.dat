@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Alien vs Predator (USA) (Proto) (1993-12-17)"
+	comment "Alien vs Predator (Europe) (Proto)"
 	releaseyear "1994"
 	rom ( crc 540E9BB7 )
 )
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Eye of the Beholder (USA) (Proto)"
+	comment "Eye of the Beholder (USA) (Proto 1)"
 	releaseyear "1993"
 	rom ( crc 6BCEAA9C )
 )
@@ -64,13 +64,13 @@ game (
 )
 
 game (
-	comment "Loopz (USA) (Proto) (1992-11-05)"
+	comment "Loopz (USA) (v0.06) (Proto)"
 	releaseyear "2004"
 	rom ( crc B1C25EF1 )
 )
 
 game (
-	comment "Marlboro Go! (Europe) (Proto)"
+	comment "Marlboro Go! (Europe) (Proto 2)"
 	releaseyear "1993"
 	rom ( crc C3FA0D4D )
 )
@@ -82,7 +82,7 @@ game (
 )
 
 game (
-	comment "Raiden (USA) (Proto)"
+	comment "Raiden (USA) (Beta)"
 	releaseyear "1997"
 	rom ( crc BCD10C3A )
 )
@@ -94,7 +94,7 @@ game (
 )
 
 game (
-	comment "Road Riot 4WD (USA) (Proto 3)"
+	comment "Road Riot 4WD (USA) (Proto 4)"
 	releaseyear "1994"
 	rom ( crc 69959A3B )
 )

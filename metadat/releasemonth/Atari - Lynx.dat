@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Loopz (USA) (Proto) (1992-11-05)"
+	comment "Loopz (USA) (v0.06) (Proto)"
 	releasemonth "8"
 	rom ( crc B1C25EF1 )
 )

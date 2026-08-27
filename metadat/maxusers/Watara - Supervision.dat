@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Cross High (USA, Europe)"
+	comment "Cross High (USA, Europe) (Rev 1)"
 	users 1
 	rom ( crc 1E6836A2 )
 )

@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Astro Wars - Invaders from Space (Japan, France)"
+	comment "Astro Wars - Invaders from Space (Japan, France) (En)"
 	developer "Epoch"
 	rom ( crc 2DBDB166 )
 )
@@ -154,13 +154,13 @@ game (
 )
 
 game (
-	comment "Super Soccer (France)"
+	comment "Super Soccer (France) (En)"
 	developer "Epoch"
 	rom ( crc 8283907C )
 )
 
 game (
-	comment "Boulder Dash (France)"
+	comment "Boulder Dash (France) (En)"
 	developer "Epoch"
 	rom ( crc 5DB59007 )
 )
@@ -190,7 +190,7 @@ game (
 )
 
 game (
-	comment "Wheelie Racer (Japan, France)"
+	comment "Wheelie Racer (Japan, France) (En)"
 	developer "Epoch"
 	rom ( crc 9D9B29DB )
 )

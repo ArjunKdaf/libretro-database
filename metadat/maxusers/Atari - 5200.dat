@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "A.E. (USA) (Proto)"
+	comment "A.E. (USA) (Proto 1)"
 	users 1
 	rom ( crc 35484751 )
 )
@@ -34,13 +34,13 @@ game (
 )
 
 game (
-	comment "Battlezone (USA) (Proto)"
+	comment "Battlezone (USA) (Proto 1)"
 	users 1
 	rom ( crc B3B8E314 )
 )
 
 game (
-	comment "Barroom Baseball (USA) (Proto)"
+	comment "Barroom Baseball (USA) (Proto 1)"
 	users 2
 	rom ( crc 21D19C8F )
 )
@@ -70,7 +70,7 @@ game (
 )
 
 game (
-	comment "Black Belt (USA) (Proto)"
+	comment "Black Belt (USA) (Proto 3)"
 	users 1
 	rom ( crc ED47B0D8 )
 )
@@ -112,13 +112,13 @@ game (
 )
 
 game (
-	comment "Castle Blast (USA) (Unl)"
+	comment "Castle Blast (USA)"
 	users 1
 	rom ( crc 7C988054 )
 )
 
 game (
-	comment "Castle Crisis (USA) (Unl)"
+	comment "Castle Crisis (USA)"
 	users 4
 	rom ( crc D50E4061 )
 )
@@ -256,7 +256,7 @@ game (
 )
 
 game (
-	comment "Koffi - Yellow Kopter (USA) (Unl)"
+	comment "Koffi - Yellow Kopter (USA)"
 	users 1
 	rom ( crc 917BE656 )
 )
@@ -394,7 +394,7 @@ game (
 )
 
 game (
-	comment "RealSports Basketball (USA)"
+	comment "RealSports Basketball (USA) (Proto)"
 	users 2
 	rom ( crc DD217276 )
 )
@@ -406,7 +406,7 @@ game (
 )
 
 game (
-	comment "RealSports Basketball (USA) (Proto) (1983-10-31)"
+	comment "RealSports Basketball (USA) (Proto)"
 	users 2
 	rom ( crc C90196FA )
 )
@@ -490,7 +490,7 @@ game (
 )
 
 game (
-	comment "Super Pacman (USA) (Proto) (Alt)"
+	comment "Super Pac-Man (USA) (Proto) (Final)"
 	users 2
 	rom ( crc FD8F0CD4 )
 )
@@ -526,7 +526,7 @@ game (
 )
 
 game (
-	comment "Xevious (USA) (Proto)"
+	comment "Xevious (USA) (Proto) (Unknown)"
 	users 2
 	rom ( crc 382634DC )
 )

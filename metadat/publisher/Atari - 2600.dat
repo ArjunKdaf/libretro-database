@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "3-D Zapper (USA) (Proto) (1982-12-15)"
+	comment "3-D Zapper (USA) (Proto)"
 	publisher "U.S. Games Corporation / Vidtec"
 	rom ( crc 93C49A58 )
 )
@@ -46,7 +46,7 @@ game (
 )
 
 game (
-	comment "32 in 1 Game Cartridge (Europe)"
+	comment "32 in 1 Game Cartridge (Europe, Australia)"
 	publisher "Atari"
 	rom ( crc EAEF28EA )
 )
@@ -64,7 +64,7 @@ game (
 )
 
 game (
-	comment "Abre-te, Sesamo! (Brazil) (En) (Unl)"
+	comment "Abre-te, Sesamo! (Brazil) (En)"
 	publisher "Zimag"
 	rom ( crc 8CF511A4 )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Actionauts (USA) (Proto) (1984-06-22)"
+	comment "Actionauts (USA) (Proto)"
 	publisher "Imagic"
 	rom ( crc CEDDF26B )
 )
@@ -184,7 +184,7 @@ game (
 )
 
 game (
-	comment "Alien (Brazil) (En) (Unl)"
+	comment "Alien (Brazil) (En)"
 	publisher "Fox Video Games"
 	rom ( crc E61021EC )
 )
@@ -196,13 +196,13 @@ game (
 )
 
 game (
-	comment "Alpha Beam (Japan, USA) (En) (Beta) (1982-12-22)"
+	comment "Alpha Beam (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc 85F1CB08 )
 )
 
 game (
-	comment "Alpha Beam (Europe) (Beta) (1983-06-03)"
+	comment "Alpha Beam (Europe) (Beta)"
 	publisher "Atari"
 	rom ( crc 1651F45E )
 )
@@ -214,7 +214,7 @@ game (
 )
 
 game (
-	comment "Alpha Beam with Ernie (Europe)"
+	comment "Alpha Beam with Ernie (Europe) (Alt)"
 	publisher "Atari"
 	rom ( crc D1ED3112 )
 )
@@ -238,25 +238,25 @@ game (
 )
 
 game (
-	comment "Anguna 2600 (World) (Aftermarket) (Homebrew)"
+	comment "Anguna 2600 (World)"
 	publisher "Bite The Chili"
 	rom ( crc D18E91A1 )
 )
 
 game (
-	comment "Apples and Dolls (Brazil) (En) (Unl)"
+	comment "Apples and Dolls (Brazil) (En)"
 	publisher "Zimag"
 	rom ( crc E7514705 )
 )
 
 game (
-	comment "Aquaventure (Brazil) (En) (Proto) (Unl)"
+	comment "Aquaventure (Brazil) (En) (Proto)"
 	publisher "Atari"
 	rom ( crc 7FA61FA0 )
 )
 
 game (
-	comment "Aquaventure (USA) (Proto) (1983-08-12)"
+	comment "Aquaventure (USA) (Proto)"
 	publisher "Atari"
 	rom ( crc 87A8CB8B )
 )
@@ -304,7 +304,7 @@ game (
 )
 
 game (
-	comment "Asteroids (USA) (Atari Anthology)"
+	comment "Asteroids (USA)"
 	publisher "Atari"
 	rom ( crc 70A59647 )
 )
@@ -328,7 +328,7 @@ game (
 )
 
 game (
-	comment "Astrowar (Brazil) (En) (Unl)"
+	comment "Astrowar (Brazil) (En)"
 	publisher "Goliath"
 	rom ( crc 7B4B7EAF )
 )
@@ -418,7 +418,7 @@ game (
 )
 
 game (
-	comment "Barnstorming (Brazil) (En) (Unl)"
+	comment "Barnstorming (Brazil) (En)"
 	publisher "Activision"
 	rom ( crc 281736D6 )
 )
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Battlezone (Japan, USA) (En) (Beta) (1983-05-02)"
+	comment "Battlezone (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc C1E6D7CF )
 )
@@ -496,7 +496,7 @@ game (
 )
 
 game (
-	comment "Battlezone (Japan, USA) (En) (Beta) (1983-05-12)"
+	comment "Battlezone (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc 63F31AF6 )
 )
@@ -514,7 +514,7 @@ game (
 )
 
 game (
-	comment "Beany Bopper (Brazil) (En) (Unl)"
+	comment "Beany Bopper (Brazil) (En)"
 	publisher "Fox Video Games"
 	rom ( crc 624C9345 )
 )
@@ -532,7 +532,7 @@ game (
 )
 
 game (
-	comment "Beat'Em & Eat'Em (Brazil) (En) (Unl)"
+	comment "Beat'Em & Eat'Em (Brazil) (En)"
 	publisher "Mystique"
 	rom ( crc E4F66058 )
 )
@@ -574,7 +574,7 @@ game (
 )
 
 game (
-	comment "Berzerk (Brazil) (En) (Unl)"
+	comment "Berzerk (Brazil) (En)"
 	publisher "Atari"
 	rom ( crc F973D708 )
 )
@@ -586,13 +586,13 @@ game (
 )
 
 game (
-	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta) (1982-12-08)"
+	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc 9DE03520 )
 )
 
 game (
-	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta) (1983-05-02)"
+	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc EEB65EFA )
 )
@@ -604,7 +604,7 @@ game (
 )
 
 game (
-	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta) (1983-05-17)"
+	comment "Big Bird's Egg Catch (Japan, USA) (En) (Beta)"
 	publisher "Atari"
 	rom ( crc 3A4038AC )
 )
@@ -640,7 +640,7 @@ game (
 )
 
 game (
-	comment "Blueprint (USA) (Beta)"
+	comment "Blueprint (USA) (Beta 2)"
 	publisher "CBS Software"
 	rom ( crc 5A95A4F4 )
 )
@@ -688,19 +688,19 @@ game (
 )
 
 game (
-	comment "Bobby Is Going Home (Brazil) (En) (NTSC) (Unl)"
+	comment "Bobby Is Going Home (Brazil) (En)"
 	publisher "Bit Corp."
 	rom ( crc 358940E3 )
 )
 
 game (
-	comment "Bobby Is Going Home (Brazil) (En) (PAL) (Unl)"
+	comment "Bobby Is Going Home (Brazil) (En) (PAL)"
 	publisher "Bit Corp."
 	rom ( crc 5C4A04C8 )
 )
 
 game (
-	comment "Boggle (USA) (Proto) (1978-08-07)"
+	comment "Boggle (USA) (Proto)"
 	publisher "Atari"
 	rom ( crc 26B6BFEF )
 )
@@ -754,7 +754,7 @@ game (
 )
 
 game (
-	comment "Boxing (Brazil) (En) (Unl)"
+	comment "Boxing (Brazil) (En)"
 	publisher "Activision"
 	rom ( crc 0411AE6B )
 )
@@ -766,7 +766,7 @@ game (
 )
 
 game (
-	comment "Breakout (Europe)"
+	comment "Breakout (Europe) (Rev 1)"
 	publisher "Atari"
 	rom ( crc 33717471 )
 )
@@ -868,7 +868,7 @@ game (
 )
 
 game (
-	comment "Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13)"
+	comment "Cabbage Patch Kids - Adventures in the Park (USA) (Proto)"
 	publisher "Coleco Industries, Inc."
 	rom ( crc 7025D30D )
 )
@@ -1072,7 +1072,7 @@ game (
 )
 
 game (
-	comment "Col 'N' (Europe) (Unl)"
+	comment "Col 'N' (Europe)"
 	publisher "Dimax"
 	rom ( crc 6E493F49 )
 )
@@ -1120,7 +1120,7 @@ game (
 )
 
 game (
-	comment "Combat ~ Tank-Plus (USA)"
+	comment "Combat ~ Tank-Plus (Japan, USA) (En)"
 	publisher "Atari"
 	rom ( crc 9C326A97 )
 )
@@ -1288,7 +1288,7 @@ game (
 )
 
 game (
-	comment "Dancing Plate (USA)"
+	comment "Dancing Plate (Europe) (Puzzy)"
 	publisher "Bit Corp."
 	rom ( crc 250C4E3F )
 )
@@ -1798,7 +1798,7 @@ game (
 )
 
 game (
-	comment "Go Fish! (World) (NTSC) (Aftermarket) (Homebrew)"
+	comment "Go Fish! (World)"
 	publisher "AtariAge"
 	rom ( crc B99FC2BF )
 )
@@ -1894,7 +1894,7 @@ game (
 )
 
 game (
-	comment "Halo 2600 (World) (Aftermarket) (Homebrew)"
+	comment "Halo 2600 (World)"
 	publisher "CGE Services Corporation"
 	rom ( crc 3978A823 )
 )
@@ -2008,7 +2008,7 @@ game (
 )
 
 game (
-	comment "INV+ (World) (Aftermarket)"
+	comment "INV+ (World)"
 	publisher "AtariAge"
 	rom ( crc 8EBDE037 )
 )
@@ -2020,13 +2020,13 @@ game (
 )
 
 game (
-	comment "INV+ (World) (2004-04-29) (Beta) (Aftermarket)"
+	comment "INV+ (World) (Beta)"
 	publisher "Hozer Video Games"
 	rom ( crc A9F28173 )
 )
 
 game (
-	comment "INV+ (World) (2004-04-08) (Beta) (Aftermarket)"
+	comment "INV+ (World) (Beta)"
 	publisher "Hozer Video Games"
 	rom ( crc 37E26BAC )
 )
@@ -2422,7 +2422,7 @@ game (
 )
 
 game (
-	comment "Missile War ~ Astro War (Europe)"
+	comment "Missile War ~ Astro War ~ Astrowar (Europe)"
 	publisher "Goliath"
 	rom ( crc E83F5848 )
 )
@@ -2434,7 +2434,7 @@ game (
 )
 
 game (
-	comment "Mission 3,000 A.D. (Europe)"
+	comment "Mission 3000 (Europe)"
 	publisher "Bit Corp."
 	rom ( crc 55B140FE )
 )
@@ -2482,7 +2482,7 @@ game (
 )
 
 game (
-	comment "Motocross (USA)"
+	comment "Motocross (Europe) (Quelle)"
 	publisher "QuelleSoft"
 	rom ( crc 36FEB44C )
 )
@@ -2536,7 +2536,7 @@ game (
 )
 
 game (
-	comment "My Golf (Europe)"
+	comment "My Golf (Germany) (En,De)"
 	publisher "Home Entertainment Suppliers"
 	rom ( crc 0D2CBD53 )
 )
@@ -2644,7 +2644,7 @@ game (
 )
 
 game (
-	comment "Open Sesame (Europe) (Bit Corporation)"
+	comment "Sesam Offne Dich! (Germany)"
 	publisher "Zimag"
 	rom ( crc 0D12FD9B )
 )
@@ -2674,7 +2674,7 @@ game (
 )
 
 game (
-	comment "Oystron (World) (Aftermarket) (Homebrew)"
+	comment "Oystron (World)"
 	publisher "Hozer Video Games"
 	rom ( crc 8155DCCF )
 )
@@ -2800,7 +2800,7 @@ game (
 )
 
 game (
-	comment "Pitfall II - Lost Caverns (USA)"
+	comment "David Crane's Pitfall II - Lost Caverns (USA)"
 	publisher "Activision"
 	rom ( crc 097CE7AD )
 )
@@ -2830,7 +2830,7 @@ game (
 )
 
 game (
-	comment "Pleiades (USA) (Proto)"
+	comment "Pleiades (USA) (Proto 1) (1983-xx-xx)"
 	publisher "AtariAge"
 	rom ( crc 35589CEC )
 )
@@ -3022,7 +3022,7 @@ game (
 )
 
 game (
-	comment "RealSports Baseball (USA)"
+	comment "RealSports Baseball (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc 3C5A1B5F )
 )
@@ -3034,25 +3034,25 @@ game (
 )
 
 game (
-	comment "RealSports Boxing (USA)"
+	comment "RealSports Boxing (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc 3398A1B2 )
 )
 
 game (
-	comment "RealSports Tennis (USA)"
+	comment "RealSports Tennis (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc 379001A0 )
 )
 
 game (
-	comment "RealSports Soccer (USA)"
+	comment "RealSports Soccer (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc 02D89819 )
 )
 
 game (
-	comment "RealSports Football (USA)"
+	comment "RealSports Football (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc F89F64EF )
 )
@@ -3070,7 +3070,7 @@ game (
 )
 
 game (
-	comment "RealSports Volleyball (USA)"
+	comment "RealSports Volleyball (USA, Europe) (En,Fr,De,Es,It)"
 	publisher "Atari"
 	rom ( crc 54FC9EB2 )
 )
@@ -3766,7 +3766,7 @@ game (
 )
 
 game (
-	comment "Super Breakout (USA, Europe) (Atari Anthology)"
+	comment "Super Breakout (USA) (Alt)"
 	publisher "Atari"
 	rom ( crc 171DBE92 )
 )
@@ -3874,7 +3874,7 @@ game (
 )
 
 game (
-	comment "SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)"
+	comment "SwordQuest - EarthWorld (USA) (Alt)"
 	publisher "Atari"
 	rom ( crc D5E21B79 )
 )
@@ -3892,7 +3892,7 @@ game (
 )
 
 game (
-	comment "Tanks But no Tanks (USA)"
+	comment "Tanks but No Tanks (USA)"
 	publisher "Zimag"
 	rom ( crc 4ADBB1F9 )
 )
@@ -4012,7 +4012,7 @@ game (
 )
 
 game (
-	comment "Tomcat - The F-14 Fighter Simulator (USA)"
+	comment "Dan Kitchen's Tomcat - The F-14 Fighter Simulator (USA)"
 	publisher "Absolute Entertainment"
 	rom ( crc 8987C473 )
 )
@@ -4120,7 +4120,7 @@ game (
 )
 
 game (
-	comment "Vault Assault (USA) (Unl)"
+	comment "Vault Assault (USA)"
 	publisher "Self-published"
 	rom ( crc 856A6EFB )
 )
@@ -4276,7 +4276,7 @@ game (
 )
 
 game (
-	comment "Xevious (USA) (Proto) (1983-08-02)"
+	comment "Xevious (USA) (Proto)"
 	publisher "Atari"
 	rom ( crc 2EF09F4A )
 )
@@ -4294,7 +4294,7 @@ game (
 )
 
 game (
-	comment "Unreleased prototype but nearly 100% finished version"
+	comment "Xevious (USA) (Proto)"
 	publisher "Atari"
 	rom ( crc F5802A6C )
 )

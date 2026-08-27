@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "Armor..Attack (World)"
+	comment "Armor Attack (World)"
 	serial "VT 3301"
 	rom (
 		crc B7510971
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Berzerk (World)"
+	comment "Berzerk (USA)"
 	serial "VT 3302"
 	rom (
 		crc EAFE2455
@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Heads-Up - Action Soccer (USA)"
+	comment "Heads-Up - Action Soccer (World)"
 	serial "VT 3203"
 	rom (
 		crc E61A7DE3
@@ -132,7 +132,7 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (A00ED3D6)"
+	comment "Pole Position (USA)"
 	serial "VT 3206"
 	rom (
 		crc A00ED3D6
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "Pole Position (USA) (C10F37D8)"
+	comment "Pole Position (USA) (Alt)"
 	serial "VT 3206"
 	rom (
 		crc C10F37D8
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Spin ball (USA)"
+	comment "Spinball (World)"
 	serial "VT 3204"
 	rom (
 		crc 02F41733
@@ -228,7 +228,7 @@ game (
 )
 
 game (
-	comment "WebWars (USA)"
+	comment "WebWars (World)"
 	serial "VT 3108"
 	rom (
 		crc 2EE20103

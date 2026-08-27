@@ -448,7 +448,7 @@ game (
 )
 
 game (
-	comment "Block Hole (Korea) (Unl)"
+	comment "Block Hole (Korea)"
 	genre "Puzzle"
 	rom ( crc 824AE486 )
 )
@@ -532,13 +532,13 @@ game (
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl)"
+	comment "Brother Adventure (Korea)"
 	genre "Action"
 	rom ( crc 3CA757D0 )
 )
 
 game (
-	comment "Brother Adventure (Korea) (Unl) (Alt)"
+	comment "Brother Adventure (Korea) (Alt)"
 	genre "Action"
 	rom ( crc FE0A902C )
 )
@@ -550,13 +550,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl)"
+	comment "Bubble Bobble (Korea)"
 	genre "Platform"
 	rom ( crc 6D1B1EE1 )
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl) (Alt)"
+	comment "Bubble Bobble (Korea) (Alt)"
 	genre "Platform"
 	rom ( crc 0BC2C4AC )
 )
@@ -790,7 +790,7 @@ game (
 )
 
 game (
-	comment "Circus Charlie (Japan) (Wii U Virtual Console)"
+	comment "Circus Charlie (Japan) (En) (Wii U Virtual Console)"
 	genre "Platform"
 	rom ( crc 83B8D8F3 )
 )
@@ -1000,7 +1000,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Korea) (Unl)"
+	comment "Double Dragon (Korea)"
 	genre "Beat'em Up"
 	rom ( crc C70E3A34 )
 )
@@ -1174,7 +1174,7 @@ game (
 )
 
 game (
-	comment "Fa Tetris (Korea) (Unl)"
+	comment "Fa Tetris (Korea)"
 	genre "Puzzle"
 	rom ( crc 1EC87E3A )
 )
@@ -3268,7 +3268,7 @@ game (
 )
 
 game (
-	comment "Shougi Sinan 1 (Japan)"
+	comment "Tanigawa Kouji no Shogi Shinan (Japan)"
 	genre "Board"
 	rom ( crc EAD8E29C )
 )
@@ -3484,19 +3484,19 @@ game (
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (Unl)"
+	comment "Super Bubble Bobble (Korea)"
 	genre "Platform"
 	rom ( crc 37B5D39B )
 )
 
 game (
-	comment "Super Boy I (Korea) (Unl)"
+	comment "Super Boy I (Korea)"
 	genre "Platform"
 	rom ( crc 13B34548 )
 )
 
 game (
-	comment "Super Boy II (Korea) (Unl)"
+	comment "Super Boy II (Korea)"
 	genre "Action"
 	rom ( crc 09206BFD )
 )
@@ -3640,7 +3640,7 @@ game (
 )
 
 game (
-	comment "Tetris (Korea) (Unl)"
+	comment "Tetris (Korea)"
 	genre "Puzzle"
 	rom ( crc ADCB026D )
 )

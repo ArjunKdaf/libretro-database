@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed (Japan)"
+	comment "Kidou Senshi Gundam SEED (Japan)"
 	publisher "Bandai"
 	rom ( crc BCE15137 )
 )

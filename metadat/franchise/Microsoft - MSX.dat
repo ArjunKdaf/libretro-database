@@ -112,13 +112,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl)"
+	comment "Bubble Bobble (Korea)"
 	franchise "Bubble Bobble"
 	rom ( crc 6D1B1EE1 )
 )
 
 game (
-	comment "Bubble Bobble (Korea) (Unl) (Alt)"
+	comment "Bubble Bobble (Korea) (Alt)"
 	franchise "Bubble Bobble"
 	rom ( crc 0BC2C4AC )
 )
@@ -166,7 +166,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Korea) (Unl)"
+	comment "Double Dragon (Korea)"
 	franchise "Double Dragon"
 	rom ( crc C70E3A34 )
 )
@@ -208,7 +208,7 @@ game (
 )
 
 game (
-	comment "Fa Tetris (Korea) (Unl)"
+	comment "Fa Tetris (Korea)"
 	franchise "Tetris"
 	rom ( crc 1EC87E3A )
 )
@@ -628,13 +628,13 @@ game (
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (Unl)"
+	comment "Super Bubble Bobble (Korea)"
 	franchise "Bubble Bobble"
 	rom ( crc 37B5D39B )
 )
 
 game (
-	comment "Super Boy I (Korea) (Unl)"
+	comment "Super Boy I (Korea)"
 	franchise "Super Mario Bros"
 	rom ( crc 13B34548 )
 )
@@ -646,7 +646,7 @@ game (
 )
 
 game (
-	comment "Tetris (Korea) (Unl)"
+	comment "Tetris (Korea)"
 	franchise "Tetris"
 	rom ( crc ADCB026D )
 )

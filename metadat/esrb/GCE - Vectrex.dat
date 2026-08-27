@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "WebWars (USA)"
+	comment "WebWars (World)"
 	esrb_rating "E"
 	rom ( crc 2EE20103 )
 )

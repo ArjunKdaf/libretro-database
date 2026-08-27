@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Comando Noturno (Brazil)"
+	comment "Comando Noturno (Brazil) (En)"
 	developer "Philips"
 	rom (
 		crc 26517E77
@@ -164,7 +164,7 @@ game (
 )
 
 game (
-	comment "Cosmic Conflict (Europe) (Alt 1)"
+	comment "Cosmic Conflict (Europe) (Alt)"
 	developer "Magnavox"
 	rom (
 		crc 2A5F0B2B
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Desafio Chines (Brazil)"
+	comment "Desafio Chines (Brazil) (En)"
 	developer "Philips"
 	rom (
 		crc 838A2D1E
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Frogger (Brazil)"
+	comment "Frogger (Brazil) (En)"
 	developer "Parker Brothers"
 	rom (
 		crc A57D84F3
@@ -308,7 +308,7 @@ game (
 )
 
 game (
-	comment "Jeu de Quilles + Basketball (France)"
+	comment "Jeu de Quilles + Basket Ball (France)"
 	developer "Magnavox"
 	rom (
 		crc A7E97958
@@ -324,7 +324,7 @@ game (
 )
 
 game (
-	comment "Jumping Acrobats (Europe) (Alt 1)"
+	comment "Jumping Acrobats (Europe) (Alt)"
 	developer "Magnavox"
 	rom (
 		crc E7B26A56
@@ -452,7 +452,7 @@ game (
 )
 
 game (
-	comment "Out of this World + Helicopter Rescue (USA)"
+	comment "Out of This World + Helicopter Rescue (USA)"
 	developer "Magnavox"
 	rom (
 		crc 0C2E4811
@@ -500,7 +500,7 @@ game (
 )
 
 game (
-	comment "Popeye (Brazil)"
+	comment "Popeye (Brazil) (En)"
 	developer "Magnavox"
 	rom (
 		crc 1B188870
@@ -524,7 +524,7 @@ game (
 )
 
 game (
-	comment "Power Lords (USA) (Alt 1)"
+	comment "Power Lords (USA) (Alt)"
 	developer "Magnavox"
 	rom (
 		crc 3351FEDA
@@ -572,7 +572,7 @@ game (
 )
 
 game (
-	comment "Skiing (France)"
+	comment "Faire du ski (France)"
 	developer "Magnavox"
 	rom (
 		crc E129490D
@@ -660,7 +660,7 @@ game (
 )
 
 game (
-	comment "Wall Street (Brazil)"
+	comment "Wall Street (Brazil) (En)"
 	developer "Magnavox"
 	rom (
 		crc 228842DF

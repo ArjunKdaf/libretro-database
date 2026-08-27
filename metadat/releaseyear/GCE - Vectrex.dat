@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Armor..Attack (World)"
+	comment "Armor Attack (World)"
 	releaseyear "1982"
 	rom ( crc B7510971 )
 )
@@ -34,7 +34,7 @@ game (
 )
 
 game (
-	comment "Berzerk (World)"
+	comment "Berzerk (USA)"
 	releaseyear "1982"
 	rom ( crc EAFE2455 )
 )

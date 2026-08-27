@@ -4,19 +4,19 @@ clrmamepro (
 )
 
 game (
-	comment "Daimakaimura (Japan)"
+	comment "Daimakaimura (Japan) (En)"
 	publisher "NEC"
 	rom ( crc B486A8ED )
 )
 
 game (
-	comment "Madou King Granzort (Japan)"
+	comment "Madou King Granzort (Japan) (En)"
 	publisher "Hudson"
 	rom ( crc 1F041166 )
 )
 
 game (
-	comment "Battle Ace (Japan)"
+	comment "Battle Ace (Japan) (En)"
 	publisher "Hudson"
 	rom ( crc 3B13AF61 )
 )
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Aldynes - The Misson Code for Rage Crisis (Japan)"
+	comment "Aldynes - The Misson Code for Rage Crisis (Japan) (En)"
 	publisher "Hudson"
 	rom ( crc 4C2126B0 )
 )

@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "A.E. (USA) (Proto)"
+	comment "A.E. (USA) (Proto 1)"
 	genre "Shooter"
 	rom ( crc 35484751 )
 )
@@ -34,13 +34,13 @@ game (
 )
 
 game (
-	comment "Battlezone (USA) (Proto)"
+	comment "Battlezone (USA) (Proto 1)"
 	genre "Action"
 	rom ( crc B3B8E314 )
 )
 
 game (
-	comment "Barroom Baseball (USA) (Proto)"
+	comment "Barroom Baseball (USA) (Proto 1)"
 	genre "Sports"
 	rom ( crc 21D19C8F )
 )
@@ -70,7 +70,7 @@ game (
 )
 
 game (
-	comment "Black Belt (USA) (Proto)"
+	comment "Black Belt (USA) (Proto 3)"
 	genre "Fighting"
 	rom ( crc ED47B0D8 )
 )
@@ -106,13 +106,13 @@ game (
 )
 
 game (
-	comment "Castle Blast (USA) (Unl)"
+	comment "Castle Blast (USA)"
 	genre "Action"
 	rom ( crc 7C988054 )
 )
 
 game (
-	comment "Castle Crisis (USA) (Unl)"
+	comment "Castle Crisis (USA)"
 	genre "Action"
 	rom ( crc D50E4061 )
 )
@@ -256,7 +256,7 @@ game (
 )
 
 game (
-	comment "Koffi - Yellow Kopter (USA) (Unl)"
+	comment "Koffi - Yellow Kopter (USA)"
 	genre "Action"
 	rom ( crc 917BE656 )
 )
@@ -412,7 +412,7 @@ game (
 )
 
 game (
-	comment "RealSports Basketball (USA)"
+	comment "RealSports Basketball (USA) (Proto)"
 	genre "Sports"
 	rom ( crc DD217276 )
 )
@@ -424,7 +424,7 @@ game (
 )
 
 game (
-	comment "RealSports Basketball (USA) (Proto) (1983-10-31)"
+	comment "RealSports Basketball (USA) (Proto)"
 	genre "Sports"
 	rom ( crc C90196FA )
 )
@@ -496,7 +496,7 @@ game (
 )
 
 game (
-	comment "Stargate (USA) (Proto)"
+	comment "Stargate (USA) (Proto 3)"
 	genre "Shoot'em Up"
 	rom ( crc 1D1CEE27 )
 )
@@ -514,7 +514,7 @@ game (
 )
 
 game (
-	comment "Super Pacman (USA) (Proto) (Alt)"
+	comment "Super Pac-Man (USA) (Proto) (Final)"
 	genre "Action"
 	rom ( crc FD8F0CD4 )
 )
@@ -550,7 +550,7 @@ game (
 )
 
 game (
-	comment "Xevious (USA) (Proto)"
+	comment "Xevious (USA) (Proto) (Unknown)"
 	genre "Shooter"
 	rom ( crc 382634DC )
 )

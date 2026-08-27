@@ -106,7 +106,7 @@ game (
 )
 
 game (
-	comment "Super Pacman (USA) (Proto) (Alt)"
+	comment "Super Pac-Man (USA) (Proto) (Final)"
 	franchise "Pac-Man"
 	rom ( crc FD8F0CD4 )
 )

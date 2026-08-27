@@ -208,7 +208,7 @@ game (
 )
 
 game (
-	comment "Pachi-slot Aruze Oukoku - Porcano 2 (Japan)"
+	comment "Pachi-Slot Aruze Oukoku - Porcano 2 (Japan)"
 	releasemonth "7"
 	rom ( crc 96DDFBE3 )
 )

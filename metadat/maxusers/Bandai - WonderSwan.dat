@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "beat mania for WonderSwan (Japan)"
+	comment "beatmania for WonderSwan (Japan)"
 	users 2
 	rom ( crc 324622C9 )
 )

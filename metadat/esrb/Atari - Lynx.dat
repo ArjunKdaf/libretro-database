@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Alien vs Predator (USA) (Proto) (1993-12-17)"
+	comment "Alien vs Predator (Europe) (Proto)"
 	esrb_rating "T"
 	rom ( crc 540E9BB7 )
 )
@@ -22,13 +22,13 @@ game (
 )
 
 game (
-	comment "Blue Lightning (USA, Europe)"
+	comment "Blue Lightning (World)"
 	esrb_rating "T"
 	rom ( crc DAF587B1 )
 )
 
 game (
-	comment "Chip's Challenge (USA, Europe)"
+	comment "Chip's Challenge (World)"
 	esrb_rating "E"
 	rom ( crc 6A5F53ED )
 )
@@ -40,13 +40,13 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man (USA, Europe)"
+	comment "Ms. Pac-Man (World)"
 	esrb_rating "E"
 	rom ( crc 7DE3783A )
 )
 
 game (
-	comment "Paperboy (USA, Europe)"
+	comment "Paperboy (World)"
 	esrb_rating "E"
 	rom ( crc 4CDFBD57 )
 )
@@ -58,13 +58,13 @@ game (
 )
 
 game (
-	comment "Zaku (USA) (Unl)"
+	comment "Zaku (World)"
 	esrb_rating "E"
 	rom ( crc 4EA845DA )
 )
 
 game (
-	comment "Zaku (USA) (Beta) (Unl)"
+	comment "Zaku (World) (Beta)"
 	esrb_rating "E"
 	rom ( crc B3747C71 )
 )

@@ -429,12 +429,6 @@ game (
 game (
 	name "Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko)"
 	region "Europe"
-	serial "UCES-00423"
-	rom ( name "Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko).iso" size 1121026048 crc 55FD9AB2 md5 FF092F3BF00794E67194CD4926E1F99C sha1 5DB575B0D5B942006D27208DAD5F3BA54862ACF6 serial "UCES-00423" )
-)
-game (
-	name "Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko)"
-	region "Europe"
 	serial "UCES-00423/P"
 	rom ( name "Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko).iso" size 1121026048 crc 55FD9AB2 md5 FF092F3BF00794E67194CD4926E1F99C sha1 5DB575B0D5B942006D27208DAD5F3BA54862ACF6 serial "UCES-00423/P" )
 )
@@ -3106,12 +3100,6 @@ game (
 	rom ( name "Coded Arms - Contagion (Europe) (En,Fr,De,Es,It).iso" size 604241920 crc 37A93E82 md5 B0A5541DEA88FBB0A0B0B059B25EBDF2 sha1 08BBEEC07D16D7C284BE5D6DDE30DC0DD485D7AA serial "ULES-00718" )
 )
 game (
-	name "Coded Arms - Contagion (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00718"
-	rom ( name "Coded Arms - Contagion (Europe) (En,Fr,De,Es,It).iso" size 604241920 crc 37A93E82 md5 B0A5541DEA88FBB0A0B0B059B25EBDF2 sha1 08BBEEC07D16D7C284BE5D6DDE30DC0DD485D7AA serial "ULES-00718" )
-)
-game (
 	name "Coded Arms - Contagion (Japan)"
 	region "Japan"
 	serial "ULJM-05243"
@@ -4443,12 +4431,6 @@ game (
 game (
 	name "Disney-Pixar Cars (Europe)"
 	region "Europe"
-	serial "ULES-00319"
-	rom ( name "Disney-Pixar Cars (Europe).iso" size 906362880 crc B0B30775 md5 9B38032135DF563C208F6DD7A6DA2F52 sha1 B8019EADB6B0CDDC8954DFE94589E25D2DD42F37 serial "ULES-00319" )
-)
-game (
-	name "Disney-Pixar Cars (Europe)"
-	region "Europe"
 	serial "ULES-00319/P"
 	rom ( name "Disney-Pixar Cars (Europe).iso" size 906362880 crc B0B30775 md5 9B38032135DF563C208F6DD7A6DA2F52 sha1 B8019EADB6B0CDDC8954DFE94589E25D2DD42F37 serial "ULES-00319/P" )
 )
@@ -4499,12 +4481,6 @@ game (
 	region "Portugal"
 	serial "ULES-00320"
 	rom ( name "Disney-Pixar Cars (Portugal).iso" size 906362880 crc D1F2BC99 md5 5F0E1DDED297C060FDF53E41BAA8D696 sha1 72B4F400503567AC14853C1567B5A4D30419783F serial "ULES-00320" )
-)
-game (
-	name "Disney-Pixar Cars (Spain)"
-	region "Spain"
-	serial "ULES-00324"
-	rom ( name "Disney-Pixar Cars (Spain).iso" size 906362880 crc A154278E md5 A4A482E5E8006989AB309DBAEDC903B0 sha1 92EA4A90CEEE3C17ED5C2B1BAAD8B4037F431D6D serial "ULES-00324" )
 )
 game (
 	name "Disney-Pixar Cars (Spain)"
@@ -4769,12 +4745,6 @@ game (
 	region "Italy"
 	serial "ULES-01080"
 	rom ( name "Disney-Pixar WALL-E (Italy).iso" size 632553472 crc A5D370DD md5 08D3458911C2EF76A75CE4839EEEDC86 sha1 69CACE682DF04092E501E16ADB139459DDB78CEA serial "ULES-01080" )
-)
-game (
-	name "Disney-Pixar WALL-E (Russia)"
-	region "Russia"
-	serial "ULES-01081"
-	rom ( name "Disney-Pixar WALL-E (Russia).iso" size 640811008 crc BA832579 md5 E8B41C517700CEC435F72F7FBD9E7B73 sha1 81286BCC983A1674016FBCF1CAFAFD2627667548 serial "ULES-01081" )
 )
 game (
 	name "Disney-Pixar WALL-E (Russia)"
@@ -6407,12 +6377,6 @@ game (
 	region "Japan"
 	serial "ULJM-05911"
 	rom ( name "FIFA 11 - World Class Soccer (Japan).iso" size 1261043712 crc 8E78C297 md5 FC45FD9193042A5834728A0BBBC06288 sha1 0036558C3070E1045BFC3C6F8B7A491EACA60B9D serial "ULJM-05911" )
-)
-game (
-	name "FIFA 12 (Europe)"
-	region "Europe"
-	serial "ULES-01543"
-	rom ( name "FIFA 12 (Europe).iso" size 1293582336 crc A7DD3062 md5 BA7414E06B807CC2F61F9F792368F102 sha1 2F576BA77059B63BFA692310FB90CE2F32C47652 serial "ULES-01543" )
 )
 game (
 	name "FIFA 12 (Europe)"
@@ -8085,12 +8049,6 @@ game (
 	rom ( name "Godfather, The (Europe) (En,Nl,Pl).iso" size 1442742272 crc A4E9C258 md5 27E31CE887DDCBE18A95B85360461CB2 sha1 DEAF7667BBE40C6F0448BBEC8B37473A58D28AF8 serial "ULES-00394" )
 )
 game (
-	name "Godfather, The (Europe) (En,Nl,Pl)"
-	region "Europe"
-	serial "ULES-00394"
-	rom ( name "Godfather, The (Europe) (En,Nl,Pl).iso" size 1442742272 crc A4E9C258 md5 27E31CE887DDCBE18A95B85360461CB2 sha1 DEAF7667BBE40C6F0448BBEC8B37473A58D28AF8 serial "ULES-00394" )
-)
-game (
 	name "Godfather, The - Mob Wars (Asia)"
 	region "Asia"
 	serial "ULAS-42054"
@@ -8319,12 +8277,6 @@ game (
 	rom ( name "Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 1255243776 crc 824B2938 md5 04C3E22762121CA59E8D6B83A0855211 sha1 BE971BD5A7400FD09FD52BC053D1F8BE77D18B74 serial "ULES-00151" )
 )
 game (
-	name "Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v2.00)"
-	region "Europe"
-	serial "ULES-00151"
-	rom ( name "Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 1255243776 crc 824B2938 md5 04C3E22762121CA59E8D6B83A0855211 sha1 BE971BD5A7400FD09FD52BC053D1F8BE77D18B74 serial "ULES-00151" )
-)
-game (
 	name "Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v3.00)"
 	region "Europe"
 	serial "ULES-00151"
@@ -8347,12 +8299,6 @@ game (
 	region "Germany"
 	serial "ULES-00182"
 	rom ( name "Grand Theft Auto - Liberty City Stories (Germany) (v1.00).iso" size 1255243776 crc 7EE89C69 md5 6AC9AD3B95E5EF96068D101C1B991BD7 sha1 50F3464253F40C01A87BCD6A8DBF10BAE7CD6836 serial "ULES-00182" )
-)
-game (
-	name "Grand Theft Auto - Liberty City Stories (Germany) (v2.00)"
-	region "Germany"
-	serial "ULES-00182"
-	rom ( name "Grand Theft Auto - Liberty City Stories (Germany) (v2.00).iso" size 1255243776 crc D0A1C0F5 md5 CF7947456EA763ECF8E330AD428A7F3D sha1 F3FF2DC3E07CF9B377B432E03BC880079D268808 serial "ULES-00182" )
 )
 game (
 	name "Grand Theft Auto - Liberty City Stories (Germany) (v2.00)"
@@ -11671,12 +11617,6 @@ game (
 	rom ( name "LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da).iso" size 1241153536 crc A7EF30F6 md5 AE086DF7BF21A7063F11E61C840D5690 sha1 10AD72F71AA05F0A3F20176C35F414660FB43631 serial "ULES-01086" )
 )
 game (
-	name "LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)"
-	region "Europe"
-	serial "ULES-01086"
-	rom ( name "LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da).iso" size 1241153536 crc A7EF30F6 md5 AE086DF7BF21A7063F11E61C840D5690 sha1 10AD72F71AA05F0A3F20176C35F414660FB43631 serial "ULES-01086" )
-)
-game (
 	name "LEGO Indiana Jones - The Original Adventures (USA) (En,Fr,Es)"
 	region "USA"
 	serial "ULUS-10365"
@@ -11795,12 +11735,6 @@ game (
 	region "USA"
 	serial "ULUS-10253"
 	rom ( name "Lara Croft Tomb Raider - Anniversary (USA) (En,Fr,De,Es,It).iso" size 1291190272 crc 900933E3 md5 AD1AB0CFC2948FC789D27CA6B6300A37 sha1 7B15585AE53E0835B4274ED674588E96A21444F7 serial "ULUS-10253" )
-)
-game (
-	name "Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00283"
-	rom ( name "Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It).iso" size 1515028480 crc 09D3414B md5 A3140E419800A92188426FDDAEB226D6 sha1 0499A2E3A0F73501001C61C4CA1DE0B855390DCE serial "ULES-00283" )
 )
 game (
 	name "Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)"
@@ -12449,12 +12383,6 @@ game (
 	region "Korea"
 	serial "UCKS-45150"
 	rom ( name "MLB 10 - The Show (Korea).iso" size 1451032576 crc FA46AD2D md5 29650CF3B1384763891471C36760C59B sha1 2E2455FE600133C77B985669642CA9DA93FB802D serial "UCKS-45150" )
-)
-game (
-	name "MLB 10 - The Show (USA)"
-	region "USA"
-	serial "UCUS-98742"
-	rom ( name "MLB 10 - The Show (USA).iso" size 1451032576 crc FB165CAE md5 429AF9E0BFD61DCE6B9B3EE0A04035D6 sha1 B8CACE100318EC55EB0ABD04A25B0D7229C298D6 serial "UCUS-98742" )
 )
 game (
 	name "MLB 10 - The Show (USA)"
@@ -13611,12 +13539,6 @@ game (
 game (
 	name "Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "ULES-00645"
-	rom ( name "Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It).iso" size 1568440320 crc F461C537 md5 251B1E18F3BA0A331C65417D7DBFEB72 sha1 2171CD736AF5CA3D9F1E7779F941529BBC96D7DC serial "ULES-00645" )
-)
-game (
-	name "Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "ULES-00645/7061831"
 	rom ( name "Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It).iso" size 1568440320 crc F461C537 md5 251B1E18F3BA0A331C65417D7DBFEB72 sha1 2171CD736AF5CA3D9F1E7779F941529BBC96D7DC serial "ULES-00645/7061831" )
 )
@@ -13832,12 +13754,6 @@ game (
 	region "USA"
 	serial "ULUS-10383"
 	rom ( name "Midnight Club - L.A. Remix (USA).iso" size 938213376 crc AC5CCBEB md5 25E6E4DAAF71FDC693284D38CDD5D250 sha1 5A543FBB7B335F1486A9EC5007B484D227E7D614 serial "ULUS-10383" )
-)
-game (
-	name "Midnight Club 3 - DUB Edition (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00108"
-	rom ( name "Midnight Club 3 - DUB Edition (Europe) (En,Fr,De,Es,It).iso" size 1643380736 crc 2C57A623 md5 211D246F47C87723CDBF3C0A4D1649EF sha1 73F1ED9C6BA8B97227CA25564C0FC3A8D3B7775D serial "ULES-00108" )
 )
 game (
 	name "Midnight Club 3 - DUB Edition (Europe) (En,Fr,De,Es,It)"
@@ -14561,12 +14477,6 @@ game (
 	region "USA"
 	serial "ULUS-10211"
 	rom ( name "Monster Kingdom - Jewel Summoner (USA).iso" size 531726336 crc 0DE75769 md5 88A37060AB3B9452A9D9CDA11FB398B0 sha1 0AD1C0E049444E744582F22DB83571B0F027B33A serial "ULUS-10211" )
-)
-game (
-	name "Mortal Kombat - Unchained (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00353"
-	rom ( name "Mortal Kombat - Unchained (Europe) (En,Fr,De,Es,It).iso" size 1439170560 crc 0A76110A md5 AA8873E87E1C9924FBB22B6F93E10DE0 sha1 493486AEBB6E041D63AE56B2D1105352D5954A85 serial "ULES-00353" )
 )
 game (
 	name "Mortal Kombat - Unchained (Europe) (En,Fr,De,Es,It)"
@@ -15479,12 +15389,6 @@ game (
 	region "USA"
 	serial "ULUS-10518"
 	rom ( name "Naruto Shippuden - Ultimate Ninja Heroes 3 (USA).iso" size 1360363520 crc 2617678E md5 FF0C5ACAA68CD9EDE1970C511E9A54BD sha1 6C909C770564ADBC0966EA6C75A317D9174F4A8C serial "ULUS-10518" )
-)
-game (
-	name "Naruto Shippuden - Ultimate Ninja Impact (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-01537"
-	rom ( name "Naruto Shippuden - Ultimate Ninja Impact (Europe) (En,Fr,De,Es,It).iso" size 1073577984 crc 6DDFC31E md5 0A0F2DA550F85D90EC1348CB48FC0485 sha1 07558F3D00F424B0DD0E081038F5E1262C61184D serial "ULES-01537" )
 )
 game (
 	name "Naruto Shippuden - Ultimate Ninja Impact (Europe) (En,Fr,De,Es,It)"
@@ -17968,12 +17872,6 @@ game (
 	region "USA"
 	serial "ULUS-10120"
 	rom ( name "Puzzle Challenge - Crosswords and More! (USA).iso" size 88178688 crc 2299F5C3 md5 43DD9DFC4A876A5E4AD538218172D613 sha1 C5D514562905B39A53C9CF6BE8C787560337710C serial "ULUS-10120" )
-)
-game (
-	name "Puzzle Chronicles (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-01356"
-	rom ( name "Puzzle Chronicles (Europe) (En,Fr,De,Es,It).iso" size 402948096 crc DB2E9D23 md5 41F35AB3CE1096952610E0ED593934A1 sha1 7CA5BF5E1BB36CB6E3006D89364B605144A58E77 serial "ULES-01356" )
 )
 game (
 	name "Puzzle Chronicles (Europe) (En,Fr,De,Es,It)"
@@ -20558,12 +20456,6 @@ game (
 	rom ( name "Simpsons, Die - Das Spiel (Germany).iso" size 776798208 crc BF9151EF md5 076705A156DF98C34127C47E78CCF70F sha1 86BB2CB492B0911716B634A5F8DC3CFA5EC6D965 serial "ULES-00978" )
 )
 game (
-	name "Simpsons, Die - Das Spiel (Germany)"
-	region "Germany"
-	serial "ULES-00978"
-	rom ( name "Simpsons, Die - Das Spiel (Germany).iso" size 776798208 crc BF9151EF md5 076705A156DF98C34127C47E78CCF70F sha1 86BB2CB492B0911716B634A5F8DC3CFA5EC6D965 serial "ULES-00978" )
-)
-game (
 	name "Sims 2, The (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "ULES-00211"
@@ -21332,12 +21224,6 @@ game (
 	rom ( name "Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,Es).iso" size 1486159872 crc 5F6EEB74 md5 AF0EE09341753223E92BA38FE9691D7B sha1 C0B07A65ECA759FA95FEBB0B330AB7584241965D serial "ULES-01284" )
 )
 game (
-	name "Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,Es)"
-	region "Europe"
-	serial "ULES-01284"
-	rom ( name "Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,Es).iso" size 1486159872 crc 5F6EEB74 md5 AF0EE09341753223E92BA38FE9691D7B sha1 C0B07A65ECA759FA95FEBB0B330AB7584241965D serial "ULES-01284" )
-)
-game (
 	name "Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,Es)"
 	region "USA"
 	serial "ULUS-10477"
@@ -21348,12 +21234,6 @@ game (
 	region "Europe"
 	serial "ULES-00981"
 	rom ( name "Star Wars - The Force Unleashed (Europe) (En,Es,It).iso" size 1397489664 crc 556834CE md5 2F4529CA279344CA996D1FD132959E7F sha1 F8588146917BF24805D1A220A028A99F78018B71 serial "ULES-00981" )
-)
-game (
-	name "Star Wars - The Force Unleashed (Europe) (Fr,De)"
-	region "Europe"
-	serial "ULES-00982"
-	rom ( name "Star Wars - The Force Unleashed (Europe) (Fr,De).iso" size 1287684096 crc EB3881B3 md5 C74AC0C373A0D4AF529F51B6BECD425E sha1 F8C558F9D52DFCC62C4FCE95B3E038FDA888FDAC serial "ULES-00982" )
 )
 game (
 	name "Star Wars - The Force Unleashed (Europe) (Fr,De)"
@@ -22211,12 +22091,6 @@ game (
 	rom ( name "Tales of Eternia (Europe) (v2.02).iso" size 666894336 crc 7099C9D5 md5 F6B0CA760A807BA3616DBBEC1BD992CF sha1 925458F647402CD61A3756123FF2308741135FB7 serial "ULES-00176" )
 )
 game (
-	name "Tales of Eternia (Europe) (v2.02)"
-	region "Europe"
-	serial "ULES-00176"
-	rom ( name "Tales of Eternia (Europe) (v2.02).iso" size 666894336 crc 7099C9D5 md5 F6B0CA760A807BA3616DBBEC1BD992CF sha1 925458F647402CD61A3756123FF2308741135FB7 serial "ULES-00176" )
-)
-game (
 	name "Tales of Eternia (Japan)"
 	region "Japan"
 	serial "ULJS-00015"
@@ -22555,12 +22429,6 @@ game (
 game (
 	name "Tekken - Dark Resurrection (Europe, Australia) (En,Fr,De,Es,It) (v2.00)"
 	region "Europe"
-	serial "UCES-00356"
-	rom ( name "Tekken - Dark Resurrection (Europe, Australia) (En,Fr,De,Es,It) (v2.00).iso" size 1791524864 crc A401C076 md5 D4D260CB51467F5DCB59D6071B4DFDAD sha1 E3DCAD724C175D6C2DE88CD3E3652B7E2E4D5A11 serial "UCES-00356" )
-)
-game (
-	name "Tekken - Dark Resurrection (Europe, Australia) (En,Fr,De,Es,It) (v2.00)"
-	region "Europe"
 	serial "UCES-00356/ANZ"
 	rom ( name "Tekken - Dark Resurrection (Europe, Australia) (En,Fr,De,Es,It) (v2.00).iso" size 1791524864 crc A401C076 md5 D4D260CB51467F5DCB59D6071B4DFDAD sha1 E3DCAD724C175D6C2DE88CD3E3652B7E2E4D5A11 serial "UCES-00356/ANZ" )
 )
@@ -22743,12 +22611,6 @@ game (
 	region "Japan"
 	serial "ULJM-05633"
 	rom ( name "Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban).iso" size 1811611648 crc F564C4B3 md5 3E813BF8752502FDF57BABAB07350535 sha1 92694A26724A6612838408FF1212549ADA8CE98D serial "ULJM-05633" )
-)
-game (
-	name "Test Drive Unlimited (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00637"
-	rom ( name "Test Drive Unlimited (Europe) (En,Fr,De,Es,It).iso" size 1537015808 crc F5A053D3 md5 2870F1EA032E6590D02C3B20103670F1 sha1 5C9FEE602918CB0392A927E5A60D484AB65843A9 serial "ULES-00637" )
 )
 game (
 	name "Test Drive Unlimited (Europe) (En,Fr,De,Es,It)"
@@ -24161,12 +24023,6 @@ game (
 	rom ( name "WWE SmackDown vs. Raw 2009 (Europe).iso" size 1563066368 crc BA69073E md5 E1E670DEA4C8BC84605923EAA05E82E0 sha1 183B558BA7917EFFC5A15839173EDC5AF177066E serial "ULES-01165" )
 )
 game (
-	name "WWE SmackDown vs. Raw 2009 (Europe)"
-	region "Europe"
-	serial "ULES-01165"
-	rom ( name "WWE SmackDown vs. Raw 2009 (Europe).iso" size 1563066368 crc BA69073E md5 E1E670DEA4C8BC84605923EAA05E82E0 sha1 183B558BA7917EFFC5A15839173EDC5AF177066E serial "ULES-01165" )
-)
-game (
 	name "WWE SmackDown vs. Raw 2009 (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "ULES-01166"
@@ -24336,12 +24192,6 @@ game (
 	region "USA"
 	serial "ULUS-10423"
 	rom ( name "Warriors Orochi 2 (USA) (En,Fr).iso" size 1808596992 crc C4863F05 md5 DB5B2107B07F4688860D531879E156BC sha1 C8728803E7664DD8513BBBE2EE5B864EC7DAFA36 serial "ULUS-10423" )
-)
-game (
-	name "Warriors of the Lost Empire (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "ULES-00924"
-	rom ( name "Warriors of the Lost Empire (Europe) (En,Fr,De,Es,It).iso" size 1754169344 crc 306C9625 md5 77B62B21EDCB6C9E2F5F564E9C9B0566 sha1 78E42E6DDF1E9664ABF25D2F59341B821B8D01F0 serial "ULES-00924" )
 )
 game (
 	name "Warriors of the Lost Empire (Europe) (En,Fr,De,Es,It)"

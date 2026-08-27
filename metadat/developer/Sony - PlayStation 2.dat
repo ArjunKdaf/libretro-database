@@ -40562,23 +40562,6 @@ game (
 )
 
 game (
-	name "Neo Angelique [Koei the Best] (Japan)"
-	serial "SLPM-66758"
-	description "Neo Angelique is a GxB dating sim video game developed by Ruby Party for Koei, released on March 4th, 2006 on PlayStation 2. It was re-released as Neo Angelique Full Voice for PlayStation 2 on March 27th, 2008 and as Neo Angelique Special for PlayStation Portable on September 20th, 2008."
-	developer "Ruby Party"
-	publisher "Koei"
-	releaseyear "2007"
-	releasemonth "4"
-	releaseday "5"
-	users "1"
-	genre "Adventure"
-	rom (
-		serial "SLPM-66758"
-		name "Neo Angelique [Koei the Best] (Japan).cue"
-	)
-)
-
-game (
 	name "Neo Angelique Full Voice (Japan)"
 	serial "SLPM-66956"
 	description "Neo Angelique is a GxB dating sim video game developed by Ruby Party for Koei, released on March 4th, 2006 on PlayStation 2. It was re-released as Neo Angelique Full Voice for PlayStation 2 on March 27th, 2008 and as Neo Angelique Special for PlayStation Portable on September 20th, 2008."

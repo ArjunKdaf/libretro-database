@@ -410,12 +410,6 @@ game (
 	rom ( name "21 Card Games (Europe, Australia).bin" size 61149648 crc B9F41C34 md5 EF5CF69B894E3412B4CCAA6B9C39D79F sha1 E5912CD7D8D62F9F7ED3E762FECAB9218EE8683B serial "SLES-53357" )
 )
 game (
-	name "21 Card Games (Europe, Australia)"
-	region "Europe"
-	serial "SLES-53357"
-	rom ( name "21 Card Games (Europe, Australia).bin" size 61149648 crc B9F41C34 md5 EF5CF69B894E3412B4CCAA6B9C39D79F sha1 E5912CD7D8D62F9F7ED3E762FECAB9218EE8683B serial "SLES-53357" )
-)
-game (
 	name "24 - The Game (Europe) (En,Fr,De,Es,It,Pl,Cs,Hu) (Beta)"
 	releaseyear "2005"
 	releasemonth "11"
@@ -435,12 +429,6 @@ game (
 	region "Europe"
 	serial "SCES-53358/ANZ"
 	rom ( name "24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v1.00).iso" size 6225395712 crc D2372C00 md5 FA2C90A0A173C0299DC1447F868C013A sha1 4EFE98592FD52E00B89F934DCE31FD8FB976939D serial "SCES-53358/ANZ" )
-)
-game (
-	name "24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00)"
-	region "Europe"
-	serial "SCES-53358"
-	rom ( name "24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00).iso" size 6219333632 crc A3840759 md5 75DA8914131DD39581C4104C8D00C9D1 sha1 BC86C4C6735F2AE908E6BDC8A4EB74FFCF97F266 serial "SCES-53358" )
 )
 game (
 	name "24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00)"
@@ -1271,12 +1259,6 @@ game (
 game (
 	name "Action Girlz Racing (Europe)"
 	region "Europe"
-	serial "SLES-52956"
-	rom ( name "Action Girlz Racing (Europe).bin" size 101808672 crc 0DE916B9 md5 79039E638F4F8516048D810FD3549C88 sha1 70FAFA2E932F527034DBBE825EBC0478572F2281 serial "SLES-52956" )
-)
-game (
-	name "Action Girlz Racing (Europe)"
-	region "Europe"
 	serial "SLES-529562"
 	rom ( name "Action Girlz Racing (Europe).bin" size 101808672 crc 0DE916B9 md5 79039E638F4F8516048D810FD3549C88 sha1 70FAFA2E932F527034DBBE825EBC0478572F2281 serial "SLES-529562" )
 )
@@ -1826,12 +1808,6 @@ game (
 	rom ( name "Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v1.20).bin" size 634807152 crc 46AD0ABA md5 E4B88206C668B0A40D7607DD109A9EFA sha1 F3C2FF8A47EC85AE812A2772A009D62B910FFEB3 serial "SLES-50282" )
 )
 game (
-	name "Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v1.20)"
-	region "Europe"
-	serial "SLES-50282"
-	rom ( name "Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v1.20).bin" size 634807152 crc 46AD0ABA md5 E4B88206C668B0A40D7607DD109A9EFA sha1 F3C2FF8A47EC85AE812A2772A009D62B910FFEB3 serial "SLES-50282" )
-)
-game (
 	name "Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00)"
 	region "Europe"
 	serial "SLES-50282"
@@ -1966,12 +1942,6 @@ game (
 	region "Europe"
 	serial "SLES-537723"
 	rom ( name "Air Raid 3 (Europe).bin" size 152875296 crc 1A293204 md5 D80251DEBD57D2270F3F73CF90EEF4A9 sha1 99C40717623976047BD6BDF7619ECD18316D8296 serial "SLES-537723" )
-)
-game (
-	name "Air Ranger - Rescue Helicopter (Europe)"
-	region "Europe"
-	serial "SLES-50953"
-	rom ( name "Air Ranger - Rescue Helicopter (Europe).bin" size 718604208 crc 01F47272 md5 71E5FC458754F1BF2422EAC009C0E416 sha1 77D8C078C16E76EFD6A60823E6C75041402D198A serial "SLES-50953" )
 )
 game (
 	name "Air Ranger - Rescue Helicopter (Europe)"
@@ -2235,12 +2205,6 @@ game (
 	rom ( name "Aliens Versus Predator - Extinction (Europe).bin" size 630194880 crc B66D4CBE md5 EB9B820347C995AC4390082E22689AF8 sha1 9EAD27BC5E486AF58D9507D414CD035EF6DC0D33 serial "SLES-51792" )
 )
 game (
-	name "Aliens Versus Predator - Extinction (Europe)"
-	region "Europe"
-	serial "SLES-51792"
-	rom ( name "Aliens Versus Predator - Extinction (Europe).bin" size 630194880 crc B66D4CBE md5 EB9B820347C995AC4390082E22689AF8 sha1 9EAD27BC5E486AF58D9507D414CD035EF6DC0D33 serial "SLES-51792" )
-)
-game (
 	name "Aliens Versus Predator - Extinction (Korea)"
 	region "Korea"
 	serial "SLKA-15020"
@@ -2353,12 +2317,6 @@ game (
 	region "Europe"
 	serial "SLES-54459"
 	rom ( name "All-Star Fighters (Europe).bin" size 281000496 crc 606843CA md5 C707470FC67CB8363EA5C1EFE75DDA07 sha1 C3613DFB8BF140BF7066269307BF019277AE58C8 serial "SLES-54459" )
-)
-game (
-	name "Alone in the Dark (Europe)"
-	region "Europe"
-	serial "SLES-54884"
-	rom ( name "Alone in the Dark (Europe).iso" size 3139076096 crc C3CA4B24 md5 245EC3CB77BE8D99059000F292B08BF7 sha1 34BA6FD25F5FDEE9F7C864BDEB3C358E81705DFF serial "SLES-54884" )
 )
 game (
 	name "Alone in the Dark (Europe)"
@@ -2807,12 +2765,6 @@ game (
 	rom ( name "Antz Extreme Racing (Europe) (En,Fr,De,Es,It).bin" size 581611968 crc E39557EF md5 C4B7C20DF29FF04269C89EA37A18D82E sha1 8E38FCF5504A23E40493B6D3C417BE41271AB22A serial "SLES-50964" )
 )
 game (
-	name "Antz Extreme Racing (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50964"
-	rom ( name "Antz Extreme Racing (Europe) (En,Fr,De,Es,It).bin" size 581611968 crc E39557EF md5 C4B7C20DF29FF04269C89EA37A18D82E sha1 8E38FCF5504A23E40493B6D3C417BE41271AB22A serial "SLES-50964" )
-)
-game (
 	name "Antz Extreme Racing (USA)"
 	region "USA"
 	serial "SLUS-20392"
@@ -2964,12 +2916,6 @@ game (
 	region "Italy"
 	serial "SCES-51103"
 	rom ( name "Ape Escape 2 (Italy).iso" size 1808859136 crc BFF57790 md5 32890AA9ED7B589410139EA3820CF7BB sha1 7BEAFB6DF07ADDB3E3AA4978B62B72AAE66EC884 serial "SCES-51103" )
-)
-game (
-	name "Ape Escape 2 (Spain)"
-	region "Spain"
-	serial "SCES-51105"
-	rom ( name "Ape Escape 2 (Spain).iso" size 1806336000 crc 837D41DF md5 A572F143E5815C5DFA3F453374A2E7BF sha1 23BC996BF8B88F163C90A5A43AA1A473E5B07264 serial "SCES-51105" )
 )
 game (
 	name "Ape Escape 2 (Spain)"
@@ -3763,12 +3709,6 @@ game (
 	rom ( name "Army Men - Sarge's Heroes 2 (Europe) (En,Fr,De,Es,It).iso" size 2378465280 crc E289FD88 md5 9C644005D81F62E419873E956A41F981 sha1 296E108FA891C535589670680E535C0ECB3B0101 serial "SLES-50192" )
 )
 game (
-	name "Army Men - Sarge's Heroes 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50192"
-	rom ( name "Army Men - Sarge's Heroes 2 (Europe) (En,Fr,De,Es,It).iso" size 2378465280 crc E289FD88 md5 9C644005D81F62E419873E956A41F981 sha1 296E108FA891C535589670680E535C0ECB3B0101 serial "SLES-50192" )
-)
-game (
 	name "Army Men - Sarge's Heroes 2 (USA)"
 	region "USA"
 	serial "SLUS-20132"
@@ -3809,12 +3749,6 @@ game (
 	region "Europe"
 	serial "SLES-54420"
 	rom ( name "Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size 4465426432 crc 80E2D610 md5 A761AE325BE7E579E49340F2689892B7 sha1 6DEF084773B0FDA4352C8510F6068FCCB159665F serial "SLES-54420" )
-)
-game (
-	name "Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl,Sv)"
-	region "Europe"
-	serial "SLES-54420-MINI"
-	rom ( name "Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size 4465426432 crc 80E2D610 md5 A761AE325BE7E579E49340F2689892B7 sha1 6DEF084773B0FDA4352C8510F6068FCCB159665F serial "SLES-54420-MINI" )
 )
 game (
 	name "Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl,Sv)"
@@ -4563,12 +4497,6 @@ game (
 game (
 	name "Baldur's Gate - Dark Alliance (Europe, Australia) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-50672"
-	rom ( name "Baldur's Gate - Dark Alliance (Europe, Australia) (En,Fr,De,Es,It).iso" size 3777429504 crc 217FF379 md5 CFE6E34F7DAD6D2B0D8110ACD6EF6C7B sha1 48193A3D66174C2A6088B56FA07CED848FC1C5B1 serial "SLES-50672" )
-)
-game (
-	name "Baldur's Gate - Dark Alliance (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-50672ANZ"
 	rom ( name "Baldur's Gate - Dark Alliance (Europe, Australia) (En,Fr,De,Es,It).iso" size 3777429504 crc 217FF379 md5 CFE6E34F7DAD6D2B0D8110ACD6EF6C7B sha1 48193A3D66174C2A6088B56FA07CED848FC1C5B1 serial "SLES-50672ANZ" )
 )
@@ -4601,12 +4529,6 @@ game (
 	region "Europe"
 	serial "SLES-52188"
 	rom ( name "Baldur's Gate - Dark Alliance II (Europe) (En,Es,It).iso" size 3698524160 crc CFD7BCA2 md5 7C51F23312C2C7FC51251C247BA5BC99 sha1 C5AD133F35D8D5129101C60CB9146E3660D4AFA6 serial "SLES-52188" )
-)
-game (
-	name "Baldur's Gate - Dark Alliance II (Europe, Australia) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-52187"
-	rom ( name "Baldur's Gate - Dark Alliance II (Europe, Australia) (En,Fr,De).iso" size 3694133248 crc BABB09DB md5 51A5921DDE93B23C277DE88EA490F5C1 sha1 7A82CCC8BE9A00DF461863DDEE3FD3167655D1FC serial "SLES-52187" )
 )
 game (
 	name "Baldur's Gate - Dark Alliance II (Europe, Australia) (En,Fr,De)"
@@ -4865,12 +4787,6 @@ game (
 	region "Japan"
 	serial "SLPS-25337"
 	rom ( name "Bass Landing 3 (Japan) (Sammy Best).iso" size 2008350720 crc A20F373B md5 DBBAEE0B2F6A8385B8EB912090522122 sha1 A48F8C82314DBF9A3CFFAF1D699440CD7EFF64D7 serial "SLPS-25337" )
-)
-game (
-	name "Bass Master Fishing (Europe)"
-	region "Europe"
-	serial "SLES-51862"
-	rom ( name "Bass Master Fishing (Europe).bin" size 270308304 crc 9A7D0073 md5 F2AC2329A9DB1A5A3A72B11571317039 sha1 4344EE12D12CAFC54DF39B323D7C4A3DFA1AFA56 serial "SLES-51862" )
 )
 game (
 	name "Bass Master Fishing (Europe)"
@@ -5431,12 +5347,6 @@ game (
 	region "USA"
 	serial "SLUS-21440"
 	rom ( name "Big Idea's VeggieTales - LarryBoy and the Bad Apple (USA).iso" size 1307770880 crc CA00E8B2 md5 CEFA556750EFEB0D8299388FECC992B5 sha1 5DB624030786B7D6528ACD89ACC22E2C654051AA serial "SLUS-21440" )
-)
-game (
-	name "Big Mutha Truckers (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51355"
-	rom ( name "Big Mutha Truckers (Europe) (En,Fr,De,Es,It).bin" size 704565120 crc DF9871A4 md5 83F7C65EF3F606C9D4DFCFA29628B65E sha1 334D8DE7E9565856B716410A9E311CB9DE7F9586 serial "SLES-51355" )
 )
 game (
 	name "Big Mutha Truckers (Europe) (En,Fr,De,Es,It)"
@@ -6577,12 +6487,6 @@ game (
 	rom ( name "Boxing Champions (Europe).bin" size 216285216 crc 92461300 md5 A606FC8E5393E709A5ADE977CC43E367 sha1 068DF0C388A540B5F3464668A7C0BEF1E2066279 serial "SLES-51717" )
 )
 game (
-	name "Boxing Champions (Europe)"
-	region "Europe"
-	serial "SLES-51717"
-	rom ( name "Boxing Champions (Europe).bin" size 216285216 crc 92461300 md5 A606FC8E5393E709A5ADE977CC43E367 sha1 068DF0C388A540B5F3464668A7C0BEF1E2066279 serial "SLES-51717" )
-)
-game (
 	name "Bratz - Forever Diamondz (Europe) (En,Fr)"
 	region "Europe"
 	serial "SLES-54342"
@@ -7197,12 +7101,6 @@ game (
 game (
 	name "Burnout 3 - Takedown (Europe, Australia) (En,Es,Nl,Sv)"
 	region "Europe"
-	serial "SLES-52584"
-	rom ( name "Burnout 3 - Takedown (Europe, Australia) (En,Es,Nl,Sv).iso" size 3631710208 crc 53706B0F md5 3E6E42E5ACA3FC42917DCDB40F7F2C21 sha1 154DE8A9E7C052C91C3A032952DE30E993D56220 serial "SLES-52584" )
-)
-game (
-	name "Burnout 3 - Takedown (Europe, Australia) (En,Es,Nl,Sv)"
-	region "Europe"
 	serial "SLES-52584-ANZ-P"
 	rom ( name "Burnout 3 - Takedown (Europe, Australia) (En,Es,Nl,Sv).iso" size 3631710208 crc 53706B0F md5 3E6E42E5ACA3FC42917DCDB40F7F2C21 sha1 154DE8A9E7C052C91C3A032952DE30E993D56220 serial "SLES-52584-ANZ-P" )
 )
@@ -7331,12 +7229,6 @@ game (
 	region "Europe"
 	serial "SLES-53506"
 	rom ( name "Burnout Revenge (Europe) (Es,It,Nl,Sv,Fi).iso" size 3346137088 crc E5F92797 md5 7403F93ED42A9F575A35BE6BDFE1B566 sha1 79907FD72BA330A35F4BD4A768F0D21D12611CD9 serial "SLES-53506" )
-)
-game (
-	name "Burnout Revenge (Europe, Australia) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-53507"
-	rom ( name "Burnout Revenge (Europe, Australia) (En,Fr,De).iso" size 3979935744 crc 310FB6A5 md5 6ADD8B05A0F26EB7CA36D6396CF8827B sha1 B7734018042B9280E0DE1F16721E4BC88FFE23BE serial "SLES-53507" )
 )
 game (
 	name "Burnout Revenge (Europe, Australia) (En,Fr,De)"
@@ -7526,12 +7418,6 @@ game (
 	region "Germany"
 	serial "SCES-54499/GER"
 	rom ( name "Buzz! Das Mega-Quiz (Germany).iso" size 4319739904 crc C0A50A59 md5 FF3F4787ECB55B8DFA5E3D838133340B sha1 1E0C9DEE501BDF3E5489E689E02F6E3C9C352EBE serial "SCES-54499/GER" )
-)
-game (
-	name "Buzz! Das Sport-Quiz (Germany)"
-	region "Germany"
-	serial "SCES-54259/GER"
-	rom ( name "Buzz! Das Sport-Quiz (Germany).iso" size 2824372224 crc 2F43DF50 md5 3C20B6101F651D03A7270584E38EA879 sha1 5295F33D1A7A5B84E6D78F38BB2CCEF64A3A1EA5 serial "SCES-54259/GER" )
 )
 game (
 	name "Buzz! Das Sport-Quiz (Germany)"
@@ -8295,12 +8181,6 @@ game (
 game (
 	name "CSI - Crime Scene Investigation (Europe, Australia) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-54465"
-	rom ( name "CSI - Crime Scene Investigation (Europe, Australia) (En,Fr,De,Es,It).iso" size 3296002048 crc DD3FB52B md5 047E2453557A013E204CD819172FD635 sha1 3796D9C41FFF9CB94DCD652D007BEC0D468A0EBB serial "SLES-54465" )
-)
-game (
-	name "CSI - Crime Scene Investigation (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-54465/AU"
 	rom ( name "CSI - Crime Scene Investigation (Europe, Australia) (En,Fr,De,Es,It).iso" size 3296002048 crc DD3FB52B md5 047E2453557A013E204CD819172FD635 sha1 3796D9C41FFF9CB94DCD652D007BEC0D468A0EBB serial "SLES-54465/AU" )
 )
@@ -8911,12 +8791,6 @@ game (
 	rom ( name "Carmen Sandiego - The Secret of the Stolen Drums (Europe) (En,Fr,De,Es).iso" size 4406804480 crc AD36A089 md5 50CE9DDD4EB3907750F7BEA532CA6F48 sha1 A128B594F854346752AE18E4045D7C483605AD7A serial "SLES-52143" )
 )
 game (
-	name "Carmen Sandiego - The Secret of the Stolen Drums (Europe) (En,Fr,De,Es)"
-	region "Europe"
-	serial "SLES-52143"
-	rom ( name "Carmen Sandiego - The Secret of the Stolen Drums (Europe) (En,Fr,De,Es).iso" size 4406804480 crc AD36A089 md5 50CE9DDD4EB3907750F7BEA532CA6F48 sha1 A128B594F854346752AE18E4045D7C483605AD7A serial "SLES-52143" )
-)
-game (
 	name "Carmen Sandiego - The Secret of the Stolen Drums (USA)"
 	region "USA"
 	serial "SLUS-20849"
@@ -9166,12 +9040,6 @@ game (
 	region "Japan"
 	serial "SLPM-62079"
 	rom ( name "Ce-Pa 2001 (Japan).bin" size 425958960 crc 68DA0C12 md5 029B628BDE15C6BFD43853F8976009D5 sha1 31F163C9323A334A8E38B3E01D8DA5A08B9CC612 serial "SLPM-62079" )
-)
-game (
-	name "Cel Damage Overdrive (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51554"
-	rom ( name "Cel Damage Overdrive (Europe) (En,Fr,De,Es,It).bin" size 391417488 crc A0573E06 md5 70BDC8C6B23733E8C2838AC3A169C28F sha1 16116FC881432B5ECCB0E09A9BF8A369B8B48371 serial "SLES-51554" )
 )
 game (
 	name "Cel Damage Overdrive (Europe) (En,Fr,De,Es,It)"
@@ -9446,12 +9314,6 @@ game (
 	rom ( name "Chess Challenger (Europe) (En,Fr,De,Es,It).bin" size 31298064 crc 27BBAB98 md5 BB3DFF626F1951E53510D28717C9A207 sha1 248CA2B99F16E45FE1096CD0C9AEA74E25090281 serial "SLES-51630" )
 )
 game (
-	name "Chess Challenger (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51630"
-	rom ( name "Chess Challenger (Europe) (En,Fr,De,Es,It).bin" size 31298064 crc 27BBAB98 md5 BB3DFF626F1951E53510D28717C9A207 sha1 248CA2B99F16E45FE1096CD0C9AEA74E25090281 serial "SLES-51630" )
-)
-game (
 	name "Chessmaster (Europe)"
 	region "Europe"
 	serial "SLES-51436"
@@ -9504,12 +9366,6 @@ game (
 	region "Korea"
 	serial "SLKA-15035"
 	rom ( name "Choeyugi Reload Gunlock (Korea).bin" size 731740128 crc 6D0A2BA6 md5 25AD097EF92E275E0FE091154C9D0079 sha1 CC8E4ECC5AFB6C2FD0A079DB3E86CA647ECC0E4D serial "SLKA-15035" )
-)
-game (
-	name "Choro Q (Europe)"
-	region "Europe"
-	serial "SLES-53140"
-	rom ( name "Choro Q (Europe).iso" size 3394174976 crc FA36D36A md5 A26C8B1D1536ECCDEDD507FAC168D681 sha1 61E378E0E2B05E32E5BF2FAD8AAA46527EEA9A40 serial "SLES-53140" )
 )
 game (
 	name "Choro Q (Europe)"
@@ -9850,12 +9706,6 @@ game (
 	region "Japan"
 	serial "SLPM-66981"
 	rom ( name "Clannad (Japan).iso" size 4147249152 crc 0A2D0021 md5 0D4A66D460CB757DDE52BB9A7047A543 sha1 A185A417BF8F4905B234F1081606062C002F0D80 serial "SLPM-66981" )
-)
-game (
-	name "Classic British Motor Racing (Europe)"
-	region "Europe"
-	serial "SLES-53614"
-	rom ( name "Classic British Motor Racing (Europe).bin" size 137427360 crc D3FACA06 md5 40C40EAE081730CB258F9542AA1AEE8B sha1 857AC162D115A54818C39936855537AB255061F7 serial "SLES-53614" )
 )
 game (
 	name "Classic British Motor Racing (Europe)"
@@ -10880,12 +10730,6 @@ game (
 	rom ( name "Countryside Bears (Europe) (En,Fr,De).bin" size 527981664 crc 03C600AE md5 5F41F59F19B93259EFF3E03B6019070E sha1 8111487211FE4D60930BE3052A7FC6BC15C42A79 serial "SLES-52291" )
 )
 game (
-	name "Countryside Bears (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-52291"
-	rom ( name "Countryside Bears (Europe) (En,Fr,De).bin" size 527981664 crc 03C600AE md5 5F41F59F19B93259EFF3E03B6019070E sha1 8111487211FE4D60930BE3052A7FC6BC15C42A79 serial "SLES-52291" )
-)
-game (
 	name "Covert Command (Europe)"
 	region "Europe"
 	serial "SLES-54568"
@@ -10991,12 +10835,6 @@ game (
 	region "Europe"
 	serial "SLES-50386"
 	rom ( name "Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v1.03).bin" size 601596912 crc 86AC0F3F md5 6000D5DE5A81D814AAD355A451685A84 sha1 BEBCAACEEBBB6A39209B07DAA689FB3B8523685F serial "SLES-50386" )
-)
-game (
-	name "Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v2.01)"
-	region "Europe"
-	serial "SLES-50386-P"
-	rom ( name "Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v2.01).bin" size 602516544 crc 5DECCFBD md5 1FF83FC2204C416594D10DD323127DCB sha1 72D27A5DF567D85C449A97A899460CA634EC35B1 serial "SLES-50386-P" )
 )
 game (
 	name "Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v2.01)"
@@ -11208,12 +11046,6 @@ game (
 	rom ( name "Crazy Frog Racer (Europe) (En,Fr,De,Es,It).bin" size 440713056 crc E128C1CE md5 0B60BA0EE8DF77EE82AC75ADF68B2A5F sha1 A481C6CA2791D9ABBB9E97D51EBF91AE82F62112 serial "SLES-53869" )
 )
 game (
-	name "Crazy Frog Racer (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-53869"
-	rom ( name "Crazy Frog Racer (Europe) (En,Fr,De,Es,It).bin" size 440713056 crc E128C1CE md5 0B60BA0EE8DF77EE82AC75ADF68B2A5F sha1 A481C6CA2791D9ABBB9E97D51EBF91AE82F62112 serial "SLES-53869" )
-)
-game (
 	name "Crazy Frog Racer 2 (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "SLES-54549"
@@ -11266,12 +11098,6 @@ game (
 	region "USA"
 	serial "SLUS-20202GH"
 	rom ( name "Crazy Taxi (USA) (Greatest Hits).bin" size 646524816 crc 39B5D535 md5 3E0E32CF73BF78604AFC0BA6F8124912 sha1 B25B2D4D02625C1D4B1EFB8C0C9452A6DF9B56E2 serial "SLUS-20202GH" )
-)
-game (
-	name "Crescent Suzuki Racing (Europe)"
-	region "Europe"
-	serial "SLES-52044"
-	rom ( name "Crescent Suzuki Racing (Europe).bin" size 147867888 crc 98400568 md5 6EF8A11CC68AEB9676CD27FA0AB426D4 sha1 B203409A697823E7C054501F1C9FEF45DB0E95AD serial "SLES-52044" )
 )
 game (
 	name "Crescent Suzuki Racing (Europe)"
@@ -12505,12 +12331,6 @@ game (
 	rom ( name "Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It).bin" size 483921648 crc E7836F80 md5 B04A363388CEF954B26E1B1222400D70 sha1 BC5B3ED4258B4BBBEFB7140DD0604B9E21929DBA serial "SLES-51510" )
 )
 game (
-	name "Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51510"
-	rom ( name "Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It).bin" size 483921648 crc E7836F80 md5 B04A363388CEF954B26E1B1222400D70 sha1 BC5B3ED4258B4BBBEFB7140DD0604B9E21929DBA serial "SLES-51510" )
-)
-game (
 	name "Dancing Stage SuperNova (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "SLES-54341"
@@ -12928,12 +12748,6 @@ game (
 	region "Europe"
 	serial "SLES-52507/GER"
 	rom ( name "Def Jam - Fight for NY (Europe, Australia) (En,Fr).iso" size 4695392256 crc DF686D1C md5 349CC8CA0FA90390FDA916CC6D51BE3A sha1 1BC3ABAB46BAB4B07F92BC7C5CA0258A39F615F3 serial "SLES-52507/GER" )
-)
-game (
-	name "Def Jam - Fight for NY (Europe, Australia) (En,Fr)"
-	region "Europe"
-	serial "SLES-52507"
-	rom ( name "Def Jam - Fight for NY (Europe, Australia) (En,Fr).iso" size 4695392256 crc DF686D1C md5 349CC8CA0FA90390FDA916CC6D51BE3A sha1 1BC3ABAB46BAB4B07F92BC7C5CA0258A39F615F3 serial "SLES-52507" )
 )
 game (
 	name "Def Jam - Fight for NY (Europe, Australia) (En,Fr)"
@@ -13739,12 +13553,6 @@ game (
 game (
 	name "Devil May Cry (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-50358"
-	rom ( name "Devil May Cry (Europe) (En,Fr,De,Es,It).iso" size 4698767360 crc 1E2CB571 md5 C9E2BBB6C39284E54D7627E84F1D2372 sha1 A5F92EFB772CBBD55F05A57D57B3DB5CA4DC55B1 serial "SLES-50358" )
-)
-game (
-	name "Devil May Cry (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-50358-P"
 	rom ( name "Devil May Cry (Europe) (En,Fr,De,Es,It).iso" size 4698767360 crc 1E2CB571 md5 C9E2BBB6C39284E54D7627E84F1D2372 sha1 A5F92EFB772CBBD55F05A57D57B3DB5CA4DC55B1 serial "SLES-50358-P" )
 )
@@ -14019,12 +13827,6 @@ game (
 	region "Europe"
 	serial "SLES-53038"
 	rom ( name "Devil May Cry 3 - Dante's Awakening (Europe) (En,Fr,De,Es,It).iso" size 3868426240 crc 74F19E9F md5 E58617A8084B57CCF32320720AA4D1C5 sha1 9F65160BF426C10895AEE9DAC228FA3255D438DC serial "SLES-53038" )
-)
-game (
-	name "Devil May Cry 3 - Dante's Awakening (Europe) (En,Fr,De,Es,It) (Special Edition)"
-	region "Europe"
-	serial "SLES-54186"
-	rom ( name "Devil May Cry 3 - Dante's Awakening (Europe) (En,Fr,De,Es,It) (Special Edition).iso" size 4499308544 crc 29554142 md5 DF371ED5FC5468C4CCF3E4A8CA3D02BF sha1 E73E771D0AA4E5D1C5F59CC24D51925320F0AE9A serial "SLES-54186" )
 )
 game (
 	name "Devil May Cry 3 - Dante's Awakening (Europe) (En,Fr,De,Es,It) (Special Edition)"
@@ -14767,12 +14569,6 @@ game (
 	rom ( name "Disney's Dinosaur (Europe) (En,Sv,No,Da,Fi).iso" size 1811054592 crc 7F329AFD md5 7966639E8569CB66FEE30512B5D15AC5 sha1 30DECC9B1E87DD2E519FD73EE31F39B431E5ABD1 serial "SLES-50043" )
 )
 game (
-	name "Disney's Dinosaur (Europe) (En,Sv,No,Da,Fi)"
-	region "Europe"
-	serial "SLES-50043"
-	rom ( name "Disney's Dinosaur (Europe) (En,Sv,No,Da,Fi).iso" size 1811054592 crc 7F329AFD md5 7966639E8569CB66FEE30512B5D15AC5 sha1 30DECC9B1E87DD2E519FD73EE31F39B431E5ABD1 serial "SLES-50043" )
-)
-game (
 	name "Disney's Dinosaur (Europe) (Fr,De,Es,It,Nl)"
 	region "Europe"
 	serial "SLES-50042"
@@ -14813,12 +14609,6 @@ game (
 	region "Japan"
 	serial "SLPS-20070"
 	rom ( name "Disney's Donald Duck - Rescue Daisakusen!! (Japan).bin" size 712446672 crc C8B50621 md5 D05A003250399EFA8AB90648EEFC5698 sha1 BEB6612686B9E31FA23EE0B9F8C4D74165C68277 serial "SLPS-20070" )
-)
-game (
-	name "Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50773"
-	rom ( name "Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It).bin" size 692125392 crc 342D6E04 md5 88C5CB66511D9AE39FAF021352AD502D sha1 C9B5F638A48D6D3F27FEB97CB71A9534D9FE170A serial "SLES-50773" )
 )
 game (
 	name "Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)"
@@ -14907,12 +14697,6 @@ game (
 	region "Europe"
 	serial "SCES-50966"
 	rom ( name "Disney's Stitch - Experiment 626 (Europe) (En,Sv).iso" size 3641409536 crc BEF1C394 md5 9F02ACE2F147996708E253D56674D0C8 sha1 A33220466AD54489E323A99955F9AB04C9E201B4 serial "SCES-50966" )
-)
-game (
-	name "Disney's Stitch - Experiment 626 (Europe) (Es,Pt)"
-	region "Europe"
-	serial "SCES-50959"
-	rom ( name "Disney's Stitch - Experiment 626 (Europe) (Es,Pt).iso" size 3612082176 crc 33FF81F1 md5 33A1353C2523C4425138E77CE1A73D35 sha1 7FB2819C721495DE9B1B0EA1A53EFCFFCD4C6BC5 serial "SCES-50959" )
 )
 game (
 	name "Disney's Stitch - Experiment 626 (Europe) (Es,Pt)"
@@ -15361,12 +15145,6 @@ game (
 	rom ( name "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy).iso" size 3095855104 crc 3B8FB30C md5 9179DE67D8D69C79EF4BB2F8E65B146F sha1 1410A04C4EB68C03AE2776AED85B0B4E8B10BAD3 serial "SCES-50601" )
 )
 game (
-	name "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy)"
-	region "Italy"
-	serial "SCES-50601"
-	rom ( name "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy).iso" size 3095855104 crc 3B8FB30C md5 9179DE67D8D69C79EF4BB2F8E65B146F sha1 1410A04C4EB68C03AE2776AED85B0B4E8B10BAD3 serial "SCES-50601" )
-)
-game (
 	name "Disney-Pixar Monsters en Co. - Schrik Eiland (Netherlands)"
 	region "Netherlands"
 	serial "SCES-50597"
@@ -15397,12 +15175,6 @@ game (
 	rom ( name "Disney-Pixar Monsters, Inc. - Scare Island (Europe, Australia).iso" size 3090907136 crc 203A376E md5 E1297A77A336BA5DBB67CA7F770B5CCD sha1 0CE1CEB71C6E9E33F4A2E84F5C500C450270FE62 serial "SCES-50595" )
 )
 game (
-	name "Disney-Pixar Monsters, Inc. - Scare Island (Europe, Australia)"
-	region "Europe"
-	serial "SCES-50595"
-	rom ( name "Disney-Pixar Monsters, Inc. - Scare Island (Europe, Australia).iso" size 3090907136 crc 203A376E md5 E1297A77A336BA5DBB67CA7F770B5CCD sha1 0CE1CEB71C6E9E33F4A2E84F5C500C450270FE62 serial "SCES-50595" )
-)
-game (
 	name "Disney-Pixar Monsters, Inc. - Skraemmaroen (Sweden)"
 	region "Sweden"
 	serial "SCES-50604"
@@ -15413,12 +15185,6 @@ game (
 	region "Denmark"
 	serial "SCES-50596"
 	rom ( name "Disney-Pixar Monsters, Inc. - Skraemmeoen (Denmark).iso" size 3095298048 crc F4B743D7 md5 6E9AED5CC6C74D9304275F4F4C8FCDDC sha1 9834B9F753605A670ED1FAB55EE25814EAE479FE serial "SCES-50596" )
-)
-game (
-	name "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France)"
-	region "France"
-	serial "SCES-50599"
-	rom ( name "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France).iso" size 3095724032 crc 33CA1EF9 md5 89E996476E52F56627A02696F7759EAB sha1 937A6AFA5D10EDF94037F8380C6BBBF2EDE6E846 serial "SCES-50599" )
 )
 game (
 	name "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France)"
@@ -15914,12 +15680,6 @@ game (
 	region "Europe"
 	serial "SLES-54838"
 	rom ( name "Donkey Xote (Europe) (En,Fr,De,Es,It).iso" size 3867279360 crc 10A06E95 md5 FF873EE2EB0F20B803949E2AF7DF4D30 sha1 387C318DA160E4F870C1419F06F76D080E835C01 serial "SLES-54838" )
-)
-game (
-	name "Doomsday Racers (Europe)"
-	region "Europe"
-	serial "SLES-53142"
-	rom ( name "Doomsday Racers (Europe).bin" size 159752544 crc 9D6570FE md5 00882FFF28C2515EBB9C342A12CEBFA2 sha1 7F433260C07BDFA2B44702BE58290F1F7C87DC3E serial "SLES-53142" )
 )
 game (
 	name "Doomsday Racers (Europe)"
@@ -17239,12 +16999,6 @@ game (
 game (
 	name "DreamWorks Shrek the Third (Europe) (En,Fr,De,Es,Nl)"
 	region "Europe"
-	serial "SLES-54771"
-	rom ( name "DreamWorks Shrek the Third (Europe) (En,Fr,De,Es,Nl).iso" size 1872920576 crc 7F37C75A md5 8330CD0F6CE96868DCC8F460E733D8CA sha1 55DFC8125020E2B5F2C351F7E6B8C26E2A0F0729 serial "SLES-54771" )
-)
-game (
-	name "DreamWorks Shrek the Third (Europe) (En,Fr,De,Es,Nl)"
-	region "Europe"
 	serial "SLES-54771/P"
 	rom ( name "DreamWorks Shrek the Third (Europe) (En,Fr,De,Es,Nl).iso" size 1872920576 crc 7F37C75A md5 8330CD0F6CE96868DCC8F460E733D8CA sha1 55DFC8125020E2B5F2C351F7E6B8C26E2A0F0729 serial "SLES-54771/P" )
 )
@@ -17641,12 +17395,6 @@ game (
 game (
 	name "Dynasty Warriors 3 (Europe) (En,Fr,De)"
 	region "Europe"
-	serial "SLES-50641"
-	rom ( name "Dynasty Warriors 3 (Europe) (En,Fr,De).iso" size 3029499904 crc B6DC2213 md5 C3D7B14934DE30A6C8EC3C8EE77167AA sha1 A0A1983D6D37C0093FC7082586309AE10D0F5B37 serial "SLES-50641" )
-)
-game (
-	name "Dynasty Warriors 3 (Europe) (En,Fr,De)"
-	region "Europe"
 	serial "SLES-506412"
 	rom ( name "Dynasty Warriors 3 (Europe) (En,Fr,De).iso" size 3029499904 crc B6DC2213 md5 C3D7B14934DE30A6C8EC3C8EE77167AA sha1 A0A1983D6D37C0093FC7082586309AE10D0F5B37 serial "SLES-506412" )
 )
@@ -17781,12 +17529,6 @@ game (
 	region "USA"
 	serial "SLUS-20812"
 	rom ( name "Dynasty Warriors 4 - Xtreme Legends (USA).iso" size 3620831232 crc E4FCF429 md5 4F9EAD5D1183E3BBBC9A6006B02C113B sha1 7B6FEC03F9A3D4151F5EFEFEE6BCE6C2244EA84F serial "SLUS-20812" )
-)
-game (
-	name "Dynasty Warriors 5 (Europe)"
-	region "Europe"
-	serial "SLES-53339"
-	rom ( name "Dynasty Warriors 5 (Europe).iso" size 3705012224 crc B5404305 md5 9E2A9635B61CE965CB19E235F4157F65 sha1 E854F57D8777BC55B3A3C1D57A48069873AA16A0 serial "SLES-53339" )
 )
 game (
 	name "Dynasty Warriors 5 (Europe)"
@@ -18426,12 +18168,6 @@ game (
 game (
 	name "Endgame (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-50936"
-	rom ( name "Endgame (Europe) (En,Fr,De,Es,It).iso" size 2900557824 crc E887DCA8 md5 8364B6299AF2A873F8990959934F3400 sha1 1BACA9AA3BB6FAC64C40AC09297B0EB01D295E7B serial "SLES-50936" )
-)
-game (
-	name "Endgame (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-509363"
 	rom ( name "Endgame (Europe) (En,Fr,De,Es,It).iso" size 2900557824 crc E887DCA8 md5 8364B6299AF2A873F8990959934F3400 sha1 1BACA9AA3BB6FAC64C40AC09297B0EB01D295E7B serial "SLES-509363" )
 )
@@ -18949,12 +18685,6 @@ game (
 	region "USA"
 	serial "SLUS-20598"
 	rom ( name "Everblue 2 (USA).bin" size 693553056 crc 381EAF16 md5 7F9B23B27BA753554AB42EE6A8B6068D sha1 4DFD264BC439107689494EEF223AA356C088D926 serial "SLUS-20598" )
-)
-game (
-	name "Evergrace (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50050"
-	rom ( name "Evergrace (Europe) (En,Fr,De,Es,It).iso" size 4536664064 crc 47820CB3 md5 31BB83A4909109A82A3840F18EA74BF0 sha1 C27F562B459323ED171C5A7F82B2587A0B140628 serial "SLES-50050" )
 )
 game (
 	name "Evergrace (Europe) (En,Fr,De,Es,It)"
@@ -19720,12 +19450,6 @@ game (
 	region "Europe"
 	serial "SCES-53315/P"
 	rom ( name "EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El).iso" size 3142844416 crc 1F865D43 md5 3C6D4D78588F4A3247F1C47EF74945DD sha1 427CCF1C7D17FD29C2052DE59BDC10B8FFEC5096 serial "SCES-53315/P" )
-)
-game (
-	name "EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El)"
-	region "Europe"
-	serial "SCES-53315/P/ANZ"
-	rom ( name "EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El).iso" size 3142844416 crc 1F865D43 md5 3C6D4D78588F4A3247F1C47EF74945DD sha1 427CCF1C7D17FD29C2052DE59BDC10B8FFEC5096 serial "SCES-53315/P/ANZ" )
 )
 game (
 	name "EyeToy - Play 3 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El)"
@@ -20698,12 +20422,6 @@ game (
 game (
 	name "FIFA Street (Europe) (En,Fr,De,Es,It,Nl,Sv)"
 	region "Europe"
-	serial "SLES-53064"
-	rom ( name "FIFA Street (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size 4698734592 crc EFD7E2FC md5 F9CFAED6251887EE17792F8B32D2E12F sha1 23F98299466EDC206BDF11407F4CB653BFC0E79C serial "SLES-53064" )
-)
-game (
-	name "FIFA Street (Europe) (En,Fr,De,Es,It,Nl,Sv)"
-	region "Europe"
 	serial "SLES-53064-P"
 	rom ( name "FIFA Street (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size 4698734592 crc EFD7E2FC md5 F9CFAED6251887EE17792F8B32D2E12F sha1 23F98299466EDC206BDF11407F4CB653BFC0E79C serial "SLES-53064-P" )
 )
@@ -21070,12 +20788,6 @@ game (
 	region "Europe"
 	serial "SLES-54616"
 	rom ( name "Fantastic Four - Rise of the Silver Surfer (Europe) (En,Fr,De,Es,It).iso" size 4363223040 crc 443FDA57 md5 5CC0E5F30B59FC9A805405440ABFFC8A sha1 F989A08D42882CD43930BB8D3503BE248D16AE28 serial "SLES-54616" )
-)
-game (
-	name "Fantastic Four - Rise of the Silver Surfer (Europe, Australia) (En,It)"
-	region "Europe"
-	serial "SLES-54776"
-	rom ( name "Fantastic Four - Rise of the Silver Surfer (Europe, Australia) (En,It).iso" size 4363223040 crc 2B78BB38 md5 63A9E45E94D7D56F0C7A7D918619C584 sha1 3E5C60A7396AFFE045C1312F16C8667ED6287FFF serial "SLES-54776" )
 )
 game (
 	name "Fantastic Four - Rise of the Silver Surfer (Europe, Australia) (En,It)"
@@ -21469,12 +21181,6 @@ game (
 	rom ( name "Fighting Fury (Europe).bin" size 695338224 crc 6211944F md5 C4618E2166EBB04EDE00A40B9FC3D934 sha1 18BF08AF6156603B0A56A0709A9E79B0704A3557 serial "SLES-51056" )
 )
 game (
-	name "Fighting Fury (Europe)"
-	region "Europe"
-	serial "SLES-51056"
-	rom ( name "Fighting Fury (Europe).bin" size 695338224 crc 6211944F md5 C4618E2166EBB04EDE00A40B9FC3D934 sha1 18BF08AF6156603B0A56A0709A9E79B0704A3557 serial "SLES-51056" )
-)
-game (
 	name "Fighting for One Piece (Japan)"
 	region "Japan"
 	serial "SLPS-25545"
@@ -21525,12 +21231,6 @@ game (
 game (
 	name "Final Fantasy X (Europe, Australia)"
 	region "Europe"
-	serial "SCES-50490"
-	rom ( name "Final Fantasy X (Europe, Australia).iso" size 4598169600 crc 6D78A9FF md5 BE60E1509C05231AE76144949E7BAB53 sha1 FDB6CA34F8402569234B1679896280B85A535BCE serial "SCES-50490" )
-)
-game (
-	name "Final Fantasy X (Europe, Australia)"
-	region "Europe"
 	serial "SCES-50490-ANZ"
 	rom ( name "Final Fantasy X (Europe, Australia).iso" size 4598169600 crc 6D78A9FF md5 BE60E1509C05231AE76144949E7BAB53 sha1 FDB6CA34F8402569234B1679896280B85A535BCE serial "SCES-50490-ANZ" )
 )
@@ -21557,12 +21257,6 @@ game (
 	region "France"
 	serial "SCES-50491-P"
 	rom ( name "Final Fantasy X (France).iso" size 4598792192 crc 5A0B02BC md5 7BE5D6FADDBE6E118436682BD873A8EF sha1 8ECE95076C66D6D14DE1ACD7C2867264CE52838B serial "SCES-50491-P" )
-)
-game (
-	name "Final Fantasy X (Germany)"
-	region "Germany"
-	serial "SCES-50492"
-	rom ( name "Final Fantasy X (Germany).iso" size 4600725504 crc 0391EE03 md5 5B102B7E512AE8BC8E5DA5A7EEE89401 sha1 E66B72B777E6E816D594F11BC8457BC493979F4A serial "SCES-50492" )
 )
 game (
 	name "Final Fantasy X (Germany)"
@@ -21671,12 +21365,6 @@ game (
 	region "France"
 	serial "SLES-51816"
 	rom ( name "Final Fantasy X-2 (France).iso" size 4075716608 crc 7333408D md5 39DCBBF75C09CA13B6A5F280E0DEF8FA sha1 016DEB4B159F5BF7014006D3941C87E9BE418316 serial "SLES-51816" )
-)
-game (
-	name "Final Fantasy X-2 (Germany)"
-	region "Germany"
-	serial "SLES-51817"
-	rom ( name "Final Fantasy X-2 (Germany).iso" size 4076240896 crc 70FCDD97 md5 083C9F74A289FA1203E269C52D0943C2 sha1 09BD6BA26B21605DB3784C6FB453A43832641200 serial "SLES-51817" )
 )
 game (
 	name "Final Fantasy X-2 (Germany)"
@@ -22479,12 +22167,6 @@ game (
 	rom ( name "Ford Racing 2 (Europe) (En,Fr,De,Es,It).bin" size 678667248 crc D6E56A5C md5 E7588547744E5B2D4D0EAAD887EBFEFE sha1 B8382CB942E7029CB782437D069511C1D160DCA0 serial "SLES-51705" )
 )
 game (
-	name "Ford Racing 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51705"
-	rom ( name "Ford Racing 2 (Europe) (En,Fr,De,Es,It).bin" size 678667248 crc D6E56A5C md5 E7588547744E5B2D4D0EAAD887EBFEFE sha1 B8382CB942E7029CB782437D069511C1D160DCA0 serial "SLES-51705" )
-)
-game (
 	name "Ford Racing 2 (USA)"
 	region "USA"
 	serial "SLUS-20788"
@@ -22555,12 +22237,6 @@ game (
 	region "USA"
 	serial "SLUS-20804"
 	rom ( name "Forgotten Realms - Demon Stone (USA).iso" size 2319450112 crc 3C7D28C6 md5 B1FFE9846AED4D28CE2735037C5AB717 sha1 5F97EEC3B829272186328670D2DFAE11DBF67B82 serial "SLUS-20804" )
-)
-game (
-	name "Formula Challenge (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52403"
-	rom ( name "Formula Challenge (Europe) (En,Fr,De,Es,It).bin" size 141882048 crc 8E31D409 md5 CE85C3DB5E2562ABACA5F90641CB40BB sha1 9E5D8B346B945CEBE1F08C25EE5F852D4ACFAD76 serial "SLES-52403" )
 )
 game (
 	name "Formula Challenge (Europe) (En,Fr,De,Es,It)"
@@ -23078,12 +22754,6 @@ game (
 game (
 	name "Fruit Fall (Europe, Australia)"
 	region "Europe"
-	serial "SLES-53148"
-	rom ( name "Fruit Fall (Europe, Australia).bin" size 59326848 crc BFD8AB37 md5 61A735F3FDC08BE9E8BE459C254C7F95 sha1 CE5A882AEC0B0B1760F08E145DF543DF790B4291 serial "SLES-53148" )
-)
-game (
-	name "Fruit Fall (Europe, Australia)"
-	region "Europe"
 	serial "SLES-53148/ANZ"
 	rom ( name "Fruit Fall (Europe, Australia).bin" size 59326848 crc BFD8AB37 md5 61A735F3FDC08BE9E8BE459C254C7F95 sha1 CE5A882AEC0B0B1760F08E145DF543DF790B4291 serial "SLES-53148/ANZ" )
 )
@@ -23259,12 +22929,6 @@ game (
 	region "USA"
 	serial "SLUS-20994-F"
 	rom ( name "Fullmetal Alchemist and the Broken Angel (USA, Canada).iso" size 1927217152 crc 4E76FFF5 md5 E074FAE418FEFF31EE9B4C6422527CAB sha1 E930B02A121267C5EDD4DA9977DD5494C5850540 serial "SLUS-20994-F" )
-)
-game (
-	name "Fur Fighters - Viggo's Revenge (Europe) (En,Fr,De,Es)"
-	region "Europe"
-	serial "SLES-50106"
-	rom ( name "Fur Fighters - Viggo's Revenge (Europe) (En,Fr,De,Es).iso" size 4383342592 crc 3582462C md5 8FA1ED6E56C8EBC1AC79BAF4B0854242 sha1 5ED308DBD202DAE95DE3502448D1C2403B4EA9B1 serial "SLES-50106" )
 )
 game (
 	name "Fur Fighters - Viggo's Revenge (Europe) (En,Fr,De,Es)"
@@ -23561,12 +23225,6 @@ game (
 	rom ( name "G-Surfers (Europe) (En,Fr,De).iso" size 1109524480 crc 6983715E md5 4A9CD6B726F1F96456A86B923FB4C0FA sha1 7AB70C82CE472637F70C7457FFE39540D6172E6E serial "SLES-50511" )
 )
 game (
-	name "G-Surfers (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-50511"
-	rom ( name "G-Surfers (Europe) (En,Fr,De).iso" size 1109524480 crc 6983715E md5 4A9CD6B726F1F96456A86B923FB4C0FA sha1 7AB70C82CE472637F70C7457FFE39540D6172E6E serial "SLES-50511" )
-)
-game (
 	name "G-Taste Mahjong (Japan)"
 	region "Japan"
 	serial "SLPM-62327"
@@ -23595,12 +23253,6 @@ game (
 	region "USA"
 	serial "SLUS-21886"
 	rom ( name "G.I. Joe - The Rise of Cobra (USA).iso" size 4453957632 crc CBD4F6D8 md5 F2FF81FA0EA8CD6172D61850C678423A sha1 BD3ACB31C7C98504A1A000682DC41B23FD98C0F7 serial "SLUS-21886" )
-)
-game (
-	name "G1 Jockey (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-50584"
-	rom ( name "G1 Jockey (Europe) (En,Fr,De).bin" size 456457344 crc FB12C15B md5 022FD497A0AE570BE225B677F2452918 sha1 CEE84ADAB9408EEEEAAB3FC7B15CAECEFF721E67 serial "SLES-50584" )
 )
 game (
 	name "G1 Jockey (Europe) (En,Fr,De)"
@@ -23749,18 +23401,6 @@ game (
 	region "Europe"
 	serial "SLES-52602"
 	rom ( name "GT Racers (Europe) (En,Fr,De,Es,It).bin" size 307027728 crc 73A39F93 md5 7B75ED0DE4AB9BC3BB412A96C7048171 sha1 30C4A26141DC72CB7047898E2E4D6D9418C7BDB9 serial "SLES-52602" )
-)
-game (
-	name "GT Racers (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52602"
-	rom ( name "GT Racers (Europe) (En,Fr,De,Es,It).bin" size 307027728 crc 73A39F93 md5 7B75ED0DE4AB9BC3BB412A96C7048171 sha1 30C4A26141DC72CB7047898E2E4D6D9418C7BDB9 serial "SLES-52602" )
-)
-game (
-	name "GT-R 400 (Europe, Australia)"
-	region "Europe"
-	serial "SLES-52045"
-	rom ( name "GT-R 400 (Europe, Australia).bin" size 133642992 crc 701269FB md5 2E668119AE91EFBB83B36221465BA171 sha1 C4A562F0FE1C343D532051562B149542BA5FA73D serial "SLES-52045" )
 )
 game (
 	name "GT-R 400 (Europe, Australia)"
@@ -25280,12 +24920,6 @@ game (
 game (
 	name "Girl Zone (Europe, Australia)"
 	region "Europe"
-	serial "SLES-53190"
-	rom ( name "Girl Zone (Europe, Australia).bin" size 247663248 crc B9C80B8A md5 040C766618C5641BE2636BAA796956D1 sha1 5203A54E3317AC42586660E92B075C32C0330B3E serial "SLES-53190" )
-)
-game (
-	name "Girl Zone (Europe, Australia)"
-	region "Europe"
 	serial "SLES-53190/ANZ"
 	rom ( name "Girl Zone (Europe, Australia).bin" size 247663248 crc B9C80B8A md5 040C766618C5641BE2636BAA796956D1 sha1 5203A54E3317AC42586660E92B075C32C0330B3E serial "SLES-53190/ANZ" )
 )
@@ -26088,12 +25722,6 @@ game (
 game (
 	name "Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00)"
 	region "Europe"
-	serial "SCES-50294-ANZ/P"
-	rom ( name "Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00).iso" size 3687022592 crc FA111523 md5 26A95962A62F996D7458EBEA6FD8A8B1 sha1 738DFF896F37B00B911DE1DCB18967CD4380E8F1 serial "SCES-50294-ANZ/P" )
-)
-game (
-	name "Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00)"
-	region "Europe"
 	serial "SCES-50294-P"
 	rom ( name "Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00).iso" size 3687022592 crc FA111523 md5 26A95962A62F996D7458EBEA6FD8A8B1 sha1 738DFF896F37B00B911DE1DCB18967CD4380E8F1 serial "SCES-50294-P" )
 )
@@ -26243,12 +25871,6 @@ game (
 	region "Europe"
 	serial "SCES-51719/P"
 	rom ( name "Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It).iso" size 5660540928 crc E1CA4D84 md5 5B504676595DEA8B32CB675993285FCA sha1 C9C7B8477B585D7F841FA204BA903BEF08E083A3 serial "SCES-51719/P" )
-)
-game (
-	name "Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-51719/P/GER"
-	rom ( name "Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It).iso" size 5660540928 crc E1CA4D84 md5 5B504676595DEA8B32CB675993285FCA sha1 C9C7B8477B585D7F841FA204BA903BEF08E083A3 serial "SCES-51719/P/GER" )
 )
 game (
 	name "Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)"
@@ -26510,12 +26132,6 @@ game (
 	region "USA"
 	serial "SCUS-97384"
 	rom ( name "Gran Turismo Special Edition 2004 Toyota Demo (USA).iso" size 1234763776 crc 691F32D4 md5 05B14B0C4E473BC546C7DB4D00AC1812 sha1 E2E15C82D5F99B1AA69F425E19C4F93D4C28F25E serial "SCUS-97384" )
-)
-game (
-	name "Grand Prix Challenge (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51296"
-	rom ( name "Grand Prix Challenge (Europe) (En,Fr,De,Es,It).iso" size 1585152000 crc 036614FD md5 EA191BC03AFB40431CC93B940594D55D sha1 F5F40848725BF31350B0CE273E4287462CB60190 serial "SLES-51296" )
 )
 game (
 	name "Grand Prix Challenge (Europe) (En,Fr,De,Es,It)"
@@ -26922,12 +26538,6 @@ game (
 game (
 	name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60)"
 	region "Europe"
-	serial "SLES-50330"
-	rom ( name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).iso" size 4698767360 crc 1582E336 md5 DF2302B38DC447E0F63A0336E759FB46 sha1 8EDDC0D173A889BAC2AFD4650AE97CD17B7566E9 serial "SLES-50330" )
-)
-game (
-	name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60)"
-	region "Europe"
 	serial "SLES-503302"
 	rom ( name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).iso" size 4698767360 crc 1582E336 md5 DF2302B38DC447E0F63A0336E759FB46 sha1 8EDDC0D173A889BAC2AFD4650AE97CD17B7566E9 serial "SLES-503302" )
 )
@@ -26948,12 +26558,6 @@ game (
 	region "Europe"
 	serial "SLES-50330/EURO"
 	rom ( name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).iso" size 4698767360 crc 1582E336 md5 DF2302B38DC447E0F63A0336E759FB46 sha1 8EDDC0D173A889BAC2AFD4650AE97CD17B7566E9 serial "SLES-50330/EURO" )
-)
-game (
-	name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60)"
-	region "Europe"
-	serial "SLES-50330/UK"
-	rom ( name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).iso" size 4698767360 crc 1582E336 md5 DF2302B38DC447E0F63A0336E759FB46 sha1 8EDDC0D173A889BAC2AFD4650AE97CD17B7566E9 serial "SLES-50330/UK" )
 )
 game (
 	name "Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60)"
@@ -27475,12 +27079,6 @@ game (
 	rom ( name "Guerrilla Strike (Europe).bin" size 261231936 crc 3ED38083 md5 8C77C86A1F6E719A54DDC72D2A550E0F sha1 9B7197C7C6BCB054C9E3C6CC6898B44883A3C9E0 serial "SLES-53344" )
 )
 game (
-	name "Guerrilla Strike (Europe)"
-	region "Europe"
-	serial "SLES-53344"
-	rom ( name "Guerrilla Strike (Europe).bin" size 261231936 crc 3ED38083 md5 8C77C86A1F6E719A54DDC72D2A550E0F sha1 9B7197C7C6BCB054C9E3C6CC6898B44883A3C9E0 serial "SLES-53344" )
-)
-game (
 	name "Guilty Gear Isuka (Europe)"
 	region "Europe"
 	serial "SLES-53284"
@@ -27512,12 +27110,6 @@ game (
 	region "USA"
 	serial "SLUS-28046"
 	rom ( name "Guilty Gear Isuka (USA) (Trade Demo).iso" size 4074078208 crc 260C0F1F md5 802BA96FCFA980A2EEB73AC0BC552BBA sha1 3B60A4E82CF1EE77D3CCB5C04B277F0234334FCB serial "SLUS-28046" )
-)
-game (
-	name "Guilty Gear X (Europe)"
-	region "Europe"
-	serial "SLES-50591"
-	rom ( name "Guilty Gear X (Europe).bin" size 731773056 crc 17B0FD24 md5 3B6AD80630931365D453FB3BE2B712EB sha1 7F81B0F7622F49A388F039186551A34924660683 serial "SLES-50591" )
 )
 game (
 	name "Guilty Gear X (Europe)"
@@ -28238,12 +27830,6 @@ game (
 	region "Japan"
 	serial "SLPM-60121"
 	rom ( name "Gungriffon Blaze & Silpheed - The Lost Planet (Japan) (Taikenban).bin" size 355669440 crc 449D90D6 md5 392E22F9006D30E82436D595EA896D8E sha1 F5B548A3D6C52871D987ACDDEFC7AAB78744B2B0 serial "SLPM-60121" )
-)
-game (
-	name "Gungriffon Blaze (Europe)"
-	region "Europe"
-	serial "SLES-50158"
-	rom ( name "Gungriffon Blaze (Europe).bin" size 483775824 crc 0B22DF36 md5 F6B51886761B13DAF9DD400CF09C0CF4 sha1 94B0242E83FBA0C43A89F3D27B3727BA2A2CFE68 serial "SLES-50158" )
 )
 game (
 	name "Gungriffon Blaze (Europe)"
@@ -28999,12 +28585,6 @@ game (
 game (
 	name "Harry Potter and the Chamber of Secrets (Europe)"
 	region "Europe"
-	serial "SLES-51192"
-	rom ( name "Harry Potter and the Chamber of Secrets (Europe).bin" size 646623600 crc 1AAFE285 md5 FD3EE0B3391C754CB5EA86D626207D34 sha1 811661DAF202D4EAE8FBD06FD3AC6EC06BE93166 serial "SLES-51192" )
-)
-game (
-	name "Harry Potter and the Chamber of Secrets (Europe)"
-	region "Europe"
 	serial "SLES-51192-P"
 	rom ( name "Harry Potter and the Chamber of Secrets (Europe).bin" size 646623600 crc 1AAFE285 md5 FD3EE0B3391C754CB5EA86D626207D34 sha1 811661DAF202D4EAE8FBD06FD3AC6EC06BE93166 serial "SLES-51192-P" )
 )
@@ -29621,12 +29201,6 @@ game (
 	rom ( name "Hawk Kawasaki Racing (Europe).bin" size 340797744 crc FF948982 md5 8634E6C7225CEBAD4DEA9CBA3FF626F1 sha1 2D96F845927A25ED797788E9FB0CCB0AB45DEBB9 serial "SLES-54441" )
 )
 game (
-	name "Hawk Kawasaki Racing (Europe)"
-	region "Europe"
-	serial "SLES-54441"
-	rom ( name "Hawk Kawasaki Racing (Europe).bin" size 340797744 crc FF948982 md5 8634E6C7225CEBAD4DEA9CBA3FF626F1 sha1 2D96F845927A25ED797788E9FB0CCB0AB45DEBB9 serial "SLES-54441" )
-)
-game (
 	name "Hawk Superbike Racing (Europe, Australia)"
 	region "Europe"
 	serial "SLES-54540"
@@ -29649,12 +29223,6 @@ game (
 	region "Japan"
 	serial "SLPS-20422"
 	rom ( name "Hayarigami Revenge - Keishichou Kaii Jiken File (Japan).bin" size 747811344 crc 98BA6A17 md5 5FA5EC2441781D3C86AC5015FBF79D8E sha1 5A7C6611E59A27FBF2B401C7DBCD02C2D83C78CF serial "SLPS-20422" )
-)
-game (
-	name "Headhunter (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-50500"
-	rom ( name "Headhunter (Europe) (En,Fr,De,Es,It).iso" size 3568140288 crc 4A04E5CB md5 28339853A85BACEBAC38B114D139E851 sha1 0F04D9921AD1786975319606773449C2CE22E8FF serial "SCES-50500" )
 )
 game (
 	name "Headhunter (Europe) (En,Fr,De,Es,It)"
@@ -29688,11 +29256,6 @@ game (
 	region "Europe"
 	serial "SLES-52512"
 	rom ( name "Headhunter - Redemption (Europe) (Fr,De,Es,It).iso" size 3988455424 crc 43F1CE6D md5 F4878DDAD48745841F81B65222851E04 sha1 06D376524E06EF199A30D95458BD802864924ABE serial "SLES-52512" )
-)
-game (
-	name "Headhunter - Redemption (UK)"
-	serial "SLES-51682"
-	rom ( name "Headhunter - Redemption (UK).iso" size 3988455424 crc 4242A060 md5 5C0E681CED17E7719B32F39367C7306F sha1 5B32148301770E4964E0725BBEA14F9142C2F3BE serial "SLES-51682" )
 )
 game (
 	name "Headhunter - Redemption (UK)"
@@ -29812,12 +29375,6 @@ game (
 	region "Japan"
 	serial "SLPM-62122"
 	rom ( name "Hermina to Culus - Lilie no Atelier Mou Hitotsu no Monogatari (Japan).bin" size 720798624 crc E8F565A1 md5 9454D241D5719CA46BBC94DD7D3A530C sha1 791F15255369351EF4E8DEC09C7783EDCA272516 serial "SLPM-62122" )
-)
-game (
-	name "Heroes of Might and Magic - Quest for the DragonBone Staff (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50186"
-	rom ( name "Heroes of Might and Magic - Quest for the DragonBone Staff (Europe) (En,Fr,De,Es,It).iso" size 787906560 crc BC63A649 md5 9FADC5BCCE6557A72D75B13948B8DA78 sha1 8A0AA7117CD636E6599E3EF0E1A5550FEF2DC924 serial "SLES-50186" )
 )
 game (
 	name "Heroes of Might and Magic - Quest for the DragonBone Staff (Europe) (En,Fr,De,Es,It)"
@@ -30582,12 +30139,6 @@ game (
 	rom ( name "Hoppie (Europe).bin" size 69993168 crc 145FA965 md5 9C282E55BCA07235C8A4812E984ED8BF sha1 52B43F8F96223A74A686A47B620C5B5798B15085 serial "SLES-55091" )
 )
 game (
-	name "Hoppie (Europe)"
-	region "Europe"
-	serial "SLES-55091"
-	rom ( name "Hoppie (Europe).bin" size 69993168 crc 145FA965 md5 9C282E55BCA07235C8A4812E984ED8BF sha1 52B43F8F96223A74A686A47B620C5B5798B15085 serial "SLES-55091" )
-)
-game (
 	name "Horse Breaker (Japan)"
 	region "Japan"
 	serial "SLPM-62072"
@@ -31188,12 +30739,6 @@ game (
 	rom ( name "Ico (Europe) (En,Fr,De,Es,It).iso" size 907706368 crc B58152BD md5 5D5064CB45A6957B245520B2A6296876 sha1 1017B53F6E80F41F823369B0BE1D8C69F7E16DC6 serial "SCES-50760" )
 )
 game (
-	name "Ico (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-50760"
-	rom ( name "Ico (Europe) (En,Fr,De,Es,It).iso" size 907706368 crc B58152BD md5 5D5064CB45A6957B245520B2A6296876 sha1 1017B53F6E80F41F823369B0BE1D8C69F7E16DC6 serial "SCES-50760" )
-)
-game (
 	name "Ico (Europe) (En,Fr,De,Es,It) (Beta)"
 	releaseyear "2001"
 	releasemonth "11"
@@ -31566,12 +31111,6 @@ game (
 	rom ( name "Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl).bin" size 334303872 crc 3BB1AEA2 md5 877AD60D53557671C83C45EBBFEEE921 sha1 92FD1A1628EB3BB2BF1ED029DF9C6B384994DD19 serial "SLES-51247" )
 )
 game (
-	name "Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl)"
-	region "Europe"
-	serial "SLES-51247"
-	rom ( name "Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl).bin" size 334303872 crc 3BB1AEA2 md5 877AD60D53557671C83C45EBBFEEE921 sha1 92FD1A1628EB3BB2BF1ED029DF9C6B384994DD19 serial "SLES-51247" )
-)
-game (
 	name "Instant Cheats - Volume 10 (UK)"
 	rom ( name "Instant Cheats - Volume 10 (UK) (Unl).bin" size 718702992 crc 341E8D6B md5 F935CFB7B4E7DCAF092AD04FB1D2A0F5 sha1 DA6B400A82856432A27E75CD80439CF7DD2DD036 )
 )
@@ -31670,18 +31209,6 @@ game (
 	region "Europe"
 	serial "SLES-52350"
 	rom ( name "International Golf Pro (Europe) (Fr,De,Es,It).bin" size 453482064 crc AD955FA7 md5 2E6297BB01D45F0599DEEDABE1ECCC7A sha1 36E3B5B590B51A80A397683ECED3662A8A3B37E2 serial "SLES-52350" )
-)
-game (
-	name "International Golf Pro (Europe) (Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52350"
-	rom ( name "International Golf Pro (Europe) (Fr,De,Es,It).bin" size 453482064 crc AD955FA7 md5 2E6297BB01D45F0599DEEDABE1ECCC7A sha1 36E3B5B590B51A80A397683ECED3662A8A3B37E2 serial "SLES-52350" )
-)
-game (
-	name "International League Soccer (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50231"
-	rom ( name "International League Soccer (Europe) (En,Fr,De,Es,It).bin" size 433553568 crc 5AE3B014 md5 A0CB636FD6CD0BC90FD4EAB278F15F9E sha1 8D915524EB88585DAF1047E9FECF98CD2531EA28 serial "SLES-50231" )
 )
 game (
 	name "International League Soccer (Europe) (En,Fr,De,Es,It)"
@@ -31843,12 +31370,6 @@ game (
 	rom ( name "Iridium Runners (Europe) (En,Fr,De,Es,It).bin" size 635223456 crc 419851CA md5 705444A1989BA9202A744A01377F2242 sha1 D70FA2D8F153B357BDCA44AF715D036A7C205E40 serial "SLES-55013" )
 )
 game (
-	name "Iridium Runners (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-55013"
-	rom ( name "Iridium Runners (Europe) (En,Fr,De,Es,It).bin" size 635223456 crc 419851CA md5 705444A1989BA9202A744A01377F2242 sha1 D70FA2D8F153B357BDCA44AF715D036A7C205E40 serial "SLES-55013" )
-)
-game (
 	name "Iridium Runners (USA)"
 	region "USA"
 	serial "SLUS-21697"
@@ -31907,12 +31428,6 @@ game (
 	region "Japan"
 	serial "SLPM-66849"
 	rom ( name "Iris no Atelier - Grand Fantasm (Japan).iso" size 1921351680 crc 6F1E221E md5 B6A7A5445EFA71F35CCA8EDB0B8747C6 sha1 4352C39D43D2727399F1F7406CBAEC480C68A477 serial "SLPM-66849" )
-)
-game (
-	name "Iron Aces 2 - Birds of Prey (Europe)"
-	region "Europe"
-	serial "SLES-50686"
-	rom ( name "Iron Aces 2 - Birds of Prey (Europe).bin" size 746578896 crc 7FE986B5 md5 EFC7BFD369E1300FF662207F9BFDCEF3 sha1 F735259CA41DDAE81F94A59AD15288282BCEA8A4 serial "SLES-50686" )
 )
 game (
 	name "Iron Aces 2 - Birds of Prey (Europe)"
@@ -32525,12 +32040,6 @@ game (
 	region "USA"
 	serial "SLUS-20379"
 	rom ( name "James Cameron's Dark Angel (USA) (En,Fr,De,Es,It).iso" size 4118183936 crc 876E1EB9 md5 D9B382FDDDF95D0080FA2044AE3C15C3 sha1 6469667FDFAD82E6C974CCB94CA37832D796F461 serial "SLUS-20379" )
-)
-game (
-	name "James Pond - Codename - RoboCod (Europe)"
-	region "Europe"
-	serial "SLES-53682"
-	rom ( name "James Pond - Codename - RoboCod (Europe).bin" size 134590848 crc BBB58750 md5 6A0B04DE395D6154E1697CFE59572816 sha1 2DF04906E9901A0BDB43D6028143E9B083975DDC serial "SLES-53682" )
 )
 game (
 	name "James Pond - Codename - RoboCod (Europe)"
@@ -33524,12 +33033,6 @@ game (
 game (
 	name "Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-54834"
-	rom ( name "Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It).iso" size 2350481408 crc 31736BE3 md5 34054EB0938FF4E3FE13149EA43AC8BF sha1 5A392363D02D752EE6197054519736AB0DA3F00A serial "SLES-54834" )
-)
-game (
-	name "Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-54834/ANZ"
 	rom ( name "Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It).iso" size 2350481408 crc 31736BE3 md5 34054EB0938FF4E3FE13149EA43AC8BF sha1 5A392363D02D752EE6197054519736AB0DA3F00A serial "SLES-54834/ANZ" )
 )
@@ -34246,12 +33749,6 @@ game (
 	rom ( name "Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It).bin" size 685593888 crc 28EBFC6D md5 CF8656568E8DBD68985CADC847BD6A4E sha1 70D21FF3D291A1B13D37EC20276897F1B55F507B serial "SLES-51998" )
 )
 game (
-	name "Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51998"
-	rom ( name "Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It).bin" size 685593888 crc 28EBFC6D md5 CF8656568E8DBD68985CADC847BD6A4E sha1 70D21FF3D291A1B13D37EC20276897F1B55F507B serial "SLES-51998" )
-)
-game (
 	name "Kao the Kangaroo - Round 2 (USA)"
 	region "USA"
 	serial "SLUS-20296"
@@ -34465,12 +33962,6 @@ game (
 	name "Karat Pro Action Replay - Best Price Soku Kouryaku PS2-you Vol. 2 (Japan)"
 	region "Japan"
 	rom ( name "Karat Pro Action Replay - Best Price Soku Kouryaku PS2-you Vol. 2 (Japan) (Unl).bin" size 718702992 crc 044A00C8 md5 F329F43BE582CF6F0D5B9694E09FEE30 sha1 BC184C45B854B596971F392531DC1E83D876BB06 )
-)
-game (
-	name "Kart Racer (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-55480"
-	rom ( name "Kart Racer (Europe, Australia) (En,Fr,De,Es,It).bin" size 292111344 crc 0DA91D55 md5 8D8407F78237454AB50CE6D07ADC66F7 sha1 80E9C161A5757A26DF7750C86781E7ABCAAAA2C2 serial "SLES-55480" )
 )
 game (
 	name "Kart Racer (Europe, Australia) (En,Fr,De,Es,It)"
@@ -35854,12 +35345,6 @@ game (
 game (
 	name "Kingdom Hearts (Europe, Australia)"
 	region "Europe"
-	serial "SCES-50967"
-	rom ( name "Kingdom Hearts (Europe, Australia).iso" size 2759163904 crc A5034EA8 md5 CEBB20A60814E83D78E244D799EDBC95 sha1 82933436FF96FFAF577F33E9372CDFA7FBD11634 serial "SCES-50967" )
-)
-game (
-	name "Kingdom Hearts (Europe, Australia)"
-	region "Europe"
 	serial "SCES-50967-P"
 	rom ( name "Kingdom Hearts (Europe, Australia).iso" size 2759163904 crc A5034EA8 md5 CEBB20A60814E83D78E244D799EDBC95 sha1 82933436FF96FFAF577F33E9372CDFA7FBD11634 serial "SCES-50967-P" )
 )
@@ -35988,18 +35473,6 @@ game (
 	region "Europe"
 	serial "SLES-54114"
 	rom ( name "Kingdom Hearts II (Europe, Australia).iso" size 3956015104 crc 8C8B05D1 md5 CC1C5E1A6F0EDCAA0A52891EAA3D434F sha1 F541888CF953559BF4EF8C7E51A822F50E05265C serial "SLES-54114" )
-)
-game (
-	name "Kingdom Hearts II (Europe, Australia)"
-	region "Europe"
-	serial "SLES-54114"
-	rom ( name "Kingdom Hearts II (Europe, Australia).iso" size 3956015104 crc 8C8B05D1 md5 CC1C5E1A6F0EDCAA0A52891EAA3D434F sha1 F541888CF953559BF4EF8C7E51A822F50E05265C serial "SLES-54114" )
-)
-game (
-	name "Kingdom Hearts II (Europe, Australia)"
-	region "Europe"
-	serial "SLES-54114/ANZ"
-	rom ( name "Kingdom Hearts II (Europe, Australia).iso" size 3956015104 crc 8C8B05D1 md5 CC1C5E1A6F0EDCAA0A52891EAA3D434F sha1 F541888CF953559BF4EF8C7E51A822F50E05265C serial "SLES-54114/ANZ" )
 )
 game (
 	name "Kingdom Hearts II (Europe, Australia)"
@@ -36847,12 +36320,6 @@ game (
 	rom ( name "Kuri Kuri Mix (Europe) (En,Fr,De).iso" size 2068381696 crc CAFE5C15 md5 A1432A847137C2F0DC08BBC6DAED3A40 sha1 6BB990B43011704B27C64034545609AF6C3500B7 serial "SLES-50224" )
 )
 game (
-	name "Kuri Kuri Mix (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-50224"
-	rom ( name "Kuri Kuri Mix (Europe) (En,Fr,De).iso" size 2068381696 crc CAFE5C15 md5 A1432A847137C2F0DC08BBC6DAED3A40 sha1 6BB990B43011704B27C64034545609AF6C3500B7 serial "SLES-50224" )
-)
-game (
 	name "Kuri Kuri Mix (Japan)"
 	region "Japan"
 	serial "SLPS-25013"
@@ -37608,12 +37075,6 @@ game (
 	rom ( name "Legend of Camelot (Europe) (En,Fr,De).bin" size 524597136 crc 8F8B2C16 md5 2F5CE0E46BCEFF19D58C46EA2BC807C8 sha1 49203E64574DF626F6B1DEEADCFC0EE0139F5B26 serial "SLES-54864" )
 )
 game (
-	name "Legend of Camelot (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-54864"
-	rom ( name "Legend of Camelot (Europe) (En,Fr,De).bin" size 524597136 crc 8F8B2C16 md5 2F5CE0E46BCEFF19D58C46EA2BC807C8 sha1 49203E64574DF626F6B1DEEADCFC0EE0139F5B26 serial "SLES-54864" )
-)
-game (
 	name "Legend of Herkules (Europe) (En,De)"
 	region "Europe"
 	serial "SLES-52244"
@@ -37737,12 +37198,6 @@ game (
 	region "USA"
 	serial "SLUS-20242"
 	rom ( name "Legends of Wrestling (USA) (v1.02).bin" size 705030816 crc BC1DB991 md5 C31E0F580EB8A82748EF98A6787880F1 sha1 645893D1167E2F4DD0F7C2934EB6D1C2BD7FC3B2 serial "SLUS-20242" )
-)
-game (
-	name "Legends of Wrestling II (Europe)"
-	region "Europe"
-	serial "SLES-51045"
-	rom ( name "Legends of Wrestling II (Europe).iso" size 4223434752 crc A212C78A md5 F89E5C076A35D1E240ADCC8015927023 sha1 F37CDE2EB017BF4C1B100E8B178CCED735485FF0 serial "SLES-51045" )
 )
 game (
 	name "Legends of Wrestling II (Europe)"
@@ -38100,12 +37555,6 @@ game (
 	region "Japan"
 	serial "SLPS-25928"
 	rom ( name "Little Anchor (Japan) (Genteiban).iso" size 3308421120 crc CC0EAF12 md5 AC180665F6947C8B524B6203D9FD2842 sha1 DB9C9A6C1C8FA4B6528416F97B2B2E920A0596FC serial "SLPS-25928" )
-)
-game (
-	name "Little Britain - The Video Game (Europe)"
-	region "Europe"
-	serial "SLES-54494"
-	rom ( name "Little Britain - The Video Game (Europe).bin" size 711320064 crc 58343488 md5 C51A2B1870E03AC82F018B6650315B1E sha1 D788AB4B36233CAB44626E34D4630AB4867597E9 serial "SLES-54494" )
 )
 game (
 	name "Little Britain - The Video Game (Europe)"
@@ -38852,12 +38301,6 @@ game (
 	rom ( name "MTV Music Generator 2 (Europe) (En,Fr,De,Es,It).bin" size 729362256 crc B5D8426A md5 3DE0274A7EBC845264744C60D6CC07CA sha1 F96254E768B0ED926093F4CEA49E74BE3BDB03F4 serial "SLES-50182" )
 )
 game (
-	name "MTV Music Generator 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50182"
-	rom ( name "MTV Music Generator 2 (Europe) (En,Fr,De,Es,It).bin" size 729362256 crc B5D8426A md5 3DE0274A7EBC845264744C60D6CC07CA sha1 F96254E768B0ED926093F4CEA49E74BE3BDB03F4 serial "SLES-50182" )
-)
-game (
 	name "MTV Music Generator 2 (USA)"
 	region "USA"
 	serial "SLUS-20222"
@@ -39130,12 +38573,6 @@ game (
 game (
 	name "MX vs. ATV Untamed (Europe, Australia)"
 	region "Europe"
-	serial "SLES-55050"
-	rom ( name "MX vs. ATV Untamed (Europe, Australia).iso" size 4419125248 crc 2207D9FB md5 46DF5AECC1A220DE387C2F10EB3E462F sha1 50C3305FE8270287CA29A138286598D4FA907FE6 serial "SLES-55050" )
-)
-game (
-	name "MX vs. ATV Untamed (Europe, Australia)"
-	region "Europe"
 	serial "SLES-55050/ANZ"
 	rom ( name "MX vs. ATV Untamed (Europe, Australia).iso" size 4419125248 crc 2207D9FB md5 46DF5AECC1A220DE387C2F10EB3E462F sha1 50C3305FE8270287CA29A138286598D4FA907FE6 serial "SLES-55050/ANZ" )
 )
@@ -39306,12 +38743,6 @@ game (
 	region "USA"
 	serial "SLUS-20093"
 	rom ( name "Madden NFL 2001 (USA).bin" size 639214800 crc 7495F375 md5 553B0A1A7DBDDEC9660FC79F14EF1678 sha1 61D4A8D70B344C3E61BC2DD8873277EFA3256BF9 serial "SLUS-20093" )
-)
-game (
-	name "Madden NFL 2002 (Europe, Australia)"
-	region "Europe"
-	serial "SLES-50422"
-	rom ( name "Madden NFL 2002 (Europe, Australia).bin" size 681113328 crc 9B0E2481 md5 A598044F1F2F3F9FE2F732019E4811AE sha1 215DBB0EE71AF437C799249AAE70817145B0734D serial "SLES-50422" )
 )
 game (
 	name "Madden NFL 2002 (Europe, Australia)"
@@ -40614,12 +40045,6 @@ game (
 	rom ( name "Master Rallye (Europe) (En,Fr,De,Es,It,Pt).iso" size 1400438784 crc 46C6FBDE md5 B45B81879925C9F00443C5C07CA7AD80 sha1 92546336BD419FBE6FCA1E45315672CDEC75237E serial "SLES-50906" )
 )
 game (
-	name "Master Rallye (Europe) (En,Fr,De,Es,It,Pt)"
-	region "Europe"
-	serial "SLES-50906"
-	rom ( name "Master Rallye (Europe) (En,Fr,De,Es,It,Pt).iso" size 1400438784 crc 46C6FBDE md5 B45B81879925C9F00443C5C07CA7AD80 sha1 92546336BD419FBE6FCA1E45315672CDEC75237E serial "SLES-50906" )
-)
-game (
 	name "Masters of the Universe - He-Man - Defender of Grayskull (Europe)"
 	region "Europe"
 	serial "SLES-53035"
@@ -41221,20 +40646,8 @@ game (
 game (
 	name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu)"
 	region "Europe"
-	serial "SLES-54683"
-	rom ( name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu).iso" size 4444192768 crc C6820ACA md5 8B88AB5D3A72EC16CBA1456411D489CE sha1 860E93614C9ABCAA8FB960344B7EBC5A7DB7FCB7 serial "SLES-54683" )
-)
-game (
-	name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu)"
-	region "Europe"
 	serial "SLES-54683/ANZ/P"
 	rom ( name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu).iso" size 4444192768 crc C6820ACA md5 8B88AB5D3A72EC16CBA1456411D489CE sha1 860E93614C9ABCAA8FB960344B7EBC5A7DB7FCB7 serial "SLES-54683/ANZ/P" )
-)
-game (
-	name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu)"
-	region "Europe"
-	serial "SLES-54683/P"
-	rom ( name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu).iso" size 4444192768 crc C6820ACA md5 8B88AB5D3A72EC16CBA1456411D489CE sha1 860E93614C9ABCAA8FB960344B7EBC5A7DB7FCB7 serial "SLES-54683/P" )
 )
 game (
 	name "Medal of Honor - Vanguard (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu)"
@@ -41903,12 +41316,6 @@ game (
 	region "USA"
 	serial "SLUS-20144GH"
 	rom ( name "Metal Gear Solid 2 - Sons of Liberty (USA).iso" size 4620910592 crc 576E3D2C md5 9F4A571B5BD78BCBA19B2A4E8F8D7359 sha1 F5EA9C94B0B1429E3608BFFEAD48193C206F778C serial "SLUS-20144GH" )
-)
-game (
-	name "Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-82009"
-	rom ( name "Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It).iso" size 6313803776 crc 0333ED63 md5 1E3F915CDA12DB631973281121A02106 sha1 351AE032E28D80EDE1B2788822A147AAD52ED46C serial "SLES-82009" )
 )
 game (
 	name "Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)"
@@ -42702,12 +42109,6 @@ game (
 game (
 	name "Midnight Club 3 - DUB Edition Remix (Europe, Australia) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-53717"
-	rom ( name "Midnight Club 3 - DUB Edition Remix (Europe, Australia) (En,Fr,De,Es,It).iso" size 8539963392 crc 4AE2A32C md5 17D1C4C0645236B52964E5CE3BD75A8B sha1 9A40BD1D312D54FFEC0218A3A94FBC437B3EAF0B serial "SLES-53717" )
-)
-game (
-	name "Midnight Club 3 - DUB Edition Remix (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-53717/ANZ"
 	rom ( name "Midnight Club 3 - DUB Edition Remix (Europe, Australia) (En,Fr,De,Es,It).iso" size 8539963392 crc 4AE2A32C md5 17D1C4C0645236B52964E5CE3BD75A8B sha1 9A40BD1D312D54FFEC0218A3A94FBC437B3EAF0B serial "SLES-53717/ANZ" )
 )
@@ -42740,12 +42141,6 @@ game (
 	region "USA"
 	serial "SLUS-20209GH"
 	rom ( name "Midnight Club II (USA).iso" size 3243900928 crc 14AF49A7 md5 DACAF3D64668F5373CB557B9BFC7914D sha1 A7A7C9B01240F0CBA66990A70BDE5F88FB075B4B serial "SLUS-20209GH" )
-)
-game (
-	name "Midway Arcade Treasures (Europe, Australia)"
-	region "Europe"
-	serial "SLES-51927"
-	rom ( name "Midway Arcade Treasures (Europe, Australia).iso" size 4440883200 crc CE26EAD2 md5 DB68437C4BDF0D619399E31C1E456414 sha1 90367DD118B11355EC08B954B5C34B7846DDFAD2 serial "SLES-51927" )
 )
 game (
 	name "Midway Arcade Treasures (Europe, Australia)"
@@ -43534,12 +42929,6 @@ game (
 	rom ( name "Monopoly Party (Europe) (En,Fr,De,Es,It).bin" size 685372800 crc D6D2CF4F md5 DD45C0C4B35A26B434C47487A0E3D676 sha1 87F9B5C603716420FFB597B89103BB2E9334AB92 serial "SLES-51145" )
 )
 game (
-	name "Monopoly Party (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51145"
-	rom ( name "Monopoly Party (Europe) (En,Fr,De,Es,It).bin" size 685372800 crc D6D2CF4F md5 DD45C0C4B35A26B434C47487A0E3D676 sha1 87F9B5C603716420FFB597B89103BB2E9334AB92 serial "SLES-51145" )
-)
-game (
 	name "Monopoly Party (USA)"
 	region "USA"
 	serial "SLUS-20348"
@@ -43702,12 +43091,6 @@ game (
 	rom ( name "Monster Jam - Maximum Destruction (Europe).bin" size 360206448 crc EB54A762 md5 06CC993587E189422356E7994322CB9F sha1 87A65DA52F4263E6B46031CC4EC629FAB6AA16FA serial "SLES-50908" )
 )
 game (
-	name "Monster Jam - Maximum Destruction (Europe)"
-	region "Europe"
-	serial "SLES-50908"
-	rom ( name "Monster Jam - Maximum Destruction (Europe).bin" size 360206448 crc EB54A762 md5 06CC993587E189422356E7994322CB9F sha1 87A65DA52F4263E6B46031CC4EC629FAB6AA16FA serial "SLES-50908" )
-)
-game (
 	name "Monster Jam - Maximum Destruction (USA)"
 	region "USA"
 	serial "SLUS-20186"
@@ -43802,12 +43185,6 @@ game (
 	region "Japan"
 	serial "SLPS-20008"
 	rom ( name "Morita Shougi (Japan).bin" size 425700240 crc 1B617E4C md5 89047C45658CCF8539521B32D53EAB43 sha1 DAC6F804F07453E92C8DF7AADD9F5D72EC7D909D serial "SLPS-20008" )
-)
-game (
-	name "Mortal Kombat - Armageddon (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-54156"
-	rom ( name "Mortal Kombat - Armageddon (Europe) (En,Fr,De,Es,It).iso" size 4460511232 crc D3179375 md5 D7E75AED9D597A10801DBA5F3291477F sha1 EF886FB1A25E14838814E8B3AA8A8FBE9AF739C4 serial "SLES-54156" )
 )
 game (
 	name "Mortal Kombat - Armageddon (Europe) (En,Fr,De,Es,It)"
@@ -44256,12 +43633,6 @@ game (
 game (
 	name "Mr. Golf (Europe)"
 	region "Europe"
-	serial "SLES-51493"
-	rom ( name "Mr. Golf (Europe).bin" size 605618832 crc CA5CB08A md5 68C83CBD45807ADDDA397DC9E9149EDF sha1 3D8AFC9EFBEA2A639B55A7A964A20C7C19BC45EA serial "SLES-51493" )
-)
-game (
-	name "Mr. Golf (Europe)"
-	region "Europe"
 	serial "SLES-51493-GER"
 	rom ( name "Mr. Golf (Europe).bin" size 605618832 crc CA5CB08A md5 68C83CBD45807ADDDA397DC9E9149EDF sha1 3D8AFC9EFBEA2A639B55A7A964A20C7C19BC45EA serial "SLES-51493-GER" )
 )
@@ -44578,12 +43949,6 @@ game (
 	releaseday "26"
 	region "USA"
 	rom ( name "Mystical Ninja Goemon Zero (USA) (Beta) (2005-08-26).iso" size 1267269632 crc C1ABD5A7 md5 6B6FE88E8A0E492AA4CD937AF90E0EF1 sha1 24BA35CBF0820C20C6684A71C0E96080C71AC359 )
-)
-game (
-	name "Myth Makers - Orbs of Doom (Europe)"
-	region "Europe"
-	serial "SLES-52241"
-	rom ( name "Myth Makers - Orbs of Doom (Europe).bin" size 110146512 crc 205D1A66 md5 2EE5A05B24A92D45BE72489E6770556E sha1 F07834EC36DBBCB93223A72E7FED00B854B7BDEE serial "SLES-52241" )
 )
 game (
 	name "Myth Makers - Orbs of Doom (Europe)"
@@ -46664,12 +46029,6 @@ game (
 game (
 	name "Need for Speed - Carbon (Europe) (Fr,De)"
 	region "Europe"
-	serial "SLES-54493"
-	rom ( name "Need for Speed - Carbon (Europe) (Fr,De).iso" size 3749543936 crc C0DB8D3A md5 D99BC59CCB8611C0970E8BE349CA3EEE sha1 B3537834073EE1CF606984654CE7629A73D2D1C9 serial "SLES-54493" )
-)
-game (
-	name "Need for Speed - Carbon (Europe) (Fr,De)"
-	region "Europe"
 	serial "SLES-54493/P"
 	rom ( name "Need for Speed - Carbon (Europe) (Fr,De).iso" size 3749543936 crc C0DB8D3A md5 D99BC59CCB8611C0970E8BE349CA3EEE sha1 B3537834073EE1CF606984654CE7629A73D2D1C9 serial "SLES-54493/P" )
 )
@@ -46920,12 +46279,6 @@ game (
 	rom ( name "Need for Speed - ProStreet (Europe) (Fr,De).iso" size 3864330240 crc 13D5F6C7 md5 2D6FF9E86E92656641AB550A0CF93CDD sha1 D7E9E100ED58FE177268FE577FC4C4F439B897CD serial "SLES-55003" )
 )
 game (
-	name "Need for Speed - ProStreet (Europe) (Fr,De)"
-	region "Europe"
-	serial "SLES-55003"
-	rom ( name "Need for Speed - ProStreet (Europe) (Fr,De).iso" size 3864330240 crc 13D5F6C7 md5 2D6FF9E86E92656641AB550A0CF93CDD sha1 D7E9E100ED58FE177268FE577FC4C4F439B897CD serial "SLES-55003" )
-)
-game (
 	name "Need for Speed - ProStreet (Europe, Australia)"
 	region "Europe"
 	serial "SLES-55002"
@@ -46993,12 +46346,6 @@ game (
 	region "Europe"
 	serial "SLES-55351"
 	rom ( name "Need for Speed - Undercover (Europe) (Es,It).iso" size 3699277824 crc D44F72A9 md5 9B103746DE801841D1FBC51CB9F1F5AD sha1 63C0FAA9E7E1CCBC8A4055297271D68D0DD69EC0 serial "SLES-55351" )
-)
-game (
-	name "Need for Speed - Undercover (Europe) (Fr,De)"
-	region "Europe"
-	serial "SLES-55350"
-	rom ( name "Need for Speed - Undercover (Europe) (Fr,De).iso" size 3699081216 crc F8ECB4AE md5 FDAC9878287ED1B83A31F86C74F6A868 sha1 3723250081C2386509DC411492431AD532CFEC14 serial "SLES-55350" )
 )
 game (
 	name "Need for Speed - Undercover (Europe) (Fr,De)"
@@ -47549,12 +46896,6 @@ game (
 	rom ( name "Network Access Disc (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 2789638144 crc BD25A378 md5 1D3BC49E0E34D4CC6BD37B9CFA7E2DB2 sha1 D3FF4556668CEA89FAB11E3B7425483AAA65CF71 serial "SCES-51578" )
 )
 game (
-	name "Network Access Disc (Europe) (En,Fr,De,Es,It) (v2.00)"
-	region "Europe"
-	serial "SCES-51578"
-	rom ( name "Network Access Disc (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 2789638144 crc BD25A378 md5 1D3BC49E0E34D4CC6BD37B9CFA7E2DB2 sha1 D3FF4556668CEA89FAB11E3B7425483AAA65CF71 serial "SCES-51578" )
-)
-game (
 	name "Network Access Disc (Europe) (En,Fr,De,Es,It) (v3.00)"
 	region "Europe"
 	serial "SCES-515782"
@@ -48029,12 +47370,6 @@ game (
 	rom ( name "Nickelodeon SpongeBob Schwammkopf - Film ab! (Germany).iso" size 1332510720 crc 34D63CB2 md5 21EEEEEE2A7A8FC824B92A8C7FF4B670 sha1 4EF7479B8C6A07069D416ECC23A4F2E637F6E1E9 serial "SLES-53497" )
 )
 game (
-	name "Nickelodeon SpongeBob Schwammkopf - Film ab! (Germany)"
-	region "Germany"
-	serial "SLES-53497"
-	rom ( name "Nickelodeon SpongeBob Schwammkopf - Film ab! (Germany).iso" size 1332510720 crc 34D63CB2 md5 21EEEEEE2A7A8FC824B92A8C7FF4B670 sha1 4EF7479B8C6A07069D416ECC23A4F2E637F6E1E9 serial "SLES-53497" )
-)
-game (
 	name "Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Germany)"
 	region "Germany"
 	serial "SLES-51970"
@@ -48229,12 +47564,6 @@ game (
 	region "Australia"
 	serial "SLES-55080/ANZ"
 	rom ( name "Nickelodeon SpongeBob's Atlantis SquarePantis (Australia).iso" size 1552809984 crc BE58FD63 md5 7163472D125B376345835B723839DBE6 sha1 8455B6E026D519CB6F3F5D1AC4B551A25159587A serial "SLES-55080/ANZ" )
-)
-game (
-	name "Nickelodeon SpongeBob's Atlantis SquarePantis (Europe) (En,Fr,De,It)"
-	region "Europe"
-	serial "SLES-55024"
-	rom ( name "Nickelodeon SpongeBob's Atlantis SquarePantis (Europe) (En,Fr,De,It).iso" size 2757885952 crc 73DC83AE md5 9C70132C563D774B6A9FE4F968FC3D92 sha1 D21A3E8EAC8BEEE0AB85AA2D2E584BB8C3B0BECD serial "SLES-55024" )
 )
 game (
 	name "Nickelodeon SpongeBob's Atlantis SquarePantis (Europe) (En,Fr,De,It)"
@@ -52735,12 +52064,6 @@ game (
 	rom ( name "Pac-Man World 2 (Europe) (En,Fr,De,Es,It).iso" size 1228832768 crc E9C6B833 md5 EAD78E00D18E97C3389FB86E1C44515F sha1 C4424D42762BCC6D9D8A2B710C0519C56C5C373F serial "SCES-50888" )
 )
 game (
-	name "Pac-Man World 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-50888"
-	rom ( name "Pac-Man World 2 (Europe) (En,Fr,De,Es,It).iso" size 1228832768 crc E9C6B833 md5 EAD78E00D18E97C3389FB86E1C44515F sha1 C4424D42762BCC6D9D8A2B710C0519C56C5C373F serial "SCES-50888" )
-)
-game (
 	name "Pac-Man World 2 (Japan, Asia)"
 	region "Japan"
 	serial "SCPS-55038"
@@ -53243,20 +52566,8 @@ game (
 game (
 	name "Perfect Ace - Pro Tournament Tennis (Europe, Australia) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-51735"
-	rom ( name "Perfect Ace - Pro Tournament Tennis (Europe, Australia) (En,Fr,De,Es,It).bin" size 297459792 crc 691E528C md5 B5846EAE59910F623E591602EAA233F1 sha1 A57DE1ACB57E372B90F7F6EA143813C7AA13BEDD serial "SLES-51735" )
-)
-game (
-	name "Perfect Ace - Pro Tournament Tennis (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-51735/GER"
 	rom ( name "Perfect Ace - Pro Tournament Tennis (Europe, Australia) (En,Fr,De,Es,It).bin" size 297459792 crc 691E528C md5 B5846EAE59910F623E591602EAA233F1 sha1 A57DE1ACB57E372B90F7F6EA143813C7AA13BEDD serial "SLES-51735/GER" )
-)
-game (
-	name "Perfect Ace 2 - The Championships (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52402"
-	rom ( name "Perfect Ace 2 - The Championships (Europe) (En,Fr,De,Es,It).bin" size 559505520 crc A9890424 md5 5E72107F7ED097403CD3B31A6A23D9FA sha1 C27FD3AE0A884EA1E4AFB51402C1BEB6DA3851D0 serial "SLES-52402" )
 )
 game (
 	name "Perfect Ace 2 - The Championships (Europe) (En,Fr,De,Es,It)"
@@ -53635,12 +52946,6 @@ game (
 	region "Japan"
 	serial "SLPS-73106"
 	rom ( name "Pilot ni Narou! 2 (Japan).bin" size 493324944 crc DD8811A3 md5 C4B3BC4926BE2168D29D903EC6BC417A sha1 9227BB8415646AB391E6678D4B2BBF56CEFA90DA serial "SLPS-73106" )
-)
-game (
-	name "Pinball (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51555"
-	rom ( name "Pinball (Europe) (En,Fr,De,Es,It).bin" size 562128000 crc 3BF44FCE md5 0EB38082DFC7D3236EC134415E52EB90 sha1 5F1BCA7B05913CEC54465759C53580CB0C507A25 serial "SLES-51555" )
 )
 game (
 	name "Pinball (Europe) (En,Fr,De,Es,It)"
@@ -54972,12 +54277,6 @@ game (
 	rom ( name "Power Rangers - Super Legends (Europe) (En,Fr,De,Es,It).iso" size 1539276800 crc F7A78303 md5 D3C8EC81B897AA0F67D0DC1BCF3A87C7 sha1 3184127B142C873C806F3C6C45CC46C06C45AC20 serial "SLES-54835" )
 )
 game (
-	name "Power Rangers - Super Legends (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-54835"
-	rom ( name "Power Rangers - Super Legends (Europe) (En,Fr,De,Es,It).iso" size 1539276800 crc F7A78303 md5 D3C8EC81B897AA0F67D0DC1BCF3A87C7 sha1 3184127B142C873C806F3C6C45CC46C06C45AC20 serial "SLES-54835" )
-)
-game (
 	name "Power Rangers - Super Legends - 15th Anniversary (USA)"
 	region "USA"
 	serial "SLUS-21679"
@@ -55255,12 +54554,6 @@ game (
 game (
 	name "Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-51918"
-	rom ( name "Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It).iso" size 3816914944 crc 7F576C4A md5 31BBEF83AF43628B683FE07B3E327D1B sha1 4028CB6F5F655A79C8E1C7439D5BBBC07F1AEE28 serial "SLES-51918" )
-)
-game (
-	name "Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-51918-P"
 	rom ( name "Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It).iso" size 3816914944 crc 7F576C4A md5 31BBEF83AF43628B683FE07B3E327D1B sha1 4028CB6F5F655A79C8E1C7439D5BBBC07F1AEE28 serial "SLES-51918-P" )
 )
@@ -55320,12 +54613,6 @@ game (
 	region "USA"
 	serial "SLUS-21287GH"
 	rom ( name "Prince of Persia - The Two Thrones (USA) (En,Fr,Es).iso" size 4670685184 crc 7B53E8CB md5 861FC26F064181DC8D04B378E0363969 sha1 0216BAAB741A664AD0446AB473D2EA7619A00791 serial "SLUS-21287GH" )
-)
-game (
-	name "Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl)"
-	region "Europe"
-	serial "SLES-52822"
-	rom ( name "Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl).iso" size 4095705088 crc 605F620D md5 8967912D4C02425162FD2FAEA8F308BB sha1 C971C8980F0EB76FFAD423DB680FDF4872CFB851 serial "SLES-52822" )
 )
 game (
 	name "Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl)"
@@ -55898,12 +55185,6 @@ game (
 	rom ( name "Project Zero (Europe) (En,Fr,De,Es,It).iso" size 3750100992 crc 62B26AF4 md5 59BE9D60176D3DC60363A03BCF6B3F18 sha1 C8498BA03187168F336F36F538D0A2406AE11521 serial "SLES-50821" )
 )
 game (
-	name "Project Zero (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50821"
-	rom ( name "Project Zero (Europe) (En,Fr,De,Es,It).iso" size 3750100992 crc 62B26AF4 md5 59BE9D60176D3DC60363A03BCF6B3F18 sha1 C8498BA03187168F336F36F538D0A2406AE11521 serial "SLES-50821" )
-)
-game (
 	name "Project Zero 3 (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "SLES-53825"
@@ -56413,12 +55694,6 @@ game (
 	region "USA"
 	serial "SLUS-20780"
 	rom ( name "R-Type Final (USA).iso" size 3374415872 crc 9D0D9400 md5 41A070FC09E7CC8E09C890D7856018E8 sha1 3FD151E694285C173C0E9A75A151F9670C47AF24 serial "SLUS-20780" )
-)
-game (
-	name "RC Revenge Pro (Europe) (En,Fr,De,Es)"
-	region "Europe"
-	serial "SLES-50077"
-	rom ( name "RC Revenge Pro (Europe) (En,Fr,De,Es).bin" size 708462384 crc 1A30D53D md5 BC1EC9870D52DF3AD9BC68F84FF45A1B sha1 A74B4639089CEFBC18EEB5E7E9845ED41A483CE2 serial "SLES-50077" )
 )
 game (
 	name "RC Revenge Pro (Europe) (En,Fr,De,Es)"
@@ -57300,12 +56575,6 @@ game (
 game (
 	name "Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-51222"
-	rom ( name "Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It).iso" size 2995519488 crc FCF2A758 md5 6EF87AC70052A13F56173DEA5653727B sha1 6C2CB2B3F3F9125A8797B2A7F18C6B6B6486F870 serial "SLES-51222" )
-)
-game (
-	name "Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-512222"
 	rom ( name "Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It).iso" size 2995519488 crc FCF2A758 md5 6EF87AC70052A13F56173DEA5653727B sha1 6C2CB2B3F3F9125A8797B2A7F18C6B6B6486F870 serial "SLES-512222" )
 )
@@ -57356,12 +56625,6 @@ game (
 	region "Europe"
 	serial "SLES-504573"
 	rom ( name "Rayman M (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 952893440 crc B98EF2C2 md5 D6A335C4CE074A953E9070D960FAF1AB sha1 242777941CAEA21FA0D7C7AD4200F0AD4867AD7C serial "SLES-504573" )
-)
-game (
-	name "Rayman Revolution (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50044"
-	rom ( name "Rayman Revolution (Europe) (En,Fr,De,Es,It).iso" size 4492591104 crc 023A2897 md5 4173B3103A4C6C86F6D9B9D83609E6F1 sha1 58F3CC922DEB10E5E1FBD824AE8B52AF6253C3B4 serial "SLES-50044" )
 )
 game (
 	name "Rayman Revolution (Europe) (En,Fr,De,Es,It)"
@@ -57956,12 +57219,6 @@ game (
 game (
 	name "Resident Evil 4 (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-53702"
-	rom ( name "Resident Evil 4 (Europe) (En,Fr,De,Es,It).iso" size 4564025344 crc 23089A94 md5 30255F8E8958A963212CA6455BB29EE0 sha1 BB7754DA915B93F3B80C175282CA12AB7CAF7A4A serial "SLES-53702" )
-)
-game (
-	name "Resident Evil 4 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-53702/P"
 	rom ( name "Resident Evil 4 (Europe) (En,Fr,De,Es,It).iso" size 4564025344 crc 23089A94 md5 30255F8E8958A963212CA6455BB29EE0 sha1 BB7754DA915B93F3B80C175282CA12AB7CAF7A4A serial "SLES-53702/P" )
 )
@@ -57988,12 +57245,6 @@ game (
 	region "Europe"
 	serial "SCED-54105"
 	rom ( name "Retail Demo 11 (Europe).iso" size 2856779776 crc 77C5A838 md5 43B138666259ADAD9422DF11AC748BF0 sha1 D9D339209F0D32F8402552B1127E72C192A14C2D serial "SCED-54105" )
-)
-game (
-	name "Retro Classics - 8 Arcade Classics from Yesteryears (Europe)"
-	region "Europe"
-	serial "SLES-52346"
-	rom ( name "Retro Classics - 8 Arcade Classics from Yesteryears (Europe).bin" size 107613408 crc 4067DE42 md5 5B68DF1F7FEA54D0F54137E482DB489E sha1 63199A7FCB240151744210E58C4D50191DE2D8D2 serial "SLES-52346" )
 )
 game (
 	name "Retro Classics - 8 Arcade Classics from Yesteryears (Europe)"
@@ -58318,12 +57569,6 @@ game (
 	region "USA"
 	serial "SLUS-20398"
 	rom ( name "Road Trip (USA).bin" size 616332192 crc 7DCAFAB0 md5 E1598A1A2B1A296DBEAE90927172D52A sha1 236B902A72580F43A480F18D232723A8676B02E5 serial "SLUS-20398" )
-)
-game (
-	name "Road Trip Adventure (Europe, Australia) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-51356"
-	rom ( name "Road Trip Adventure (Europe, Australia) (En,Fr,De).bin" size 617825712 crc C60376DC md5 789C4A55800CB4F05285E08EBB8E18C3 sha1 02D2ED9975556DE654AFB80B1DC44AEE6630B2A4 serial "SLES-51356" )
 )
 game (
 	name "Road Trip Adventure (Europe, Australia) (En,Fr,De)"
@@ -58774,12 +58019,6 @@ game (
 	region "Europe"
 	serial "SCES-53310"
 	rom ( name "Roland Garros 2005 - Powered by Smash Court Tennis (Europe) (En,Fr,De,Es,It).iso" size 3882811392 crc 91D6A9BE md5 D99C699F0ACAEA0DD69897E60C7AC113 sha1 27F019C625FF8EF644E056407DF4FA9D6FFB26D6 serial "SCES-53310" )
-)
-game (
-	name "Roland Garros French Open 2002 (Europe) (En,Fr,De,Es,It,Pt)"
-	region "Europe"
-	serial "SLES-50809"
-	rom ( name "Roland Garros French Open 2002 (Europe) (En,Fr,De,Es,It,Pt).bin" size 427981680 crc 7AB69871 md5 9824308F556D8CAA6B9F3887A2B4DD58 sha1 C569CC3862406FD2419A1FBBD68CD922410BB1CC serial "SLES-50809" )
 )
 game (
 	name "Roland Garros French Open 2002 (Europe) (En,Fr,De,Es,It,Pt)"
@@ -59651,20 +58890,8 @@ game (
 game (
 	name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SCES-50928"
-	rom ( name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It).iso" size 4278878208 crc FD9D8791 md5 1D40B3809106D021101BAA8FC268BDF9 sha1 76D7C74AFE7D4B2FF5A1D3D7A121A9972C51C21C serial "SCES-50928" )
-)
-game (
-	name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SCES-50928/GER"
 	rom ( name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It).iso" size 4278878208 crc FD9D8791 md5 1D40B3809106D021101BAA8FC268BDF9 sha1 76D7C74AFE7D4B2FF5A1D3D7A121A9972C51C21C serial "SCES-50928/GER" )
-)
-game (
-	name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-50928/P"
-	rom ( name "SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It).iso" size 4278878208 crc FD9D8791 md5 1D40B3809106D021101BAA8FC268BDF9 sha1 76D7C74AFE7D4B2FF5A1D3D7A121A9972C51C21C serial "SCES-50928/P" )
 )
 game (
 	name "SOCOM - U.S. Navy SEALs (Japan)"
@@ -61472,12 +60699,6 @@ game (
 game (
 	name "Seek and Destroy (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-51603"
-	rom ( name "Seek and Destroy (Europe) (En,Fr,De,Es,It).bin" size 588371616 crc A7D4B46A md5 96F948D86C540A81BEF014D9731B653C sha1 24E7E5345A2A3592EDE82626CF28D89AEB37C475 serial "SLES-51603" )
-)
-game (
-	name "Seek and Destroy (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-516032"
 	rom ( name "Seek and Destroy (Europe) (En,Fr,De,Es,It).bin" size 588371616 crc A7D4B46A md5 96F948D86C540A81BEF014D9731B653C sha1 24E7E5345A2A3592EDE82626CF28D89AEB37C475 serial "SLES-516032" )
 )
@@ -62368,12 +61589,6 @@ game (
 game (
 	name "Shadow Hearts - From the New World (Europe, Australia)"
 	region "Europe"
-	serial "SLES-54711"
-	rom ( name "Shadow Hearts - From the New World (Europe, Australia).iso" size 4240900096 crc 1494D5A8 md5 B61021375ED284352F7B6B2C00F5F126 sha1 63EBBEC91223FB8510C36F98FEFBF32CA47011DF serial "SLES-54711" )
-)
-game (
-	name "Shadow Hearts - From the New World (Europe, Australia)"
-	region "Europe"
 	serial "SLES-54711/ANZ"
 	rom ( name "Shadow Hearts - From the New World (Europe, Australia).iso" size 4240900096 crc 1494D5A8 md5 B61021375ED284352F7B6B2C00F5F126 sha1 63EBBEC91223FB8510C36F98FEFBF32CA47011DF serial "SLES-54711/ANZ" )
 )
@@ -63098,12 +62313,6 @@ game (
 	region "USA"
 	serial "SLUS-21897"
 	rom ( name "Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA).iso" size 3853156352 crc 52E288EA md5 424BCE97A7921A4BC60ABE3F3E1F7A10 sha1 931F076A7C2A02E23A72F19C53BB64442D96FCC8 serial "SLUS-21897" )
-)
-game (
-	name "Shin Megami Tensei - Digital Devil Saga (Europe)"
-	region "Europe"
-	serial "SLES-53458"
-	rom ( name "Shin Megami Tensei - Digital Devil Saga (Europe).iso" size 4380262400 crc A7E49FD7 md5 D69DA77B64C01117CD478B826E2B6C0D sha1 6FBEB21DB340753CEDAEA4BC2EF0ED214402F3EB serial "SLES-53458" )
 )
 game (
 	name "Shin Megami Tensei - Digital Devil Saga (Europe)"
@@ -64536,12 +63745,6 @@ game (
 game (
 	name "Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It)"
 	region "Europe"
-	serial "SLES-50382"
-	rom ( name "Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It).iso" size 3628826624 crc 4F7A610D md5 7BB226626AB6D4704032375CA5A1847A sha1 924409DE4DC4CABD4A978FAE7DE94159E57A1C8D serial "SLES-50382" )
-)
-game (
-	name "Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It)"
-	region "Europe"
 	serial "SLES-503824"
 	rom ( name "Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It).iso" size 3628826624 crc 4F7A610D md5 7BB226626AB6D4704032375CA5A1847A sha1 924409DE4DC4CABD4A978FAE7DE94159E57A1C8D serial "SLES-503824" )
 )
@@ -64654,12 +63857,6 @@ game (
 	region "USA"
 	serial "SLUS-20622"
 	rom ( name "Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko).iso" size 3584229376 crc 4F5F29E7 md5 A7AB10FBCF20E4AA2F8F6D7C026D6630 sha1 0F7B0D5D75FE34DDF72E26AAE1B4F5E7891282B0 serial "SLUS-20622" )
-)
-game (
-	name "Silent Hill 4 - The Room (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52445"
-	rom ( name "Silent Hill 4 - The Room (Europe) (En,Fr,De,Es,It).iso" size 3777429504 crc 8920DD11 md5 AE94BDD6DEC049F38BEFFB7A42B99A16 sha1 B5CA24F9116B3E97ABB9B64D3D34A0B03B6DBBD6 serial "SLES-52445" )
 )
 game (
 	name "Silent Hill 4 - The Room (Europe) (En,Fr,De,Es,It)"
@@ -66069,12 +65266,6 @@ game (
 	rom ( name "Simpsons, Die - Das Spiel (Germany).iso" size 3784310784 crc A657B280 md5 F7DF55D0AB190772AFD05E58E6401D26 sha1 A3D28E07E8B3BFEA220715170BD5D5C4DF4F3528 serial "SLES-55020" )
 )
 game (
-	name "Simpsons, Die - Das Spiel (Germany)"
-	region "Germany"
-	serial "SLES-55020"
-	rom ( name "Simpsons, Die - Das Spiel (Germany).iso" size 3784310784 crc A657B280 md5 F7DF55D0AB190772AFD05E58E6401D26 sha1 A3D28E07E8B3BFEA220715170BD5D5C4DF4F3528 serial "SLES-55020" )
-)
-game (
 	name "Simpsons, The - Hit & Run (Europe, Australia) (En,Fr,De,Es)"
 	region "Europe"
 	serial "SLES-51897"
@@ -66382,12 +65573,6 @@ game (
 	region "Europe"
 	serial "SCES-53602/ANZ"
 	rom ( name "SingStar '80s (Europe, Australia) (v2.00).iso" size 4588339200 crc C908F3CC md5 A9EC75365FA326F0D6A50BE73E720465 sha1 224B4D6C95C517430D66A664C69B179F976AF87A serial "SCES-53602/ANZ" )
-)
-game (
-	name "SingStar '80s (Europe, Australia) (v2.00)"
-	region "Europe"
-	serial "SCES-53602/GER"
-	rom ( name "SingStar '80s (Europe, Australia) (v2.00).iso" size 4588339200 crc C908F3CC md5 A9EC75365FA326F0D6A50BE73E720465 sha1 224B4D6C95C517430D66A664C69B179F976AF87A serial "SCES-53602/GER" )
 )
 game (
 	name "SingStar '80s (Europe, Australia) (v2.00)"
@@ -67104,12 +66289,6 @@ game (
 	rom ( name "SingStar Pop Hits (Germany).iso" size 4575002624 crc 2B3F27B2 md5 D7F6AB3CE638461CE2DB1E14BD00D00F sha1 EDC5B9E7EC4AD182BDD6F3B7AC5681678A011019 serial "SCES-54571/GER" )
 )
 game (
-	name "SingStar Pop Hits (Germany)"
-	region "Germany"
-	serial "SCES-54571/GER"
-	rom ( name "SingStar Pop Hits (Germany).iso" size 4575002624 crc 2B3F27B2 md5 D7F6AB3CE638461CE2DB1E14BD00D00F sha1 EDC5B9E7EC4AD182BDD6F3B7AC5681678A011019 serial "SCES-54571/GER" )
-)
-game (
 	name "SingStar Pop Hits (Portugal)"
 	region "Portugal"
 	serial "SCES-54575"
@@ -67588,12 +66767,6 @@ game (
 	rom ( name "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl).iso" size 1356955648 crc 288F2F0D md5 B6CCE541DBAE4AE365317E638E3E72C4 sha1 2AD890AC424993BF5ED6A736C7CEB3F11104819C serial "SLES-52116" )
 )
 game (
-	name "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl)"
-	region "Europe"
-	serial "SLES-52116"
-	rom ( name "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl).iso" size 1356955648 crc 288F2F0D md5 B6CCE541DBAE4AE365317E638E3E72C4 sha1 2AD890AC424993BF5ED6A736C7CEB3F11104819C serial "SLES-52116" )
-)
-game (
 	name "Sitting Ducks (USA)"
 	region "USA"
 	serial "SLUS-20886"
@@ -68019,12 +67192,6 @@ game (
 game (
 	name "Sly Raccoon (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	serial "SCES-50917"
-	rom ( name "Sly Raccoon (Europe) (En,Fr,De,Es,It).iso" size 2923823104 crc 42D42D1F md5 DB65A3D03B8E0B036AC7FB0FBC71830B sha1 DBD975260A70E87F518FA72A3741D22216559814 serial "SCES-50917" )
-)
-game (
-	name "Sly Raccoon (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
 	serial "SCES-50917/GER"
 	rom ( name "Sly Raccoon (Europe) (En,Fr,De,Es,It).iso" size 2923823104 crc 42D42D1F md5 DB65A3D03B8E0B036AC7FB0FBC71830B sha1 DBD975260A70E87F518FA72A3741D22216559814 serial "SCES-50917/GER" )
 )
@@ -68347,12 +67514,6 @@ game (
 	rom ( name "Soldier of Fortune - Gold Edition (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 805634048 crc 696E16DF md5 428E5F1159DEFD71FBE01D32DBAA5C38 sha1 F15CF161C6D85626E3CAADF792B30A7CE3FE691D serial "SLES-50739" )
 )
 game (
-	name "Soldier of Fortune - Gold Edition (Europe) (En,Fr,De,Es,It) (v2.00)"
-	region "Europe"
-	serial "SLES-50739"
-	rom ( name "Soldier of Fortune - Gold Edition (Europe) (En,Fr,De,Es,It) (v2.00).iso" size 805634048 crc 696E16DF md5 428E5F1159DEFD71FBE01D32DBAA5C38 sha1 F15CF161C6D85626E3CAADF792B30A7CE3FE691D serial "SLES-50739" )
-)
-game (
 	name "Soldier of Fortune - Gold Edition (USA)"
 	region "USA"
 	serial "SLUS-20084"
@@ -68568,12 +67729,6 @@ game (
 	region "USA"
 	serial "SLUS-21642"
 	rom ( name "Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It).iso" size 4698734592 crc AEFD4100 md5 8777CC5B9C480ABF9BB966FC652DDE4B sha1 BC6800463E4DB6F0999D41394D9A26D8F5C8CE1A serial "SLUS-21642" )
-)
-game (
-	name "Sonic Unleashed (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-55380"
-	rom ( name "Sonic Unleashed (Europe, Australia) (En,Fr,De,Es,It).iso" size 4680941568 crc 2E61AAAF md5 E8A457B34F58C564241BA7378D5DBD61 sha1 433F13FD1637D483BAB6A9F1B5BE6C019512CC57 serial "SLES-55380" )
 )
 game (
 	name "Sonic Unleashed (Europe, Australia) (En,Fr,De,Es,It)"
@@ -68992,12 +68147,6 @@ game (
 	rom ( name "Space Invaders Anniversary (Europe, Australia) (En,Fr,De,Es,It).bin" size 46901232 crc E99FE543 md5 2A8596200A396C736AD88197A87C4B54 sha1 73C352ABC8E37D8E00C91DDC71F1BF989BAEF7DC serial "SLES-52313" )
 )
 game (
-	name "Space Invaders Anniversary (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52313"
-	rom ( name "Space Invaders Anniversary (Europe, Australia) (En,Fr,De,Es,It).bin" size 46901232 crc E99FE543 md5 2A8596200A396C736AD88197A87C4B54 sha1 73C352ABC8E37D8E00C91DDC71F1BF989BAEF7DC serial "SLES-52313" )
-)
-game (
 	name "Space Invaders Anniversary (Japan)"
 	region "Japan"
 	serial "SLPM-62354"
@@ -69146,12 +68295,6 @@ game (
 	region "Japan"
 	serial "SLPM-62727"
 	rom ( name "Spectral vs. Generation (Japan).bin" size 428541456 crc B16FDE27 md5 273363B8BF59122E9B0C26E0055E2C49 sha1 062340290AD23494E30CFC5EC82C142AA4C5C1E0 serial "SLPM-62727" )
-)
-game (
-	name "Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)"
-	region "Europe"
-	serial "SLES-51022"
-	rom ( name "Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr).bin" size 462563136 crc 50DC8154 md5 E71FB5867A2C45123F665C63279952ED sha1 340FCC4002E01653B099DAA74C0620214FF61FE2 serial "SLES-51022" )
 )
 game (
 	name "Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)"
@@ -70127,12 +69270,6 @@ game (
 	rom ( name "Star Wars - Battlefront II (Germany).iso" size 4697292800 crc 02DA454B md5 148911A360DA34A8D5CB30F47215B0A8 sha1 307DBAC696ED6ABB6D10B374D4D314E4AA71C728 serial "SLES-53503/P" )
 )
 game (
-	name "Star Wars - Battlefront II (Germany)"
-	region "Germany"
-	serial "SLES-53503/P"
-	rom ( name "Star Wars - Battlefront II (Germany).iso" size 4697292800 crc 02DA454B md5 148911A360DA34A8D5CB30F47215B0A8 sha1 307DBAC696ED6ABB6D10B374D4D314E4AA71C728 serial "SLES-53503/P" )
-)
-game (
 	name "Star Wars - Battlefront II (Japan)"
 	region "Japan"
 	serial "SLPM-66190"
@@ -70505,12 +69642,6 @@ game (
 	rom ( name "Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It).iso" size 3778543616 crc 0146AD44 md5 0B2FB229373BE6ADD1376FB1EC938A99 sha1 30BF108E69C4939DB9166DD5FDD494A690D0EE9F serial "SLES-54659/P" )
 )
 game (
-	name "Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-54659/P"
-	rom ( name "Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It).iso" size 3778543616 crc 0146AD44 md5 0B2FB229373BE6ADD1376FB1EC938A99 sha1 30BF108E69C4939DB9166DD5FDD494A690D0EE9F serial "SLES-54659/P" )
-)
-game (
 	name "Star Wars - The Force Unleashed (Europe, Australia)"
 	region "Europe"
 	serial "SLES-54658"
@@ -70575,12 +69706,6 @@ game (
 	region "USA"
 	serial "SLUS-20619"
 	rom ( name "Starsky & Hutch (USA).iso" size 3704029184 crc E45D8377 md5 9EDB70F205994DAC077CF3B1B710918D sha1 6D510F5A6053DF3A40C41381292773A82875A12B serial "SLUS-20619" )
-)
-game (
-	name "State of Emergency (Europe) (En,Fr,Es,It) (v1.02)"
-	region "Europe"
-	serial "SLES-50606"
-	rom ( name "State of Emergency (Europe) (En,Fr,Es,It) (v1.02).iso" size 4664262656 crc 73B7BD23 md5 BB2E77B3A2061B035726978A5E3A900A sha1 CDB91622B0EECFBD5694E71D62A6CFD550E51999 serial "SLES-50606" )
 )
 game (
 	name "State of Emergency (Europe) (En,Fr,Es,It) (v1.02)"
@@ -70839,12 +69964,6 @@ game (
 	rom ( name "Street Fighter Alpha Anthology (Europe, Australia).iso" size 4698767360 crc 15D1B9EA md5 D23B27532FED0550DFC283274BA8C90E sha1 9630CAE7BB1F3D18A7E1B35DAF346B29C8715B39 serial "SLES-54085" )
 )
 game (
-	name "Street Fighter Alpha Anthology (Europe, Australia)"
-	region "Europe"
-	serial "SLES-54085"
-	rom ( name "Street Fighter Alpha Anthology (Europe, Australia).iso" size 4698767360 crc 15D1B9EA md5 D23B27532FED0550DFC283274BA8C90E sha1 9630CAE7BB1F3D18A7E1B35DAF346B29C8715B39 serial "SLES-54085" )
-)
-game (
 	name "Street Fighter Alpha Anthology (USA)"
 	region "USA"
 	serial "SLUS-21317"
@@ -70987,12 +70106,6 @@ game (
 	region "Korea"
 	serial "SLKA-15005"
 	rom ( name "Strikers 1945 I & II (Korea).bin" size 194813808 crc 1A8D0A02 md5 1A4CB73752B538DAEFEB5275E217EA62 sha1 3242F9318FF25CB207B639409C1F1EB5A2A53B32 serial "SLKA-15005" )
-)
-game (
-	name "Stuart Little 3 - Big Photo Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Fi,Pl)"
-	region "Europe"
-	serial "SCES-53422"
-	rom ( name "Stuart Little 3 - Big Photo Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Fi,Pl).iso" size 4272881664 crc 2D8F5F96 md5 68A9853389E7677C6574E2396B038FE3 sha1 04637D7355A8D179F4917163E41037620E4B0DA0 serial "SCES-53422" )
 )
 game (
 	name "Stuart Little 3 - Big Photo Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Fi,Pl)"
@@ -71462,22 +70575,10 @@ game (
 	rom ( name "Super Bust-A-Move (Europe).bin" size 37801344 crc C1D7F6BE md5 14D48DBC53D564E5D40EBFBE3745DCAC sha1 2A1D1E861E45A8C37B1E35D61B891823E27AC12F serial "SLES-50076" )
 )
 game (
-	name "Super Bust-A-Move (Europe)"
-	region "Europe"
-	serial "SLES-50076"
-	rom ( name "Super Bust-A-Move (Europe).bin" size 37801344 crc C1D7F6BE md5 14D48DBC53D564E5D40EBFBE3745DCAC sha1 2A1D1E861E45A8C37B1E35D61B891823E27AC12F serial "SLES-50076" )
-)
-game (
 	name "Super Bust-A-Move (USA)"
 	region "USA"
 	serial "SLUS-20115"
 	rom ( name "Super Bust-A-Move (USA).bin" size 37582608 crc 2125678A md5 62276CDED2BEABC0A29004DE17F09601 sha1 81ABD40F8644960728EE149F892CCAD73423E19E serial "SLUS-20115" )
-)
-game (
-	name "Super Bust-A-Move 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50562"
-	rom ( name "Super Bust-A-Move 2 (Europe) (En,Fr,De,Es,It).bin" size 623884464 crc B7018A2A md5 6F35801098BD5E65508429856CF25BF8 sha1 4DD1F2E2D8914F32D793C84FA91A3C67E2EBF997 serial "SLES-50562" )
 )
 game (
 	name "Super Bust-A-Move 2 (Europe) (En,Fr,De,Es,It)"
@@ -72395,12 +71496,6 @@ game (
 	region "Europe"
 	serial "SLES-53768"
 	rom ( name "Sword of Etheria, The (Europe) (En,Fr,De,Es,It).iso" size 4472995840 crc BB233038 md5 B9C5115B77B7F05FBF14A67DF8D3F99D sha1 E38A277688C50C6513A8F4DAD3293EEC1CE1588C serial "SLES-53768" )
-)
-game (
-	name "Sword of the Samurai (Europe)"
-	region "Europe"
-	serial "SLES-51290"
-	rom ( name "Sword of the Samurai (Europe).iso" size 1464041472 crc E74625DC md5 699F1C69DCB55A679037B11B0A89BBE7 sha1 41E461C84BCCD0A87A682856F0494673072FF9B4 serial "SLES-51290" )
 )
 game (
 	name "Sword of the Samurai (Europe)"
@@ -74065,12 +73160,6 @@ game (
 game (
 	name "Tenchu - Wrath of Heaven (Germany)"
 	region "Germany"
-	serial "SLES-51402"
-	rom ( name "Tenchu - Wrath of Heaven (Germany).iso" size 3833790464 crc 275349FB md5 968BE928DBC28EB87D3B5A94B429DF29 sha1 1AD41C0242D214D6E9E72A67972D566B16EF42A4 serial "SLES-51402" )
-)
-game (
-	name "Tenchu - Wrath of Heaven (Germany)"
-	region "Germany"
 	serial "SLES-514022"
 	rom ( name "Tenchu - Wrath of Heaven (Germany).iso" size 3833790464 crc 275349FB md5 968BE928DBC28EB87D3B5A94B429DF29 sha1 1AD41C0242D214D6E9E72A67972D566B16EF42A4 serial "SLES-514022" )
 )
@@ -75092,12 +74181,6 @@ game (
 	region "Europe"
 	serial "SLES-54738"
 	rom ( name "Thunderbirds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).bin" size 65474976 crc 3136BB76 md5 45B65EC6E74D5D797C2F555DB8BE44A0 sha1 41CF7C59BA50EBC3A0EAFCAB43BDB04E09580877 serial "SLES-54738" )
-)
-game (
-	name "Thunderhawk - Operation Phoenix (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50554"
-	rom ( name "Thunderhawk - Operation Phoenix (Europe) (En,Fr,De,Es,It).iso" size 1065877504 crc 9CB419A5 md5 F18EC434449FBF7574C1EF9568454F07 sha1 86C2FC6D3422093D301DE4F6D49BDF5638E4FC9B serial "SLES-50554" )
 )
 game (
 	name "Thunderhawk - Operation Phoenix (Europe) (En,Fr,De,Es,It)"
@@ -76277,12 +75360,6 @@ game (
 game (
 	name "Tony Hawk's Pro Skater 4 (Europe, Australia)"
 	region "Europe"
-	serial "SLES-51130-ANZ-P"
-	rom ( name "Tony Hawk's Pro Skater 4 (Europe, Australia).iso" size 3306455040 crc 1F6A4F5A md5 D8A86345F948ED4B837034DB1744F24C sha1 468C3AC51D1B32AD21ECA9039FA9C9F1E1073445 serial "SLES-51130-ANZ-P" )
-)
-game (
-	name "Tony Hawk's Pro Skater 4 (Europe, Australia)"
-	region "Europe"
 	serial "SLES-51130-P"
 	rom ( name "Tony Hawk's Pro Skater 4 (Europe, Australia).iso" size 3306455040 crc 1F6A4F5A md5 D8A86345F948ED4B837034DB1744F24C sha1 468C3AC51D1B32AD21ECA9039FA9C9F1E1073445 serial "SLES-51130-P" )
 )
@@ -76491,12 +75568,6 @@ game (
 	rom ( name "Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl).bin" size 733038432 crc C3E1A925 md5 CB90D62ED6D5525C57BDD749A608225A sha1 1DB79C3EEB88D7FA84CE04973A3862456BFCFF63 serial "SLES-50568" )
 )
 game (
-	name "Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl)"
-	region "Europe"
-	serial "SLES-50568"
-	rom ( name "Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl).bin" size 733038432 crc C3E1A925 md5 CB90D62ED6D5525C57BDD749A608225A sha1 1DB79C3EEB88D7FA84CE04973A3862456BFCFF63 serial "SLES-50568" )
-)
-game (
 	name "Top Gun - Combat Zones (USA)"
 	region "USA"
 	serial "SLUS-20211"
@@ -76597,12 +75668,6 @@ game (
 	region "Spain"
 	serial "SLES-53979"
 	rom ( name "Torrente 3 - El Protector (Spain).iso" size 4243128320 crc 885D3581 md5 7CC7056649EB737A491C9C0F17A85C6F sha1 E6E6BC185E286209094351AEE97AD7250E2F3973 serial "SLES-53979" )
-)
-game (
-	name "Torrente 3 - The Protector (Europe)"
-	region "Europe"
-	serial "SLES-54117"
-	rom ( name "Torrente 3 - The Protector (Europe).iso" size 4249190400 crc 8353A157 md5 A53BE2E7C02CABA274AFF7F8D5F4DD91 sha1 5CD3D89ECCC7A1DF4310A427541F9054417DE06B serial "SLES-54117" )
 )
 game (
 	name "Torrente 3 - The Protector (Europe)"
@@ -76767,12 +75832,6 @@ game (
 	rom ( name "Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It).iso" size 3173777408 crc 34A627A8 md5 49D8E434F48E753E903B617CCA6F6D30 sha1 AEE48A50B2A56F82A33D7410C268340BF8F85D24 serial "SCES-53372/P/GER" )
 )
 game (
-	name "Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-53372/P/GER"
-	rom ( name "Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It).iso" size 3173777408 crc 34A627A8 md5 49D8E434F48E753E903B617CCA6F6D30 sha1 AEE48A50B2A56F82A33D7410C268340BF8F85D24 serial "SCES-53372/P/GER" )
-)
-game (
 	name "Tourist Trophy - The Real Riding Simulator (Japan)"
 	region "Japan"
 	serial "SCPS-15105"
@@ -76912,12 +75971,6 @@ game (
 	region "USA"
 	serial "SLUS-28040"
 	rom ( name "Transformers (USA) (Trade Demo).bin" size 434289744 crc DFCA3EF1 md5 585FE25FC11A472D235854AB6D4C496C sha1 F1599306DBBAB94195992298D5DC973176D1C5A8 serial "SLUS-28040" )
-)
-game (
-	name "Transformers - Revenge of the Fallen (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-55520"
-	rom ( name "Transformers - Revenge of the Fallen (Europe) (En,Fr,De,Es,It).iso" size 3382509568 crc 8BD39410 md5 39AB3A2917D6518A110F034243437BD8 sha1 831BEB14C18907D31CF944364055EF754278475D serial "SLES-55520" )
 )
 game (
 	name "Transformers - Revenge of the Fallen (Europe) (En,Fr,De,Es,It)"
@@ -77394,12 +76447,6 @@ game (
 	region "Japan"
 	serial "SLPS-25713"
 	rom ( name "Twinkle Star Sprites - La Petite Princesse (Japan).iso" size 3698458624 crc 19DED5B8 md5 AE9EC06C51BC7E423FF5D3EBBBFF45BD sha1 CC888FA4F70E5DDD3125443CD703759A48E460EA serial "SLPS-25713" )
-)
-game (
-	name "Twisted Metal - Black (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SCES-50360"
-	rom ( name "Twisted Metal - Black (Europe) (En,Fr,De,Es,It).iso" size 1756692480 crc 90750DEC md5 87D89A383F08CA461391EFEAE5778A23 sha1 EBBA047CA21DBC8794508E96B15B1157C818FCB9 serial "SCES-50360" )
 )
 game (
 	name "Twisted Metal - Black (Europe) (En,Fr,De,Es,It)"
@@ -78093,12 +77140,6 @@ game (
 	rom ( name "Underworld - The Eternal War (Europe) (En,Fr,De,Es,It).iso" size 4392255488 crc DCDC2C0E md5 F0CF4CB752598F3E22F464F897B94A34 sha1 F1FE59285877653AF3ACA50BB125326E9F243BAF serial "SLES-52109" )
 )
 game (
-	name "Underworld - The Eternal War (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-52109"
-	rom ( name "Underworld - The Eternal War (Europe) (En,Fr,De,Es,It).iso" size 4392255488 crc DCDC2C0E md5 F0CF4CB752598F3E22F464F897B94A34 sha1 F1FE59285877653AF3ACA50BB125326E9F243BAF serial "SLES-52109" )
-)
-game (
 	name "Unison (Japan)"
 	region "Japan"
 	serial "SLPS-25010"
@@ -78411,12 +77452,6 @@ game (
 	region "USA"
 	serial "SLUS-20496"
 	rom ( name "V-Rally 3 (USA).iso" size 3202809856 crc ED851244 md5 785C79C273EEB4C977CB5318645E2815 sha1 67FD4A0ACD319A57F1E9DE1A7E443E34AFDFDBF7 serial "SLUS-20496" )
-)
-game (
-	name "V.I.P. (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50730"
-	rom ( name "V.I.P. (Europe) (En,Fr,De,Es,It).bin" size 722174544 crc E244F17A md5 90E343C084C4E60B74F04A936E08E792 sha1 DFD38653EE57386EEDC2AF51C89CEB556BADB4D3 serial "SLES-50730" )
 )
 game (
 	name "V.I.P. (Europe) (En,Fr,De,Es,It)"
@@ -78961,12 +77996,6 @@ game (
 	rom ( name "Virtua Fighter 4 - Evolution (Europe) (En,Fr,De,Es,It).iso" size 1851654144 crc DE98C574 md5 F134F40F81BA1A53751AAE8BA913AB54 sha1 4DB383186146A5CEA69D05821860F33CABFACCAF serial "SLES-51616-GER" )
 )
 game (
-	name "Virtua Fighter 4 - Evolution (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51616-GER"
-	rom ( name "Virtua Fighter 4 - Evolution (Europe) (En,Fr,De,Es,It).iso" size 1851654144 crc DE98C574 md5 F134F40F81BA1A53751AAE8BA913AB54 sha1 4DB383186146A5CEA69D05821860F33CABFACCAF serial "SLES-51616-GER" )
-)
-game (
 	name "Virtua Fighter 4 - Evolution (Japan)"
 	region "Japan"
 	serial "SLPM-65270"
@@ -79007,12 +78036,6 @@ game (
 	region "USA"
 	serial "SLUS-20977"
 	rom ( name "Virtua Quest (USA).iso" size 1654194176 crc 1561E78F md5 0A5632844E77F5C3F5F29BB405E02885 sha1 0D3DD17BB324369204A074F39EC12889CCD490E0 serial "SLUS-20977" )
-)
-game (
-	name "Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)"
-	region "Europe"
-	serial "SLES-51232"
-	rom ( name "Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es).bin" size 420617568 crc 19A4D402 md5 74A31EDA1D75CBBA28A23A6770FDC102 sha1 B8C4EE2685843264795545937181F93FFD4A523D serial "SLES-51232" )
 )
 game (
 	name "Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)"
@@ -79103,12 +78126,6 @@ game (
 	region "Europe"
 	serial "SCES-53247/GER"
 	rom ( name "WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).iso" size 3670540288 crc 883E57FF md5 38586F5041DAA7738C2BD4D4836E1896 sha1 423D1C25788E6F990524BE7FE797278FFDEDD17C serial "SCES-53247/GER" )
-)
-game (
-	name "WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)"
-	region "Europe"
-	serial "SCES-53247"
-	rom ( name "WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).iso" size 3691479040 crc C711AD65 md5 EA2C948B508AA4EFF466772AF4DE7D25 sha1 0DE0FC4C4E13BA278F070170FA663D42EDD2835C serial "SCES-53247" )
 )
 game (
 	name "WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)"
@@ -79441,12 +78458,6 @@ game (
 	rom ( name "WWE SmackDown vs. Raw 2008 (Europe, Australia).iso" size 4232773632 crc 7FDB7033 md5 4A6DADDE3DBD93D4794E8D56C394EA41 sha1 4B30BC3933BC21D274E33D11477259B22114E647 serial "SLES-54793/ANZ" )
 )
 game (
-	name "WWE SmackDown vs. Raw 2008 (Europe, Australia)"
-	region "Europe"
-	serial "SLES-54793/ANZ"
-	rom ( name "WWE SmackDown vs. Raw 2008 (Europe, Australia).iso" size 4232773632 crc 7FDB7033 md5 4A6DADDE3DBD93D4794E8D56C394EA41 sha1 4B30BC3933BC21D274E33D11477259B22114E647 serial "SLES-54793/ANZ" )
-)
-game (
 	name "WWE SmackDown vs. Raw 2008 (Japan)"
 	region "Japan"
 	serial "SLPM-66863"
@@ -79637,12 +78648,6 @@ game (
 	region "USA"
 	serial "SLUS-29116"
 	rom ( name "WWE SmackDown! vs. Raw (USA) (Beta) (2004-07-06).iso" size 1254293504 crc 18248D47 md5 A589439F38F813EC8A20A43C23CCC670 sha1 73EB911D8DEEEDB65206FFF5F00DCA36861B3EA8 serial "SLUS-29116" )
-)
-game (
-	name "WWE SmackDown! vs. Raw 2006 (Europe, Australia)"
-	region "Europe"
-	serial "SLES-53676"
-	rom ( name "WWE SmackDown! vs. Raw 2006 (Europe, Australia).iso" size 4217470976 crc 662CE68C md5 0C7A3AE26301C8403B38A4643594E997 sha1 BB19CA61E9FFEA46B6B68C8972FB4BB115D35701 serial "SLES-53676" )
 )
 game (
 	name "WWE SmackDown! vs. Raw 2006 (Europe, Australia)"
@@ -80065,12 +79070,6 @@ game (
 	region "USA"
 	serial "SLUS-21803"
 	rom ( name "Warriors Orochi 2 (USA).iso" size 3971383296 crc 7050C27A md5 515EBB091C2DC93BD6F60AA0AF6237A3 sha1 F5AA79DF194DB102B9B136A05D6EF6086B922A69 serial "SLUS-21803" )
-)
-game (
-	name "Warriors of Might and Magic (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50187"
-	rom ( name "Warriors of Might and Magic (Europe) (En,Fr,De,Es,It).iso" size 1619492864 crc 731DCB72 md5 A8E98869DCD07BF6F262FE012F818709 sha1 0CFBB0C99D9A62A567976E14FCE1348A1E76F972 serial "SLES-50187" )
 )
 game (
 	name "Warriors of Might and Magic (Europe) (En,Fr,De,Es,It)"
@@ -80531,12 +79530,6 @@ game (
 	region "Europe"
 	serial "SLES-53595"
 	rom ( name "Wild Water Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It).bin" size 647891328 crc 513CA643 md5 1633C53A7437305C4983EA96FC286CA7 sha1 C028D7338FC0986B38C152E2BEEB5007DE2618D9 serial "SLES-53595" )
-)
-game (
-	name "Wild Wild Racing (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-50009"
-	rom ( name "Wild Wild Racing (Europe) (En,Fr,De,Es,It).bin" size 588421008 crc DE2A960E md5 C01D5E0F51B2D464B460472CD1D37AB2 sha1 7003840400FD3C8E3656946F00AFFD5BD9C3188F serial "SLES-50009" )
 )
 game (
 	name "Wild Wild Racing (Europe) (En,Fr,De,Es,It)"
@@ -81178,12 +80171,6 @@ game (
 	rom ( name "World Racing 2 (Europe) (En,Fr,De,Es,It).iso" size 3179413504 crc A833741A md5 201794B5A6BEA750A348147D368F6333 sha1 23A5B7F9E4CC15F6264097ECAD787CC4E8D85620 serial "SLES-53646" )
 )
 game (
-	name "World Racing 2 (Europe) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-53646"
-	rom ( name "World Racing 2 (Europe) (En,Fr,De,Es,It).iso" size 3179413504 crc A833741A md5 201794B5A6BEA750A348147D368F6333 sha1 23A5B7F9E4CC15F6264097ECAD787CC4E8D85620 serial "SLES-53646" )
-)
-game (
 	name "World Series Baseball 2K3 (USA)"
 	region "USA"
 	serial "SLUS-20611"
@@ -81610,12 +80597,6 @@ game (
 	rom ( name "Wreckless - The Yakuza Missions (Europe) (En,Fr,De).iso" size 1654751232 crc 3E2DB148 md5 AB71576A693F1F0ED8C018451ACC5FF8 sha1 35D1515FF5E29981F598F3D0FCD4736AC5DEF0E8 serial "SLES-51202" )
 )
 game (
-	name "Wreckless - The Yakuza Missions (Europe) (En,Fr,De)"
-	region "Europe"
-	serial "SLES-51202"
-	rom ( name "Wreckless - The Yakuza Missions (Europe) (En,Fr,De).iso" size 1654751232 crc 3E2DB148 md5 AB71576A693F1F0ED8C018451ACC5FF8 sha1 35D1515FF5E29981F598F3D0FCD4736AC5DEF0E8 serial "SLES-51202" )
-)
-game (
 	name "Wreckless - The Yakuza Missions (USA)"
 	region "USA"
 	serial "SLUS-20431"
@@ -81833,12 +80814,6 @@ game (
 	rom ( name "X-treme Quads (Europe).bin" size 256156320 crc FAEF3203 md5 8F9616B8DA7056DF62CB8956C020C6B5 sha1 EA810A36B8DBF9E692102D46E3A5EFC21A5CB009 serial "SLES-53141" )
 )
 game (
-	name "X-treme Quads (Europe)"
-	region "Europe"
-	serial "SLES-53141"
-	rom ( name "X-treme Quads (Europe).bin" size 256156320 crc FAEF3203 md5 8F9616B8DA7056DF62CB8956C020C6B5 sha1 EA810A36B8DBF9E692102D46E3A5EFC21A5CB009 serial "SLES-53141" )
-)
-game (
 	name "X-treme Racing SSX (Japan)"
 	region "Japan"
 	serial "SLPS-20025"
@@ -81978,12 +80953,6 @@ game (
 	region "Europe"
 	serial "SLUS-12345"
 	rom ( name "XIII (Europe) (En,Fr,De,Es,It) (Beta) (2003-08-07).iso" size 2223767552 crc A64B8E71 md5 702D8DA2BB43E25ECEB9449C0C0A4385 sha1 36FF7DF9E67A254370C7D24B1136A9FA66C7D446 serial "SLUS-12345" )
-)
-game (
-	name "XIII (Europe, Australia) (En,Fr,De,Es,It)"
-	region "Europe"
-	serial "SLES-51244"
-	rom ( name "XIII (Europe, Australia) (En,Fr,De,Es,It).iso" size 2713092096 crc 693CFAB7 md5 4B0668B930A3F3B8C40101DDBBEA6D57 sha1 9ACE69BA7F15BA281012ABABD82EDC5D3EAAAB0E serial "SLES-51244" )
 )
 game (
 	name "XIII (Europe, Australia) (En,Fr,De,Es,It)"

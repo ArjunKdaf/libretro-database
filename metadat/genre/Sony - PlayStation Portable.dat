@@ -370,12 +370,6 @@ game (
 )
 
 game (
-	comment "Akatsuki no Goei Trinity (Japan) (v1.01)"
-	serial "ULJM-06174"
-	genre "Adventure"
-)
-
-game (
 	comment "Akiba's Trip (Japan) (v1.07)"
 	serial "NPJH-50412"
 	genre "Adventure"
@@ -432,12 +426,6 @@ game (
 game (
 	comment "Amagoushi no Yakata Portable - Ichiyanagi Nagomu, Saisho no Junan (Japan)"
 	serial "ULJS-00216"
-	genre "Adventure"
-)
-
-game (
-	comment "Amatsumi Sora ni! Kumo no Hatate ni (Japan) (v1.01)"
-	serial "ULJM-05992"
 	genre "Adventure"
 )
 
@@ -1918,12 +1906,6 @@ game (
 )
 
 game (
-	comment "Clannad (Japan)"
-	serial "ULJM-05338"
-	genre "Adventure"
-)
-
-game (
 	comment "Clannad - Hikari Mimamoru Sakamichi de Gekan (Japan) (v1.01)"
 	serial "NPJH-50273"
 	genre "Adventure"
@@ -2410,12 +2392,6 @@ game (
 )
 
 game (
-	comment "D.C.I&II P.S.P. -Da Capo I&II- Plus Situation Portable (Japan)"
-	serial "ULJM-05718"
-	genre "Miscellaneous"
-)
-
-game (
 	comment "DJ Max Fever (USA) (v1.03)"
 	serial "ULUS-10403"
 	genre "Music"
@@ -2868,12 +2844,6 @@ game (
 game (
 	comment "Dice Dice Fantasia (Japan) (v1.01)"
 	serial "ULJM-05568"
-	genre "Adventure"
-)
-
-game (
-	comment "Dies Irae - Amantes Amentes (Japan) (v1.02)"
-	serial "ULJM-06107"
 	genre "Adventure"
 )
 
@@ -3366,12 +3336,6 @@ game (
 game (
 	comment "Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01)"
 	serial "NPJH-50473"
-	genre "Role-playing (RPG)"
-)
-
-game (
-	comment "Eiyuu Densetsu - Sora no Kiseki SC (Japan)"
-	serial "ULJM-05278"
 	genre "Role-playing (RPG)"
 )
 
@@ -4402,12 +4366,6 @@ game (
 )
 
 game (
-	comment "Final Fantasy Reishiki (Japan) (v1.01)"
-	serial "NPJH-50443"
-	genre "Role-playing (RPG)"
-)
-
-game (
 	comment "Final Fantasy Tactics - The War of the Lions (Europe)"
 	serial "ULES-00850"
 	genre "Strategy"
@@ -4692,12 +4650,6 @@ game (
 game (
 	comment "Gakuen Heaven - Okawari! (Japan) (v1.01)"
 	serial "ULJM-05729"
-	genre "Adventure"
-)
-
-game (
-	comment "Gakuen Heaven Boys Love Scramble (Japan)"
-	serial "ULJM-05562"
 	genre "Adventure"
 )
 
@@ -6592,12 +6544,6 @@ game (
 )
 
 game (
-	comment "Kanuchi - Futatsu no Tsubasa (Japan)"
-	serial "ULJM-05797"
-	genre "Adventure"
-)
-
-game (
 	comment "Kao Challengers (Europe) (En,Fr,De,Es,It)"
 	serial "ULES-00146"
 	genre "Platform"
@@ -7309,12 +7255,6 @@ game (
 	comment "Little Aid Portable (Japan) (v1.02)"
 	serial "ULJM-05249"
 	genre "Adventure"
-)
-
-game (
-	comment "Little Busters - Converted Edition (Japan)"
-	serial "ULJM-05789"
-	genre "Action"
 )
 
 game (
@@ -8830,26 +8770,8 @@ game (
 )
 
 game (
-	comment "Minna no Chizu 3 (Japan)"
-	serial "ULJS-00140"
-	genre "Miscellaneous"
-)
-
-game (
 	comment "Minna no Golf Jou Vol.1 (Japan)"
 	serial "UCJS-10058"
-	genre "Sports"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.1 (Japan)"
-	serial "UCJS-10058"
-	genre "Sports"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.1 (Japan) (GPS Receiver Doukonban)"
-	serial "UCJS-10055"
 	genre "Sports"
 )
 
@@ -8866,18 +8788,6 @@ game (
 )
 
 game (
-	comment "Minna no Golf Jou Vol.2 (Japan)"
-	serial "UCJS-10064"
-	genre "Sports"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.3 (Japan) (GPS Receiver Doukonban)"
-	serial "UCJS-10068"
-	genre "Sports"
-)
-
-game (
 	comment "Minna no Golf Jou Vol.3 (Japan) (GPS Receiver Doukonban)"
 	serial "UCJS-10068"
 	genre "Sports"
@@ -8887,18 +8797,6 @@ game (
 	comment "Minna no Golf Jou Vol.4 (Japan) (GPS Receiver Doukonban)"
 	serial "UCJS-10071"
 	genre "Sports"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.4 (Japan) (GPS Receiver Doukonban)"
-	serial "UCJS-10071"
-	genre "Sports"
-)
-
-game (
-	comment "Minna no Navi (Japan)"
-	serial "ULJS-00211"
-	genre "Miscellaneous"
 )
 
 game (
@@ -10258,12 +10156,6 @@ game (
 )
 
 game (
-	comment "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan)"
-	serial "NPJH-50568"
-	genre "Adventure"
-)
-
-game (
 	comment "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable (Japan) (v1.01)"
 	serial "ULJS-00358"
 	genre "Adventure"
@@ -10290,12 +10182,6 @@ game (
 game (
 	comment "Otome wa Boku ni Koishiteru Portable (Japan) (v1.02)"
 	serial "ULJM-05647"
-	genre "Adventure"
-)
-
-game (
-	comment "Otome wa Boku ni Koishiteru Portable - Futari no Elder (Japan)"
-	serial "ULJM-05862"
 	genre "Adventure"
 )
 
@@ -12178,12 +12064,6 @@ game (
 )
 
 game (
-	comment "Sangoku Koi Senki - Otome no Heihou! (Japan) (v1.03)"
-	serial "ULJM-06123"
-	genre "Adventure"
-)
-
-game (
 	comment "Sangokushi IX with Power-Up Kit (Japan) (v1.01)"
 	serial "ULJM-05842"
 	genre "Strategy"
@@ -12229,12 +12109,6 @@ game (
 	comment "SaruGetYou - Piposaru Racer (Japan)"
 	serial "UCJS-10032"
 	genre "Racing"
-)
-
-game (
-	comment "Scared Rider Xechs I+FD Portable (Japan)"
-	serial "ULJM-06006"
-	genre "Action"
 )
 
 game (
@@ -12630,12 +12504,6 @@ game (
 game (
 	comment "Shin Sangoku Musou 5 Special (Korea) [b]"
 	serial "ULKS-46222"
-	genre "Action"
-)
-
-game (
-	comment "Shin Sangoku Musou 6 Special (Japan) (v1.02)"
-	serial "ULJM-05938"
 	genre "Action"
 )
 
@@ -15654,12 +15522,6 @@ game (
 game (
 	comment "Win-TOEIC Beginners' RC (Korea) (v1.02)"
 	serial "ULKS-46019"
-	genre "Educational"
-)
-
-game (
-	comment "Winglish - Oh's Talk English (Korea)"
-	serial "ULKS-46082"
 	genre "Educational"
 )
 

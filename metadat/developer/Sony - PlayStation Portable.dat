@@ -16862,15 +16862,6 @@ game (
 )
 
 game (
-	name "Eiyuu Densetsu Gagharv Trilogy IV - Akai Shizuku (PSP the Best) (Japan)"
-	serial "ULJS-19027"
-	rom (
-		serial "ULJS-19027"
-		name "Eiyuu Densetsu Gagharv Trilogy IV - Akai Shizuku (PSP the Best) (Japan).cue"
-	)
-)
-
-game (
 	name "Elemental Monster TD Portable (Japan)"
 	serial "NPJH-00006"
 	rom (
@@ -19508,15 +19499,6 @@ game (
 )
 
 game (
-	name "Ginga Ojousama Densetsu Collection (PC Engine Best Collection) (Japan)"
-	serial "ULJM-05358"
-	rom (
-		serial "ULJM-05358"
-		name "Ginga Ojousama Densetsu Collection (PC Engine Best Collection) (Japan).cue"
-	)
-)
-
-game (
 	name "Gintama no Sugoroku (Japan)"
 	serial "ULJS-00559"
 	rom (
@@ -20337,15 +20319,6 @@ game (
 
 game (
 	name "Guilty Gear Judgment (Japan)"
-	serial "ULAS-42071"
-	rom (
-		serial "ULAS-42071"
-		name "Guilty Gear Judgment (Japan).cue"
-	)
-)
-
-game (
-	name "Guilty Gear Judgment (Japan)"
 	serial "ULJM-05158"
 	rom (
 		serial "ULJM-05158"
@@ -20403,15 +20376,6 @@ game (
 	serial "ULJM-05042"
 	rom (
 		serial "ULJM-05042"
-		name "Guilty Gear XX #Reload - The Midnight Carnival (Japan).cue"
-	)
-)
-
-game (
-	name "Guilty Gear XX #Reload - The Midnight Carnival (Japan)"
-	serial "ULKS-46028"
-	rom (
-		serial "ULKS-46028"
 		name "Guilty Gear XX #Reload - The Midnight Carnival (Japan).cue"
 	)
 )
@@ -24089,15 +24053,6 @@ game (
 )
 
 game (
-	name "Kamaitachi no Yoru 2 Tokubetsu Hen (Japan)"
-	serial "ULJM-05110"
-	rom (
-		serial "ULJM-05110"
-		name "Kamaitachi no Yoru 2 Tokubetsu Hen (Japan).cue"
-	)
-)
-
-game (
 	name "Kamaitachi no Yoru 2 Tokubetsu Hen(Sega the Best) (Japan)"
 	serial "UCAS-40248"
 	rom (
@@ -24751,15 +24706,6 @@ game (
 	rom (
 		serial "ULJS-19082"
 		name "Kenka Banchou 3 - Zenkoku Seiha (PSP the Best Reprint)) (Japan).cue"
-	)
-)
-
-game (
-	name "Kenka Banchou 4 - Ichinen Sensou (Japan)"
-	serial "UCAS-40300"
-	rom (
-		serial "UCAS-40300"
-		name "Kenka Banchou 4 - Ichinen Sensou (Japan).cue"
 	)
 )
 
@@ -26681,15 +26627,6 @@ game (
 )
 
 game (
-	name "Kyoto Daigaku Atsuji Tetsuji Kyouju Kanshuu - Kanji Trainer Portable (Japan)"
-	serial "ULJM-05201"
-	rom (
-		serial "ULJM-05201"
-		name "Kyoto Daigaku Atsuji Tetsuji Kyouju Kanshuu - Kanji Trainer Portable (Japan).cue"
-	)
-)
-
-game (
 	name "Kyoukai Senjou no Horizon Portable (Japan)"
 	serial "ULJS-00543"
 	rom (
@@ -27207,15 +27144,6 @@ game (
 	serial "UCJS-10087"
 	rom (
 		serial "UCJS-10087"
-		name "LocoRoco 2 (Japan).cue"
-	)
-)
-
-game (
-	name "LocoRoco 2 (Japan)"
-	serial "NPHG-00015"
-	rom (
-		serial "NPHG-00015"
 		name "LocoRoco 2 (Japan).cue"
 	)
 )
@@ -28783,15 +28711,6 @@ game (
 	rom (
 		serial "NPJH-50102"
 		name "Me de Unou o Kitaeru . Sokudoku Jutsu Portable (Japan).cue"
-	)
-)
-
-game (
-	name "Medal of Honor - Heroes (Japan)"
-	serial "ULAS-42082"
-	rom (
-		serial "ULAS-42082"
-		name "Medal of Honor - Heroes (Japan).cue"
 	)
 )
 
@@ -30925,15 +30844,6 @@ game (
 	rom (
 		serial "ULJM-08054"
 		name "MonHun Nikki - Poka Poka Ailu Mura (PSP the Best Reprint) (Japan).cue"
-	)
-)
-
-game (
-	name "MonHun Nikki - Poka Poka Ailu Mura G (Japan)"
-	serial "ULJM-05881"
-	rom (
-		serial "ULJM-05881"
-		name "MonHun Nikki - Poka Poka Ailu Mura G (Japan).cue"
 	)
 )
 
@@ -39641,15 +39551,6 @@ game (
 )
 
 game (
-	name "Senjou No Valkyria 3 - Unrecorded Chronicles (Japan)"
-	serial "NPJH-50343"
-	rom (
-		serial "NPJH-50343"
-		name "Senjou No Valkyria 3 - Unrecorded Chronicles (Japan).cue"
-	)
-)
-
-game (
 	name "Shadow of Memories (Japan)"
 	serial "ULJM-05512"
 	rom (
@@ -40617,15 +40518,6 @@ game (
 	serial "ULJM-05035"
 	rom (
 		serial "ULJM-05035"
-		name "Shinobido Homura (Japan).cue"
-	)
-)
-
-game (
-	name "Shinobido Homura (Japan)"
-	serial "ULKS-46097"
-	rom (
-		serial "ULKS-46097"
 		name "Shinobido Homura (Japan).cue"
 	)
 )
@@ -49500,15 +49392,6 @@ game (
 
 game (
 	name "Xyanide Resurrection (Japan)"
-	serial "UCAS-40182"
-	rom (
-		serial "UCAS-40182"
-		name "Xyanide Resurrection (Japan).cue"
-	)
-)
-
-game (
-	name "Xyanide Resurrection (Japan)"
 	serial "ULJM-05295"
 	rom (
 		serial "ULJM-05295"
@@ -50012,15 +49895,6 @@ game (
 )
 
 game (
-	name "Ys - The Ark of Napishtim (Japan)"
-	serial "ULAS-42011"
-	rom (
-		serial "ULAS-42011"
-		name "Ys - The Ark of Napishtim (Japan).cue"
-	)
-)
-
-game (
 	name "Ys vs. Sora no Kiseki - Alternative Saga (Japan)"
 	serial "ULJM-05679"
 	rom (
@@ -50053,15 +49927,6 @@ game (
 	rom (
 		serial "ULJM-08042"
 		name "Ys vs. Sora no Kiseki - Alternative Saga (PSP the Best) (Japan).cue"
-	)
-)
-
-game (
-	name "Yu-Gi-Oh! 5D's Tag Force 4 (Japan)"
-	serial "ULJM-05479"
-	rom (
-		serial "ULJM-05479"
-		name "Yu-Gi-Oh 5D's Tag Force 4 (Japan).cue"
 	)
 )
 
@@ -53495,15 +53360,6 @@ game (
 )
 
 game (
-	name "Disney's Pixar - Ratatouille (Europe)"
-	serial "ULES-00748"
-	rom (
-		serial "ULES-00748"
-		name "Disney's Pixar - Ratatouille (Europe).cue"
-	)
-)
-
-game (
 	name "Disney's Pixar - Toy Story 3 (Europe)"
 	serial "ULES-01404"
 	rom (
@@ -54711,15 +54567,6 @@ game (
 
 game (
 	name "FIFA 10 (Europe)"
-	serial "ULES-01322"
-	rom (
-		serial "ULES-01322"
-		name "FIFA 10 (Europe).cue"
-	)
-)
-
-game (
-	name "FIFA 10 (Europe)"
 	serial "ULES-01325"
 	rom (
 		serial "ULES-01325"
@@ -54918,15 +54765,6 @@ game (
 
 game (
 	name "FIFA 13 (Europe)"
-	serial "ULES-01565"
-	rom (
-		serial "ULES-01565"
-		name "FIFA 13 (Europe).cue"
-	)
-)
-
-game (
-	name "FIFA 13 (Europe)"
 	serial "ULES-01566"
 	rom (
 		serial "ULES-01566"
@@ -55065,15 +54903,6 @@ game (
 	serial "ULES-01592"
 	rom (
 		serial "ULES-01592"
-		name "FIFA 14 (Europe).cue"
-	)
-)
-
-game (
-	name "FIFA 14 (Europe)"
-	serial "ULES-01588"
-	rom (
-		serial "ULES-01588"
 		name "FIFA 14 (Europe).cue"
 	)
 )
@@ -58553,15 +58382,6 @@ game (
 )
 
 game (
-	name "Open Season (Europe)"
-	serial "ULES-00507"
-	rom (
-		serial "ULES-00507"
-		name "Open Season (Europe).cue"
-	)
-)
-
-game (
 	name "Orbit (Europe)"
 	serial "NPEZ-00329"
 	rom (
@@ -59961,15 +59781,6 @@ game (
 	serial "ULES-00572"
 	rom (
 		serial "ULES-00572"
-		name "Scooby-Doo Who's Watching Who (Europe).cue"
-	)
-)
-
-game (
-	name "Scooby-Doo! Who's Watching Who? (Europe)"
-	serial "ULES-00571"
-	rom (
-		serial "ULES-00571"
 		name "Scooby-Doo Who's Watching Who (Europe).cue"
 	)
 )

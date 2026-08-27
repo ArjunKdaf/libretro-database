@@ -5506,12 +5506,6 @@ game (
 )
 
 game (
-	comment "007 - The World Is Not Enough (USA) (v21) (Beta)"
-	esrb_rating "T"
-	rom ( crc F0B6BF59 )
-)
-
-game (
 	comment "1080 Snowboarding (Europe) (En,Ja,Fr,De)"
 	esrb_rating "E"
 	rom ( crc 75A21679 )
@@ -5533,18 +5527,6 @@ game (
 	comment "1080 Snowboarding (Japan, USA) (En,Ja)"
 	esrb_rating "E"
 	rom ( crc 08FE81C7 )
-)
-
-game (
-	comment "007 - The World Is Not Enough (USA) (v2) (Beta)"
-	esrb_rating "T"
-	rom ( crc 6C180FEF )
-)
-
-game (
-	comment "40 Winks (USA) (Aftermarket) (Unl)"
-	esrb_rating "E"
-	rom ( crc 31C19633 )
 )
 
 game (
@@ -5608,39 +5590,9 @@ game (
 )
 
 game (
-	comment "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)"
-	esrb_rating "T"
-	rom ( crc C46D84A0 )
-)
-
-game (
 	comment "Aidyn Chronicles - The First Mage (USA)"
 	esrb_rating "T"
 	rom ( crc B1F18186 )
-)
-
-game (
-	comment "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)"
-	esrb_rating "T"
-	rom ( crc ABD43F3F )
-)
-
-game (
-	comment "Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02)"
-	esrb_rating "T"
-	rom ( crc 519036FB )
-)
-
-game (
-	comment "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05)"
-	esrb_rating "T"
-	rom ( crc 519036FB )
-)
-
-game (
-	comment "Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10)"
-	esrb_rating "T"
-	rom ( crc 519036FB )
 )
 
 game (
@@ -5827,12 +5779,6 @@ game (
 	comment "Bassmasters 2000 (USA)"
 	esrb_rating "E"
 	rom ( crc 6B09092E )
-)
-
-game (
-	comment "Bassmasters 2000 (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 86F8E439 )
 )
 
 game (
@@ -6232,12 +6178,6 @@ game (
 )
 
 game (
-	comment "Charlie Blast's Territory (USA)"
-	esrb_rating "E"
-	rom ( crc 339D3F5F )
-)
-
-game (
 	comment "Chopper Attack (Europe)"
 	esrb_rating "T"
 	rom ( crc C1DCD7AB )
@@ -6328,12 +6268,6 @@ game (
 )
 
 game (
-	comment "Conker's Bad Fur Day (USA) (Beta) (2000-10-25)"
-	esrb_rating "M"
-	rom ( crc 4F73408C )
-)
-
-game (
 	comment "Cruis'n Exotica (USA)"
 	esrb_rating "E"
 	rom ( crc 867A2CED )
@@ -6364,12 +6298,6 @@ game (
 )
 
 game (
-	comment "Cruis'n USA (USA) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 8FC564F9 )
-)
-
-game (
 	comment "Cruis'n World (Europe)"
 	esrb_rating "E"
 	rom ( crc E46CE079 )
@@ -6379,12 +6307,6 @@ game (
 	comment "Cruis'n World (USA)"
 	esrb_rating "E"
 	rom ( crc A123769F )
-)
-
-game (
-	comment "Cruis'n World (Europe) (Rev 1)"
-	esrb_rating "E"
-	rom ( crc EBAED1F9 )
 )
 
 game (
@@ -6442,12 +6364,6 @@ game (
 )
 
 game (
-	comment "Destruction Derby 64 (USA) (1998-07-31) (Beta)"
-	esrb_rating "E"
-	rom ( crc 628936F9 )
-)
-
-game (
 	comment "Diddy Kong Racing (Europe) (En,Fr,De)"
 	esrb_rating "E"
 	rom ( crc 4A13323C )
@@ -6475,18 +6391,6 @@ game (
 	comment "Diddy Kong Racing (USA) (En,Fr) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc 5ACCA298 )
-)
-
-game (
-	comment "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
-	esrb_rating "E"
-	rom ( crc 47717E46 )
-)
-
-game (
-	comment "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
-	esrb_rating "E"
-	rom ( crc 6618CD43 )
 )
 
 game (
@@ -6544,12 +6448,6 @@ game (
 )
 
 game (
-	comment "Dragon Sword 64 (Europe) (Proto)"
-	esrb_rating "T"
-	rom ( crc 55DED416 )
-)
-
-game (
 	comment "Dragon Sword 64 (USA) (1999-08-25) (Proto)"
 	esrb_rating "T"
 	rom ( crc 2296B50D )
@@ -6568,12 +6466,6 @@ game (
 )
 
 game (
-	comment "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)"
-	esrb_rating "E"
-	rom ( crc 1E48D155 )
-)
-
-game (
 	comment "Dual Heroes (Europe)"
 	esrb_rating "T"
 	rom ( crc 5A7E226B )
@@ -6583,12 +6475,6 @@ game (
 	comment "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)"
 	esrb_rating "E"
 	rom ( crc 3177A905 )
-)
-
-game (
-	comment "Duke Nukem - Zero Hour (USA) (Beta)"
-	esrb_rating "M"
-	rom ( crc 5DF845EA )
 )
 
 game (
@@ -6652,21 +6538,9 @@ game (
 )
 
 game (
-	comment "ECW Hardcore Revolution (Germany)"
-	esrb_rating "M"
-	rom ( crc E9CF3D9F )
-)
-
-game (
 	comment "ECW Hardcore Revolution (Europe)"
 	esrb_rating "M"
 	rom ( crc BE8FEEAD )
-)
-
-game (
-	comment "ECW Hardcore Revolution (USA) (Beta)"
-	esrb_rating "M"
-	rom ( crc 0A239818 )
 )
 
 game (
@@ -6946,12 +6820,6 @@ game (
 )
 
 game (
-	comment "Frogger 2 (USA) (Proto 1)"
-	esrb_rating "E"
-	rom ( crc 8D62268E )
-)
-
-game (
 	comment "G.A.S.P!! Fighters' NEXTream (Europe)"
 	esrb_rating "T"
 	rom ( crc 5AA63B04 )
@@ -7060,12 +6928,6 @@ game (
 )
 
 game (
-	comment "Glover 2 (USA) (Proto 1)"
-	esrb_rating "E"
-	rom ( crc 6D422238 )
-)
-
-game (
 	comment "Golden Nugget 64 (USA)"
 	esrb_rating "KA"
 	rom ( crc 70594D3C )
@@ -7129,12 +6991,6 @@ game (
 	comment "Hercules - The Legendary Journeys (USA)"
 	esrb_rating "T"
 	rom ( crc 4948892B )
-)
-
-game (
-	comment "Hercules - The Legendary Journeys (Unknown) (Beta)"
-	esrb_rating "T"
-	rom ( crc A7759499 )
 )
 
 game (
@@ -7372,12 +7228,6 @@ game (
 )
 
 game (
-	comment "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)"
-	esrb_rating "E"
-	rom ( crc 4C433FDD )
-)
-
-game (
 	comment "International Superstar Soccer 64 (Europe)"
 	esrb_rating "E"
 	rom ( crc 8C839268 )
@@ -7582,12 +7432,6 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)"
-	esrb_rating "E"
-	rom ( crc 04EA55EA )
-)
-
-game (
 	comment "Legend of Zelda, The - Majora's Mask (USA) (GameCube)"
 	esrb_rating "E"
 	rom ( crc B008458F )
@@ -7654,21 +7498,9 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Ocarina of Time (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 6C348AA8 )
-)
-
-game (
 	comment "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)"
 	esrb_rating "E"
 	rom ( crc A1D34E08 )
-)
-
-game (
-	comment "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)"
-	esrb_rating "E"
-	rom ( crc C188ACDA )
 )
 
 game (
@@ -7726,12 +7558,6 @@ game (
 )
 
 game (
-	comment "Mace - The Dark Age (USA) (Beta)"
-	esrb_rating "M"
-	rom ( crc 2B23212F )
-)
-
-game (
 	comment "Madden Football 64 (Europe)"
 	esrb_rating "KA"
 	rom ( crc FAB3E50D )
@@ -7771,12 +7597,6 @@ game (
 	comment "Madden NFL 99 (USA)"
 	esrb_rating "E"
 	rom ( crc 2EB64FC2 )
-)
-
-game (
-	comment "Madden NFL 99 (USA) (Rev 1)"
-	esrb_rating "E"
-	rom ( crc 56769A44 )
 )
 
 game (
@@ -7912,24 +7732,6 @@ game (
 )
 
 game (
-	comment "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc DCA66040 )
-)
-
-game (
-	comment "Mario Party 2 (USA) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 6F45853E )
-)
-
-game (
-	comment "Mario Party 2 (Japan) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc FDC89220 )
-)
-
-game (
 	comment "Mario Party 3 (Europe) (En,Fr,De,Es)"
 	esrb_rating "E"
 	rom ( crc 813B13F2 )
@@ -7939,12 +7741,6 @@ game (
 	comment "Mario Party 3 (Japan)"
 	esrb_rating "E"
 	rom ( crc 3FC04053 )
-)
-
-game (
-	comment "Mario Party 3 (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 697C1777 )
 )
 
 game (
@@ -7972,27 +7768,9 @@ game (
 )
 
 game (
-	comment "Mario Tennis (Europe) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc E9BA8E6B )
-)
-
-game (
-	comment "Mario Tennis (USA) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 8E85B369 )
-)
-
-game (
 	comment "Mario Tennis 64 (Japan)"
 	esrb_rating "E"
 	rom ( crc C665301D )
-)
-
-game (
-	comment "Mario Tennis 64 (Japan) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 32C58AF3 )
 )
 
 game (
@@ -8134,12 +7912,6 @@ game (
 )
 
 game (
-	comment "Mission - Impossible (Spain) (Rev 1)"
-	esrb_rating "T"
-	rom ( crc E1C470FD )
-)
-
-game (
 	comment "Monaco Grand Prix (USA)"
 	esrb_rating "E"
 	rom ( crc E2BBEAC1 )
@@ -8149,12 +7921,6 @@ game (
 	comment "Monopoly (USA)"
 	esrb_rating "E"
 	rom ( crc C8CAD8F6 )
-)
-
-game (
-	comment "Mission - Impossible (Europe) (Beta)"
-	esrb_rating "T"
-	rom ( crc 44C85FA8 )
 )
 
 game (
@@ -8584,18 +8350,6 @@ game (
 )
 
 game (
-	comment "Nuclear Strike 64 (USA) (Beta) (Earlier)"
-	esrb_rating "E"
-	rom ( crc 7C68692C )
-)
-
-game (
-	comment "Nuclear Strike 64 (USA) (1999-09-21) (Beta)"
-	esrb_rating "E"
-	rom ( crc 7C68692C )
-)
-
-game (
 	comment "Nuclear Strike 64 (USA)"
 	esrb_rating "E"
 	rom ( crc D7467294 )
@@ -8647,18 +8401,6 @@ game (
 	comment "Ogre Battle 64 - Person of Lordly Caliber (USA)"
 	esrb_rating "T"
 	rom ( crc A05AEA85 )
-)
-
-game (
-	comment "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)"
-	esrb_rating "T"
-	rom ( crc 19337B04 )
-)
-
-game (
-	comment "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)"
-	esrb_rating "T"
-	rom ( crc 991F569C )
 )
 
 game (
@@ -8818,30 +8560,6 @@ game (
 )
 
 game (
-	comment "Pokemon Puzzle League (Europe) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 13F996B2 )
-)
-
-game (
-	comment "Pokemon Puzzle League (France) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 8671137D )
-)
-
-game (
-	comment "Pokemon Puzzle League (Germany) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 00E73008 )
-)
-
-game (
-	comment "Pokemon Puzzle League (USA) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 91623130 )
-)
-
-game (
 	comment "Pokemon Snap (Japan)"
 	esrb_rating "E"
 	rom ( crc A091BD56 )
@@ -8887,12 +8605,6 @@ game (
 	comment "Pokemon Snap (USA)"
 	esrb_rating "E"
 	rom ( crc 86A69756 )
-)
-
-game (
-	comment "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc A761DAEF )
 )
 
 game (
@@ -9028,12 +8740,6 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)"
-	esrb_rating "E"
-	rom ( crc 5FEED2AF )
-)
-
-game (
 	comment "Premier Manager 64 (Europe)"
 	esrb_rating "E"
 	rom ( crc 81CDA888 )
@@ -9073,12 +8779,6 @@ game (
 	comment "Rakugakids (Europe)"
 	esrb_rating "E"
 	rom ( crc 483129AA )
-)
-
-game (
-	comment "Rally '99 (Japan)"
-	esrb_rating "E"
-	rom ( crc 0635FE64 )
 )
 
 game (
@@ -9226,24 +8926,6 @@ game (
 )
 
 game (
-	comment "Road Rash 64 (USA) (Beta 2)"
-	esrb_rating "T"
-	rom ( crc F3DEA575 )
-)
-
-game (
-	comment "Road Rash 64 (Europe) (Beta) (1999-10-12)"
-	esrb_rating "T"
-	rom ( crc 4FB98385 )
-)
-
-game (
-	comment "Road Rash 64 (USA) (Beta 1)"
-	esrb_rating "T"
-	rom ( crc F3DEA575 )
-)
-
-game (
 	comment "Roadsters (Europe) (En,Fr,De,Es,It,Nl)"
 	esrb_rating "E"
 	rom ( crc 997ED5AF )
@@ -9262,33 +8944,15 @@ game (
 )
 
 game (
-	comment "Robotech - Crystal Dreams (USA) (Proto 1)"
-	esrb_rating "E"
-	rom ( crc BAA8646D )
-)
-
-game (
 	comment "Robotron 64 (Europe)"
 	esrb_rating "T"
 	rom ( crc 23BF4956 )
 )
 
 game (
-	comment "Robotron 64 (USA)"
-	esrb_rating "T"
-	rom ( crc 93F93BF9 )
-)
-
-game (
 	comment "Rocket - Robot on Wheels (Europe) (En,Fr,De)"
 	esrb_rating "E"
 	rom ( crc 7DE5D20D )
-)
-
-game (
-	comment "Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)"
-	esrb_rating "E"
-	rom ( crc 7D766772 )
 )
 
 game (
@@ -9301,12 +8965,6 @@ game (
 	comment "Rockman Dash - Hagane no Boukenshin (Japan)"
 	esrb_rating "E"
 	rom ( crc 61EAEE83 )
-)
-
-game (
-	comment "Ronaldinho's Soccer 64 (Brazil) (Pirate)"
-	esrb_rating "E"
-	rom ( crc C296ECA1 )
 )
 
 game (
@@ -9592,12 +9250,6 @@ game (
 )
 
 game (
-	comment "South Park Rally (Europe) (Beta)"
-	esrb_rating "M"
-	rom ( crc 1C535592 )
-)
-
-game (
 	comment "South Park - Chef's Luv Shack (Europe)"
 	esrb_rating "M"
 	rom ( crc AC1628EB )
@@ -9640,12 +9292,6 @@ game (
 )
 
 game (
-	comment "SpaceStation Silicon Valley (USA) (Rev 1)"
-	esrb_rating "E"
-	rom ( crc E32D9E7B )
-)
-
-game (
 	comment "Star Fox 64 (USA)"
 	esrb_rating "E"
 	rom ( crc B1FCAA9C )
@@ -9655,12 +9301,6 @@ game (
 	comment "Star Fox 64 (USA) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc B1B5FC46 )
-)
-
-game (
-	comment "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)"
-	esrb_rating "E"
-	rom ( crc 6508D4AD )
 )
 
 game (
@@ -9724,12 +9364,6 @@ game (
 )
 
 game (
-	comment "Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)"
-	esrb_rating "T"
-	rom ( crc 776A069B )
-)
-
-game (
 	comment "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)"
 	esrb_rating "T"
 	rom ( crc 28368603 )
@@ -9787,12 +9421,6 @@ game (
 	comment "StarCraft 64 (Australia)"
 	esrb_rating "T"
 	rom ( crc 2639DAE2 )
-)
-
-game (
-	comment "Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)"
-	esrb_rating "E"
-	rom ( crc FB401A2A )
 )
 
 game (
@@ -9901,12 +9529,6 @@ game (
 	comment "Superman (Europe) (En,Fr,De,Es,It,Nl)"
 	esrb_rating "E"
 	rom ( crc BCA4FF8C )
-)
-
-game (
-	comment "Superman (USA) (Beta) (1998-09-06)"
-	esrb_rating "E"
-	rom ( crc A0897826 )
 )
 
 game (
@@ -10066,24 +9688,6 @@ game (
 )
 
 game (
-	comment "Tony Hawk's Pro Skater (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc F50204DA )
-)
-
-game (
-	comment "Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)"
-	esrb_rating "E"
-	rom ( crc BCF178C5 )
-)
-
-game (
-	comment "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)"
-	esrb_rating "E"
-	rom ( crc 98D0D335 )
-)
-
-game (
 	comment "Tony Hawk's Pro Skater 2 (USA)"
 	esrb_rating "E"
 	rom ( crc 80AA83F3 )
@@ -10120,12 +9724,6 @@ game (
 )
 
 game (
-	comment "Top Gear Hyper-Bike (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 00C0278A )
-)
-
-game (
 	comment "Top Gear Hyper Bike (Japan)"
 	esrb_rating "E"
 	rom ( crc 09B2CDA1 )
@@ -10156,12 +9754,6 @@ game (
 )
 
 game (
-	comment "Top Gear Overdrive (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 6C0FCACE )
-)
-
-game (
 	comment "Top Gear Rally (Japan)"
 	esrb_rating "KA"
 	rom ( crc C6707CD6 )
@@ -10171,12 +9763,6 @@ game (
 	comment "Top Gear Rally (USA)"
 	esrb_rating "KA"
 	rom ( crc 137287F5 )
-)
-
-game (
-	comment "Top Gear Rally (Asia) (En)"
-	esrb_rating "KA"
-	rom ( crc C4BC4DF8 )
 )
 
 game (
@@ -10192,12 +9778,6 @@ game (
 )
 
 game (
-	comment "Top Gear Rally 2 (Europe) (Beta) (1999-08-31)"
-	esrb_rating "E"
-	rom ( crc 3C77C5D6 )
-)
-
-game (
 	comment "Top Gear Rally 2 (USA)"
 	esrb_rating "E"
 	rom ( crc 914CF9C4 )
@@ -10207,12 +9787,6 @@ game (
 	comment "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)"
 	esrb_rating "E"
 	rom ( crc FB4BEA9A )
-)
-
-game (
-	comment "Top Gear Rally 2 (USA) (Beta)"
-	esrb_rating "E"
-	rom ( crc 67C23EEE )
 )
 
 game (
@@ -10432,39 +10006,9 @@ game (
 )
 
 game (
-	comment "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245)"
-	esrb_rating "M"
-	rom ( crc F44D2225 )
-)
-
-game (
-	comment "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16)"
-	esrb_rating "M"
-	rom ( crc F44D2225 )
-)
-
-game (
-	comment "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18)"
-	esrb_rating "M"
-	rom ( crc F44D2225 )
-)
-
-game (
 	comment "Twisted Edge - Extreme Snowboarding (USA)"
 	esrb_rating "E"
 	rom ( crc BFBCC038 )
-)
-
-game (
-	comment "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03)"
-	esrb_rating "M"
-	rom ( crc F44D2225 )
-)
-
-game (
-	comment "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)"
-	esrb_rating "M"
-	rom ( crc 58C4C0AB )
 )
 
 game (
@@ -10744,12 +10288,6 @@ game (
 )
 
 game (
-	comment "Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)"
-	esrb_rating "E"
-	rom ( crc 74DF67BB )
-)
-
-game (
 	comment "Wheel of Fortune (USA)"
 	esrb_rating "KA"
 	rom ( crc 8D3EFA8D )
@@ -10795,12 +10333,6 @@ game (
 	comment "Wipeout 64 (USA)"
 	esrb_rating "E"
 	rom ( crc 4888D0FE )
-)
-
-game (
-	comment "Wipeout 64 (Europe) (Beta)"
-	esrb_rating "E"
-	rom ( crc 944B258F )
 )
 
 game (
@@ -10879,12 +10411,6 @@ game (
 	comment "WWF No Mercy (USA) (Rev 1)"
 	esrb_rating "T"
 	rom ( crc BACEEA13 )
-)
-
-game (
-	comment "WWF No Mercy (USA) (Beta)"
-	esrb_rating "T"
-	rom ( crc C5B05188 )
 )
 
 game (

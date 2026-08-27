@@ -165349,23 +165349,6 @@ game (
 )
 
 game (
-	name "WarGames - Defcon 1 (Europe)"
-	serial "SLES-00978"
-	description "Although it was essentially defeated some twenty years ago, WOPR (War Operations Planned Response) is back online. The supercomputer designed to defend the United States from nuclear war has apparently developed a grudge against humanity! It now commands an arsenal of mechanical troops and has positioned itself in key sectors around the globe. Your mission is to defeat WOPR with all that NORAD (North American Aerospace Defense) has to offer!"
-	developer "Interactive Studios Ltd"
-	publisher "MGM Interactive"
-	releaseyear "1998"
-	releasemonth "5"
-	releaseday "10"
-	users "2"
-	genre "Action"
-	rom (
-		serial "SLES-00978"
-		name "WarGames - Defcon 1 (Europe).cue"
-	)
-)
-
-game (
 	name "Warhammer - Dark Omen (Europe)"
 	serial "SLES-01159"
 	description "Warhammer: Dark Omen places you in command of a series of battles against the forces of evil. Based upon the tabletop wargame created by Games Workshop Ltd., you'll assume the role of Commander Morgan Bernhardt of the Grudgebringer mercenary army. No, you're not fighting for glory, honor or revenge, but rather for cold, hard cash. Your army consists of four regiments, infantry, cavalry, archers and cannon, which must be deployed on the battlefield before you begin fighting."

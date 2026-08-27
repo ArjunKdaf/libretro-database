@@ -1270,12 +1270,6 @@ game (
 )
 
 game (
-	comment "Clannad (Japan)"
-	rom ( serial "ULJM-05338" )
-	franchise "Clannad"
-)
-
-game (
 	comment "Clannad - Hikari Mimamoru Sakamichi de Gekan (Japan) (v1.01)"
 	rom ( serial "NPJH-50273" )
 	franchise "Clannad"
@@ -1555,12 +1549,6 @@ game (
 	comment "Crisis Core - Final Fantasy VII (USA)"
 	rom ( serial "ULUS-10336" )
 	franchise "Final Fantasy"
-)
-
-game (
-	comment "D.C.I&II P.S.P. -Da Capo I&II- Plus Situation Portable (Japan)"
-	rom ( serial "ULJM-05718" )
-	franchise "Da Capo"
 )
 
 game (
@@ -1903,12 +1891,6 @@ game (
 	comment "Diabolik Lovers - Haunted Dark Bridal (Japan) (v1.02)"
 	rom ( serial "ULJM-06163" )
 	franchise "Diabolik Lovers"
-)
-
-game (
-	comment "Dies Irae - Amantes Amentes (Japan) (v1.02)"
-	rom ( serial "ULJM-06107" )
-	franchise "Dies irae"
 )
 
 game (
@@ -2268,12 +2250,6 @@ game (
 game (
 	comment "Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01)"
 	rom ( serial "NPJH-50473" )
-	franchise "The Legend of Heroes"
-)
-
-game (
-	comment "Eiyuu Densetsu - Sora no Kiseki SC (Japan)"
-	rom ( serial "ULJM-05278" )
 	franchise "The Legend of Heroes"
 )
 
@@ -3174,12 +3150,6 @@ game (
 game (
 	comment "Final Fantasy IV - The Complete Collection (USA) (En,Ja,Fr)"
 	rom ( serial "ULUS-10560" )
-	franchise "Final Fantasy"
-)
-
-game (
-	comment "Final Fantasy Reishiki (Japan) (v1.01)"
-	rom ( serial "NPJH-50443" )
 	franchise "Final Fantasy"
 )
 
@@ -6148,18 +6118,6 @@ game (
 )
 
 game (
-	comment "Minna no Golf Jou Vol.1 (Japan)"
-	rom ( serial "UCJS-10058" )
-	franchise "Hot Shots Golf"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.1 (Japan) (GPS Receiver Doukonban)"
-	rom ( serial "UCJS-10055" )
-	franchise "Hot Shots Golf"
-)
-
-game (
 	comment "Minna no Golf Jou Vol.1 (Japan) (GPS Receiver Doukonban)"
 	rom ( serial "UCJS-10055" )
 	franchise "Hot Shots Golf"
@@ -6172,26 +6130,8 @@ game (
 )
 
 game (
-	comment "Minna no Golf Jou Vol.2 (Japan)"
-	rom ( serial "UCJS-10064" )
-	franchise "Hot Shots Golf"
-)
-
-game (
 	comment "Minna no Golf Jou Vol.3 (Japan) (GPS Receiver Doukonban)"
 	rom ( serial "UCJS-10068" )
-	franchise "Hot Shots Golf"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.3 (Japan) (GPS Receiver Doukonban)"
-	rom ( serial "UCJS-10068" )
-	franchise "Hot Shots Golf"
-)
-
-game (
-	comment "Minna no Golf Jou Vol.4 (Japan) (GPS Receiver Doukonban)"
-	rom ( serial "UCJS-10071" )
 	franchise "Hot Shots Golf"
 )
 
@@ -8682,12 +8622,6 @@ game (
 game (
 	comment "Shin Sangoku Musou 5 Special (Korea) [b]"
 	rom ( serial "ULKS-46222" )
-	franchise "Dynasty Warriors"
-)
-
-game (
-	comment "Shin Sangoku Musou 6 Special (Japan) (v1.02)"
-	rom ( serial "ULJM-05938" )
 	franchise "Dynasty Warriors"
 )
 

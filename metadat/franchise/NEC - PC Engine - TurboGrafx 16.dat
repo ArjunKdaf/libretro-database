@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "After Burner II (Japan)"
+	comment "After Burner II (Japan) (En)"
 	franchise "After Burner"
 	rom ( crc CA72A828 )
 )
@@ -16,7 +16,7 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	franchise "Batman"
 	rom ( crc 106BB7B2 )
 )
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Bomberman (Japan)"
+	comment "Bomberman (Japan) (En)"
 	franchise "Bomberman"
 	rom ( crc 9ABB4D1F )
 )
@@ -60,13 +60,13 @@ game (
 game (
 	comment "Bomberman '93 (Japan) (Wii U Virtual Console)"
 	franchise "Bomberman"
-	rom ( crc D19CE1AC )
+	rom ( crc 37C9114F )
 )
 
 game (
-	comment "Bomberman '94 (World) (Wii U Virtual Console)"
+	comment "Bomberman '94 (World) (Ja) (Wii U Virtual Console)"
 	franchise "Bomberman"
-	rom ( crc F319903C )
+	rom ( crc 1AAB222E )
 )
 
 game (
@@ -96,7 +96,7 @@ game (
 game (
 	comment "Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc EA2065F0 )
+	rom ( crc 1F6511D7 )
 )
 
 game (
@@ -106,7 +106,7 @@ game (
 )
 
 game (
-	comment "Bonk's Revenge (USA, Europe) (Wii Virtual Console)"
+	comment "Bonk's Revenge (USA)"
 	franchise "B.C. Kid"
 	rom ( crc F36FFEE1 )
 )
@@ -120,11 +120,11 @@ game (
 game (
 	comment "Bonk's Adventure (USA, Europe) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc 1B1E9E37 )
+	rom ( crc 704C801E )
 )
 
 game (
-	comment "Bonk's Revenge (USA)"
+	comment "Bonk's Revenge (USA) (Alt 2)"
 	franchise "B.C. Kid"
 	rom ( crc 14250F9A )
 )
@@ -132,7 +132,7 @@ game (
 game (
 	comment "Bonk's Revenge (USA, Europe) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc DA0B916C )
+	rom ( crc 2020817A )
 )
 
 game (
@@ -142,7 +142,7 @@ game (
 )
 
 game (
-	comment "Champion Wrestler (Japan)"
+	comment "Champion Wrestler (Japan) (En)"
 	franchise "WWF"
 	rom ( crc 9EDC0AEA )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Circus Lido (Japan)"
+	comment "Circus Lido (Japan) (En)"
 	franchise "Puzzle Bobble"
 	rom ( crc C3212C24 )
 )
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "Fire Pro Wrestling 2 - 2nd Bout (Japan)"
+	comment "Fire Pro Wrestling - 2nd Bout (Japan)"
 	franchise "Fire Pro Wrestling"
 	rom ( crc E88987BB )
 )
@@ -214,13 +214,13 @@ game (
 )
 
 game (
-	comment "Formation Soccer - On J League (Japan)"
+	comment "Formation Soccer - On J.League (Japan)"
 	franchise "J.League"
 	rom ( crc 7146027C )
 )
 
 game (
-	comment "Galaga '88 (Japan)"
+	comment "Galaga '88 (Japan) (En)"
 	franchise "Galaxian"
 	rom ( crc 1A8393C6 )
 )
@@ -232,7 +232,7 @@ game (
 )
 
 game (
-	comment "Gradius (Japan)"
+	comment "Gradius (Japan) (En)"
 	franchise "Gradius"
 	rom ( crc 0517DA65 )
 )
@@ -240,7 +240,7 @@ game (
 game (
 	comment "Gradius (World) (Wii U Virtual Console)"
 	franchise "Gradius"
-	rom ( crc 6F6816B2 )
+	rom ( crc A5273CC4 )
 )
 
 game (
@@ -264,23 +264,23 @@ game (
 game (
 	comment "New Adventure Island (USA, Europe) (Wii U Virtual Console)"
 	franchise "Adventure Island"
-	rom ( crc 57CF7BD2 )
+	rom ( crc 21DB1D10 )
 )
 
 game (
-	comment "Ninja Ryuukenden (Japan)"
+	comment "Ninja Ryuuken Den (Japan) (En,Ja,Zh)"
 	franchise "Ninja Gaiden"
 	rom ( crc 67573BAC )
 )
 
 game (
-	comment "Out Run (Japan)"
+	comment "OutRun (Japan) (En)"
 	franchise "OutRun"
 	rom ( crc E203F223 )
 )
 
 game (
-	comment "P-47 - The Freedom Fighter (Japan)"
+	comment "P-47 - The Freedom Fighter (Japan) (En)"
 	franchise "Aero Fighters"
 	rom ( crc 7632DB90 )
 )
@@ -292,13 +292,13 @@ game (
 )
 
 game (
-	comment "Parasol Stars - The Story of Bubble Bobble III (Japan)"
+	comment "Parasol Stars - The Story of Bubble Bobble III (Japan) (En)"
 	franchise "Bubble Bobble"
 	rom ( crc 51E86451 )
 )
 
 game (
-	comment "Parodius Da! - Shinwa kara Owarai e (Japan)"
+	comment "Parodius Da! - Shinwa kara Owarai e (Japan) (En)"
 	franchise "Parodius"
 	rom ( crc 647718F9 )
 )
@@ -312,7 +312,7 @@ game (
 game (
 	comment "PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc F3882662 )
+	rom ( crc 9C1F39DB )
 )
 
 game (
@@ -330,7 +330,7 @@ game (
 game (
 	comment "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc 93406091 )
+	rom ( crc 34190272 )
 )
 
 game (
@@ -348,11 +348,11 @@ game (
 game (
 	comment "PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	franchise "B.C. Kid"
-	rom ( crc 393DAFFA )
+	rom ( crc E42AD101 )
 )
 
 game (
-	comment "Populous (Japan)"
+	comment "Populous (Japan) (En)"
 	franchise "Populous"
 	rom ( crc 083C956A )
 )
@@ -400,19 +400,19 @@ game (
 )
 
 game (
-	comment "R-Type I (Japan)"
+	comment "R-Type I (Japan) (En)"
 	franchise "R-Type"
 	rom ( crc CEC3D28A )
 )
 
 game (
-	comment "R-Type II (Japan) (v1.1)"
+	comment "R-Type II (Japan) (En) (V1.1)"
 	franchise "R-Type"
 	rom ( crc 417B961D )
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	franchise "R-Type"
 	rom ( crc F207ECAE )
 )
@@ -424,7 +424,7 @@ game (
 )
 
 game (
-	comment "Raiden (Japan)"
+	comment "Raiden (Japan) (En)"
 	franchise "Raiden"
 	rom ( crc 850829F2 )
 )
@@ -442,7 +442,7 @@ game (
 )
 
 game (
-	comment "Space Harrier (Japan)"
+	comment "Space Harrier (Japan) (En)"
 	franchise "Space Harrier"
 	rom ( crc 64580427 )
 )
@@ -472,15 +472,15 @@ game (
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En)"
 	franchise "Adventure Island"
 	rom ( crc E415EA19 )
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)"
 	franchise "Adventure Island"
-	rom ( crc B5D8131C )
+	rom ( crc B0A4EF0B )
 )
 
 game (
@@ -490,7 +490,7 @@ game (
 )
 
 game (
-	comment "Volfied (Japan)"
+	comment "Volfied (Japan) (En)"
 	franchise "Qix"
 	rom ( crc AD226F30 )
 )
@@ -506,4 +506,3 @@ game (
 	franchise "Power League"
 	rom ( crc 4186D0C0 )
 )
-

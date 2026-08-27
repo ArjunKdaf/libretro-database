@@ -12,7 +12,7 @@ game (
 game (
 	comment "Air Zonk (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc DA7EDA11 )
+	rom ( crc D76C4169 )
 )
 
 game (
@@ -30,7 +30,7 @@ game (
 game (
 	comment "Blazing Lazers (World) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 795D3C11 )
+	rom ( crc E52BE33E )
 )
 
 game (
@@ -54,7 +54,7 @@ game (
 game (
 	comment "Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc EA2065F0 )
+	rom ( crc 1F6511D7 )
 )
 
 game (
@@ -64,7 +64,7 @@ game (
 )
 
 game (
-	comment "Bonk's Revenge (USA, Europe) (Wii Virtual Console)"
+	comment "Bonk's Revenge (USA)"
 	esrb_rating "E"
 	rom ( crc F36FFEE1 )
 )
@@ -78,11 +78,11 @@ game (
 game (
 	comment "Bonk's Adventure (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 1B1E9E37 )
+	rom ( crc 704C801E )
 )
 
 game (
-	comment "Bonk's Revenge (USA)"
+	comment "Bonk's Revenge (USA) (Alt 2)"
 	esrb_rating "E"
 	rom ( crc 14250F9A )
 )
@@ -90,11 +90,11 @@ game (
 game (
 	comment "Bonk's Revenge (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc DA0B916C )
+	rom ( crc 2020817A )
 )
 
 game (
-	comment "Coryoon - Child of Dragon (Japan)"
+	comment "Coryoon (Japan)"
 	esrb_rating "E"
 	rom ( crc B4D29E3B )
 )
@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Galaga '88 (Japan)"
+	comment "Galaga '88 (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 1A8393C6 )
 )
@@ -130,13 +130,13 @@ game (
 )
 
 game (
-	comment "Gunhed (Japan)"
+	comment "Gunhed (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc A17D4D7E )
 )
 
 game (
-	comment "Heavy Unit (Japan)"
+	comment "Heavy Unit (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc EB923DE5 )
 )
@@ -154,9 +154,9 @@ game (
 )
 
 game (
-	comment "Jaseiken Necromancer (World) (Wii U Virtual Console)"
+	comment "Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console)"
 	esrb_rating "T"
-	rom ( crc C6BFD0EB )
+	rom ( crc 9AA5295C )
 )
 
 game (
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Neutopia (Japan)"
+	comment "Neutopia - Frey no Shou (Japan)"
 	esrb_rating "E"
 	rom ( crc 9C49EF11 )
 )
@@ -210,7 +210,7 @@ game (
 game (
 	comment "Neutopia (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc D404EFA2 )
+	rom ( crc 811259E5 )
 )
 
 game (
@@ -234,13 +234,13 @@ game (
 game (
 	comment "Neutopia II (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 0DC5B49E )
+	rom ( crc 2602EDA2 )
 )
 
 game (
 	comment "Neutopia II (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 0DC5B49E )
+	rom ( crc 769AABC3 )
 )
 
 game (
@@ -252,7 +252,7 @@ game (
 game (
 	comment "New Adventure Island (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 57CF7BD2 )
+	rom ( crc 21DB1D10 )
 )
 
 game (
@@ -264,7 +264,7 @@ game (
 game (
 	comment "Ninja Spirit (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E10+"
-	rom ( crc 6CA3E954 )
+	rom ( crc 85D1E33B )
 )
 
 game (
@@ -282,7 +282,7 @@ game (
 game (
 	comment "PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc B874A04E )
+	rom ( crc 51982CE2 )
 )
 
 game (
@@ -294,7 +294,7 @@ game (
 game (
 	comment "PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc F3882662 )
+	rom ( crc 9C1F39DB )
 )
 
 game (
@@ -312,7 +312,7 @@ game (
 game (
 	comment "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 93406091 )
+	rom ( crc 34190272 )
 )
 
 game (
@@ -330,7 +330,7 @@ game (
 game (
 	comment "PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 393DAFFA )
+	rom ( crc E42AD101 )
 )
 
 game (
@@ -342,7 +342,7 @@ game (
 game (
 	comment "Power Sports (Japan) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc B7DB81E1 )
+	rom ( crc 95830103 )
 )
 
 game (
@@ -352,25 +352,25 @@ game (
 )
 
 game (
-	comment "R-Type I (Japan)"
+	comment "R-Type I (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc CEC3D28A )
 )
 
 game (
-	comment "R-Type II (Japan) (v1.1)"
+	comment "R-Type II (Japan) (En) (V1.1)"
 	esrb_rating "E"
 	rom ( crc 417B961D )
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc F207ECAE )
 )
 
 game (
-	comment "Rastan Saga II (Japan)"
+	comment "Rastan Saga II (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 00C38E69 )
 )
@@ -384,7 +384,7 @@ game (
 game (
 	comment "Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)"
 	esrb_rating "E10+"
-	rom ( crc 22FE055E )
+	rom ( crc 5ECBB3AC )
 )
 
 game (
@@ -400,15 +400,15 @@ game (
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc E415EA19 )
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc B5D8131C )
+	rom ( crc B0A4EF0B )
 )
 
 game (
@@ -418,7 +418,7 @@ game (
 )
 
 game (
-	comment "Toy Shop Boys (Japan)"
+	comment "Toy Shop Boys (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 97C5EE9A )
 )
@@ -430,7 +430,7 @@ game (
 )
 
 game (
-	comment "Vigilante (Japan)"
+	comment "Vigilante (Japan) (En)"
 	esrb_rating "E10+"
 	rom ( crc E4124FE0 )
 )
@@ -448,7 +448,7 @@ game (
 )
 
 game (
-	comment "Xevious - Fardraut Saga (Japan)"
+	comment "Xevious - Fardraut Densetsu (Japan)"
 	esrb_rating "E"
 	rom ( crc F8F85EEC )
 )
@@ -456,6 +456,5 @@ game (
 game (
 	comment "World Sports Competition (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
-	rom ( crc 57F3F673 )
+	rom ( crc 9AEB5D26 )
 )
-

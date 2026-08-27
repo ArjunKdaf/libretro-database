@@ -4,13 +4,13 @@ clrmamepro (
 )
 
 game (
-	comment "21 Emon - Mezase Hotel Ou!! (Japan)"
+	comment "21 Emon - Mezase! Hotel Ou (Japan)"
 	releasemonth "12"
 	rom ( crc 73614660 )
 )
 
 game (
-	comment "Aero Blasters (Japan)"
+	comment "Aero Blasters (Japan) (En)"
 	releasemonth "11"
 	rom ( crc 25BE2B81 )
 )
@@ -28,13 +28,13 @@ game (
 )
 
 game (
-	comment "After Burner II (Japan)"
+	comment "After Burner II (Japan) (En)"
 	releasemonth "9"
 	rom ( crc CA72A828 )
 )
 
 game (
-	comment "Alien Crush (Japan)"
+	comment "Alien Crush (Japan) (En)"
 	releasemonth "9"
 	rom ( crc 60EDF4E1 )
 )
@@ -58,13 +58,13 @@ game (
 )
 
 game (
-	comment "Atomic Robo-Kid Special (Japan)"
+	comment "Atomic Robo-Kid Special (Japan) (En)"
 	releasemonth "1"
 	rom ( crc DD175EFD )
 )
 
 game (
-	comment "Armed F (Japan)"
+	comment "Armed F (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 20EF87FD )
 )
@@ -82,13 +82,13 @@ game (
 )
 
 game (
-	comment "AV Poker - World Gambler (Japan) (Unl)"
+	comment "AV Poker - World Gambler (Japan)"
 	releasemonth "11"
 	rom ( crc B866D282 )
 )
 
 game (
-	comment "Ballistix (Japan)"
+	comment "Ballistix (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 8ACFC8AA )
 )
@@ -100,13 +100,13 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	releasemonth "10"
 	rom ( crc 106BB7B2 )
 )
 
 game (
-	comment "Battle Lode Runner (Japan)"
+	comment "Battle Lode Runner (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 59E44F45 )
 )
@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Battle Chopper (Japan)"
+	comment "Mr. Heli no Daibouken (Japan)"
 	releasemonth "12"
 	rom ( crc 2CB92290 )
 )
@@ -142,27 +142,27 @@ game (
 )
 
 game (
-	comment "Blodia (Japan)"
+	comment "Blodia (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 958BCD09 )
 )
 
 game (
-	comment "Bodycon Quest II (Japan) (Unl)"
+	comment "Bodycon Quest II - Kyuseishu (Japan)"
 	releasemonth "2"
 	rom ( crc FFD92458 )
 )
 
 game (
-	comment "Bomberman (Japan)"
+	comment "Bomberman (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 9ABB4D1F )
 )
 
 game (
-	comment "Bomberman '94 (World) (Wii U Virtual Console)"
+	comment "Bomberman '94 (World) (Ja) (Wii U Virtual Console)"
 	releasemonth "12"
-	rom ( crc F319903C )
+	rom ( crc 1AAB222E )
 )
 
 game (
@@ -178,13 +178,13 @@ game (
 )
 
 game (
-	comment "Bubblegum Crash! - Knight Sabers 2034 (Japan)"
+	comment "Bubblegum Crash! (Japan)"
 	releasemonth "12"
 	rom ( crc 0D766139 )
 )
 
 game (
-	comment "Break In (Japan)"
+	comment "Break In (Japan) (En)"
 	releasemonth "8"
 	rom ( crc C9D7426A )
 )
@@ -208,7 +208,7 @@ game (
 )
 
 game (
-	comment "Busou Keiji - Cyber Cross (Japan)"
+	comment "Cyber Cross (Japan)"
 	releasemonth "6"
 	rom ( crc D0C250CA )
 )
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Champion Wrestler (Japan)"
+	comment "Champion Wrestler (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 9EDC0AEA )
 )
@@ -238,13 +238,13 @@ game (
 )
 
 game (
-	comment "Circus Lido (Japan)"
+	comment "Circus Lido (Japan) (En)"
 	releasemonth "4"
 	rom ( crc C3212C24 )
 )
 
 game (
-	comment "Chouzetsurinjin Bravoman (Japan)"
+	comment "Chou Zetsurinjin Bravoman (Japan)"
 	releasemonth "7"
 	rom ( crc 0DF57C90 )
 )
@@ -262,25 +262,25 @@ game (
 )
 
 game (
-	comment "Coryoon - Child of Dragon (Japan)"
+	comment "Coryoon (Japan)"
 	releasemonth "11"
 	rom ( crc B4D29E3B )
 )
 
 game (
-	comment "Cyber Core (Japan)"
+	comment "Cyber Core (Japan) (En)"
 	releasemonth "3"
 	rom ( crc A98D276A )
 )
 
 game (
-	comment "Cross Wiber - Cyber Combat Police (Japan)"
+	comment "Cross Wiber - Cyber Combat Police (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 2DF97BD0 )
 )
 
 game (
-	comment "Cyber Dodge (Japan)"
+	comment "Cyber Dodge (Japan) (En)"
 	releasemonth "1"
 	rom ( crc B5326B16 )
 )
@@ -298,25 +298,25 @@ game (
 )
 
 game (
-	comment "Daisenpuu (Japan)"
+	comment "Daisenpuu (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 9107BCC8 )
 )
 
 game (
-	comment "Darius Plus (Japan) (SG Enhanced)"
+	comment "Darius Plus (Japan) (En) (SG Enhanced)"
 	releasemonth "9"
 	rom ( crc BEBFE042 )
 )
 
 game (
-	comment "Dead Moon - Getsu Sekai no Akumu (Japan)"
+	comment "Dead Moon - Getsu Sekai no Akumu (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 56739BC7 )
 )
 
 game (
-	comment "Deep Blue - Kaitei Shinwa (Japan)"
+	comment "Deep Blue - Kaitei Shinwa (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 053A0F83 )
 )
@@ -328,15 +328,15 @@ game (
 )
 
 game (
-	comment "Devil Crash - Naxat Pinball (Japan)"
+	comment "Devil Crash - Naxat Pinball (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 4EC81A80 )
 )
 
 game (
-	comment "Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console)"
+	comment "Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 8CF026B5 )
+	rom ( crc 38BBB515 )
 )
 
 game (
@@ -346,7 +346,7 @@ game (
 )
 
 game (
-	comment "Digital Champ (Japan)"
+	comment "Digital Champ - Battle Boxing (Japan)"
 	releasemonth "10"
 	rom ( crc 17BA3032 )
 )
@@ -376,7 +376,7 @@ game (
 )
 
 game (
-	comment "Download (Japan)"
+	comment "Down Load (Japan)"
 	releasemonth "6"
 	rom ( crc 85101C20 )
 )
@@ -388,13 +388,13 @@ game (
 )
 
 game (
-	comment "Dragon Saber (Japan)"
+	comment "Dragon Saber (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 3219849C )
 )
 
 game (
-	comment "Dragon Spirit (Japan)"
+	comment "Dragon Spirit (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 01A76935 )
 )
@@ -406,7 +406,7 @@ game (
 )
 
 game (
-	comment "Drop Rock Hora Hora (Japan)"
+	comment "Drop Rock Hora Hora (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 67EC5EC4 )
 )
@@ -454,19 +454,19 @@ game (
 )
 
 game (
-	comment "F1 Triple Battle (Japan)"
+	comment "F1 Triple Battle (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 13BF0409 )
 )
 
 game (
-	comment "F1 Circus '92 - The Speed of Sound (Japan)"
+	comment "F1 Circus '92 (Japan)"
 	releasemonth "12"
 	rom ( crc B268F2A2 )
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	releasemonth "10"
 	rom ( crc 72CB0F9D )
 )
@@ -478,7 +478,7 @@ game (
 )
 
 game (
-	comment "Final Blaster (Japan)"
+	comment "Final Blaster (Japan) (En)"
 	releasemonth "9"
 	rom ( crc C90971BA )
 )
@@ -504,7 +504,7 @@ game (
 game (
 	comment "Final Soldier (World) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc CCBB0C9A )
+	rom ( crc 06835D94 )
 )
 
 game (
@@ -520,7 +520,7 @@ game (
 )
 
 game (
-	comment "Fire Pro Wrestling 2 - 2nd Bout (Japan)"
+	comment "Fire Pro Wrestling - 2nd Bout (Japan)"
 	releasemonth "8"
 	rom ( crc E88987BB )
 )
@@ -532,13 +532,13 @@ game (
 )
 
 game (
-	comment "Formation Soccer - Human Cup '90 (Japan)"
+	comment "Formation Soccer - Human Cup '90 (Japan) (En)"
 	releasemonth "4"
 	rom ( crc 85A1E7B6 )
 )
 
 game (
-	comment "Formation Soccer - On J League (Japan)"
+	comment "Formation Soccer - On J.League (Japan)"
 	releasemonth "1"
 	rom ( crc 7146027C )
 )
@@ -552,7 +552,7 @@ game (
 game (
 	comment "Gai Flame (Japan) (Wii U Virtual Console)"
 	releasemonth "1"
-	rom ( crc 870D811F )
+	rom ( crc 9182C639 )
 )
 
 game (
@@ -568,7 +568,7 @@ game (
 )
 
 game (
-	comment "Galaga '88 (Japan)"
+	comment "Galaga '88 (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 1A8393C6 )
 )
@@ -604,7 +604,7 @@ game (
 )
 
 game (
-	comment "Gradius (Japan)"
+	comment "Gradius (Japan) (En)"
 	releasemonth "11"
 	rom ( crc 0517DA65 )
 )
@@ -612,11 +612,11 @@ game (
 game (
 	comment "Gradius (World) (Wii U Virtual Console)"
 	releasemonth "11"
-	rom ( crc 6F6816B2 )
+	rom ( crc A5273CC4 )
 )
 
 game (
-	comment "Gunhed (Japan)"
+	comment "Gunhed (Japan) (En)"
 	releasemonth "7"
 	rom ( crc A17D4D7E )
 )
@@ -640,13 +640,13 @@ game (
 )
 
 game (
-	comment "Heavy Unit (Japan)"
+	comment "Heavy Unit (Japan) (En)"
 	releasemonth "12"
 	rom ( crc EB923DE5 )
 )
 
 game (
-	comment "Hatris (Japan)"
+	comment "Hatris (Japan) (En)"
 	releasemonth "5"
 	rom ( crc 44E7DF53 )
 )
@@ -658,7 +658,7 @@ game (
 )
 
 game (
-	comment "Hit the Ice - VHL - The Video Hockey League (Japan)"
+	comment "Hit the Ice - VHL - The Video Hockey League (Japan) (En)"
 	releasemonth "9"
 	rom ( crc 7ACB60C8 )
 )
@@ -670,13 +670,13 @@ game (
 )
 
 game (
-	comment "Idol Hanafuda Fan Club (Japan) (Unl)"
+	comment "Idol Hanafuda Fan Club (Japan)"
 	releasemonth "12"
 	rom ( crc 9EC6FC6C )
 )
 
 game (
-	comment "Image Fight (Japan)"
+	comment "ImageFight (Japan) (En)"
 	releasemonth "7"
 	rom ( crc A80C565F )
 )
@@ -688,7 +688,7 @@ game (
 )
 
 game (
-	comment "Jack Nicklaus - Championship Golf (Japan)"
+	comment "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan) (En)"
 	releasemonth "11"
 	rom ( crc EA751E82 )
 )
@@ -712,9 +712,9 @@ game (
 )
 
 game (
-	comment "Jaseiken Necromancer (World) (Wii U Virtual Console)"
+	comment "Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console)"
 	releasemonth "1"
-	rom ( crc C6BFD0EB )
+	rom ( crc 9AA5295C )
 )
 
 game (
@@ -754,7 +754,7 @@ game (
 )
 
 game (
-	comment "Kiki Kaikai (Japan)"
+	comment "Kiki Kaikai (Japan) (En)"
 	releasemonth "3"
 	rom ( crc C0CB5ADD )
 )
@@ -802,25 +802,25 @@ game (
 )
 
 game (
-	comment "Kyuukyoku Mahjong II (Japan) (Unl)"
+	comment "Kyuukyoku Mahjong II - Super Idol Graphic (Japan)"
 	releasemonth "10"
 	rom ( crc E5B6B3E5 )
 )
 
 game (
-	comment "Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl)"
+	comment "Kyuukyoku Mahjong - Idol Graphic (Japan)"
 	releasemonth "4"
 	rom ( crc 02DDE03E )
 )
 
 game (
-	comment "Kyuukyoku Tiger (Japan)"
+	comment "Kyuukyoku Tiger (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 09509315 )
 )
 
 game (
-	comment "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)"
+	comment "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan)"
 	releasemonth "7"
 	rom ( crc C6F764EC )
 )
@@ -886,7 +886,7 @@ game (
 )
 
 game (
-	comment "Makai Hakkenden Shada (Japan)"
+	comment "Makai Hakkenden - Shada (Japan)"
 	releasemonth "4"
 	rom ( crc BE62EEF5 )
 )
@@ -922,7 +922,7 @@ game (
 )
 
 game (
-	comment "Metal Stoker (Japan)"
+	comment "Metal Stoker (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 25A02BEE )
 )
@@ -970,13 +970,13 @@ game (
 )
 
 game (
-	comment "Moto Roader (Japan)"
+	comment "Moto Roader (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 428F36CD )
 )
 
 game (
-	comment "Moto Roader II (Japan)"
+	comment "Moto Roader II (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 0B7F6E5F )
 )
@@ -1030,7 +1030,7 @@ game (
 )
 
 game (
-	comment "Neutopia (Japan)"
+	comment "Neutopia - Frey no Shou (Japan)"
 	releasemonth "11"
 	rom ( crc 9C49EF11 )
 )
@@ -1038,7 +1038,7 @@ game (
 game (
 	comment "Neutopia (USA, Europe) (Wii U Virtual Console)"
 	releasemonth "11"
-	rom ( crc D404EFA2 )
+	rom ( crc 811259E5 )
 )
 
 game (
@@ -1056,17 +1056,17 @@ game (
 game (
 	comment "Neutopia II (USA, Europe) (Wii U Virtual Console)"
 	releasemonth "9"
-	rom ( crc 0DC5B49E )
+	rom ( crc 2602EDA2 )
 )
 
 game (
 	comment "Neutopia II (Japan) (Wii U Virtual Console)"
 	releasemonth "9"
-	rom ( crc 0DC5B49E )
+	rom ( crc 769AABC3 )
 )
 
 game (
-	comment "NewZealand Story, The (Japan)"
+	comment "NewZealand Story, The (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 8E4D75A8 )
 )
@@ -1078,19 +1078,19 @@ game (
 )
 
 game (
-	comment "Niko Niko Pun (Japan)"
+	comment "Okaasan to Issho - Niko Niko Pun (Japan)"
 	releasemonth "12"
 	rom ( crc 82DEF9EE )
 )
 
 game (
-	comment "Ninja Ryuukenden (Japan)"
+	comment "Ninja Ryuuken Den (Japan) (En,Ja,Zh)"
 	releasemonth "1"
 	rom ( crc 67573BAC )
 )
 
 game (
-	comment "Ninja Warriors, The (Japan)"
+	comment "Ninjawarriors, The (Japan)"
 	releasemonth "6"
 	rom ( crc 96E0CD9D )
 )
@@ -1120,25 +1120,25 @@ game (
 )
 
 game (
-	comment "Override (Japan)"
+	comment "Override (Japan) (En)"
 	releasemonth "1"
 	rom ( crc B74EC562 )
 )
 
 game (
-	comment "Out Run (Japan)"
+	comment "OutRun (Japan) (En)"
 	releasemonth "12"
 	rom ( crc E203F223 )
 )
 
 game (
-	comment "P-47 - The Freedom Fighter (Japan)"
+	comment "P-47 - The Freedom Fighter (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 7632DB90 )
 )
 
 game (
-	comment "Pac-Land (Japan)"
+	comment "Pac-Land (Japan) (En)"
 	releasemonth "6"
 	rom ( crc 14FAD3BA )
 )
@@ -1156,19 +1156,19 @@ game (
 )
 
 game (
-	comment "Paranoia (Japan)"
+	comment "Paranoia (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 9893E0E6 )
 )
 
 game (
-	comment "Parasol Stars - The Story of Bubble Bobble III (Japan)"
+	comment "Parasol Stars - The Story of Bubble Bobble III (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 51E86451 )
 )
 
 game (
-	comment "Parodius Da! - Shinwa kara Owarai e (Japan)"
+	comment "Parodius Da! - Shinwa kara Owarai e (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 647718F9 )
 )
@@ -1182,7 +1182,7 @@ game (
 game (
 	comment "PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)"
 	releasemonth "12"
-	rom ( crc B874A04E )
+	rom ( crc 51982CE2 )
 )
 
 game (
@@ -1194,7 +1194,7 @@ game (
 game (
 	comment "PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	releasemonth "12"
-	rom ( crc F3882662 )
+	rom ( crc 9C1F39DB )
 )
 
 game (
@@ -1206,7 +1206,7 @@ game (
 game (
 	comment "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 93406091 )
+	rom ( crc 34190272 )
 )
 
 game (
@@ -1224,23 +1224,23 @@ game (
 game (
 	comment "PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	releasemonth "4"
-	rom ( crc 393DAFFA )
+	rom ( crc E42AD101 )
 )
 
 game (
-	comment "Populous (Japan)"
+	comment "Populous (Japan) (En)"
 	releasemonth "4"
 	rom ( crc 083C956A )
 )
 
 game (
-	comment "PC Pachi-Slot - Idol Gambler (Japan) (Unl)"
+	comment "PC Pachi-Slot - Idol Gambler (Japan)"
 	releasemonth "9"
 	rom ( crc 0AA88F33 )
 )
 
 game (
-	comment "Power Drift (Japan)"
+	comment "Power Drift (Japan) (En)"
 	releasemonth "4"
 	rom ( crc 25E0F6E9 )
 )
@@ -1258,7 +1258,7 @@ game (
 )
 
 game (
-	comment "Power Golf (Japan)"
+	comment "Power Golf (Japan) (En)"
 	releasemonth "5"
 	rom ( crc EA324F07 )
 )
@@ -1308,7 +1308,7 @@ game (
 game (
 	comment "Power Sports (Japan) (Wii U Virtual Console)"
 	releasemonth "10"
-	rom ( crc B7DB81E1 )
+	rom ( crc 95830103 )
 )
 
 game (
@@ -1336,7 +1336,7 @@ game (
 )
 
 game (
-	comment "Psycho Chaser (Japan)"
+	comment "Psycho Chaser (Japan) (En)"
 	releasemonth "4"
 	rom ( crc 03883EE8 )
 )
@@ -1348,25 +1348,25 @@ game (
 )
 
 game (
-	comment "Puzznic (Japan)"
+	comment "Puzznic (Japan) (En)"
 	releasemonth "6"
 	rom ( crc 965C95B3 )
 )
 
 game (
-	comment "Quiz Toukou Shashin (Japan) (Unl)"
+	comment "Quiz Toukou Shashin (Japan)"
 	releasemonth "5"
 	rom ( crc F2E6856D )
 )
 
 game (
-	comment "R-Type I (Japan)"
+	comment "R-Type I (Japan) (En)"
 	releasemonth "3"
 	rom ( crc CEC3D28A )
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	releasemonth "6"
 	rom ( crc F207ECAE )
 )
@@ -1384,13 +1384,13 @@ game (
 )
 
 game (
-	comment "Raiden (Japan)"
+	comment "Raiden (Japan) (En)"
 	releasemonth "11"
 	rom ( crc 850829F2 )
 )
 
 game (
-	comment "Rastan Saga II (Japan)"
+	comment "Rastan Saga II (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 00C38E69 )
 )
@@ -1428,11 +1428,11 @@ game (
 game (
 	comment "Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 22FE055E )
+	rom ( crc 5ECBB3AC )
 )
 
 game (
-	comment "Salamander (Japan)"
+	comment "Salamander (Japan) (En)"
 	releasemonth "12"
 	rom ( crc FAECCE20 )
 )
@@ -1440,7 +1440,7 @@ game (
 game (
 	comment "Salamander (World) (Wii U Virtual Console)"
 	releasemonth "12"
-	rom ( crc 689349AB )
+	rom ( crc A869A0B4 )
 )
 
 game (
@@ -1498,7 +1498,7 @@ game (
 )
 
 game (
-	comment "SideArms - Hyper Dyne (Japan)"
+	comment "Hyper Dyne - SideArms (Japan) (En)"
 	releasemonth "7"
 	rom ( crc E5E7B8B7 )
 )
@@ -1516,13 +1516,13 @@ game (
 )
 
 game (
-	comment "Skweek (Japan)"
+	comment "Skweek (Japan) (En)"
 	releasemonth "8"
 	rom ( crc 4D539C9F )
 )
 
 game (
-	comment "Soldier Blade (Japan)"
+	comment "Soldier Blade (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 8420B12B )
 )
@@ -1530,19 +1530,19 @@ game (
 game (
 	comment "Soldier Blade (USA, Europe) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 2D8D2E42 )
+	rom ( crc D2113BF1 )
 )
 
 game (
-	comment "Soldier Blade - Special Version (Japan)"
+	comment "Soldier Blade - Special Version (Japan) (En)"
 	releasemonth "7"
 	rom ( crc F39F38ED )
 )
 
 game (
-	comment "Soldier Blade (Japan) (Wii U Virtual Console)"
+	comment "Soldier Blade (Japan) (En) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 2D8D2E42 )
+	rom ( crc 1D8701C9 )
 )
 
 game (
@@ -1558,7 +1558,7 @@ game (
 )
 
 game (
-	comment "Space Harrier (Japan)"
+	comment "Space Harrier (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 64580427 )
 )
@@ -1570,7 +1570,7 @@ game (
 )
 
 game (
-	comment "Spin Pair (Japan)"
+	comment "Spin Pair (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 1C6FF459 )
 )
@@ -1594,7 +1594,7 @@ game (
 )
 
 game (
-	comment "Strip Fighter II (Japan) (Unl)"
+	comment "Strip Fighter II (Japan)"
 	releasemonth "3"
 	rom ( crc D6FC51CE )
 )
@@ -1606,7 +1606,7 @@ game (
 )
 
 game (
-	comment "Super Metal Crusher (Japan)"
+	comment "Super Metal Crusher (Japan) (En)"
 	releasemonth "11"
 	rom ( crc 56488B36 )
 )
@@ -1632,7 +1632,7 @@ game (
 game (
 	comment "Super Star Soldier (USA, Europe) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 33262F49 )
+	rom ( crc 0FCA781A )
 )
 
 game (
@@ -1644,7 +1644,7 @@ game (
 game (
 	comment "Super Star Soldier (Japan) (Wii U Virtual Console)"
 	releasemonth "7"
-	rom ( crc 33262F49 )
+	rom ( crc 71A5A90B )
 )
 
 game (
@@ -1660,15 +1660,15 @@ game (
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En)"
 	releasemonth "6"
 	rom ( crc E415EA19 )
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)"
 	releasemonth "6"
-	rom ( crc B5D8131C )
+	rom ( crc B0A4EF0B )
 )
 
 game (
@@ -1678,13 +1678,13 @@ game (
 )
 
 game (
-	comment "Tatsujin (Japan)"
+	comment "Tatsujin (Japan) (En)"
 	releasemonth "7"
 	rom ( crc A6088275 )
 )
 
 game (
-	comment "Tatsujin (Japan) (Beta)"
+	comment "Tatsujin (Japan) (En) (Beta)"
 	releasemonth "7"
 	rom ( crc C1B26659 )
 )
@@ -1696,25 +1696,25 @@ game (
 )
 
 game (
-	comment "Tenseiryuu - Saint Dragon (Japan)"
+	comment "Tenseiryuu - Saint Dragon (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 2E278CCB )
 )
 
 game (
-	comment "Terra Cresta II - Mandoler no Gyakushuu (Japan)"
+	comment "Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)"
 	releasemonth "11"
 	rom ( crc 1B2D0077 )
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	releasemonth "12"
 	rom ( crc DDC3E809 )
 )
 
 game (
-	comment "Time Cruise II (Japan)"
+	comment "Time Cruise II (Japan) (En)"
 	releasemonth "11"
 	rom ( crc CFEC1D6A )
 )
@@ -1726,7 +1726,7 @@ game (
 )
 
 game (
-	comment "Titan (Japan)"
+	comment "Titan (Japan) (En)"
 	releasemonth "3"
 	rom ( crc D20F382F )
 )
@@ -1750,7 +1750,7 @@ game (
 )
 
 game (
-	comment "Toy Shop Boys (Japan)"
+	comment "Toy Shop Boys (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 97C5EE9A )
 )
@@ -1792,7 +1792,7 @@ game (
 )
 
 game (
-	comment "TV Sports Hockey (Japan)"
+	comment "TV Sports Hockey (Japan) (En)"
 	releasemonth "4"
 	rom ( crc E7529890 )
 )
@@ -1810,7 +1810,7 @@ game (
 )
 
 game (
-	comment "Veigues - Tactical Gladiator (Japan)"
+	comment "Veigues - Tactical Gladiator (Japan) (En)"
 	releasemonth "6"
 	rom ( crc 04188C5C )
 )
@@ -1818,35 +1818,35 @@ game (
 game (
 	comment "Victory Run (USA, Europe) (Wii U Virtual Console)"
 	releasemonth "12"
-	rom ( crc 19789404 )
+	rom ( crc AAC2876F )
 )
 
 game (
-	comment "Victory Run - Eikou no 13,000km (Japan)"
+	comment "Victory Run - Eikou no 13,000km (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 03E28CFF )
 )
 
 game (
-	comment "Vigilante (Japan)"
+	comment "Vigilante (Japan) (En)"
 	releasemonth "1"
 	rom ( crc E4124FE0 )
 )
 
 game (
-	comment "Violent Soldier (Japan)"
+	comment "Violent Soldier (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 1BC36B36 )
 )
 
 game (
-	comment "Volfied (Japan)"
+	comment "Volfied (Japan) (En)"
 	releasemonth "12"
 	rom ( crc AD226F30 )
 )
 
 game (
-	comment "W-Ring - The Double Rings (Japan)"
+	comment "W Ring - The Double Rings (Japan) (En)"
 	releasemonth "9"
 	rom ( crc BE990010 )
 )
@@ -1858,7 +1858,7 @@ game (
 )
 
 game (
-	comment "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)"
+	comment "Wallaby!! (Japan)"
 	releasemonth "12"
 	rom ( crc 0112D0C7 )
 )
@@ -1876,7 +1876,7 @@ game (
 )
 
 game (
-	comment "World Beach Volley (Japan)"
+	comment "World Beach Volley (Japan) (En)"
 	releasemonth "7"
 	rom ( crc BE850530 )
 )
@@ -1894,7 +1894,7 @@ game (
 )
 
 game (
-	comment "Xevious - Fardraut Saga (Japan)"
+	comment "Xevious - Fardraut Densetsu (Japan)"
 	releasemonth "6"
 	rom ( crc F8F85EEC )
 )
@@ -1918,14 +1918,13 @@ game (
 )
 
 game (
-	comment "Zero4 Champ (Japan) (Alt)"
+	comment "Zero4 Champ (Japan) (V1.5)"
 	releasemonth "3"
 	rom ( crc B77F2E2F )
 )
 
 game (
-	comment "Zipang (Japan)"
+	comment "Zipang (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 67AAB7A1 )
 )
-

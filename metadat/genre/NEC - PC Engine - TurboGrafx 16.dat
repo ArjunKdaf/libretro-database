@@ -4,13 +4,13 @@ clrmamepro (
 )
 
 game (
-	comment "21 Emon - Mezase Hotel Ou!! (Japan)"
+	comment "21 Emon - Mezase! Hotel Ou (Japan)"
 	genre "Board"
 	rom ( crc 73614660 )
 )
 
 game (
-	comment "Aero Blasters (Japan)"
+	comment "Aero Blasters (Japan) (En)"
 	genre "Action"
 	rom ( crc 25BE2B81 )
 )
@@ -34,7 +34,7 @@ game (
 )
 
 game (
-	comment "After Burner II (Japan)"
+	comment "After Burner II (Japan) (En)"
 	genre "Shooter"
 	rom ( crc CA72A828 )
 )
@@ -46,7 +46,7 @@ game (
 )
 
 game (
-	comment "Alien Crush (Japan)"
+	comment "Alien Crush (Japan) (En)"
 	genre "Pinball"
 	rom ( crc 60EDF4E1 )
 )
@@ -60,7 +60,7 @@ game (
 game (
 	comment "Air Zonk (USA, Europe) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc DA7EDA11 )
+	rom ( crc D76C4169 )
 )
 
 game (
@@ -88,13 +88,13 @@ game (
 )
 
 game (
-	comment "Atomic Robo-Kid Special (Japan)"
+	comment "Atomic Robo-Kid Special (Japan) (En)"
 	genre "Shooter"
 	rom ( crc DD175EFD )
 )
 
 game (
-	comment "Armed F (Japan)"
+	comment "Armed F (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 20EF87FD )
 )
@@ -112,7 +112,7 @@ game (
 )
 
 game (
-	comment "AV Poker - World Gambler (Japan) (Unl)"
+	comment "AV Poker - World Gambler (Japan)"
 	genre "Gambling"
 	rom ( crc B866D282 )
 )
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Ballistix (Japan)"
+	comment "Ballistix (Japan) (En)"
 	genre "Sports"
 	rom ( crc 8ACFC8AA )
 )
@@ -136,13 +136,13 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	genre "Action"
 	rom ( crc 106BB7B2 )
 )
 
 game (
-	comment "Battle Lode Runner (Japan)"
+	comment "Battle Lode Runner (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 59E44F45 )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Battle Chopper (Japan)"
+	comment "Mr. Heli no Daibouken (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc 2CB92290 )
 )
@@ -198,17 +198,17 @@ game (
 game (
 	comment "Blazing Lazers (World) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc 795D3C11 )
+	rom ( crc E52BE33E )
 )
 
 game (
-	comment "Blodia (Japan)"
+	comment "Blodia (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 958BCD09 )
 )
 
 game (
-	comment "Bodycon Quest II (Japan) (Unl)"
+	comment "Bodycon Quest II - Kyuseishu (Japan)"
 	genre "Role-playing (RPG)"
 	rom ( crc FFD92458 )
 )
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Bomberman (Japan)"
+	comment "Bomberman (Japan) (En)"
 	genre "Action"
 	rom ( crc 9ABB4D1F )
 )
@@ -252,13 +252,13 @@ game (
 game (
 	comment "Bomberman '93 (Japan) (Wii U Virtual Console)"
 	genre "Puzzle"
-	rom ( crc D19CE1AC )
+	rom ( crc 37C9114F )
 )
 
 game (
-	comment "Bomberman '94 (World) (Wii U Virtual Console)"
+	comment "Bomberman '94 (World) (Ja) (Wii U Virtual Console)"
 	genre "Action"
-	rom ( crc F319903C )
+	rom ( crc 1AAB222E )
 )
 
 game (
@@ -288,7 +288,7 @@ game (
 game (
 	comment "Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc EA2065F0 )
+	rom ( crc 1F6511D7 )
 )
 
 game (
@@ -298,7 +298,7 @@ game (
 )
 
 game (
-	comment "Bonk's Revenge (USA, Europe) (Wii Virtual Console)"
+	comment "Bonk's Revenge (USA)"
 	genre "Platform"
 	rom ( crc F36FFEE1 )
 )
@@ -312,11 +312,11 @@ game (
 game (
 	comment "Bonk's Adventure (USA, Europe) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 1B1E9E37 )
+	rom ( crc 704C801E )
 )
 
 game (
-	comment "Bonk's Revenge (USA)"
+	comment "Bonk's Revenge (USA) (Alt 2)"
 	genre "Platform"
 	rom ( crc 14250F9A )
 )
@@ -324,7 +324,7 @@ game (
 game (
 	comment "Bonk's Revenge (USA, Europe) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc DA0B916C )
+	rom ( crc 2020817A )
 )
 
 game (
@@ -334,13 +334,13 @@ game (
 )
 
 game (
-	comment "Bubblegum Crash! - Knight Sabers 2034 (Japan)"
+	comment "Bubblegum Crash! (Japan)"
 	genre "Adventure"
 	rom ( crc 0D766139 )
 )
 
 game (
-	comment "Break In (Japan)"
+	comment "Break In (Japan) (En)"
 	genre "Sports"
 	rom ( crc C9D7426A )
 )
@@ -370,7 +370,7 @@ game (
 )
 
 game (
-	comment "Busou Keiji - Cyber Cross (Japan)"
+	comment "Cyber Cross (Japan)"
 	genre "Platform"
 	rom ( crc D0C250CA )
 )
@@ -382,7 +382,7 @@ game (
 )
 
 game (
-	comment "Champion Wrestler (Japan)"
+	comment "Champion Wrestler (Japan) (En)"
 	genre "Fighting"
 	rom ( crc 9EDC0AEA )
 )
@@ -430,13 +430,13 @@ game (
 )
 
 game (
-	comment "Circus Lido (Japan)"
+	comment "Circus Lido (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc C3212C24 )
 )
 
 game (
-	comment "Chouzetsurinjin Bravoman (Japan)"
+	comment "Chou Zetsurinjin Bravoman (Japan)"
 	genre "Action"
 	rom ( crc 0DF57C90 )
 )
@@ -454,7 +454,7 @@ game (
 )
 
 game (
-	comment "Coryoon - Child of Dragon (Japan)"
+	comment "Coryoon (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc B4D29E3B )
 )
@@ -466,25 +466,25 @@ game (
 )
 
 game (
-	comment "Cyber Core (Japan)"
+	comment "Cyber Core (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc A98D276A )
 )
 
 game (
-	comment "Cyber Core (USA)"
+	comment "Cyber-Core (USA)"
 	genre "Shoot'em Up"
 	rom ( crc 4CFB6E3E )
 )
 
 game (
-	comment "Cross Wiber - Cyber Combat Police (Japan)"
+	comment "Cross Wiber - Cyber Combat Police (Japan) (En)"
 	genre "Platform"
 	rom ( crc 2DF97BD0 )
 )
 
 game (
-	comment "Cyber Dodge (Japan)"
+	comment "Cyber Dodge (Japan) (En)"
 	genre "Sports"
 	rom ( crc B5326B16 )
 )
@@ -502,7 +502,7 @@ game (
 )
 
 game (
-	comment "Daisenpuu (Japan)"
+	comment "Daisenpuu (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 9107BCC8 )
 )
@@ -514,13 +514,13 @@ game (
 )
 
 game (
-	comment "Darius Plus (Japan) (SG Enhanced)"
+	comment "Darius Plus (Japan) (En) (SG Enhanced)"
 	genre "Shoot'em Up"
 	rom ( crc BEBFE042 )
 )
 
 game (
-	comment "Darius Alpha (Japan) (SG Enhanced)"
+	comment "Darius Alpha (Japan) (En) (SG Enhanced)"
 	genre "Action"
 	rom ( crc B0BA689F )
 )
@@ -538,7 +538,7 @@ game (
 )
 
 game (
-	comment "Dead Moon - Getsu Sekai no Akumu (Japan)"
+	comment "Dead Moon - Getsu Sekai no Akumu (Japan) (En)"
 	genre "Action"
 	rom ( crc 56739BC7 )
 )
@@ -556,7 +556,7 @@ game (
 )
 
 game (
-	comment "Deep Blue - Kaitei Shinwa (Japan)"
+	comment "Deep Blue - Kaitei Shinwa (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 053A0F83 )
 )
@@ -568,21 +568,21 @@ game (
 )
 
 game (
-	comment "Devil Crash - Naxat Pinball (Japan)"
+	comment "Devil Crash - Naxat Pinball (Japan) (En)"
 	genre "Pinball"
 	rom ( crc 4EC81A80 )
 )
 
 game (
-	comment "Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console)"
+	comment "Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console)"
 	genre "Pinball"
-	rom ( crc 8CF026B5 )
+	rom ( crc 38BBB515 )
 )
 
 game (
 	comment "Devil's Crush (USA, Europe) (Wii U Virtual Console)"
 	genre "Pinball"
-	rom ( crc FFE92B87 )
+	rom ( crc 6308EB07 )
 )
 
 game (
@@ -592,7 +592,7 @@ game (
 )
 
 game (
-	comment "Digital Champ (Japan)"
+	comment "Digital Champ - Battle Boxing (Japan)"
 	genre "Sports"
 	rom ( crc 17BA3032 )
 )
@@ -630,7 +630,7 @@ game (
 game (
 	comment "Double Dungeons (USA, Europe) (Wii U Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc 552C686A )
+	rom ( crc D189B4AD )
 )
 
 game (
@@ -642,11 +642,11 @@ game (
 game (
 	comment "Double Dungeons (Japan) (Wii U Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc 552C686A )
+	rom ( crc D7BF80CC )
 )
 
 game (
-	comment "Download (Japan)"
+	comment "Down Load (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc 85101C20 )
 )
@@ -658,13 +658,13 @@ game (
 )
 
 game (
-	comment "Dragon Saber (Japan)"
+	comment "Dragon Saber (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 3219849C )
 )
 
 game (
-	comment "Dragon Spirit (Japan)"
+	comment "Dragon Spirit (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 01A76935 )
 )
@@ -688,7 +688,7 @@ game (
 )
 
 game (
-	comment "Drop Rock Hora Hora (Japan)"
+	comment "Drop Rock Hora Hora (Japan) (En)"
 	genre "Action"
 	rom ( crc 67EC5EC4 )
 )
@@ -748,13 +748,13 @@ game (
 )
 
 game (
-	comment "F1 Triple Battle (Japan)"
+	comment "F1 Triple Battle (Japan) (En)"
 	genre "Racing"
 	rom ( crc 13BF0409 )
 )
 
 game (
-	comment "F1 Circus '92 - The Speed of Sound (Japan)"
+	comment "F1 Circus '92 (Japan)"
 	genre "Racing"
 	rom ( crc B268F2A2 )
 )
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 72CB0F9D )
 )
@@ -784,7 +784,7 @@ game (
 )
 
 game (
-	comment "Final Blaster (Japan)"
+	comment "Final Blaster (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc C90971BA )
 )
@@ -816,7 +816,7 @@ game (
 game (
 	comment "Final Soldier (World) (Wii U Virtual Console)"
 	genre "Action"
-	rom ( crc CCBB0C9A )
+	rom ( crc 06835D94 )
 )
 
 game (
@@ -832,7 +832,7 @@ game (
 )
 
 game (
-	comment "Fire Pro Wrestling 2 - 2nd Bout (Japan)"
+	comment "Fire Pro Wrestling - 2nd Bout (Japan)"
 	genre "Sports"
 	rom ( crc E88987BB )
 )
@@ -844,13 +844,13 @@ game (
 )
 
 game (
-	comment "Formation Soccer - Human Cup '90 (Japan)"
+	comment "Formation Soccer - Human Cup '90 (Japan) (En)"
 	genre "Sports"
 	rom ( crc 85A1E7B6 )
 )
 
 game (
-	comment "Formation Soccer - On J League (Japan)"
+	comment "Formation Soccer - On J.League (Japan)"
 	genre "Sports"
 	rom ( crc 7146027C )
 )
@@ -864,7 +864,7 @@ game (
 game (
 	comment "Gai Flame (Japan) (Wii U Virtual Console)"
 	genre "Strategy"
-	rom ( crc 870D811F )
+	rom ( crc 9182C639 )
 )
 
 game (
@@ -880,7 +880,7 @@ game (
 )
 
 game (
-	comment "Galaga '88 (Japan)"
+	comment "Galaga '88 (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 1A8393C6 )
 )
@@ -934,13 +934,13 @@ game (
 )
 
 game (
-	comment "Gomola Speed (Japan)"
+	comment "Gomola Speed (Japan) (En)"
 	genre "Action"
 	rom ( crc 4BD38F17 )
 )
 
 game (
-	comment "Gradius (Japan)"
+	comment "Gradius (Japan) (En)"
 	genre "Action"
 	rom ( crc 0517DA65 )
 )
@@ -954,17 +954,17 @@ game (
 game (
 	comment "Gradius (World) (Wii U Virtual Console)"
 	genre "Action"
-	rom ( crc 6F6816B2 )
+	rom ( crc A5273CC4 )
 )
 
 game (
-	comment "Gunhed (Japan)"
+	comment "Gunhed (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc A17D4D7E )
 )
 
 game (
-	comment "Gunhed - Special Version (Japan)"
+	comment "Gunhed - Special Version (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 57F183AE )
 )
@@ -988,13 +988,13 @@ game (
 )
 
 game (
-	comment "Heavy Unit (Japan)"
+	comment "Heavy Unit (Japan) (En)"
 	genre "Action"
 	rom ( crc EB923DE5 )
 )
 
 game (
-	comment "Hatris (Japan)"
+	comment "Hatris (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 44E7DF53 )
 )
@@ -1006,7 +1006,7 @@ game (
 )
 
 game (
-	comment "Hit the Ice - VHL - The Video Hockey League (Japan)"
+	comment "Hit the Ice - VHL - The Video Hockey League (Japan) (En)"
 	genre "Action"
 	rom ( crc 7ACB60C8 )
 )
@@ -1024,13 +1024,13 @@ game (
 )
 
 game (
-	comment "Idol Hanafuda Fan Club (Japan) (Unl)"
+	comment "Idol Hanafuda Fan Club (Japan)"
 	genre "Board"
 	rom ( crc 9EC6FC6C )
 )
 
 game (
-	comment "Image Fight (Japan)"
+	comment "ImageFight (Japan) (En)"
 	genre "Action"
 	rom ( crc A80C565F )
 )
@@ -1054,7 +1054,7 @@ game (
 )
 
 game (
-	comment "Jack Nicklaus - Championship Golf (Japan)"
+	comment "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan) (En)"
 	genre "Sports"
 	rom ( crc EA751E82 )
 )
@@ -1096,9 +1096,9 @@ game (
 )
 
 game (
-	comment "Jaseiken Necromancer (World) (Wii U Virtual Console)"
+	comment "Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc C6BFD0EB )
+	rom ( crc 9AA5295C )
 )
 
 game (
@@ -1144,7 +1144,7 @@ game (
 )
 
 game (
-	comment "Kiki Kaikai (Japan)"
+	comment "Kiki Kaikai (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc C0CB5ADD )
 )
@@ -1210,25 +1210,25 @@ game (
 )
 
 game (
-	comment "Kyuukyoku Mahjong II (Japan) (Unl)"
+	comment "Kyuukyoku Mahjong II - Super Idol Graphic (Japan)"
 	genre "Board"
 	rom ( crc E5B6B3E5 )
 )
 
 game (
-	comment "Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl)"
+	comment "Kyuukyoku Mahjong - Idol Graphic (Japan)"
 	genre "Board"
 	rom ( crc 02DDE03E )
 )
 
 game (
-	comment "Kyuukyoku Tiger (Japan)"
+	comment "Kyuukyoku Tiger (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 09509315 )
 )
 
 game (
-	comment "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)"
+	comment "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan)"
 	genre "Role-playing (RPG)"
 	rom ( crc C6F764EC )
 )
@@ -1318,7 +1318,7 @@ game (
 )
 
 game (
-	comment "Makai Hakkenden Shada (Japan)"
+	comment "Makai Hakkenden - Shada (Japan)"
 	genre "Role-playing (RPG)"
 	rom ( crc BE62EEF5 )
 )
@@ -1354,7 +1354,7 @@ game (
 )
 
 game (
-	comment "Metal Stoker (Japan)"
+	comment "Metal Stoker (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 25A02BEE )
 )
@@ -1414,13 +1414,13 @@ game (
 )
 
 game (
-	comment "Moto Roader (Japan)"
+	comment "Moto Roader (Japan) (En)"
 	genre "Action"
 	rom ( crc 428F36CD )
 )
 
 game (
-	comment "Moto Roader II (Japan)"
+	comment "Moto Roader II (Japan) (En)"
 	genre "Racing"
 	rom ( crc 0B7F6E5F )
 )
@@ -1474,7 +1474,7 @@ game (
 )
 
 game (
-	comment "Neutopia (Japan)"
+	comment "Neutopia - Frey no Shou (Japan)"
 	genre "Adventure"
 	rom ( crc 9C49EF11 )
 )
@@ -1488,7 +1488,7 @@ game (
 game (
 	comment "Neutopia (USA, Europe) (Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc D404EFA2 )
+	rom ( crc 811259E5 )
 )
 
 game (
@@ -1512,13 +1512,13 @@ game (
 game (
 	comment "Neutopia II (USA, Europe) (Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc 0DC5B49E )
+	rom ( crc 2602EDA2 )
 )
 
 game (
 	comment "Neutopia II (Japan) (Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc 0DC5B49E )
+	rom ( crc 769AABC3 )
 )
 
 game (
@@ -1528,7 +1528,7 @@ game (
 )
 
 game (
-	comment "NewZealand Story, The (Japan)"
+	comment "NewZealand Story, The (Japan) (En)"
 	genre "Platform"
 	rom ( crc 8E4D75A8 )
 )
@@ -1536,7 +1536,7 @@ game (
 game (
 	comment "New Adventure Island (USA, Europe) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 57CF7BD2 )
+	rom ( crc 21DB1D10 )
 )
 
 game (
@@ -1552,13 +1552,13 @@ game (
 )
 
 game (
-	comment "Niko Niko Pun (Japan)"
+	comment "Okaasan to Issho - Niko Niko Pun (Japan)"
 	genre "Platform"
 	rom ( crc 82DEF9EE )
 )
 
 game (
-	comment "Ninja Ryuukenden (Japan)"
+	comment "Ninja Ryuuken Den (Japan) (En,Ja,Zh)"
 	genre "Platform"
 	rom ( crc 67573BAC )
 )
@@ -1572,11 +1572,11 @@ game (
 game (
 	comment "Ninja Spirit (USA, Europe) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 6CA3E954 )
+	rom ( crc 85D1E33B )
 )
 
 game (
-	comment "Ninja Warriors, The (Japan)"
+	comment "Ninjawarriors, The (Japan)"
 	genre "Beat'em Up"
 	rom ( crc 96E0CD9D )
 )
@@ -1618,19 +1618,19 @@ game (
 )
 
 game (
-	comment "Override (Japan)"
+	comment "Override (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc B74EC562 )
 )
 
 game (
-	comment "Out Run (Japan)"
+	comment "OutRun (Japan) (En)"
 	genre "Racing"
 	rom ( crc E203F223 )
 )
 
 game (
-	comment "P-47 - The Freedom Fighter (Japan)"
+	comment "P-47 - The Freedom Fighter (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 7632DB90 )
 )
@@ -1642,7 +1642,7 @@ game (
 )
 
 game (
-	comment "Pac-Land (Japan)"
+	comment "Pac-Land (Japan) (En)"
 	genre "Platform"
 	rom ( crc 14FAD3BA )
 )
@@ -1660,19 +1660,19 @@ game (
 )
 
 game (
-	comment "Paranoia (Japan)"
+	comment "Paranoia (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 9893E0E6 )
 )
 
 game (
-	comment "Parasol Stars - The Story of Bubble Bobble III (Japan)"
+	comment "Parasol Stars - The Story of Bubble Bobble III (Japan) (En)"
 	genre "Action"
 	rom ( crc 51E86451 )
 )
 
 game (
-	comment "Parodius Da! - Shinwa kara Owarai e (Japan)"
+	comment "Parodius Da! - Shinwa kara Owarai e (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 647718F9 )
 )
@@ -1692,7 +1692,7 @@ game (
 game (
 	comment "PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc B874A04E )
+	rom ( crc 51982CE2 )
 )
 
 game (
@@ -1704,7 +1704,7 @@ game (
 game (
 	comment "PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc F3882662 )
+	rom ( crc 9C1F39DB )
 )
 
 game (
@@ -1722,7 +1722,7 @@ game (
 game (
 	comment "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 93406091 )
+	rom ( crc 34190272 )
 )
 
 game (
@@ -1740,23 +1740,23 @@ game (
 game (
 	comment "PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 393DAFFA )
+	rom ( crc E42AD101 )
 )
 
 game (
-	comment "Populous (Japan)"
+	comment "Populous (Japan) (En)"
 	genre "Strategy"
 	rom ( crc 083C956A )
 )
 
 game (
-	comment "PC Pachi-Slot - Idol Gambler (Japan) (Unl)"
+	comment "PC Pachi-Slot - Idol Gambler (Japan)"
 	genre "Gambling"
 	rom ( crc 0AA88F33 )
 )
 
 game (
-	comment "Power Drift (Japan)"
+	comment "Power Drift (Japan) (En)"
 	genre "Racing"
 	rom ( crc 25E0F6E9 )
 )
@@ -1780,7 +1780,7 @@ game (
 )
 
 game (
-	comment "Power Golf (Japan)"
+	comment "Power Golf (Japan) (En)"
 	genre "Sports"
 	rom ( crc EA324F07 )
 )
@@ -1830,7 +1830,7 @@ game (
 game (
 	comment "Power Sports (Japan) (Wii U Virtual Console)"
 	genre "Sports"
-	rom ( crc B7DB81E1 )
+	rom ( crc 95830103 )
 )
 
 game (
@@ -1858,7 +1858,7 @@ game (
 )
 
 game (
-	comment "Psycho Chaser (Japan)"
+	comment "Psycho Chaser (Japan) (En)"
 	genre "Action"
 	rom ( crc 03883EE8 )
 )
@@ -1876,13 +1876,13 @@ game (
 )
 
 game (
-	comment "Puzznic (Japan)"
+	comment "Puzznic (Japan) (En)"
 	genre "Strategy"
 	rom ( crc 965C95B3 )
 )
 
 game (
-	comment "Quiz Toukou Shashin (Japan) (Unl)"
+	comment "Quiz Toukou Shashin (Japan)"
 	genre "Quiz"
 	rom ( crc F2E6856D )
 )
@@ -1894,19 +1894,19 @@ game (
 )
 
 game (
-	comment "R-Type I (Japan)"
+	comment "R-Type I (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc CEC3D28A )
 )
 
 game (
-	comment "R-Type II (Japan) (v1.1)"
+	comment "R-Type II (Japan) (En) (V1.1)"
 	genre "Shoot'em Up"
 	rom ( crc 417B961D )
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc F207ECAE )
 )
@@ -1930,13 +1930,13 @@ game (
 )
 
 game (
-	comment "Raiden (Japan)"
+	comment "Raiden (Japan) (En)"
 	genre "Action"
 	rom ( crc 850829F2 )
 )
 
 game (
-	comment "Rastan Saga II (Japan)"
+	comment "Rastan Saga II (Japan) (En)"
 	genre "Platform"
 	rom ( crc 00C38E69 )
 )
@@ -1974,11 +1974,11 @@ game (
 game (
 	comment "Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 22FE055E )
+	rom ( crc 5ECBB3AC )
 )
 
 game (
-	comment "Salamander (Japan)"
+	comment "Salamander (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc FAECCE20 )
 )
@@ -1986,7 +1986,7 @@ game (
 game (
 	comment "Salamander (World) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc 689349AB )
+	rom ( crc A869A0B4 )
 )
 
 game (
@@ -2056,7 +2056,7 @@ game (
 )
 
 game (
-	comment "SideArms - Hyper Dyne (Japan)"
+	comment "Hyper Dyne - SideArms (Japan) (En)"
 	genre "Action"
 	rom ( crc E5E7B8B7 )
 )
@@ -2086,13 +2086,13 @@ game (
 )
 
 game (
-	comment "Skweek (Japan)"
+	comment "Skweek (Japan) (En)"
 	genre "Action"
 	rom ( crc 4D539C9F )
 )
 
 game (
-	comment "Soldier Blade (Japan)"
+	comment "Soldier Blade (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 8420B12B )
 )
@@ -2106,19 +2106,19 @@ game (
 game (
 	comment "Soldier Blade (USA, Europe) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc 2D8D2E42 )
+	rom ( crc D2113BF1 )
 )
 
 game (
-	comment "Soldier Blade - Special Version (Japan)"
+	comment "Soldier Blade - Special Version (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc F39F38ED )
 )
 
 game (
-	comment "Soldier Blade (Japan) (Wii U Virtual Console)"
+	comment "Soldier Blade (Japan) (En) (Wii U Virtual Console)"
 	genre "Shoot'em Up"
-	rom ( crc 2D8D2E42 )
+	rom ( crc 1D8701C9 )
 )
 
 game (
@@ -2146,7 +2146,7 @@ game (
 )
 
 game (
-	comment "Space Harrier (Japan)"
+	comment "Space Harrier (Japan) (En)"
 	genre "Shooter"
 	rom ( crc 64580427 )
 )
@@ -2164,7 +2164,7 @@ game (
 )
 
 game (
-	comment "Spin Pair (Japan)"
+	comment "Spin Pair (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 1C6FF459 )
 )
@@ -2194,7 +2194,7 @@ game (
 )
 
 game (
-	comment "Strip Fighter II (Japan) (Unl)"
+	comment "Strip Fighter II (Japan)"
 	genre "Action"
 	rom ( crc D6FC51CE )
 )
@@ -2206,7 +2206,7 @@ game (
 )
 
 game (
-	comment "Super Metal Crusher (Japan)"
+	comment "Super Metal Crusher (Japan) (En)"
 	genre "Strategy"
 	rom ( crc 56488B36 )
 )
@@ -2244,7 +2244,7 @@ game (
 game (
 	comment "Super Star Soldier (USA, Europe) (Wii U Virtual Console)"
 	genre "Action"
-	rom ( crc 33262F49 )
+	rom ( crc 0FCA781A )
 )
 
 game (
@@ -2256,7 +2256,7 @@ game (
 game (
 	comment "Super Star Soldier (Japan) (Wii U Virtual Console)"
 	genre "Action"
-	rom ( crc 33262F49 )
+	rom ( crc 71A5A90B )
 )
 
 game (
@@ -2278,15 +2278,15 @@ game (
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En)"
 	genre "Platform"
 	rom ( crc E415EA19 )
 )
 
 game (
-	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console)"
+	comment "Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc B5D8131C )
+	rom ( crc B0A4EF0B )
 )
 
 game (
@@ -2308,13 +2308,13 @@ game (
 )
 
 game (
-	comment "Tatsujin (Japan)"
+	comment "Tatsujin (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc A6088275 )
 )
 
 game (
-	comment "Tatsujin (Japan) (Beta)"
+	comment "Tatsujin (Japan) (En) (Beta)"
 	genre "Shoot'em Up"
 	rom ( crc C1B26659 )
 )
@@ -2326,19 +2326,19 @@ game (
 )
 
 game (
-	comment "Tenseiryuu - Saint Dragon (Japan)"
+	comment "Tenseiryuu - Saint Dragon (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 2E278CCB )
 )
 
 game (
-	comment "Terra Cresta II - Mandoler no Gyakushuu (Japan)"
+	comment "Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 1B2D0077 )
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc DDC3E809 )
 )
@@ -2356,7 +2356,7 @@ game (
 )
 
 game (
-	comment "Time Cruise II (Japan)"
+	comment "Time Cruise II (Japan) (En)"
 	genre "Pinball"
 	rom ( crc CFEC1D6A )
 )
@@ -2368,7 +2368,7 @@ game (
 )
 
 game (
-	comment "Titan (Japan)"
+	comment "Titan (Japan) (En)"
 	genre "Strategy"
 	rom ( crc D20F382F )
 )
@@ -2392,7 +2392,7 @@ game (
 )
 
 game (
-	comment "Toy Shop Boys (Japan)"
+	comment "Toy Shop Boys (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 97C5EE9A )
 )
@@ -2458,7 +2458,7 @@ game (
 )
 
 game (
-	comment "TV Sports Hockey (Japan)"
+	comment "TV Sports Hockey (Japan) (En)"
 	genre "Sports"
 	rom ( crc E7529890 )
 )
@@ -2482,7 +2482,7 @@ game (
 )
 
 game (
-	comment "Veigues - Tactical Gladiator (Japan)"
+	comment "Veigues - Tactical Gladiator (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 04188C5C )
 )
@@ -2496,17 +2496,17 @@ game (
 game (
 	comment "Victory Run (USA, Europe) (Wii U Virtual Console)"
 	genre "Racing"
-	rom ( crc 19789404 )
+	rom ( crc AAC2876F )
 )
 
 game (
-	comment "Victory Run - Eikou no 13,000km (Japan)"
+	comment "Victory Run - Eikou no 13,000km (Japan) (En)"
 	genre "Racing"
 	rom ( crc 03E28CFF )
 )
 
 game (
-	comment "Vigilante (Japan)"
+	comment "Vigilante (Japan) (En)"
 	genre "Action"
 	rom ( crc E4124FE0 )
 )
@@ -2518,19 +2518,19 @@ game (
 )
 
 game (
-	comment "Violent Soldier (Japan)"
+	comment "Violent Soldier (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc 1BC36B36 )
 )
 
 game (
-	comment "Volfied (Japan)"
+	comment "Volfied (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc AD226F30 )
 )
 
 game (
-	comment "W-Ring - The Double Rings (Japan)"
+	comment "W Ring - The Double Rings (Japan) (En)"
 	genre "Shoot'em Up"
 	rom ( crc BE990010 )
 )
@@ -2542,7 +2542,7 @@ game (
 )
 
 game (
-	comment "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)"
+	comment "Wallaby!! (Japan)"
 	genre "Sports with Animals"
 	rom ( crc 0112D0C7 )
 )
@@ -2560,7 +2560,7 @@ game (
 )
 
 game (
-	comment "World Beach Volley (Japan)"
+	comment "World Beach Volley (Japan) (En)"
 	genre "Sports"
 	rom ( crc BE850530 )
 )
@@ -2602,7 +2602,7 @@ game (
 )
 
 game (
-	comment "Xevious - Fardraut Saga (Japan)"
+	comment "Xevious - Fardraut Densetsu (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc F8F85EEC )
 )
@@ -2616,11 +2616,11 @@ game (
 game (
 	comment "World Sports Competition (USA, Europe) (Wii U Virtual Console)"
 	genre "Sports"
-	rom ( crc 57F3F673 )
+	rom ( crc 9AEB5D26 )
 )
 
 game (
-	comment "Yo, Bro (USA)"
+	comment "Yo' Bro (USA)"
 	genre "Shooter"
 	rom ( crc 3CA7DB48 )
 )
@@ -2644,14 +2644,13 @@ game (
 )
 
 game (
-	comment "Zero4 Champ (Japan) (Alt)"
+	comment "Zero4 Champ (Japan) (V1.5)"
 	genre "Racing"
 	rom ( crc B77F2E2F )
 )
 
 game (
-	comment "Zipang (Japan)"
+	comment "Zipang (Japan) (En)"
 	genre "Puzzle"
 	rom ( crc 67AAB7A1 )
 )
-

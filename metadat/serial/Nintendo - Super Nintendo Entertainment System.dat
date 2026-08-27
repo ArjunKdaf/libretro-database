@@ -20,7 +20,7 @@ game (
 )
 
 game (
-	comment "2020 Super Baseball (USA)"
+	comment "Super Baseball 2020 (USA)"
 	serial "SNS-SA"
 	rom (
 		crc 0D77933E
@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "3-jigen Kakutou Ballz (Japan)"
+	comment "3-jigen Kakutou Ballz (Japan) (En)"
 	serial "SHVC-ABZJ-JPN"
 	rom (
 		crc F0810694
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Acrobat Mission (Japan)"
+	comment "Acrobat Mission (Japan) (En)"
 	serial "SHVC-2T"
 	rom (
 		crc 0DA18A10
@@ -508,7 +508,7 @@ game (
 )
 
 game (
-	comment "Akagawa Jirou - Majotachi no Nemuri (Japan)"
+	comment "Akagawa Jirou - Majo-tachi no Nemuri (Japan)"
 	serial "SHVC-AAMJ-JPN"
 	rom (
 		crc 167E4C15
@@ -516,7 +516,7 @@ game (
 )
 
 game (
-	comment "Akagawa Jirou - Majotachi no Nemuri (Japan) (Rev 1) (NP)"
+	comment "Akagawa Jirou - Majo-tachi no Nemuri (Japan) (Rev 1)"
 	serial "SHVC-AAMJ-JPN"
 	rom (
 		crc EE62AA7E
@@ -748,7 +748,7 @@ game (
 )
 
 game (
-	comment "Andre Agassi Tennis (Japan)"
+	comment "Andre Agassi Tennis (Japan) (En)"
 	serial "SHVC-NY-JPN"
 	rom (
 		crc D9879A39
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Angelique (Japan) (Premium Box)"
+	comment "Angelique - Premium Box (Japan)"
 	serial "SHVC-QE"
 	rom (
 		crc 3DA108C4
@@ -948,7 +948,7 @@ game (
 )
 
 game (
-	comment "Arkanoid - Doh It Again (Europe)"
+	comment "Arkanoid (Europe)"
 	serial "SNSP-A6"
 	rom (
 		crc D436489B
@@ -956,7 +956,7 @@ game (
 )
 
 game (
-	comment "Arkanoid - Doh It Again (Japan)"
+	comment "Arkanoid - Doh It Again (Japan) (En)"
 	serial "SHVC-A6"
 	rom (
 		crc 7A8BBAFA
@@ -988,7 +988,7 @@ game (
 )
 
 game (
-	comment "Aryol (Japan)"
+	comment "Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)"
 	serial "SHVC-X3"
 	rom (
 		crc 43B1AAD9
@@ -1140,7 +1140,7 @@ game (
 )
 
 game (
-	comment "Barbie Super Model (USA)"
+	comment "Barbie - Super Model (USA)"
 	serial "SNS-8L-USA"
 	rom (
 		crc 3B73610E
@@ -1164,7 +1164,7 @@ game (
 )
 
 game (
-	comment "Barkley no Power Dunk (Japan)"
+	comment "Barkley no Power Dunk (Japan) (En)"
 	serial "SHVC-I7-JPN"
 	rom (
 		crc 8AFF96D0
@@ -1172,7 +1172,7 @@ game (
 )
 
 game (
-	comment "Bass Masters Classic (Japan)"
+	comment "BASS Masters Classic (Japan)"
 	serial "SHVC-ABAJ-JPN"
 	rom (
 		crc 925206EA
@@ -1180,7 +1180,7 @@ game (
 )
 
 game (
-	comment "Bass Masters Classic (USA)"
+	comment "BASS Masters Classic (USA)"
 	serial "SNS-ABAE-USA"
 	rom (
 		crc 832A27C2
@@ -1188,7 +1188,7 @@ game (
 )
 
 game (
-	comment "Bass Masters Classic - Pro Edition (Europe)"
+	comment "BASS Masters Classic - Pro Edition (Europe)"
 	serial "SNSP-A9BP-EUR"
 	rom (
 		crc A2D4B003
@@ -1196,7 +1196,7 @@ game (
 )
 
 game (
-	comment "Bass Masters Classic - Pro Edition (USA)"
+	comment "BASS Masters Classic - Pro Edition (USA)"
 	serial "SNS-A9BE-USA"
 	rom (
 		crc C5058634
@@ -1228,7 +1228,7 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan)"
+	comment "Batman Forever (Japan) (En)"
 	serial "SHVC-A3BJ-JPN"
 	rom (
 		crc 903348F5
@@ -1252,7 +1252,7 @@ game (
 )
 
 game (
-	comment "Batman Returns (Japan)"
+	comment "Batman Returns (Japan) (En)"
 	serial "SHVC-BJ"
 	rom (
 		crc 5BED3661
@@ -1268,7 +1268,7 @@ game (
 )
 
 game (
-	comment "Battle Blaze (Japan)"
+	comment "Battle Blaze (Japan) (En)"
 	serial "SHVC-BZ"
 	rom (
 		crc B9CD2FF3
@@ -1324,7 +1324,7 @@ game (
 )
 
 game (
-	comment "Battle Dodge Ball - Toukyuu Daigekitotsu! (Japan)"
+	comment "Battle Dodge Ball (Japan)"
 	serial "SHVC-BD"
 	rom (
 		crc 99A1F158
@@ -1340,7 +1340,7 @@ game (
 )
 
 game (
-	comment "Battle Grand Prix (Japan)"
+	comment "Battle Grand Prix (Japan) (En)"
 	serial "SHVC-BG"
 	rom (
 		crc 8B8AFD6F
@@ -1500,7 +1500,7 @@ game (
 )
 
 game (
-	comment "Bazoe! Mahou Sekai (Japan)"
+	comment "Ancient Magic - Bazoe! Mahou Sekai (Japan)"
 	serial "SHVC-VM"
 	rom (
 		crc D5B09EEF
@@ -1692,7 +1692,7 @@ game (
 )
 
 game (
-	comment "BioMetal (Japan)"
+	comment "BioMetal (Japan) (En)"
 	serial "SHVC-BV"
 	rom (
 		crc 8BA3D382
@@ -1764,7 +1764,7 @@ game (
 )
 
 game (
-	comment "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan)"
+	comment "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!! (Japan)"
 	serial "SHVC-3Q"
 	rom (
 		crc 10F03E3C
@@ -1804,7 +1804,7 @@ game (
 )
 
 game (
-	comment "BlaZeon (Japan)"
+	comment "BlaZeon (Japan) (En)"
 	serial "SHVC-BL"
 	rom (
 		crc AD2EFFC3
@@ -1860,7 +1860,7 @@ game (
 )
 
 game (
-	comment "Blue Crystalrod, The (Japan)"
+	comment "Blue Crystal Rod, The (Japan)"
 	serial "SHVC-NU"
 	rom (
 		crc EFC21F71
@@ -1876,7 +1876,7 @@ game (
 )
 
 game (
-	comment "Blues Brothers, The (Japan)"
+	comment "Blues Brothers, The (Japan) (En)"
 	serial "SHVC-B6"
 	rom (
 		crc 362620D2
@@ -1908,7 +1908,7 @@ game (
 )
 
 game (
-	comment "Bomber Man B-Daman (Japan)"
+	comment "Bomberman B-Daman (Japan)"
 	serial "SHVC-AH9J-JPN"
 	rom (
 		crc 9FEA854D
@@ -2172,7 +2172,7 @@ game (
 )
 
 game (
-	comment "Brunswick World Tournament of Champions (USA)"
+	comment "Brunswick World - Tournament of Champions (USA)"
 	serial "SNS-AWUE-USA"
 	rom (
 		crc 52E4DC92
@@ -2220,7 +2220,7 @@ game (
 )
 
 game (
-	comment "Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade)"
+	comment "Bubsy in - Claws Encounters of the Furred Kind (Germany) (En)"
 	serial "SNSP-YN SNSP-UY"
 	rom (
 		crc AB124BE7
@@ -2492,7 +2492,7 @@ game (
 )
 
 game (
-	comment "Caravan Shooting Collection (Japan)"
+	comment "Caravan Shooting Collection (Japan) (En)"
 	serial "SHVC-AS8J-JPN"
 	rom (
 		crc 8675B9DF
@@ -2516,7 +2516,7 @@ game (
 )
 
 game (
-	comment "Carrier Aces (Japan)"
+	comment "Carrier Aces (Japan) (En)"
 	serial "SHVC-ACAJ-JPN"
 	rom (
 		crc 89B31066
@@ -2628,7 +2628,7 @@ game (
 )
 
 game (
-	comment "Chavez (USA)"
+	comment "Chavez (USA) (Es)"
 	serial "SNS-ZV"
 	rom (
 		crc A9D604EA
@@ -2636,7 +2636,7 @@ game (
 )
 
 game (
-	comment "Chavez II (USA)"
+	comment "Chavez II (USA) (Es)"
 	serial "SNS-AC2E-USA"
 	rom (
 		crc 86981887
@@ -2708,7 +2708,7 @@ game (
 )
 
 game (
-	comment "Choplifter III - Rescue-Survive (Japan)"
+	comment "Choplifter III - Rescue-Survive (Japan) (En)"
 	serial "SHVC-3C"
 	rom (
 		crc AD26CC9E
@@ -2732,7 +2732,7 @@ game (
 )
 
 game (
-	comment "Chou Gojira - Super Godzilla (Japan)"
+	comment "Chou Gojira (Japan)"
 	serial "SHVC-7G"
 	rom (
 		crc 56D63328
@@ -2740,7 +2740,7 @@ game (
 )
 
 game (
-	comment "Chou Gojira - Super Godzilla (Japan) (Rev 1)"
+	comment "Chou Gojira (Japan) (Rev 1)"
 	serial "SHVC-7G"
 	rom (
 		crc 47EC317E
@@ -2748,7 +2748,7 @@ game (
 )
 
 game (
-	comment "Chou Mahou Tairiku Wozz (Japan)"
+	comment "Chou Mahou Tairiku WOZZ (Japan)"
 	serial "SHVC-AWOJ-JPN"
 	rom (
 		crc B3258F38
@@ -2756,7 +2756,7 @@ game (
 )
 
 game (
-	comment "Chou Makai Mura (Japan)"
+	comment "Chou Makaimura (Japan)"
 	serial "SHVC-CM"
 	rom (
 		crc CF8A8DBA
@@ -2772,7 +2772,7 @@ game (
 )
 
 game (
-	comment "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan)"
+	comment "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan) (En)"
 	serial "SHVC-M9"
 	rom (
 		crc A5DB02E9
@@ -2820,7 +2820,7 @@ game (
 )
 
 game (
-	comment "Circuit USA (Japan)"
+	comment "Circuit USA (Japan) (En)"
 	serial "SHVC-AKPJ-JPN"
 	rom (
 		crc 5A13366C
@@ -2932,7 +2932,7 @@ game (
 )
 
 game (
-	comment "Clockwerx (Japan)"
+	comment "ClockWerx (Japan)"
 	serial "SHVC-AQWJ-JPN"
 	rom (
 		crc A62B84FF
@@ -3060,7 +3060,7 @@ game (
 )
 
 game (
-	comment "Cool World (Spain)"
+	comment "Cool World (Europe)"
 	serial "SNSP-CD"
 	rom (
 		crc BC2E1304
@@ -3140,7 +3140,7 @@ game (
 )
 
 game (
-	comment "Cutthroat Island (Europe)"
+	comment "CutThroat Island (Europe)"
 	serial "SNSP-AC8P-EUR"
 	rom (
 		crc B5799F9C
@@ -3148,7 +3148,7 @@ game (
 )
 
 game (
-	comment "Cutthroat Island (USA)"
+	comment "CutThroat Island (USA)"
 	serial "SNS-AC8E-USA"
 	rom (
 		crc 19EA457B
@@ -3356,7 +3356,7 @@ game (
 )
 
 game (
-	comment "Darius Force (Japan)"
+	comment "Darius Force (Japan) (En)"
 	serial "SHVC-DH"
 	rom (
 		crc 3E828E49
@@ -3428,7 +3428,7 @@ game (
 )
 
 game (
-	comment "David Crane's Amazing Tennis (Japan)"
+	comment "Amazing Tennis (Japan) (En)"
 	serial "SHVC-ZT"
 	rom (
 		crc 72839930
@@ -3468,7 +3468,7 @@ game (
 )
 
 game (
-	comment "Deae Tonosama - Appare Ichiban (Japan)"
+	comment "Deae Tonosama Appare Ichiban (Japan)"
 	serial "SHVC-ADTJ-JPN"
 	rom (
 		crc 6E42D71B
@@ -3532,7 +3532,7 @@ game (
 )
 
 game (
-	comment "Demon's Blazon - Makai Mura Monshou Hen (Japan)"
+	comment "Demon's Blazon - Makaimura Monshou Hen (Japan)"
 	serial "SHVC-3Z"
 	rom (
 		crc 287F10CC
@@ -3732,7 +3732,7 @@ game (
 )
 
 game (
-	comment "Dimension-Force (Japan)"
+	comment "Dimension-Force (Japan) (En)"
 	serial "SHVC-DF"
 	rom (
 		crc 3D0D6FDC
@@ -3740,7 +3740,7 @@ game (
 )
 
 game (
-	comment "Dino City (USA)"
+	comment "DinoCity (USA)"
 	serial "SNS-DW"
 	rom (
 		crc 94152717
@@ -3788,7 +3788,7 @@ game (
 )
 
 game (
-	comment "Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan)"
+	comment "DoReMi Fantasy - Milon no Dokidoki Daibouken (Japan)"
 	serial "SHVC-AM4J-JPN"
 	rom (
 		crc 9F2C2633
@@ -3980,7 +3980,7 @@ game (
 )
 
 game (
-	comment "Doom (Japan)"
+	comment "Doom (Japan) (En)"
 	serial "SHVC-AD8J-JPN"
 	rom (
 		crc E5D722B2
@@ -3996,7 +3996,7 @@ game (
 )
 
 game (
-	comment "Doom Troopers - Mutant Chronicles (USA)"
+	comment "Doom Troopers (USA)"
 	serial "SNS-AM9E-USA"
 	rom (
 		crc 1889FEEF
@@ -4100,7 +4100,7 @@ game (
 )
 
 game (
-	comment "Dr. Mario (Japan) (NP)"
+	comment "Dr. Mario (Japan) (En) (NP)"
 	serial "SHVC-BDMJ-JPN"
 	rom (
 		crc 63CE5132
@@ -4332,7 +4332,7 @@ game (
 )
 
 game (
-	comment "Dragon's Magic (Japan)"
+	comment "Dragon's Magic (Japan) (En)"
 	serial "SHVC-DI"
 	rom (
 		crc 0CF53835
@@ -4476,7 +4476,7 @@ game (
 )
 
 game (
-	comment "Dynamaite the Las Vegas (Japan)"
+	comment "Dynamaite - The Las Vegas (Japan)"
 	serial "SHVC-VQ"
 	rom (
 		crc 1B644433
@@ -4604,7 +4604,7 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (USA) (GamesMaster Special Edition)"
+	comment "Earthworm Jim (Europe) (Beta)"
 	serial "SNS-AEJE-USA"
 	rom (
 		crc B1EAAD9E
@@ -4660,7 +4660,7 @@ game (
 )
 
 game (
-	comment "Elfaria - The Isle of the Blest (Japan)"
+	comment "Elfaria - A Fantastic Theater (Japan)"
 	serial "SHVC-H5"
 	rom (
 		crc 75993355
@@ -4828,7 +4828,7 @@ game (
 )
 
 game (
-	comment "Exhaust Heat (Japan)"
+	comment "Exhaust Heat (Japan) (En)"
 	serial "SHVC-EH"
 	rom (
 		crc 5CB9BC35
@@ -4884,7 +4884,7 @@ game (
 )
 
 game (
-	comment "F-15 Super Strike Eagle (Japan)"
+	comment "F-15 Super Strike Eagle (Japan) (En)"
 	serial "SHVC-EG"
 	rom (
 		crc F0202E26
@@ -4900,7 +4900,7 @@ game (
 )
 
 game (
-	comment "F-Zero (Japan)"
+	comment "F-Zero (Japan) (En)"
 	serial "SHVC-FZ"
 	rom (
 		crc 7681EFC1
@@ -4972,7 +4972,7 @@ game (
 )
 
 game (
-	comment "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv)"
+	comment "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FE)"
 	serial "SNSP-A8FP-EUR"
 	rom (
 		crc 5E4F4856
@@ -5031,7 +5031,7 @@ game (
 	comment "FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv)"
 	serial "SNS-A7IE-USA"
 	rom (
-		crc 38916376
+		crc 9CDBB2F8
 	)
 )
 
@@ -5111,7 +5111,7 @@ game (
 	comment "Fatal Fury (Europe)"
 	serial "SNSP-GN"
 	rom (
-		crc F93611C6
+		crc 589CE983
 	)
 )
 
@@ -5380,7 +5380,7 @@ game (
 )
 
 game (
-	comment "Final Knockout (Japan)"
+	comment "Final Knockout (Japan) (En)"
 	serial "SHVC-LL"
 	rom (
 		crc CC1DBC9B
@@ -5396,7 +5396,7 @@ game (
 )
 
 game (
-	comment "Finalset (Japan)"
+	comment "Finalset (Japan) (En)"
 	serial "SHVC-OF"
 	rom (
 		crc E06FAE58
@@ -5540,7 +5540,7 @@ game (
 )
 
 game (
-	comment "Flashback (Europe) (En,Fr)"
+	comment "Flashback (Europe) (En,Fr) (Beta)"
 	serial "SNSP-5F"
 	rom (
 		crc 5DAFAC3E
@@ -5628,7 +5628,7 @@ game (
 )
 
 game (
-	comment "Foreman for Real (Japan)"
+	comment "Foreman for Real (Japan) (En)"
 	serial "SHVC-AFEJ-JPN"
 	rom (
 		crc D7576775
@@ -5660,7 +5660,7 @@ game (
 )
 
 game (
-	comment "Frank Thomas Big Hurt Baseball (Japan)"
+	comment "Frank Thomas Big Hurt (Japan) (En)"
 	serial "SHVC-AFKJ-JPN"
 	rom (
 		crc 1A895B24
@@ -5692,7 +5692,7 @@ game (
 )
 
 game (
-	comment "From TV Animation Slam Dunk - Dream Team - Shuueisha Limited (Japan)"
+	comment "From TV Animation Slam Dunk - Shuueisha Limited (Japan)"
 	serial "SHVC-UX"
 	rom (
 		crc 99276EAA
@@ -5748,7 +5748,7 @@ game (
 )
 
 game (
-	comment "Full Power (Japan)"
+	comment "Full Power (Japan) (En)"
 	serial "SHVC-AFTJ-JPN"
 	rom (
 		crc 66C04587
@@ -5844,7 +5844,7 @@ game (
 )
 
 game (
-	comment "GP-1 (Japan)"
+	comment "GP-1 (Japan) (En)"
 	serial "SHVC-G7"
 	rom (
 		crc 1895299C
@@ -5868,7 +5868,7 @@ game (
 )
 
 game (
-	comment "GP-1 RS - Rapid Stream (Japan)"
+	comment "GP-1 RS - Rapid Stream (Japan) (En)"
 	serial "SHVC-AGRJ-JPN"
 	rom (
 		crc D4488768
@@ -5924,7 +5924,7 @@ game (
 )
 
 game (
-	comment "Galaxy Wars (Japan)"
+	comment "Galaxy Wars (Japan) (En)"
 	serial "SHVC-AGWJ-JPN"
 	rom (
 		crc F159CA70
@@ -5932,7 +5932,7 @@ game (
 )
 
 game (
-	comment "Gambler Jiko Chuushinha - Mahjong Kouisen (Japan)"
+	comment "Gambler Jiko Chuushinha - Mahjong Ooisen (Japan)"
 	serial "SHVC-GJ"
 	rom (
 		crc 8EBD1223
@@ -5996,7 +5996,7 @@ game (
 )
 
 game (
-	comment "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan)"
+	comment "Ganbare Goemon 2 - Kiteretsu Shougun McGuiness (Japan)"
 	serial "SHVC-KL"
 	rom (
 		crc CA4C0219
@@ -6124,7 +6124,7 @@ game (
 )
 
 game (
-	comment "Garry Kitchen's Super Battletank (Europe)"
+	comment "Super Battletank (Europe)"
 	serial "SNSP-SB"
 	rom (
 		crc FE7DE9CE
@@ -6172,7 +6172,7 @@ game (
 )
 
 game (
-	comment "Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan)"
+	comment "Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En)"
 	serial "SHVC-KV"
 	rom (
 		crc 3E88E883
@@ -6212,7 +6212,7 @@ game (
 )
 
 game (
-	comment "Genocide 2 (Japan)"
+	comment "Genocide 2 (Japan) (En)"
 	serial "SHVC-2I"
 	rom (
 		crc DE40AA12
@@ -6412,7 +6412,7 @@ game (
 )
 
 game (
-	comment "Gon (Japan)"
+	comment "Gon (Japan) (En)"
 	serial "SHVC-AHOJ-JPN"
 	rom (
 		crc 426881A3
@@ -6484,7 +6484,7 @@ game (
 )
 
 game (
-	comment "Gradius III (Japan)"
+	comment "Gradius III (Japan) (En)"
 	serial "SHVC-G3"
 	rom (
 		crc BCA9AB02
@@ -6580,7 +6580,7 @@ game (
 )
 
 game (
-	comment "GunForce (Japan)"
+	comment "GunForce (Japan) (En)"
 	serial "SHVC-GU"
 	rom (
 		crc EEAFD816
@@ -6692,7 +6692,7 @@ game (
 )
 
 game (
-	comment "Hammer Lock Wrestling (USA)"
+	comment "Hammerlock Wrestling (USA)"
 	serial "SNS-LJ-USA"
 	rom (
 		crc 3D2352EA
@@ -6812,7 +6812,7 @@ game (
 )
 
 game (
-	comment "Hat Trick Hero (Japan)"
+	comment "Hat Trick Hero (Japan) (En)"
 	serial "SHVC-HT"
 	rom (
 		crc FCE8A74D
@@ -6951,7 +6951,7 @@ game (
 	comment "Heiwa Pachinko World 3 (Japan)"
 	serial "SHVC-A3WJ-JPN"
 	rom (
-		crc 37FF1FDF
+		crc 32A6F518
 	)
 )
 
@@ -7340,7 +7340,7 @@ game (
 )
 
 game (
-	comment "Human Grand Prix (Japan)"
+	comment "Human Grand Prix (Japan) (En)"
 	serial "SHVC-HG"
 	rom (
 		crc 823019CA
@@ -7348,7 +7348,7 @@ game (
 )
 
 game (
-	comment "Human Grand Prix II (Japan)"
+	comment "Human Grand Prix II (Japan) (En)"
 	serial "SHVC-2G"
 	rom (
 		crc A5351DB4
@@ -7356,7 +7356,7 @@ game (
 )
 
 game (
-	comment "Human Grand Prix III - F1 Triple Battle (Japan)"
+	comment "Human Grand Prix III - F1 Triple Battle (Japan) (En)"
 	serial "SHVC-AGXJ-JPN"
 	rom (
 		crc 9F6D0228
@@ -7364,7 +7364,7 @@ game (
 )
 
 game (
-	comment "Human Grand Prix IV - F1 Dream Battle (Japan)"
+	comment "Human Grand Prix IV - F1 Dream Battle (Japan) (En)"
 	serial "SHVC-AG4J-JPN"
 	rom (
 		crc 47453477
@@ -7460,7 +7460,7 @@ game (
 )
 
 game (
-	comment "HyperZone (Japan)"
+	comment "HyperZone (Japan) (En)"
 	serial "SHVC-HZ"
 	rom (
 		crc 613C62B7
@@ -7508,7 +7508,7 @@ game (
 )
 
 game (
-	comment "Ihatov Monogatari (Japan)"
+	comment "Ihatovo Monogatari (Japan)"
 	serial "SHVC-H8-JPN"
 	rom (
 		crc C588CD17
@@ -7588,7 +7588,7 @@ game (
 )
 
 game (
-	comment "Inazuma Serve da! Super Beach Volley (Japan)"
+	comment "Inazuma Serve da! Super Beach Volley (Japan) (En)"
 	serial "SHVC-AV7J-JPN"
 	rom (
 		crc 879EDEE8
@@ -7628,7 +7628,7 @@ game (
 )
 
 game (
-	comment "Incredible Crash Dummies, The - Dr. Zabu o Sukuidase (Japan)"
+	comment "Crash Dummy - Dr. Zabu o Sukuidase (Japan) (En)"
 	serial "SHVC-C7"
 	rom (
 		crc C3BC16D5
@@ -7692,7 +7692,7 @@ game (
 )
 
 game (
-	comment "International Sensible Soccer - World Champions Limited Edition (Europe) (En,Fr,De,It) (Rev 1)"
+	comment "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It) (Rev 1)"
 	serial "SNSP-8S-UKV-1"
 	rom (
 		crc 6FF2D97E
@@ -7740,7 +7740,7 @@ game (
 )
 
 game (
-	comment "International Tennis Tour (Japan)"
+	comment "International Tennis Tour (Japan) (En)"
 	serial "SHVC-IT"
 	rom (
 		crc 45F2DAB9
@@ -7796,7 +7796,7 @@ game (
 )
 
 game (
-	comment "Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)"
+	comment "Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan)"
 	serial "SHVC-I2"
 	rom (
 		crc 95310032
@@ -7900,7 +7900,7 @@ game (
 )
 
 game (
-	comment "J.League Soccer Prime Goal (Japan)"
+	comment "J.League Soccer - Prime Goal (Japan)"
 	serial "SHVC-JE"
 	rom (
 		crc B81828EC
@@ -7908,7 +7908,7 @@ game (
 )
 
 game (
-	comment "J.League Soccer Prime Goal (Japan) (Rev 1)"
+	comment "J.League Soccer - Prime Goal (Japan) (Rev 1)"
 	serial "SHVC-JE"
 	rom (
 		crc 7538F598
@@ -7916,7 +7916,7 @@ game (
 )
 
 game (
-	comment "J.League Soccer Prime Goal 2 (Japan)"
+	comment "J.League Soccer - Prime Goal 2 (Japan)"
 	serial "SHVC-2H"
 	rom (
 		crc 569DB79D
@@ -7924,7 +7924,7 @@ game (
 )
 
 game (
-	comment "J.League Soccer Prime Goal 3 (Japan)"
+	comment "J.League Soccer - Prime Goal 3 (Japan)"
 	serial "SHVC-AJ3J-JPN"
 	rom (
 		crc 1499B746
@@ -8028,7 +8028,7 @@ game (
 )
 
 game (
-	comment "Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan)"
+	comment "Jaleco Rally - Big Run - The Supreme 4WD Challenge (Japan) (En)"
 	serial "SHVC-BR"
 	rom (
 		crc C157978C
@@ -8172,7 +8172,7 @@ game (
 )
 
 game (
-	comment "Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan)"
+	comment "Jikkyou Powerful Pro Yakyuu - Basic '98 (Japan)"
 	serial "SHVC-AJ5J-JPN"
 	rom (
 		crc E17C5C97
@@ -8300,7 +8300,7 @@ game (
 )
 
 game (
-	comment "Jimmy Connors Pro Tennis Tour (Japan)"
+	comment "Jimmy Connors Pro Tennis Tour (Japan) (En)"
 	serial "SHVC-JC"
 	rom (
 		crc A95BEF02
@@ -8492,7 +8492,7 @@ game (
 )
 
 game (
-	comment "Judge Dredd (Japan)"
+	comment "Judge Dredd (Japan) (En)"
 	serial "SHVC-AJDJ-JPN"
 	rom (
 		crc D7BC8A52
@@ -8532,7 +8532,7 @@ game (
 )
 
 game (
-	comment "Jungle Book, The (Japan)"
+	comment "Jungle Book, The (Japan) (En)"
 	serial "SHVC-7K"
 	rom (
 		crc CE14892D
@@ -8676,7 +8676,7 @@ game (
 )
 
 game (
-	comment "Justice League Task Force (Japan)"
+	comment "Justice League Task Force (Japan) (En)"
 	serial "SHVC-AJLJ-JPN"
 	rom (
 		crc BFA7F180
@@ -8748,7 +8748,7 @@ game (
 )
 
 game (
-	comment "Kachou Shima Kousaku (Japan)"
+	comment "Kachou Shima Kousaku - Super Business Adventure (Japan)"
 	serial "SHVC-UK"
 	rom (
 		crc B9DCA26D
@@ -8756,7 +8756,7 @@ game (
 )
 
 game (
-	comment "Kagakusha Harley no Haran Banjou (Japan)"
+	comment "Kagakusha Harley no Haran Banjou (Japan) (En)"
 	serial "SHVC-HV"
 	rom (
 		crc F34B6AA2
@@ -8764,7 +8764,7 @@ game (
 )
 
 game (
-	comment "Kaite Tsukutte Asoberu Dezaemon (Japan)"
+	comment "Dezaemon (Japan)"
 	serial "SHVC-66"
 	rom (
 		crc 052167CC
@@ -9060,7 +9060,7 @@ game (
 )
 
 game (
-	comment "Kidou Soukou Dion (Japan)"
+	comment "Kidou Soukou Dion (Japan) (En)"
 	serial "SHVC-DY-JPN"
 	rom (
 		crc 1E54F2C6
@@ -9068,7 +9068,7 @@ game (
 )
 
 game (
-	comment "Kikikai-kai - Nazo no Kuro Manteau (Japan)"
+	comment "Kiki Kaikai - Nazo no Kuro Manteau (Japan)"
 	serial "SHVC-KK"
 	rom (
 		crc 1C57F2C6
@@ -9076,7 +9076,7 @@ game (
 )
 
 game (
-	comment "Kikou Keisatsu Metal Jack (Japan)"
+	comment "Armored Police - Metal Jack (Japan)"
 	serial "SHVC-MJ-JPN"
 	rom (
 		crc 5577DE70
@@ -9180,7 +9180,7 @@ game (
 )
 
 game (
-	comment "King of Rally, The (Japan)"
+	comment "King of Rally, The - Paris-Moscow-Beijing (Japan)"
 	serial "SHVC-KP"
 	rom (
 		crc 4FA380A4
@@ -9220,7 +9220,7 @@ game (
 )
 
 game (
-	comment "King of the Monsters 2 - The Next Thing (Japan)"
+	comment "King of the Monsters 2 - Next Thing (Japan)"
 	serial "SHVC-KT"
 	rom (
 		crc B41AECCC
@@ -9340,7 +9340,7 @@ game (
 )
 
 game (
-	comment "Kishin Kourinden Oni (Japan)"
+	comment "Kijin Kourinden Oni (Japan)"
 	serial "SHVC-HD"
 	rom (
 		crc 81079934
@@ -9476,7 +9476,7 @@ game (
 )
 
 game (
-	comment "Krusty World (Japan)"
+	comment "Krusty World (Japan) (En)"
 	serial "SHVC-FH"
 	rom (
 		crc DEE4BCB3
@@ -9540,7 +9540,7 @@ game (
 )
 
 game (
-	comment "Kuusou Kagaku Sekai Gulliver Boy (Japan)"
+	comment "Kuusou Kagaku Sekai - Gulliver Boy (Japan)"
 	serial "SHVC-AKUJ-JPN"
 	rom (
 		crc F3F8A200
@@ -9748,7 +9748,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - A Link to the Past (Canada)"
+	comment "Legend of Zelda, The - A Link to the Past (Canada) (Fr)"
 	serial "SNS-P-ZL"
 	rom (
 		crc 47760381
@@ -9820,7 +9820,7 @@ game (
 )
 
 game (
-	comment "Lemmings (Japan)"
+	comment "Lemmings (Japan) (En)"
 	serial "SHVC-LE"
 	rom (
 		crc 13027564
@@ -10060,7 +10060,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes - Road Runner vs Wile E. Coyote (Japan)"
+	comment "Looney Tunes - Road Runner vs Wile E. Coyote (Japan) (En)"
 	serial "SHVC-DV"
 	rom (
 		crc 82399957
@@ -10252,7 +10252,7 @@ game (
 )
 
 game (
-	comment "MVP Baseball (Japan)"
+	comment "MVP Baseball (Japan) (En)"
 	serial "SHVC-VP"
 	rom (
 		crc C7DAA598
@@ -10340,7 +10340,7 @@ game (
 )
 
 game (
-	comment "Magic Johnson no Super Slam Dunk (Japan)"
+	comment "Magic Johnson no Super Slam Dunk (Japan) (En)"
 	serial "SHVC-D9"
 	rom (
 		crc 3276E449
@@ -10388,7 +10388,7 @@ game (
 )
 
 game (
-	comment "Magical Drop 2 (Japan) (Bunka Housou Special Version)"
+	comment "Magical Drop 2 - Bunka Housou Special Version (Japan)"
 	serial "SHVC-AOKJ-JPN"
 	rom (
 		crc 569A1CEC
@@ -10588,7 +10588,7 @@ game (
 )
 
 game (
-	comment "Major Title (Japan)"
+	comment "Major Title (Japan) (En)"
 	serial "SHVC-MT"
 	rom (
 		crc 0E98F71D
@@ -10788,7 +10788,7 @@ game (
 )
 
 game (
-	comment "Mask (Japan)"
+	comment "Mask (Japan) (En)"
 	serial "SHVC-AV9J-JPN"
 	rom (
 		crc E91BB876
@@ -10812,7 +10812,7 @@ game (
 )
 
 game (
-	comment "Masters - Harukanaru Augusta 2 (Japan)"
+	comment "Harukanaru Augusta 2 - Masters (Japan)"
 	serial "SHVC-O2"
 	rom (
 		crc D6227D35
@@ -10820,7 +10820,7 @@ game (
 )
 
 game (
-	comment "Masters New - Harukanaru Augusta 3 (Japan)"
+	comment "Harukanaru Augusta 3 - Masters New (Japan)"
 	serial "SHVC-AO3J-JPN"
 	rom (
 		crc E5612567
@@ -10828,7 +10828,7 @@ game (
 )
 
 game (
-	comment "Masters New - Harukanaru Augusta 3 (Japan) (Rev 1)"
+	comment "Harukanaru Augusta 3 - Masters New (Japan) (Rev 1)"
 	serial "SHVC-AO3J-JPN"
 	rom (
 		crc C1281F9B
@@ -10852,7 +10852,7 @@ game (
 )
 
 game (
-	comment "Matsukata Hiroki no Super Trawling (Japan)"
+	comment "Matsukata Hiroki no Super Trolling (Japan)"
 	serial "SHVC-AMVJ-JPN"
 	rom (
 		crc 2D0F0F92
@@ -11044,7 +11044,7 @@ game (
 )
 
 game (
-	comment "Mega-Lo-Mania (Europe) (En,Fr,De)"
+	comment "Mega-lo-Mania (Europe) (En,Fr,De)"
 	serial "SNSP-MZ-NOE"
 	rom (
 		crc E8042EDF
@@ -11132,7 +11132,7 @@ game (
 )
 
 game (
-	comment "Michael Andretti's IndyCar Challenge (Japan)"
+	comment "Michael Andretti's Indy Car Challenge (Japan)"
 	serial "SHVC-AMAJ-JPN"
 	rom (
 		crc 1128572B
@@ -11140,7 +11140,7 @@ game (
 )
 
 game (
-	comment "Michael Andretti's IndyCar Challenge (USA)"
+	comment "Michael Andretti's Indy Car Challenge (USA)"
 	serial "SNS-AMAE-USA"
 	rom (
 		crc 0FDB210E
@@ -11300,7 +11300,7 @@ game (
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (Japan)"
+	comment "Mighty Morphin Power Rangers (Japan) (En)"
 	serial "SHVC-PM-JPN"
 	rom (
 		crc 812329C2
@@ -11380,7 +11380,7 @@ game (
 )
 
 game (
-	comment "Miracle Girls (Japan)"
+	comment "Miracle Girls - Tomomi to Mikage no Fushigi Sekai no Daibouken (Japan)"
 	serial "SHVC-QP"
 	rom (
 		crc AB82EBBE
@@ -11487,7 +11487,7 @@ game (
 	comment "Mortal Kombat (Europe) (Rev 1)"
 	serial "SNSP-KX"
 	rom (
-		crc 047B3D88
+		crc 1ED2D8D6
 	)
 )
 
@@ -11500,7 +11500,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	serial "SHVC-KX"
 	rom (
 		crc 0BD8EC55
@@ -11556,7 +11556,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
+	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)"
 	serial "SHVC-28"
 	rom (
 		crc FB2D267C
@@ -11604,7 +11604,7 @@ game (
 )
 
 game (
-	comment "Mr. Do! (Japan)"
+	comment "Mr. Do! (Japan) (En)"
 	serial "SHVC-AUNJ-JPN"
 	rom (
 		crc 3847CF64
@@ -11628,7 +11628,7 @@ game (
 )
 
 game (
-	comment "Mr. Nutz (Japan)"
+	comment "Mr. Nutz (Japan) (En)"
 	serial "SHVC-ANUJ-JPN"
 	rom (
 		crc 3DADD536
@@ -11740,7 +11740,7 @@ game (
 )
 
 game (
-	comment "NBA All-Star Challenge (Japan)"
+	comment "NBA All-Star Challenge (Japan) (En)"
 	serial "SHVC-NB"
 	rom (
 		crc E5014292
@@ -11796,7 +11796,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (Japan)"
+	comment "NBA Jam (Japan) (En)"
 	serial "SHVC-8N"
 	rom (
 		crc 118B162E
@@ -11828,7 +11828,7 @@ game (
 )
 
 game (
-	comment "NBA Jam - Tournament Edition (Japan)"
+	comment "NBA Jam - Tournament Edition (Japan) (En)"
 	serial "SHVC-AJTJ-JPN"
 	rom (
 		crc 3C169224
@@ -11924,7 +11924,7 @@ game (
 )
 
 game (
-	comment "NBA Pro Basketball - Bulls vs Blazers (Japan)"
+	comment "NBA Pro Basketball - Bulls vs Blazers and the NBA Playoffs (Japan)"
 	serial "SHVC-BU"
 	rom (
 		crc C5148840
@@ -11988,7 +11988,7 @@ game (
 )
 
 game (
-	comment "NFL Football (Japan)"
+	comment "NFL Football (Japan) (En)"
 	serial "SHVC-NF"
 	rom (
 		crc A4B1DD93
@@ -12004,7 +12004,7 @@ game (
 )
 
 game (
-	comment "NFL Pro Football '94 (Japan)"
+	comment "John Madden NFL Pro Football '94 (Japan)"
 	serial "SHVC-9M"
 	rom (
 		crc 1E4B3858
@@ -12012,7 +12012,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club '95 (Japan)"
+	comment "NFL Quarterback Club '95 (Japan) (En)"
 	serial "SHVC-Q9"
 	rom (
 		crc 1C036B4F
@@ -12044,7 +12044,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club 96 (Japan)"
+	comment "NFL Quarterback Club 96 (Japan) (En)"
 	serial "SHVC-AQBJ-JPN"
 	rom (
 		crc 3A4C0DE6
@@ -12212,7 +12212,7 @@ game (
 )
 
 game (
-	comment "Naki no Ryuu - Mahjong Hishouden (Japan)"
+	comment "Mahjong Hishouden - Naki no Ryuu (Japan)"
 	serial "SHVC-RY"
 	rom (
 		crc CF2C0800
@@ -12268,7 +12268,7 @@ game (
 )
 
 game (
-	comment "Nekketsu Tairiku Burning Heroes (Japan)"
+	comment "Nekketsu Tairiku - Burning Heroes (Japan)"
 	serial "SHVC-AEBJ-JPN"
 	rom (
 		crc DA105A27
@@ -12404,7 +12404,7 @@ game (
 )
 
 game (
-	comment "Nigel Mansell IndyCar (Japan)"
+	comment "Nigel Mansell IndyCar (Japan) (En)"
 	serial "SHVC-ANMJ-JPN"
 	rom (
 		crc 546062C7
@@ -12420,7 +12420,7 @@ game (
 )
 
 game (
-	comment "Nigel Mansell's World Championship Racing (Europe) (Gremlin Graphics)"
+	comment "Nigel Mansell's World Championship Racing (Germany) (En)"
 	serial "SNSP-M8"
 	rom (
 		crc 83EB5296
@@ -12487,7 +12487,7 @@ game (
 	comment "Nintama Rantarou (Japan)"
 	serial "SHVC-ANTJ-JPN"
 	rom (
-		crc 359F02AF
+		crc 0D8837C1
 	)
 )
 
@@ -12876,7 +12876,7 @@ game (
 )
 
 game (
-	comment "Out of this World (USA)"
+	comment "Out of This World (USA)"
 	serial "SNS-TW-USA"
 	rom (
 		crc 5F40A869
@@ -12980,7 +12980,7 @@ game (
 )
 
 game (
-	comment "PGA Tour Golf (Japan)"
+	comment "PGA Tour Golf (Japan) (En)"
 	serial "SHVC-PG"
 	rom (
 		crc 8A2D377E
@@ -13412,7 +13412,7 @@ game (
 )
 
 game (
-	comment "Phalanx - The Enforce Fighter A-144 (Japan)"
+	comment "Phalanx - The Enforce Fighter A-144 (Japan) (En)"
 	serial "SHVC-PH-JPN"
 	rom (
 		crc 561AEB8F
@@ -13532,7 +13532,7 @@ game (
 )
 
 game (
-	comment "Pierre le Chef Is... Out to Lunch (Europe)"
+	comment "Pierre le Chef is... Out to Lunch (Europe)"
 	serial "SNSP-P8-UKV"
 	rom (
 		crc A9764A20
@@ -13628,7 +13628,7 @@ game (
 )
 
 game (
-	comment "Pink Panther (Japan)"
+	comment "Pink Panther, The (Japan) (En)"
 	serial "SHVC-YW"
 	rom (
 		crc 0D1B3812
@@ -13700,7 +13700,7 @@ game (
 )
 
 game (
-	comment "Pitfall - Maya no Daibouken (Japan)"
+	comment "Pitfall - Maya no Daibouken (Japan) (En)"
 	serial "SHVC-APAJ-JPN"
 	rom (
 		crc A81F9778
@@ -13836,7 +13836,7 @@ game (
 )
 
 game (
-	comment "Pop'n TwinBee - Rainbow Bell Adventures (Germany)"
+	comment "Pop'n TwinBee - Rainbow Bell Adventures (Germany) (En)"
 	serial "SNSP-T7"
 	rom (
 		crc D56D74B3
@@ -13924,7 +13924,7 @@ game (
 )
 
 game (
-	comment "Power Athlete (Japan)"
+	comment "Power Athlete (Japan) (En)"
 	serial "SHVC-P3"
 	rom (
 		crc E9066ACB
@@ -14012,10 +14012,18 @@ game (
 )
 
 game (
-	comment "PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA)"
+	comment "PowerFest 94 (USA) (Competition Cart, 10k points)"
 	serial "SNS-JR"
 	rom (
-		crc C7B5E8C6
+		crc E3D76E79
+	)
+)
+
+game (
+	comment "PowerFest 94 (USA) (Competition Cart, 1m points)"
+	serial "SNS-JR"
+	rom (
+		crc BFC5B2FB
 	)
 )
 
@@ -14132,7 +14140,7 @@ game (
 )
 
 game (
-	comment "Pro Football (Japan)"
+	comment "Pro Football (Japan) (En)"
 	serial "SHVC-FB"
 	rom (
 		crc D07CFDCB
@@ -14228,7 +14236,7 @@ game (
 )
 
 game (
-	comment "Pro Yakyuu Nettou Puzzle Stadium (Japan)"
+	comment "Pro Yakyuu Nettou - Puzzle Stadium (Japan)"
 	serial "SHVC-A97J-JPN"
 	rom (
 		crc 81C8EB4F
@@ -14268,7 +14276,7 @@ game (
 )
 
 game (
-	comment "Putty Moon (Japan)"
+	comment "Putty Moon (Japan) (En)"
 	serial "SHVC-PU-JPN"
 	rom (
 		crc ADFC4165
@@ -14316,7 +14324,7 @@ game (
 )
 
 game (
-	comment "Q-bert 3 (Japan)"
+	comment "Q-bert 3 (Japan) (En)"
 	serial "SHVC-Q3-JPN"
 	rom (
 		crc EA3BC44E
@@ -14348,7 +14356,7 @@ game (
 )
 
 game (
-	comment "R-Type III - The Third Lightning (Japan)"
+	comment "R-Type III - The Third Lightning (Japan) (En)"
 	serial "SHVC-ER-JPN"
 	rom (
 		crc 1E1FF9FE
@@ -14356,7 +14364,7 @@ game (
 )
 
 game (
-	comment "R.P.M. Racing (Japan)"
+	comment "R.P.M. Racing (Japan) (En)"
 	serial "SHVC-V3-JPN"
 	rom (
 		crc 35FCD374
@@ -14412,7 +14420,7 @@ game (
 )
 
 game (
-	comment "Raiden Densetsu (Japan)"
+	comment "Raiden Densetsu (Japan) (En)"
 	serial "SHVC-RD"
 	rom (
 		crc C352D27F
@@ -14428,7 +14436,7 @@ game (
 )
 
 game (
-	comment "Ramos Ruy no World Wide Soccer (Japan)"
+	comment "Ramos Ruy no World Wide Soccer (Japan) (En)"
 	serial "SHVC-WO"
 	rom (
 		crc 906D505E
@@ -14508,7 +14516,7 @@ game (
 )
 
 game (
-	comment "Rap Jam - Volume One (USA) (En,Fr,Es)"
+	comment "RapJam - Volume One (USA) (En,Fr,Es)"
 	serial "SNS-ARVE-USA"
 	rom (
 		crc ADF4FFCE
@@ -14532,7 +14540,7 @@ game (
 )
 
 game (
-	comment "Red October (Japan)"
+	comment "Red October (Japan) (En)"
 	serial "SHVC-RO"
 	rom (
 		crc 76065E37
@@ -14628,7 +14636,7 @@ game (
 )
 
 game (
-	comment "Return of Double Dragon (Japan)"
+	comment "Return of Double Dragon (Japan) (En)"
 	serial "SHVC-WD"
 	rom (
 		crc 10470B58
@@ -14644,7 +14652,7 @@ game (
 )
 
 game (
-	comment "Revolution X (Germany)"
+	comment "Revolution X (Germany) (En)"
 	serial "SNSP-AXRP-EUR"
 	rom (
 		crc 59D0F587
@@ -14652,7 +14660,7 @@ game (
 )
 
 game (
-	comment "Revolution X (Japan)"
+	comment "Revolution X (Japan) (En)"
 	serial "SHVC-AXRJ-JPN"
 	rom (
 		crc B5939FDC
@@ -14676,7 +14684,7 @@ game (
 )
 
 game (
-	comment "Riddick Bowe Boxing (Japan)"
+	comment "Riddick Bowe Boxing (Japan) (En)"
 	serial "SHVC-XG-JPN"
 	rom (
 		crc A9A1836A
@@ -14724,7 +14732,7 @@ game (
 )
 
 game (
-	comment "Rise of the Robots (Japan)"
+	comment "Rise of the Robots (Japan) (En)"
 	serial "SHVC-AROJ-JPN"
 	rom (
 		crc 09F827A5
@@ -14796,7 +14804,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	serial "SNSP-VR"
 	rom (
 		crc BEEBEF08
@@ -14804,7 +14812,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	serial "SNS-VR"
 	rom (
 		crc F5AB5D91
@@ -14820,7 +14828,7 @@ game (
 )
 
 game (
-	comment "Rock n' Roll Racing (Europe)"
+	comment "Rock 'N' Roll Racing (Europe)"
 	serial "SNSP-RN"
 	rom (
 		crc B02DAF39
@@ -14828,7 +14836,7 @@ game (
 )
 
 game (
-	comment "Rock n' Roll Racing (Japan)"
+	comment "Rock N' Roll Racing (Japan)"
 	serial "SHVC-RN-JPN"
 	rom (
 		crc A206384C
@@ -14836,7 +14844,7 @@ game (
 )
 
 game (
-	comment "Rock n' Roll Racing (USA)"
+	comment "Rock N' Roll Racing (USA)"
 	serial "SNS-RN-USA"
 	rom (
 		crc 7D06F473
@@ -15012,7 +15020,7 @@ game (
 )
 
 game (
-	comment "Royal Conquest (Japan)"
+	comment "Royal Conquest (Japan) (En)"
 	serial "SHVC-RC"
 	rom (
 		crc F60E933E
@@ -15076,7 +15084,7 @@ game (
 )
 
 game (
-	comment "Ryuuki Heidan Danzarb (Japan)"
+	comment "Ryuukiheidan Dunzarv (Japan)"
 	serial "SHVC-DA"
 	rom (
 		crc 454D7DCD
@@ -15207,7 +15215,7 @@ game (
 	comment "SD The Great Battle - Aratanaru Chousen (Japan)"
 	serial "SHVC-BS"
 	rom (
-		crc 38726EC1
+		crc AAE842D2
 	)
 )
 
@@ -15364,7 +15372,7 @@ game (
 )
 
 game (
-	comment "Sankyo Fever! Fever! (Japan)"
+	comment "Sankyo Fever! Fever! - Pachinko Jikki Simulation Game (Japan)"
 	serial "SHVC-AFFJ-JPN"
 	rom (
 		crc 04E9D205
@@ -15420,7 +15428,7 @@ game (
 )
 
 game (
-	comment "SeaQuest DSV (Europe)"
+	comment "seaQuest DSV (Europe)"
 	serial "SNSP-ASQP-EUR"
 	rom (
 		crc DCA75893
@@ -15428,7 +15436,7 @@ game (
 )
 
 game (
-	comment "SeaQuest DSV (USA)"
+	comment "seaQuest DSV (USA)"
 	serial "SNS-ASQE-USA"
 	rom (
 		crc A6579E03
@@ -15460,7 +15468,7 @@ game (
 )
 
 game (
-	comment "Secret of Evermore (Spain)"
+	comment "Secret of Evermore (Spain) (Rev 1)"
 	serial "SNSP-AEOP-EUR"
 	rom (
 		crc 7BFE934F
@@ -15524,7 +15532,7 @@ game (
 )
 
 game (
-	comment "Seifuku Densetsu Pretty Fighter (Japan)"
+	comment "Seifuku Densetsu - Pretty Fighter (Japan)"
 	serial "SHVC-ASFJ-JPN"
 	rom (
 		crc A638BEF1
@@ -15700,7 +15708,7 @@ game (
 )
 
 game (
-	comment "Shichuusuimeigaku Nyuumon - Shin Tougenkyou (Japan)"
+	comment "Shichuusuimei-gaku Nyuumon - Shin Tougenkyou (Japan)"
 	serial "SHVC-AP8J-JPN"
 	rom (
 		crc 52DF0E2F
@@ -15740,7 +15748,7 @@ game (
 )
 
 game (
-	comment "Shiki Eiyuu Den - Jinryuu Densetsu (Japan)"
+	comment "Shiki Eiyuuden (Japan)"
 	serial "SHVC-AAUJ-JPN"
 	rom (
 		crc 4C2BEA69
@@ -15940,7 +15948,7 @@ game (
 )
 
 game (
-	comment "Shinseiki GPX Cyber Formula (Japan)"
+	comment "Shinseiki GPX - Cyber Formula (Japan)"
 	serial "SHVC-CF"
 	rom (
 		crc 403AC1C6
@@ -16012,7 +16020,7 @@ game (
 )
 
 game (
-	comment "Shougi Club (Japan)"
+	comment "Honkakuha Taikyoku Shougi - Shougi Club (Japan)"
 	serial "SHVC-A9HJ-JPN"
 	rom (
 		crc F9C79B45
@@ -16092,7 +16100,7 @@ game (
 )
 
 game (
-	comment "Side Pocket (Japan)"
+	comment "Side Pocket (Japan) (En)"
 	serial "SHVC-4P"
 	rom (
 		crc 0E074268
@@ -16204,7 +16212,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart no Fushigi na Yume no Daibouken (Japan)"
+	comment "Simpsons, The - Bart no Fushigi na Yume no Daibouken (Japan) (En)"
 	serial "SHVC-BN"
 	rom (
 		crc 6598790A
@@ -16252,7 +16260,7 @@ game (
 )
 
 game (
-	comment "Sky Mission (Japan)"
+	comment "Sky Mission (Japan) (En)"
 	serial "SHVC-SI"
 	rom (
 		crc 0866A769
@@ -16300,7 +16308,7 @@ game (
 )
 
 game (
-	comment "Smash T.V. (Japan)"
+	comment "Smash T.V. (Japan) (En)"
 	serial "SHVC-TV"
 	rom (
 		crc 3147AD34
@@ -16564,7 +16572,7 @@ game (
 )
 
 game (
-	comment "Space Ace (Japan)"
+	comment "Space Ace (Japan) (En)"
 	serial "SHVC-IS-JPN"
 	rom (
 		crc 62904E35
@@ -16604,7 +16612,7 @@ game (
 )
 
 game (
-	comment "Space Invaders (Europe)"
+	comment "Space Invaders (Australia)"
 	serial "SNSP-IC"
 	rom (
 		crc 6B62625A
@@ -16668,7 +16676,7 @@ game (
 )
 
 game (
-	comment "Sparkster (Japan)"
+	comment "Sparkster (Japan) (En)"
 	serial "SHVC-ASSJ-JPN"
 	rom (
 		crc F5A2A976
@@ -16695,12 +16703,12 @@ game (
 	comment "Spectre (USA)"
 	serial "SNS-7Q"
 	rom (
-		crc 25DC31B1
+		crc ADE6E0D8
 	)
 )
 
 game (
-	comment "Speed Racer in My Most Dangerous Adventures (USA)"
+	comment "Speed Racer (USA)"
 	serial "SNS-9S"
 	rom (
 		crc AA44287C
@@ -16735,7 +16743,7 @@ game (
 	comment "Spider-Man - Venom - Maximum Carnage (Europe)"
 	serial "SNSP-AMCP-EUR"
 	rom (
-		crc D2B0D5FE
+		crc 4C68C5CF
 	)
 )
 
@@ -16772,7 +16780,7 @@ game (
 )
 
 game (
-	comment "Spindizzy Worlds (Japan)"
+	comment "Spindizzy Worlds (Japan) (En)"
 	serial "SHVC-SX"
 	rom (
 		crc 8F5B2404
@@ -16796,7 +16804,7 @@ game (
 )
 
 game (
-	comment "Sporting News Baseball, The (USA)"
+	comment "Sporting News, The - Baseball (USA)"
 	serial "SNS-AWBE-USA"
 	rom (
 		crc 315AF696
@@ -16804,7 +16812,7 @@ game (
 )
 
 game (
-	comment "Sports Illustrated Championship Football & Baseball (USA)"
+	comment "Sports Illustrated - Championship Football & Baseball (USA)"
 	serial "SNS-LU"
 	rom (
 		crc D4874966
@@ -16876,7 +16884,7 @@ game (
 )
 
 game (
-	comment "Star Fox - Super Weekend (USA)"
+	comment "Super Star Fox Weekend (USA) (Competition Cart, Nintendo Power mail-order)"
 	serial "SNS-FO"
 	rom (
 		crc CD1F04B8
@@ -16980,7 +16988,7 @@ game (
 )
 
 game (
-	comment "Starwing - Competition (Europe)"
+	comment "Starwing - Competition (Europe) (Competition Cart)"
 	serial "SNSP-FO"
 	rom (
 		crc 17C8FE56
@@ -16988,7 +16996,7 @@ game (
 )
 
 game (
-	comment "Starwing - Competition (Germany)"
+	comment "Starwing - Competition (Germany) (Competition Cart)"
 	serial "SNSP-FO"
 	rom (
 		crc B25F606A
@@ -17148,7 +17156,7 @@ game (
 )
 
 game (
-	comment "Street Racer (Japan)"
+	comment "Street Racer (Japan) (En)"
 	serial "SHVC-ASRJ-JPN"
 	rom (
 		crc D1C1F675
@@ -17180,7 +17188,7 @@ game (
 )
 
 game (
-	comment "Strike Gunner S.T.G (Japan)"
+	comment "Strike Gunner S.T.G (Japan) (En)"
 	serial "SHVC-SG"
 	rom (
 		crc AE2B4567
@@ -17340,7 +17348,7 @@ game (
 )
 
 game (
-	comment "Super Air Diver 2 (Japan)"
+	comment "Super Air Diver 2 (Japan) (En)"
 	serial "SHVC-AADJ-JPN"
 	rom (
 		crc A6AD6B0F
@@ -17564,7 +17572,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man (Japan)"
+	comment "Super Bomberman (Japan) (En)"
 	serial "SHVC-H6"
 	rom (
 		crc 7989891A
@@ -17572,7 +17580,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man - Panic Bomber W (Japan)"
+	comment "Super Bomberman - Panic Bomber World (Japan)"
 	serial "SHVC-APBJ-JPN"
 	rom (
 		crc FC633ECB
@@ -17580,7 +17588,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 2 (Japan)"
+	comment "Super Bomberman 2 (Japan) (En)"
 	serial "SHVC-M4"
 	rom (
 		crc FB259F4F
@@ -17588,7 +17596,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 2 (Japan) (Caravan You Taikenban)"
+	comment "Super Bomberman 2 - Caravan You Taikenban (Japan)"
 	serial "SHVC-M4"
 	rom (
 		crc 2AA1DDF8
@@ -17596,7 +17604,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 3 (Japan)"
+	comment "Super Bomberman 3 (Japan)"
 	serial "SHVC-AS6J-JPN"
 	rom (
 		crc 9ECB0FE6
@@ -17604,7 +17612,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 4 (Japan)"
+	comment "Super Bomberman 4 (Japan)"
 	serial "SHVC-A4BJ-JPN"
 	rom (
 		crc 3BBAEB19
@@ -17612,7 +17620,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 5 (Japan)"
+	comment "Super Bomberman 5 (Japan)"
 	serial "SHVC-A5SJ-JPN"
 	rom (
 		crc 06B1F0F5
@@ -17620,7 +17628,7 @@ game (
 )
 
 game (
-	comment "Super Bomber Man 5 (Japan) (Caravan Event Ban)"
+	comment "Super Bomberman 5 - Caravan Event Ban (Japan)"
 	serial "SHVC-A5SJ-JPN"
 	rom (
 		crc 4590AE9D
@@ -17668,10 +17676,10 @@ game (
 )
 
 game (
-	comment "Super Bombliss (Japan)"
+	comment "Super Bombliss (Japan) (En)"
 	serial "SHVC-ABOJ-JPN"
 	rom (
-		crc 84F95868
+		crc 1D123BE6
 	)
 )
 
@@ -17684,7 +17692,7 @@ game (
 )
 
 game (
-	comment "Super Bowling (Japan)"
+	comment "Super Bowling (Japan) (En)"
 	serial "SHVC-BW"
 	rom (
 		crc 383BC5D5
@@ -17828,7 +17836,7 @@ game (
 )
 
 game (
-	comment "Super Cup Soccer (Japan)"
+	comment "Super Cup Soccer (Japan) (En)"
 	serial "SHVC-SU"
 	rom (
 		crc 14A03974
@@ -17844,7 +17852,7 @@ game (
 )
 
 game (
-	comment "Super Daikoukai Jidai (Japan) (Rev 1) (NP)"
+	comment "Super Daikoukai Jidai (Japan) (Rev 1)"
 	serial "SHVC-QK"
 	rom (
 		crc 3A78FCD2
@@ -17956,7 +17964,7 @@ game (
 )
 
 game (
-	comment "Super Drift Out - World Rally Championships (Japan)"
+	comment "Super Drift Out (Japan) (En)"
 	serial "SHVC-ADOJ-JPN"
 	rom (
 		crc EC8C1CCA
@@ -17964,7 +17972,7 @@ game (
 )
 
 game (
-	comment "Super Dunk Shot (Japan)"
+	comment "Super Dunk Shot (Japan) (En)"
 	serial "SHVC-DU-JPN"
 	rom (
 		crc 4674E469
@@ -17972,7 +17980,7 @@ game (
 )
 
 game (
-	comment "Super Dunk Star (Japan)"
+	comment "Super Dunk Star (Japan) (En)"
 	serial "SHVC-DC"
 	rom (
 		crc 2D391540
@@ -17980,7 +17988,7 @@ game (
 )
 
 game (
-	comment "Super E.D.F. (Japan)"
+	comment "Super E.D.F. (Japan) (En)"
 	serial "SHVC-ED"
 	rom (
 		crc 3E631524
@@ -18196,7 +18204,7 @@ game (
 )
 
 game (
-	comment "Super Fishing Big Fight (Japan)"
+	comment "Super Fishing Bigfight (Japan)"
 	serial "SHVC-ANFJ-JPN"
 	rom (
 		crc 1AC48969
@@ -18228,7 +18236,7 @@ game (
 )
 
 game (
-	comment "Super Formation Soccer 95 della Serie A (Japan)"
+	comment "Super Formation Soccer 95 - della Serie A (Japan)"
 	serial "SHVC-A95J-JPN"
 	rom (
 		crc 798352BF
@@ -18236,7 +18244,7 @@ game (
 )
 
 game (
-	comment "Super Formation Soccer 95 della Serie A (Japan) (UCC Xaqua Version)"
+	comment "Super Formation Soccer 95 - della Serie A - UCC Xaqua Version (Japan)"
 	serial "SHVC-A95J-JPN"
 	rom (
 		crc 1CF83BC2
@@ -18268,7 +18276,7 @@ game (
 )
 
 game (
-	comment "Super Game Boy (Japan)"
+	comment "Super Game Boy (Japan, USA) (En)"
 	serial "SHVC-SGB-JPN"
 	rom (
 		crc 2E35EDBB
@@ -18300,7 +18308,7 @@ game (
 )
 
 game (
-	comment "Super Ghouls'n Ghosts (Europe)"
+	comment "Super Ghouls 'N Ghosts (Europe)"
 	serial "SNSP-CM"
 	rom (
 		crc A00BC05E
@@ -18308,7 +18316,7 @@ game (
 )
 
 game (
-	comment "Super Ghouls'n Ghosts (USA)"
+	comment "Super Ghouls 'N Ghosts (USA)"
 	serial "SNS-CM"
 	rom (
 		crc 6AABA901
@@ -18396,7 +18404,7 @@ game (
 )
 
 game (
-	comment "Super High Impact (Japan)"
+	comment "Super High Impact (Japan) (En)"
 	serial "SHVC-HX"
 	rom (
 		crc DA8A5AD5
@@ -18412,7 +18420,7 @@ game (
 )
 
 game (
-	comment "Super Hockey '94 (Japan)"
+	comment "Super Hockey '94 (Japan) (En)"
 	serial "SHVC-OX"
 	rom (
 		crc A3890D4F
@@ -18492,7 +18500,7 @@ game (
 )
 
 game (
-	comment "Super James Pond II (Europe)"
+	comment "Super James Pond (Europe)"
 	serial "SNSP-J5"
 	rom (
 		crc 8EDB44AD
@@ -18588,7 +18596,7 @@ game (
 )
 
 game (
-	comment "Super Kick Boxing - Best of the Best (Japan)"
+	comment "Super Kick Boxing - Best of the Best (Japan) (En)"
 	serial "SHVC-BE"
 	rom (
 		crc 4EE4DE37
@@ -18660,7 +18668,7 @@ game (
 )
 
 game (
-	comment "Super Linearball (Japan)"
+	comment "Super Linearball (Japan) (En)"
 	serial "SHVC-SJ"
 	rom (
 		crc 689AC35C
@@ -18668,7 +18676,7 @@ game (
 )
 
 game (
-	comment "Super Loopz (Japan)"
+	comment "Super Loopz (Japan) (En)"
 	serial "SHVC-2E"
 	rom (
 		crc 49601821
@@ -18828,7 +18836,7 @@ game (
 )
 
 game (
-	comment "Super Mario Collection (Japan) (Rev 1)"
+	comment "Super Mario Collection (Japan) (Rev 1) (NP)"
 	serial "SHVC-4M"
 	rom (
 		crc 91B28D56
@@ -18892,7 +18900,7 @@ game (
 )
 
 game (
-	comment "Super Mario World (Japan) (En) (Arcade) [b]"
+	comment "Super Mario World (Japan) (En) (Arcade)"
 	serial "SHVC-MW"
 	rom (
 		crc C46766F2
@@ -19132,7 +19140,7 @@ game (
 )
 
 game (
-	comment "Super Off Road (Japan)"
+	comment "Super Off Road (Japan) (En)"
 	serial "SHVC-FR"
 	rom (
 		crc 3104478A
@@ -19164,7 +19172,7 @@ game (
 )
 
 game (
-	comment "Super Okumanchouja Game (Japan) (Rev 1) (NP)"
+	comment "Super Okumanchouja Game (Japan) (Rev 1)"
 	serial "SHVC-ABGJ-JPN"
 	rom (
 		crc 12D589F8
@@ -19220,7 +19228,7 @@ game (
 )
 
 game (
-	comment "Super Pinball - Behind the Mask (Japan)"
+	comment "Super Pinball - Behind the Mask (Japan) (En)"
 	serial "SHVC-3P-JPN"
 	rom (
 		crc 4F92F83C
@@ -19388,7 +19396,7 @@ game (
 )
 
 game (
-	comment "Super R-Type (Japan)"
+	comment "Super R-Type (Japan) (En)"
 	serial "SHVC-SR"
 	rom (
 		crc 4E872C8B
@@ -19423,7 +19431,7 @@ game (
 	comment "Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan)"
 	serial "SHVC-A5PJ-JPN"
 	rom (
-		crc F9DF0081
+		crc 8ACB1C4A
 	)
 )
 
@@ -19436,7 +19444,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan)"
+	comment "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)"
 	serial "SHVC-ALXJ-JPN"
 	rom (
 		crc EBADC924
@@ -19468,7 +19476,7 @@ game (
 )
 
 game (
-	comment "Super SWIV (Japan)"
+	comment "Super SWIV (Japan) (En)"
 	serial "SHVC-SQ"
 	rom (
 		crc 70F28A6D
@@ -19516,7 +19524,7 @@ game (
 )
 
 game (
-	comment "Super Shanghai - Dragon's Eye (Japan) (Activision)"
+	comment "Super Shanghai - Dragon's Eye (Japan)"
 	serial "SHVC-DE"
 	rom (
 		crc C9B16CB2
@@ -19572,7 +19580,7 @@ game (
 )
 
 game (
-	comment "Super Slap Shot (Japan)"
+	comment "Super Slap Shot (Japan) (En)"
 	serial "HVC-ZX"
 	rom (
 		crc 403C692D
@@ -19860,7 +19868,7 @@ game (
 )
 
 game (
-	comment "Super Tennis - World Circuit (Japan)"
+	comment "Super Tennis - World Circuit (Japan) (En)"
 	serial "SHVC-ST"
 	rom (
 		crc 57BF1D3E
@@ -19868,7 +19876,7 @@ game (
 )
 
 game (
-	comment "Super Tetris 2 + Bombliss (Japan)"
+	comment "Super Tetris 2 + Bombliss (Japan) (En)"
 	serial "SHVC-T2"
 	rom (
 		crc 8AE5E443
@@ -19876,7 +19884,7 @@ game (
 )
 
 game (
-	comment "Super Tetris 2 + Bombliss (Japan) (Genteiban)"
+	comment "Super Tetris 2 + Bombliss Gentei Ban (Japan) (En)"
 	serial "SHVC-T2"
 	rom (
 		crc C709B922
@@ -19884,7 +19892,7 @@ game (
 )
 
 game (
-	comment "Super Tetris 2 + Bombliss (Japan) (Rev 1)"
+	comment "Super Tetris 2 + Bombliss (Japan) (En) (Rev 1)"
 	serial "SHVC-T2"
 	rom (
 		crc 4AE93C10
@@ -19892,7 +19900,7 @@ game (
 )
 
 game (
-	comment "Super Tetris 3 (Japan)"
+	comment "Super Tetris 3 (Japan) (En)"
 	serial "SHVC-AT3J-JPN"
 	rom (
 		crc 329024C7
@@ -19956,7 +19964,7 @@ game (
 )
 
 game (
-	comment "Super Turrican (Japan)"
+	comment "Super Turrican (Japan) (En)"
 	serial "SHVC-T9"
 	rom (
 		crc 7EC892F0
@@ -20132,7 +20140,7 @@ game (
 )
 
 game (
-	comment "Suzuka 8 Hours (Japan)"
+	comment "Suzuka 8 Hours (Japan) (En)"
 	serial "SHVC-8H-JPN"
 	rom (
 		crc B846B00D
@@ -20308,7 +20316,7 @@ game (
 )
 
 game (
-	comment "Tactics Ogre - Let Us Cling Together (Japan) (Rev 2)"
+	comment "Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) (NP)"
 	serial "SHVC-AO7J-JPN"
 	rom (
 		crc 12F0A699
@@ -20372,7 +20380,7 @@ game (
 )
 
 game (
-	comment "Takahashi Meijin no Daibouken-jima (Japan)"
+	comment "Takahashi Meijin no Daibouken-jima (Japan) (En)"
 	serial "SHVC-H2"
 	rom (
 		crc 37C0AE76
@@ -20444,7 +20452,7 @@ game (
 )
 
 game (
-	comment "Tatakae Genshijin 2 - Rookie no Bouken (Japan)"
+	comment "Tatakae Genshijin 2 - Rookie no Bouken (Japan) (En)"
 	serial "SHVC-J2"
 	rom (
 		crc 689CBF05
@@ -20484,7 +20492,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Baseball (Japan)"
+	comment "Tecmo Super Baseball (Japan) (En)"
 	serial "SHVC-ATBJ-JPN"
 	rom (
 		crc 2F98DB3E
@@ -20500,7 +20508,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl (Japan)"
+	comment "Tecmo Super Bowl (Japan) (En)"
 	serial "SHVC-7T"
 	rom (
 		crc C7D84893
@@ -20516,7 +20524,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl II - Special Edition (Japan)"
+	comment "Tecmo Super Bowl II - Special Edition (Japan) (En)"
 	serial "SHVC-ASBJ-JPN"
 	rom (
 		crc 5ACD46EC
@@ -20532,7 +20540,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl III - Final Edition (Japan)"
+	comment "Tecmo Super Bowl III - Final Edition (Japan) (En)"
 	serial "SHVC-AW4J-JPN"
 	rom (
 		crc F06C34E3
@@ -20556,7 +20564,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super NBA Basketball (Japan)"
+	comment "Tecmo Super NBA Basketball (Japan) (En)"
 	serial "SHVC-NA"
 	rom (
 		crc 3DFE85B3
@@ -20564,7 +20572,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super NBA Basketball (Japan) (Rev 1)"
+	comment "Tecmo Super NBA Basketball (Japan) (En) (Rev 1)"
 	serial "SHVC-NA"
 	rom (
 		crc 538717B4
@@ -20572,7 +20580,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super NBA Basketball (USA)"
+	comment "Tecmo Super NBA Basketball (USA) (SNS-XM)"
 	serial "SNS-XM"
 	rom (
 		crc 1B6F0B43
@@ -20708,7 +20716,7 @@ game (
 )
 
 game (
-	comment "Tengai Makyou Zero (Japan) (Shounen Jump no Shou)"
+	comment "Tengai Makyou Zero - Shounen Jump no Shou (Japan)"
 	serial "SHVC-AZRJ-JPN"
 	rom (
 		crc BF8FEF7A
@@ -20860,7 +20868,7 @@ game (
 )
 
 game (
-	comment "Tetris Flash (Japan)"
+	comment "Tetris Flash (Japan) (En)"
 	serial "SHVC-27-JPN"
 	rom (
 		crc 09E9E3BB
@@ -20932,7 +20940,7 @@ game (
 )
 
 game (
-	comment "Thunder Spirits (Japan)"
+	comment "Thunder Spirits (Japan) (En)"
 	serial "SHVC-TH"
 	rom (
 		crc 41A933A6
@@ -20956,7 +20964,7 @@ game (
 )
 
 game (
-	comment "Time Slip (Europe)"
+	comment "Timeslip (Europe)"
 	serial "SNSP-XT"
 	rom (
 		crc ADAC8EFF
@@ -20964,7 +20972,7 @@ game (
 )
 
 game (
-	comment "Time Slip (USA)"
+	comment "Timeslip (USA)"
 	serial "SNS-XT"
 	rom (
 		crc 838D0304
@@ -21172,7 +21180,7 @@ game (
 )
 
 game (
-	comment "Tom to Jerry (Japan)"
+	comment "Tom to Jerry (Japan) (En)"
 	serial "SHVC-TJ"
 	rom (
 		crc BA2DE054
@@ -21252,7 +21260,7 @@ game (
 )
 
 game (
-	comment "Top Racer (Japan)"
+	comment "Top Racer (Japan) (En)"
 	serial "SHVC-TR"
 	rom (
 		crc E5A57B12
@@ -21260,7 +21268,7 @@ game (
 )
 
 game (
-	comment "Top Racer 2 (Japan)"
+	comment "Top Racer 2 (Japan) (En)"
 	serial "SHVC-2P"
 	rom (
 		crc 31DAEBB2
@@ -21452,7 +21460,7 @@ game (
 )
 
 game (
-	comment "True Lies (Germany)"
+	comment "True Lies (Germany) (En)"
 	serial "SNSP-ATLP-EUR"
 	rom (
 		crc CA7342CD
@@ -21460,7 +21468,7 @@ game (
 )
 
 game (
-	comment "True Lies (Japan)"
+	comment "True Lies (Japan) (En)"
 	serial "SHVC-ATLJ-JPN"
 	rom (
 		crc 6150D3F9
@@ -21636,7 +21644,7 @@ game (
 )
 
 game (
-	comment "USA Ice Hockey (Japan)"
+	comment "USA Ice Hockey (Japan) (En)"
 	serial "SHVC-UI"
 	rom (
 		crc E5A1ADB8
@@ -21644,7 +21652,7 @@ game (
 )
 
 game (
-	comment "USA Ice Hockey (Japan) (Rev 1)"
+	comment "USA Ice Hockey (Japan) (En) (Rev 1)"
 	serial "SHVC-UI"
 	rom (
 		crc F0E155DA
@@ -21652,7 +21660,7 @@ game (
 )
 
 game (
-	comment "Uchuu Race - Astro Go! Go! (Japan)"
+	comment "Uchuu Race - Astro Go! Go! (Japan) (En)"
 	serial "SHVC-3A"
 	rom (
 		crc E949D47F
@@ -21660,7 +21668,7 @@ game (
 )
 
 game (
-	comment "Uchuu no Kishi Tekkaman Blade (Japan)"
+	comment "Uchuu no Kishi - Tekkaman Blade (Japan)"
 	serial "SHVC-T8"
 	rom (
 		crc 7E107C35
@@ -21668,7 +21676,7 @@ game (
 )
 
 game (
-	comment "Ultima - Kyouryuu Teikoku (Japan)"
+	comment "Ultima - Kyouryuu Teikoku - The Savage Empire (Japan)"
 	serial "SHVC-AVGJ-JPN"
 	rom (
 		crc DDDB20AD
@@ -21732,7 +21740,7 @@ game (
 )
 
 game (
-	comment "Ultimate Football (Japan)"
+	comment "Ultimate Football (Japan) (En)"
 	serial "SHVC-UF-JPN"
 	rom (
 		crc 4C9A5E89
@@ -21852,10 +21860,10 @@ game (
 )
 
 game (
-	comment "Undake 30 Same Game Daisakusen - Mario Version (Japan)"
+	comment "Undake 30 - Same Game Daisakusen - Mario Version (Japan)"
 	serial "SHVC-ANZJ-JPN"
 	rom (
-		crc 83BFE43D
+		crc 54AEC111
 	)
 )
 
@@ -21948,7 +21956,7 @@ game (
 )
 
 game (
-	comment "Val d'Isere Championship (Europe)"
+	comment "Val d'Isere Championship (Europe) (Rev 1)"
 	serial "SNSP-8Z-EUR"
 	rom (
 		crc DE31D87A
@@ -21956,7 +21964,7 @@ game (
 )
 
 game (
-	comment "Val d'Isere Championship (France)"
+	comment "Val d'Isere Championship (Europe)"
 	serial "SNSP-8Z-EUR"
 	rom (
 		crc 01B3114A
@@ -22020,7 +22028,7 @@ game (
 )
 
 game (
-	comment "Virtual Bart (Japan)"
+	comment "Virtual Bart (Japan) (En)"
 	serial "SHVC-AVBJ-JPN"
 	rom (
 		crc B5A561BB
@@ -22052,7 +22060,7 @@ game (
 )
 
 game (
-	comment "Volleyball Twin (Japan)"
+	comment "Volleyball Twin (Japan) (En)"
 	serial "SHVC-VT-JPN"
 	rom (
 		crc A3F4AF43
@@ -22068,7 +22076,7 @@ game (
 )
 
 game (
-	comment "Vortex (Japan) (En,Ja)"
+	comment "Vortex - The FX Robot Battle (Japan) (En,Ja)"
 	serial "SHVC-4V"
 	rom (
 		crc 51E8A19C
@@ -22084,7 +22092,7 @@ game (
 )
 
 game (
-	comment "Vs. Collection (Japan)"
+	comment "VS. Collection (Japan)"
 	serial "SHVC-AU3J-JPN"
 	rom (
 		crc A9FCFD53
@@ -22116,7 +22124,7 @@ game (
 )
 
 game (
-	comment "WWF Royal Rumble (Japan)"
+	comment "WWF Royal Rumble (Japan) (En)"
 	serial "SHVC-WU"
 	rom (
 		crc E85352D2
@@ -22140,7 +22148,7 @@ game (
 )
 
 game (
-	comment "WWF Super WrestleMania (Japan)"
+	comment "WWF Super WrestleMania (Japan) (En)"
 	serial "SHVC-WF"
 	rom (
 		crc D35543C2
@@ -22164,7 +22172,7 @@ game (
 )
 
 game (
-	comment "WWF WrestleMania - The Arcade Game (Japan)"
+	comment "WWF WrestleMania - The Arcade Game (Japan) (En)"
 	serial "SHVC-AWVJ-JPN"
 	rom (
 		crc AFBEE7B1
@@ -22260,7 +22268,7 @@ game (
 )
 
 game (
-	comment "Warlock (Japan)"
+	comment "Warlock (Japan) (En)"
 	serial "SHVC-AWKJ-JPN"
 	rom (
 		crc DCADBD80
@@ -22436,7 +22444,7 @@ game (
 )
 
 game (
-	comment "Wild Snake (USA)"
+	comment "WildSnake (USA)"
 	serial "SNS-AWSE-USA"
 	rom (
 		crc 025ADBF9
@@ -22444,7 +22452,7 @@ game (
 )
 
 game (
-	comment "Wild Trax (Japan) (Rev 1)"
+	comment "Wild Trax (Japan) (En) (Rev 1)"
 	serial "SHVC-CQ"
 	rom (
 		crc 017C68C5
@@ -22564,7 +22572,7 @@ game (
 )
 
 game (
-	comment "Winter Olympic Games - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
+	comment "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
 	serial "SNSP-W4"
 	rom (
 		crc FCB1C794
@@ -22612,7 +22620,7 @@ game (
 )
 
 game (
-	comment "Wizardry V - Saika no Chuushin (Japan)"
+	comment "Wizardry V - Saika no Chuushin (Japan) (En,Ja)"
 	serial "SHVC-W5"
 	rom (
 		crc 547CF7B9
@@ -22660,7 +22668,7 @@ game (
 )
 
 game (
-	comment "Wolverine (Japan)"
+	comment "Wolverine (Japan) (En)"
 	serial "SHVC-AWXJ-JPN"
 	rom (
 		crc D9119D9B
@@ -22708,7 +22716,7 @@ game (
 )
 
 game (
-	comment "World Class Rugby (France)"
+	comment "Blanco World Class Rugby (France) (En)"
 	serial "SNSP-WY"
 	rom (
 		crc 8EFFC2D4
@@ -22716,7 +22724,7 @@ game (
 )
 
 game (
-	comment "World Class Rugby (Japan)"
+	comment "World Class Rugby (Japan) (En)"
 	serial "SHVC-WY"
 	rom (
 		crc 3BB679D9
@@ -22836,7 +22844,7 @@ game (
 )
 
 game (
-	comment "World Soccer (Japan)"
+	comment "World Soccer (Japan) (En)"
 	serial "SHVC-WO"
 	rom (
 		crc A3096A8E
@@ -22940,7 +22948,7 @@ game (
 )
 
 game (
-	comment "Yadamon - Wonderland Dreams (Japan)"
+	comment "Yadamon - Wonderland Dream (Japan)"
 	serial "SHVC-YA"
 	rom (
 		crc B5292147
@@ -22972,7 +22980,7 @@ game (
 )
 
 game (
-	comment "Yogi Bear (Japan)"
+	comment "Yogi Bear (Japan) (En)"
 	serial "SHVC-Y8-JPN"
 	rom (
 		crc 1A6F48A5
@@ -23228,7 +23236,7 @@ game (
 )
 
 game (
-	comment "Zaitaku Touhyou System - SPAT4-Wide (Japan)"
+	comment "Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ)"
 	serial "SHVC-TOBJ-JPN"
 	rom (
 		crc 798A252F
@@ -23284,7 +23292,7 @@ game (
 )
 
 game (
-	comment "Zen-Nihon GT Senshuken (Japan)"
+	comment "Zen-Nihon GT Senshuken - Hyper Battle Game (Japan)"
 	serial "SHVC-AGVJ-JPN"
 	rom (
 		crc 5409D4F4
@@ -23348,7 +23356,7 @@ game (
 )
 
 game (
-	comment "Zero 4 Champ RR (Japan)"
+	comment "Zero4 Champ RR (Japan)"
 	serial "SHVC-Q4"
 	rom (
 		crc 48E9887F
@@ -23356,7 +23364,7 @@ game (
 )
 
 game (
-	comment "Zero 4 Champ RR-Z (Japan)"
+	comment "Zero4 Champ RR-Z (Japan)"
 	serial "SHVC-ARZJ-JPN"
 	rom (
 		crc 3C6A8DC8
@@ -23436,7 +23444,7 @@ game (
 )
 
 game (
-	comment "Zool no Yume Bouken (Japan)"
+	comment "Zool no Yume Bouken (Japan) (En)"
 	serial "SHVC-Z8-JPN"
 	rom (
 		crc 5C2A701D
@@ -23466,4 +23474,3 @@ game (
 		crc C167987D
 	)
 )
-

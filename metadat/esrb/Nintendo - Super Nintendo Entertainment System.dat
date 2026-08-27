@@ -214,7 +214,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat 2 (USA) (Beta) (1994-08-08)"
+	comment "Aero the Acro-Bat 2 (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc AC2E485C )
 )
@@ -274,7 +274,7 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula (Japan) (Beta) (1991-06-14)"
+	comment "Akumajou Dracula (Japan) (Beta)"
 	esrb_rating "T"
 	rom ( crc A2A811F6 )
 )
@@ -424,9 +424,9 @@ game (
 )
 
 game (
-	comment "Animaniacs (USA) (Beta) (1994-06-11)"
+	comment "Animaniacs (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc 5698626B )
+	rom ( crc 2D7D6973 )
 )
 
 game (
@@ -448,19 +448,19 @@ game (
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-10)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc C725C96D )
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-04-11)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc F105062B )
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-11)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 27ADB998 )
 )
@@ -586,13 +586,13 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan) (En) (Beta 2)"
+	comment "Batman Forever (USA) (Beta 2)"
 	esrb_rating "T"
 	rom ( crc 4967E667 )
 )
 
 game (
-	comment "Batman Forever (Japan) (En) (Beta 1)"
+	comment "Batman Forever (USA) (Beta 1)"
 	esrb_rating "T"
 	rom ( crc 8DA10D61 )
 )
@@ -610,7 +610,7 @@ game (
 )
 
 game (
-	comment "Batman Returns (USA) (Sample)"
+	comment "Batman Returns (USA) (Beta)"
 	esrb_rating "T"
 	rom ( crc 9CE7D5BA )
 )
@@ -688,7 +688,7 @@ game (
 )
 
 game (
-	comment "Beethoven's 2nd (USA) (Beta) (1993-09-13)"
+	comment "Beethoven - The Ultimate Canine Caper! (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc FB5747AC )
 )
@@ -780,12 +780,6 @@ game (
 game (
 	comment "Blackthorne (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc B39AF3FA )
-)
-
-game (
-	comment "Blackthorne (USA) (Beta) (CES)"
-	esrb_rating "E"
 	rom ( crc CFFAAA21 )
 )
 
@@ -820,7 +814,7 @@ game (
 )
 
 game (
-	comment "Blues Brothers, The (Japan)"
+	comment "Blues Brothers, The (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 362620D2 )
 )
@@ -970,7 +964,7 @@ game (
 )
 
 game (
-	comment "Brunswick World Tournament of Champions (USA)"
+	comment "Brunswick World - Tournament of Champions (USA)"
 	esrb_rating "KA"
 	rom ( crc 52E4DC92 )
 )
@@ -1132,7 +1126,7 @@ game (
 )
 
 game (
-	comment "Chou Makaimura (Japan) (Beta) (1991-06-26)"
+	comment "Chou Makaimura (Japan) (Beta)"
 	esrb_rating "E"
 	rom ( crc 77DAFB7E )
 )
@@ -1252,19 +1246,13 @@ game (
 )
 
 game (
-	comment "Contra Spirits (Japan) (Demo)"
-	esrb_rating "KA"
-	rom ( crc EFA3A034 )
-)
-
-game (
 	comment "Contra Spirits (World) (Contra Anniversary Collection)"
 	esrb_rating "KA"
 	rom ( crc 8B037C37 )
 )
 
 game (
-	comment "Contra Spirits (Japan) (En)"
+	comment "Contra Spirits (Japan)"
 	esrb_rating "KA"
 	rom ( crc B8CFE377 )
 )
@@ -1324,7 +1312,7 @@ game (
 )
 
 game (
-	comment "Darius Twin (World) (Darius Cozmic Collection)"
+	comment "Darius Twin (World) (En) (Darius Cozmic Collection)"
 	esrb_rating "E10+"
 	rom ( crc 94688D7E )
 )
@@ -1486,7 +1474,7 @@ game (
 )
 
 game (
-	comment "Dragon - The Bruce Lee Story (USA) (Beta) (1993-04-23)"
+	comment "Dragon - The Bruce Lee Story (USA) (Beta)"
 	esrb_rating "T"
 	rom ( crc 6715E04E )
 )
@@ -1546,7 +1534,7 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (USA) (Beta) (1994-08-19)"
+	comment "Earthworm Jim (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc 00A79820 )
 )
@@ -1570,7 +1558,7 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (Europe) (Beta) (1994-08-04)"
+	comment "Earthworm Jim (Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc B1EAAD9E )
 )
@@ -1594,13 +1582,13 @@ game (
 )
 
 game (
-	comment "Earthworm Jim 2 (Europe) (Beta) (1995-04-24)"
+	comment "Earthworm Jim 2 (Europe) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc FF2C508B )
 )
 
 game (
-	comment "Earthworm Jim 2 (Europe) (Beta) (1995-09-07)"
+	comment "Earthworm Jim 2 (Europe) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 3287A32B )
 )
@@ -1648,7 +1636,7 @@ game (
 )
 
 game (
-	comment "Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl) (Proto)"
+	comment "Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl)"
 	esrb_rating "E"
 	rom ( crc 811475B0 )
 )
@@ -1690,7 +1678,7 @@ game (
 )
 
 game (
-	comment "F-Zero (USA) (Beta) (1991-05-13)"
+	comment "F-Zero (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc 1FE12B7A )
 )
@@ -1918,7 +1906,7 @@ game (
 )
 
 game (
-	comment "Firemen, The (Europe) (Beta)"
+	comment "Firemen, The (USA) (Proto)"
 	esrb_rating "E"
 	rom ( crc B9C82442 )
 )
@@ -1972,7 +1960,7 @@ game (
 )
 
 game (
-	comment "Frank Thomas Big Hurt Baseball (Japan) (En)"
+	comment "Frank Thomas Big Hurt (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 1A895B24 )
 )
@@ -2032,13 +2020,13 @@ game (
 )
 
 game (
-	comment "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta) (1991-05-31)"
+	comment "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta)"
 	esrb_rating "E10+"
 	rom ( crc 6394D9DF )
 )
 
 game (
-	comment "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24)"
+	comment "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Beta)"
 	esrb_rating "E"
 	rom ( crc 9A1AEA39 )
 )
@@ -2104,7 +2092,7 @@ game (
 )
 
 game (
-	comment "Ghoul Patrol (Europe) (Beta)"
+	comment "Ghoul Patrol (Europe) (Sample)"
 	esrb_rating "E"
 	rom ( crc 34E53D71 )
 )
@@ -2179,12 +2167,6 @@ game (
 	comment "Hagane (Japan)"
 	esrb_rating "KA"
 	rom ( crc 63245CAC )
-)
-
-game (
-	comment "Hagane (Japan) (Beta) [b]"
-	esrb_rating "KA"
-	rom ( crc F0BC3837 )
 )
 
 game (
@@ -2446,7 +2428,7 @@ game (
 )
 
 game (
-	comment "Jigsaw Party (Japan) (Beta) (1994-03-25)"
+	comment "Jigsaw Party (Japan) (Beta)"
 	esrb_rating "KA"
 	rom ( crc F3F2AC30 )
 )
@@ -2500,7 +2482,7 @@ game (
 )
 
 game (
-	comment "Judge Dredd (USA) (Sample)"
+	comment "Judge Dredd (USA) (Beta)"
 	esrb_rating "T"
 	rom ( crc 023FC5DE )
 )
@@ -2656,15 +2638,15 @@ game (
 )
 
 game (
-	comment "Kid Klown in Crazy Chase (USA) (Beta) (1994-06-13)"
+	comment "Kid Klown in Crazy Chase (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc EF5D7A37 )
 )
 
 game (
-	comment "Kid Klown in Crazy Chase (USA) (Beta) (Earlier)"
+	comment "Kid Klown in Crazy Chase (USA) (Beta 1)"
 	esrb_rating "E"
-	rom ( crc B6116FE6 )
+	rom ( crc 61E7F18A )
 )
 
 game (
@@ -2944,25 +2926,25 @@ game (
 )
 
 game (
-	comment "Lion King, The (USA) (Beta 1)"
+	comment "Lion King, The (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 6E6742B6 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta 2)"
+	comment "Lion King, The (USA) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc 370F5308 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta 3)"
+	comment "Lion King, The (USA) (Beta 4)"
 	esrb_rating "E"
 	rom ( crc 958D5A56 )
 )
 
 game (
-	comment "Lion King, The (World) (Disney Classic Games)"
+	comment "Lion King, The (World) (En) (Disney Classic Games)"
 	esrb_rating "E"
 	rom ( crc 881CE80A )
 )
@@ -3106,7 +3088,7 @@ game (
 )
 
 game (
-	comment "Magic Boy (USA) (Beta) (1993-03-03)"
+	comment "Magic Boy (Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc E6C54883 )
 )
@@ -3184,7 +3166,7 @@ game (
 )
 
 game (
-	comment "Magical Quest Starring Mickey Mouse, The (USA) (Beta 1) (1992-05-21)"
+	comment "Magical Quest Starring Mickey Mouse, The (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 082A05C2 )
 )
@@ -3262,7 +3244,7 @@ game (
 )
 
 game (
-	comment "Marvel Super Heroes - War of the Gems (USA) (Beta)"
+	comment "Marvel Super Heroes in War of the Gems (USA) (Beta)"
 	esrb_rating "KA"
 	rom ( crc E86CFE8F )
 )
@@ -3286,7 +3268,7 @@ game (
 )
 
 game (
-	comment "Mask (Japan)"
+	comment "Mask (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc E91BB876 )
 )
@@ -3376,15 +3358,15 @@ game (
 )
 
 game (
-	comment "Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection)"
+	comment "Mega Man X (World) (En) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc 00D4B0CD )
+	rom ( crc 97A10846 )
 )
 
 game (
-	comment "Mega Man X2 (World) (Mega Man X Legacy Collection)"
+	comment "Mega Man X2 (World) (En) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc FFF7864D )
+	rom ( crc 8972DF65 )
 )
 
 game (
@@ -3412,9 +3394,9 @@ game (
 )
 
 game (
-	comment "Mega Man X3 (World) (Mega Man X Legacy Collection)"
+	comment "Mega Man X3 (World) (En) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc DF7BDBA9 )
+	rom ( crc 1ACB643D )
 )
 
 game (
@@ -3454,7 +3436,7 @@ game (
 )
 
 game (
-	comment "Mickey to Minnie - Magical Adventure 2 (Japan) (Beta) (1994-06-22)"
+	comment "Mickey to Minnie - Magical Adventure 2 (Japan) (Beta)"
 	esrb_rating "E"
 	rom ( crc D39B39EC )
 )
@@ -3522,7 +3504,7 @@ game (
 game (
 	comment "Mortal Kombat (Europe) (Rev 1)"
 	esrb_rating "M"
-	rom ( crc 047B3D88 )
+	rom ( crc 1ED2D8D6 )
 )
 
 game (
@@ -3562,13 +3544,13 @@ game (
 )
 
 game (
-	comment "Mortal Kombat 3 (USA) (Beta 2) (1995-08-01)"
+	comment "Mortal Kombat 3 (USA) (Beta 2)"
 	esrb_rating "M"
 	rom ( crc FFCBF355 )
 )
 
 game (
-	comment "Mortal Kombat 3 (USA) (Beta 1) (1995-07-13)"
+	comment "Mortal Kombat 3 (USA) (Beta 1)"
 	esrb_rating "M"
 	rom ( crc 8DB650F1 )
 )
@@ -3598,7 +3580,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II (USA) (Beta)"
+	comment "Mortal Kombat II (USA) (Rev 1) (Sample)"
 	esrb_rating "M"
 	rom ( crc 97FE05E5 )
 )
@@ -3628,7 +3610,7 @@ game (
 )
 
 game (
-	comment "Mr. Do! (Japan)"
+	comment "Mr. Do! (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 3847CF64 )
 )
@@ -3664,7 +3646,7 @@ game (
 )
 
 game (
-	comment "Mr. Nutz (USA) (Beta 1) (1993-06-10)"
+	comment "Mr. Nutz (USA) (En,Fr) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 65690811 )
 )
@@ -3682,7 +3664,7 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man (USA) (Beta) (1996-06-18)"
+	comment "Ms. Pac-Man (USA) (Beta)"
 	esrb_rating "KA"
 	rom ( crc 41CAE05B )
 )
@@ -3820,7 +3802,7 @@ game (
 )
 
 game (
-	comment "NBA Live 97 (USA) (Beta) (1996-09-20)"
+	comment "NBA Live 97 (USA) (Beta)"
 	esrb_rating "KA"
 	rom ( crc D7C0CAD3 )
 )
@@ -3828,7 +3810,7 @@ game (
 game (
 	comment "NCAA Final Four Basketball (USA) (Beta)"
 	esrb_rating "KA"
-	rom ( crc 75793E21 )
+	rom ( crc 7B121E67 )
 )
 
 game (
@@ -3886,7 +3868,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club 96 (Europe) (Beta)"
+	comment "NFL Quarterback Club 96 (Europe) (Sample)"
 	esrb_rating "KA"
 	rom ( crc B87ABC7E )
 )
@@ -4036,67 +4018,67 @@ game (
 )
 
 game (
-	comment "Pinocchio (USA) (Beta) (Early)"
+	comment "Pinocchio (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc F400ED21 )
 )
 
 game (
-	comment "Pinocchio (USA) (Beta) (1995-07-26)"
+	comment "Pinocchio (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc BA5405E1 )
 )
 
 game (
-	comment "Pinocchio (USA) (Beta) (1995-12-04)"
+	comment "Pinocchio (USA) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc 90B47BED )
 )
 
 game (
-	comment "Pinocchio (USA) (Beta) (1995-12-06)"
+	comment "Pinocchio (USA) (Beta 4)"
 	esrb_rating "E"
 	rom ( crc D68B4BB2 )
 )
 
 game (
-	comment "Pinocchio (Europe) (Beta) (1995-12-12)"
+	comment "Pinocchio (Europe) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc E217ABB3 )
 )
 
 game (
-	comment "Pinocchio (USA) (Beta) (1996-08-05)"
+	comment "Pinocchio (USA) (Beta 5)"
 	esrb_rating "E"
 	rom ( crc E0AB1F2A )
 )
 
 game (
-	comment "Pinocchio (Europe) (Beta) (1996-01-05)"
+	comment "Pinocchio (Europe) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 3CA24E99 )
 )
 
 game (
-	comment "Pinocchio (Europe) (Beta) (1996-01-09)"
+	comment "Pinocchio (Europe) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc D408A404 )
 )
 
 game (
-	comment "Pinocchio (Japan) (Beta) (1996-03-12)"
+	comment "Pinocchio (Japan) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 01A7CAF7 )
 )
 
 game (
-	comment "Pinocchio (Japan) (Beta) (1996-04-09)"
+	comment "Pinocchio (Japan) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 31AF4172 )
 )
 
 game (
-	comment "Pinocchio (Japan) (Beta) (1996-04-10)"
+	comment "Pinocchio (Japan) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc B0D48553 )
 )
@@ -4186,13 +4168,13 @@ game (
 )
 
 game (
-	comment "Pocky & Rocky (Europe) (Sample)"
+	comment "Pocky & Rocky (Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc 99F8D70B )
 )
 
 game (
-	comment "Pocky & Rocky (USA) (Sample)"
+	comment "Pocky & Rocky (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc 4EDC8F35 )
 )
@@ -4240,7 +4222,7 @@ game (
 )
 
 game (
-	comment "Porky Pig's Haunted Holiday (USA) (Beta) (1995-01-26)"
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 5)"
 	esrb_rating "KA"
 	rom ( crc 9699E23C )
 )
@@ -4252,9 +4234,39 @@ game (
 )
 
 game (
-	comment "Porky Pig's Haunted Holiday (USA) (Beta) (1995-08-07)"
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 1)"
 	esrb_rating "KA"
-	rom ( crc 237E8233 )
+	rom ( crc D661E41F )
+)
+
+game (
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 1) (Introes)"
+	esrb_rating "KA"
+	rom ( crc 4536A273 )
+)
+
+game (
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 2) (Subgames)"
+	esrb_rating "KA"
+	rom ( crc F4F6E449 )
+)
+
+game (
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 3)"
+	esrb_rating "KA"
+	rom ( crc 798A5AED )
+)
+
+game (
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 4)"
+	esrb_rating "KA"
+	rom ( crc 48F43270 )
+)
+
+game (
+	comment "Porky Pig's Haunted Holiday (USA) (Beta 6)"
+	esrb_rating "KA"
+	rom ( crc 469F10BD )
 )
 
 game (
@@ -4444,7 +4456,7 @@ game (
 )
 
 game (
-	comment "Revolution X (Germany)"
+	comment "Revolution X (Germany) (En)"
 	esrb_rating "T"
 	rom ( crc 59D0F587 )
 )
@@ -4516,12 +4528,6 @@ game (
 )
 
 game (
-	comment "Rock 'N' Roll Racing (USA) (Demo) (Battle.net)"
-	esrb_rating "E10+"
-	rom ( crc 2313D87E )
-)
-
-game (
 	comment "Rock & Roll Racing (Europe) (Beta)"
 	esrb_rating "E10+"
 	rom ( crc BF8B07A9 )
@@ -4578,7 +4584,7 @@ game (
 game (
 	comment "Rockman X (World) (Ja) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc 8C6C0934 )
+	rom ( crc 94CA42BF )
 )
 
 game (
@@ -4596,7 +4602,7 @@ game (
 game (
 	comment "Rockman X2 (World) (Ja) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc 26FEA793 )
+	rom ( crc 011E5068 )
 )
 
 game (
@@ -4612,19 +4618,19 @@ game (
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-08-23)"
+	comment "Rockman X3 (Japan) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 003D43B7 )
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-08-09)"
+	comment "Rockman X3 (Japan) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 6D5803BA )
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-09-25)"
+	comment "Rockman X3 (Japan) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc 396203A2 )
 )
@@ -4632,7 +4638,7 @@ game (
 game (
 	comment "Rockman X3 (World) (Ja) (Mega Man X Legacy Collection)"
 	esrb_rating "E"
-	rom ( crc 4BC632A1 )
+	rom ( crc 741AB27B )
 )
 
 game (
@@ -4762,12 +4768,6 @@ game (
 )
 
 game (
-	comment "Secret of Evermore (Unknown) (Beta) (Non-working)"
-	esrb_rating "E"
-	rom ( crc 483E8608 )
-)
-
-game (
 	comment "Secret of Evermore (Spain) (Rev 2)"
 	esrb_rating "E"
 	rom ( crc CA5935D0 )
@@ -4792,13 +4792,13 @@ game (
 )
 
 game (
-	comment "Secret of Mana (United Kingdom)"
+	comment "Secret of Mana (Europe)"
 	esrb_rating "E10+"
 	rom ( crc C5CB2F26 )
 )
 
 game (
-	comment "Secret of Mana (United Kingdom, Australia) (Rev 1)"
+	comment "Secret of Mana (Europe) (Rev 1)"
 	esrb_rating "E10+"
 	rom ( crc DE112322 )
 )
@@ -4858,19 +4858,13 @@ game (
 )
 
 game (
-	comment "Seiken Densetsu 3 (Japan) (Taikenban Sample ROM)"
-	esrb_rating "E10+"
-	rom ( crc 4801E76A )
-)
-
-game (
-	comment "Shadowrun (Europe) (Sample)"
+	comment "Shadowrun (Europe) (Beta)"
 	esrb_rating "T"
 	rom ( crc D2ED4220 )
 )
 
 game (
-	comment "Shadowrun (USA) (Beta 2)"
+	comment "Shadowrun (USA) (Beta 3)"
 	esrb_rating "T"
 	rom ( crc F5EA8088 )
 )
@@ -4888,7 +4882,7 @@ game (
 )
 
 game (
-	comment "Shadowrun (Japan) (En,Ja)"
+	comment "Shadowrun (Japan)"
 	esrb_rating "T"
 	rom ( crc EFD4D741 )
 )
@@ -4906,13 +4900,13 @@ game (
 )
 
 game (
-	comment "Shadowrun (USA) (Beta 1)"
+	comment "Shadowrun (USA) (Beta 2)"
 	esrb_rating "T"
 	rom ( crc 85D4CDA1 )
 )
 
 game (
-	comment "Shaq Fu (USA) (Beta)"
+	comment "Shaq-Fu (USA) (Beta)"
 	esrb_rating "T"
 	rom ( crc E14B00EF )
 )
@@ -4936,7 +4930,7 @@ game (
 )
 
 game (
-	comment "Shounen Ninja Sasuke (Japan) (Sample) (1994-07-26)"
+	comment "Shounen Ninja Sasuke (Japan) (Beta)"
 	esrb_rating "E10+"
 	rom ( crc B8A87C29 )
 )
@@ -5026,7 +5020,7 @@ game (
 )
 
 game (
-	comment "Solstice II (Japan) (Beta) (1993-03-03)"
+	comment "Solstice II (Japan) (Beta)"
 	esrb_rating "E"
 	rom ( crc 37C2EC0C )
 )
@@ -5044,7 +5038,7 @@ game (
 )
 
 game (
-	comment "Soul Blazer (Scandinavia) (En)"
+	comment "Soul Blazer (Europe)"
 	esrb_rating "E"
 	rom ( crc 54370191 )
 )
@@ -5134,7 +5128,7 @@ game (
 )
 
 game (
-	comment "Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (1995-03-02) (No. 04)"
+	comment "Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (No. 04)"
 	esrb_rating "KA"
 	rom ( crc D0DE3012 )
 )
@@ -5164,19 +5158,19 @@ game (
 )
 
 game (
-	comment "Sporting News Baseball, The (USA)"
+	comment "Sporting News, The - Baseball (USA)"
 	esrb_rating "KA"
 	rom ( crc 315AF696 )
 )
 
 game (
-	comment "Sporting News Baseball, The (USA) (Beta)"
+	comment "Sporting News, The - Baseball (USA) (Beta)"
 	esrb_rating "KA"
 	rom ( crc 9854063B )
 )
 
 game (
-	comment "Sports Illustrated - Championship Football & Baseball (USA) (Beta 1) (1993-08-04)"
+	comment "Sports Illustrated - Championship Football & Baseball (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 233EBCA1 )
 )
@@ -5308,7 +5302,7 @@ game (
 )
 
 game (
-	comment "Street Fighter II (USA) (Beta) (1992-04-03)"
+	comment "Street Fighter II (USA) (Beta)"
 	esrb_rating "T"
 	rom ( crc 40C95DB4 )
 )
@@ -5338,7 +5332,7 @@ game (
 )
 
 game (
-	comment "Street Fighter Zero 2 (Japan) (En) (Proto) (1996-09-15)"
+	comment "Street Fighter Zero 2 (Japan) (En) (Beta)"
 	esrb_rating "T"
 	rom ( crc 349D8084 )
 )
@@ -5380,7 +5374,7 @@ game (
 )
 
 game (
-	comment "Street Racer (World) (Aftermarket) (Unl)"
+	comment "Street Racer (World) (GOG)"
 	esrb_rating "T"
 	rom ( crc 62AFD640 )
 )
@@ -5482,7 +5476,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman (Japan)"
+	comment "Super Bomberman (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 7989891A )
 )
@@ -5494,7 +5488,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman (USA) (Beta) (1993-05-11)"
+	comment "Super Bomberman (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc ACC4D648 )
 )
@@ -5518,7 +5512,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman 2 (Japan) (Caravan You Taikenban)"
+	comment "Super Bomberman 2 - Caravan You Taikenban (Japan)"
 	esrb_rating "E"
 	rom ( crc 2AA1DDF8 )
 )
@@ -5698,13 +5692,13 @@ game (
 )
 
 game (
-	comment "Super Mario All-Stars (Europe) (Wii)"
+	comment "Super Mario All-Stars (Europe) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 98E5AA9E )
 )
 
 game (
-	comment "Super Mario All-Stars (USA) (Wii)"
+	comment "Super Mario All-Stars (USA) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc A08AC8E6 )
 )
@@ -5722,13 +5716,13 @@ game (
 )
 
 game (
-	comment "Super Mario Collection (Japan) (Rev 1)"
+	comment "Super Mario Collection (Japan) (Rev 1) (NP)"
 	esrb_rating "E"
 	rom ( crc 91B28D56 )
 )
 
 game (
-	comment "Super Mario Collection (Japan) (Rev 1) (Wii)"
+	comment "Super Mario Collection (Japan) (Rev 1) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc F8D9137F )
 )
@@ -5832,7 +5826,7 @@ game (
 game (
 	comment "Super Punch-Out!! (Europe) (Beta)"
 	esrb_rating "E"
-	rom ( crc 09CC8357 )
+	rom ( crc C4972F07 )
 )
 
 game (
@@ -5902,13 +5896,13 @@ game (
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 3) (1992-07-21)"
+	comment "Super Star Wars (USA) (Beta 3)"
 	esrb_rating "E10+"
 	rom ( crc 23665F74 )
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 1) (1992-07-10)"
+	comment "Super Star Wars (USA) (Beta 1)"
 	esrb_rating "E10+"
 	rom ( crc 34DD28A0 )
 )
@@ -5920,7 +5914,7 @@ game (
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 2) (1992-07-17)"
+	comment "Super Star Wars (USA) (Beta 2)"
 	esrb_rating "E10+"
 	rom ( crc 25F4A09F )
 )
@@ -6106,9 +6100,9 @@ game (
 )
 
 game (
-	comment "Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl)"
+	comment "Super Turrican 2 (USA) (Strictly Limited Games)"
 	esrb_rating "T"
-	rom ( crc 9F1098BD )
+	rom ( crc 8902AD85 )
 )
 
 game (
@@ -6124,7 +6118,7 @@ game (
 )
 
 game (
-	comment "Suzuki Aguri no F-1 Super Driving (Japan) (En)"
+	comment "Suzuki Aguri no F-1 Super Driving (Japan)"
 	esrb_rating "E"
 	rom ( crc 75BDC895 )
 )
@@ -6406,7 +6400,7 @@ game (
 )
 
 game (
-	comment "Trials of Mana (World) (Collection of Mana)"
+	comment "Trials of Mana (World) (En) (Collection of Mana)"
 	esrb_rating "E10+"
 	rom ( crc 9743DC0E )
 )
@@ -6436,13 +6430,13 @@ game (
 )
 
 game (
-	comment "Trials of Mana (World) (Rev 1) (Collection of Mana)"
+	comment "Trials of Mana (World) (En) (Rev 1) (Collection of Mana)"
 	esrb_rating "E10+"
 	rom ( crc 173E6097 )
 )
 
 game (
-	comment "Trials of Mana (World) (Beta) (Collection of Mana, 2019-04-02)"
+	comment "Trials of Mana (World) (En) (Beta) (Collection of Mana)"
 	esrb_rating "E10+"
 	rom ( crc DFB821E4 )
 )
@@ -6532,7 +6526,7 @@ game (
 )
 
 game (
-	comment "Vortex (Japan) (En,Ja)"
+	comment "Vortex - The FX Robot Battle (Japan) (En,Ja)"
 	esrb_rating "T"
 	rom ( crc 51E8A19C )
 )
@@ -6808,7 +6802,7 @@ game (
 )
 
 game (
-	comment "Yoshi no Cookie (Japan) (En)"
+	comment "Yoshi no Cookie (Japan)"
 	esrb_rating "E"
 	rom ( crc 1E1AA75F )
 )
@@ -6826,7 +6820,7 @@ game (
 )
 
 game (
-	comment "Yoshi's Cookie (USA) (Beta) (1993-01-19)"
+	comment "Yoshi's Cookie (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc FBDFCDAB )
 )
@@ -6874,7 +6868,7 @@ game (
 )
 
 game (
-	comment "Zombies (Europe) (Beta)"
+	comment "Monsters (Europe) (Beta)"
 	esrb_rating "T"
 	rom ( crc 399669F2 )
 )
@@ -6938,4 +6932,3 @@ game (
 	esrb_rating "E"
 	rom ( crc 3758068A )
 )
-

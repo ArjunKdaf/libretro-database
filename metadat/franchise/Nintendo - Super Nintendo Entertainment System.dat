@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta)"
+	comment "Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta 1)"
 	franchise "The Addams Family"
 	rom ( crc 64D68066 )
 )
@@ -166,7 +166,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat 2 (USA) (Beta) (1994-08-08)"
+	comment "Aero the Acro-Bat 2 (USA) (Beta)"
 	franchise "Aero the Acro-Bat"
 	rom ( crc AC2E485C )
 )
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula (Japan) (Beta) (1991-06-14)"
+	comment "Akumajou Dracula (Japan) (Beta)"
 	franchise "Castlevania"
 	rom ( crc A2A811F6 )
 )
@@ -274,7 +274,7 @@ game (
 )
 
 game (
-	comment "Aladdin 2000 (World) (Pirate)"
+	comment "Aladdin 2000 (USA) (Pirate)"
 	franchise "Aladdin"
 	rom ( crc 752A25D3 )
 )
@@ -382,7 +382,7 @@ game (
 )
 
 game (
-	comment "Angelique (Japan) (Premium Box)"
+	comment "Angelique - Premium Box (Japan)"
 	franchise "Angelique"
 	rom ( crc 3DA108C4 )
 )
@@ -412,9 +412,9 @@ game (
 )
 
 game (
-	comment "Animaniacs (USA) (Beta) (1994-06-11)"
+	comment "Animaniacs (USA) (Beta)"
 	franchise "Animaniacs"
-	rom ( crc 5698626B )
+	rom ( crc 2D7D6973 )
 )
 
 game (
@@ -430,19 +430,19 @@ game (
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-10)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 1)"
 	franchise "Arcade's Greatest Hits - The Atari Collection"
 	rom ( crc C725C96D )
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-04-11)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 3)"
 	franchise "Arcade's Greatest Hits - The Atari Collection"
 	rom ( crc F105062B )
 )
 
 game (
-	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-11)"
+	comment "Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 2)"
 	franchise "Arcade's Greatest Hits - The Atari Collection"
 	rom ( crc 27ADB998 )
 )
@@ -502,7 +502,7 @@ game (
 )
 
 game (
-	comment "Asterix (Europe) (En,Fr,De,Es) (Beta) (1993-03-11)"
+	comment "Asterix (Europe) (En,Fr,De,Es) (Beta)"
 	franchise "ASTERIX"
 	rom ( crc 766DC9D9 )
 )
@@ -514,19 +514,19 @@ game (
 )
 
 game (
-	comment "Bananas de Pijamas (World) (Pirate)"
+	comment "Bananas de Pijamas (Peru) (En) (Pirate)"
 	franchise "Chester Cheetah"
 	rom ( crc 52B0D84B )
 )
 
 game (
-	comment "Barbie Super Model (USA)"
+	comment "Barbie - Super Model (USA)"
 	franchise "Barbie"
 	rom ( crc 3B73610E )
 )
 
 game (
-	comment "Barbie Vacation Adventure (USA) (Proto)"
+	comment "Barbie - Vacation Adventure (USA) (Proto)"
 	franchise "Barbie"
 	rom ( crc D1A90AB4 )
 )
@@ -568,13 +568,13 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan) (En) (Beta 2)"
+	comment "Batman Forever (USA) (Beta 2)"
 	franchise "Batman"
 	rom ( crc 4967E667 )
 )
 
 game (
-	comment "Batman Forever (Japan) (En) (Beta 1)"
+	comment "Batman Forever (USA) (Beta 1)"
 	franchise "Batman"
 	rom ( crc 8DA10D61 )
 )
@@ -592,7 +592,7 @@ game (
 )
 
 game (
-	comment "Batman Returns (USA) (Sample)"
+	comment "Batman Returns (USA) (Beta)"
 	franchise "Batman"
 	rom ( crc 9CE7D5BA )
 )
@@ -664,7 +664,7 @@ game (
 )
 
 game (
-	comment "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan)"
+	comment "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!! (Japan)"
 	franchise "Sailor Moon"
 	rom ( crc 10F03E3C )
 )
@@ -946,13 +946,13 @@ game (
 )
 
 game (
-	comment "Chou Gojira - Super Godzilla (Japan)"
+	comment "Chou Gojira (Japan)"
 	franchise "Godzilla"
 	rom ( crc 56D63328 )
 )
 
 game (
-	comment "Chou Gojira - Super Godzilla (Japan) (Rev 1)"
+	comment "Chou Gojira (Japan) (Rev 1)"
 	franchise "Godzilla"
 	rom ( crc 47EC317E )
 )
@@ -970,7 +970,7 @@ game (
 )
 
 game (
-	comment "Chou Makaimura (Japan) (Beta) (1991-06-26)"
+	comment "Chou Makaimura (Japan) (Beta)"
 	franchise "Ghost'n Goblins"
 	rom ( crc 77DAFB7E )
 )
@@ -979,12 +979,6 @@ game (
 	comment "Chrono Trigger (Japan)"
 	franchise "Chrono Trigger"
 	rom ( crc 4D014C20 )
-)
-
-game (
-	comment "Chrono Trigger (Japan) (Sample)"
-	franchise "Chrono Trigger"
-	rom ( crc 17C9F363 )
 )
 
 game (
@@ -1048,19 +1042,13 @@ game (
 )
 
 game (
-	comment "Contra Spirits (Japan) (Demo)"
-	franchise "Contra"
-	rom ( crc EFA3A034 )
-)
-
-game (
 	comment "Contra Spirits (World) (Contra Anniversary Collection)"
 	franchise "Contra"
 	rom ( crc 8B037C37 )
 )
 
 game (
-	comment "Contra Spirits (Japan) (En)"
+	comment "Contra Spirits (Japan)"
 	franchise "Contra"
 	rom ( crc B8CFE377 )
 )
@@ -1114,7 +1102,7 @@ game (
 )
 
 game (
-	comment "Death and Return of Superman, The (USA) (Beta) (1994-08-08)"
+	comment "Death and Return of Superman, The (USA) (Beta)"
 	franchise "Superman"
 	rom ( crc 46F6904B )
 )
@@ -1138,7 +1126,7 @@ game (
 )
 
 game (
-	comment "Demon's Blazon - Makaimura Monshou Hen (Japan) (Sample)"
+	comment "Demon's Blazon - Makaimura Monshou Hen (Japan) (Beta)"
 	franchise "Gargoyle's Quest"
 	rom ( crc D5BAE4FF )
 )
@@ -1168,9 +1156,9 @@ game (
 )
 
 game (
-	comment "Digimon Adventure (World) (Pirate)"
+	comment "Digimon Adventure (USA) (Pirate)"
 	franchise "Digimon"
-	rom ( crc AEA5E0BA )
+	rom ( crc 4F660972 )
 )
 
 game (
@@ -1240,7 +1228,7 @@ game (
 )
 
 game (
-	comment "Donkey Kong Country - Competition Cartridge (USA)"
+	comment "Donkey Kong Country - Competition Cartridge (USA) (Competition Cart, Nintendo Power mail-order)"
 	franchise "Donkey Kong"
 	rom ( crc 0E204FBD )
 )
@@ -1362,7 +1350,7 @@ game (
 game (
 	comment "Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta)"
 	franchise "Doraemon"
-	rom ( crc 0698085A )
+	rom ( crc 140A1723 )
 )
 
 game (
@@ -1396,7 +1384,7 @@ game (
 )
 
 game (
-	comment "Dragon - The Bruce Lee Story (USA) (Beta) (1993-04-23)"
+	comment "Dragon - The Bruce Lee Story (USA) (Beta)"
 	franchise "Bruce Lee"
 	rom ( crc 6715E04E )
 )
@@ -1582,7 +1570,7 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (USA) (Beta) (1994-08-19)"
+	comment "Earthworm Jim (USA) (Beta)"
 	franchise "Earthworm Jim"
 	rom ( crc 00A79820 )
 )
@@ -1606,7 +1594,7 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (Europe) (Beta) (1994-08-04)"
+	comment "Earthworm Jim (Europe) (Beta)"
 	franchise "Earthworm Jim"
 	rom ( crc B1EAAD9E )
 )
@@ -1630,13 +1618,13 @@ game (
 )
 
 game (
-	comment "Earthworm Jim 2 (Europe) (Beta) (1995-04-24)"
+	comment "Earthworm Jim 2 (Europe) (Beta 1)"
 	franchise "Earthworm Jim"
 	rom ( crc FF2C508B )
 )
 
 game (
-	comment "Earthworm Jim 2 (Europe) (Beta) (1995-09-07)"
+	comment "Earthworm Jim 2 (Europe) (Beta 2)"
 	franchise "Earthworm Jim"
 	rom ( crc 3287A32B )
 )
@@ -1684,7 +1672,7 @@ game (
 )
 
 game (
-	comment "F-Zero (USA) (Beta) (1991-05-13)"
+	comment "F-Zero (USA) (Beta)"
 	franchise "F-Zero"
 	rom ( crc 1FE12B7A )
 )
@@ -1776,7 +1764,7 @@ game (
 game (
 	comment "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv)"
 	franchise "FIFA"
-	rom ( crc E92D28B7 )
+	rom ( crc 470EABE5 )
 )
 
 game (
@@ -1806,7 +1794,7 @@ game (
 game (
 	comment "FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv)"
 	franchise "FIFA"
-	rom ( crc 38916376 )
+	rom ( crc 9CDBB2F8 )
 )
 
 game (
@@ -2122,25 +2110,25 @@ game (
 )
 
 game (
-	comment "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan) (Virtual Console)"
+	comment "Ganbare Goemon 2 - Kiteretsu Shougun McGuiness (Japan) (Virtual Console)"
 	franchise "Ganbare Goemon"
 	rom ( crc 37972B53 )
 )
 
 game (
-	comment "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta) (1991-05-31)"
+	comment "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta)"
 	franchise "Ganbare Goemon"
 	rom ( crc 6394D9DF )
 )
 
 game (
-	comment "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan)"
+	comment "Ganbare Goemon 2 - Kiteretsu Shougun McGuiness (Japan)"
 	franchise "Ganbare Goemon"
 	rom ( crc CA4C0219 )
 )
 
 game (
-	comment "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24)"
+	comment "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Beta)"
 	franchise "Ganbare Goemon"
 	rom ( crc 9A1AEA39 )
 )
@@ -2218,7 +2206,7 @@ game (
 )
 
 game (
-	comment "Garry Kitchen's Super Battletank (Europe)"
+	comment "Super Battletank (Europe)"
 	franchise "Battletank"
 	rom ( crc FE7DE9CE )
 )
@@ -2272,7 +2260,7 @@ game (
 )
 
 game (
-	comment "Gokujou Parodius (Japan) (Beta 1) (1994-08-05)"
+	comment "Gokujou Parodius (Japan) (Beta 1)"
 	franchise "Parodius"
 	rom ( crc E425BCD7 )
 )
@@ -2500,12 +2488,6 @@ game (
 )
 
 game (
-	comment "J.League Excite Stage '95 (Japan) (Demo)"
-	franchise "J.League"
-	rom ( crc C286EE0C )
-)
-
-game (
 	comment "J.League Excite Stage '96 (Japan)"
 	franchise "J-League Excite Stage"
 	rom ( crc E044E0F1 )
@@ -2608,7 +2590,7 @@ game (
 )
 
 game (
-	comment "Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan)"
+	comment "Jikkyou Powerful Pro Yakyuu - Basic '98 (Japan)"
 	franchise "Powerful Pro Baseball"
 	rom ( crc E17C5C97 )
 )
@@ -2830,12 +2812,6 @@ game (
 )
 
 game (
-	comment "K.H. Rummenigge's Player Manager (Germany) (Sample)"
-	franchise "Player Manager"
-	rom ( crc 17F946C5 )
-)
-
-game (
 	comment "Kamaitachi no Yoru (Japan)"
 	franchise "Kamaitachi No Yoru"
 	rom ( crc 71C631AA )
@@ -2866,7 +2842,7 @@ game (
 )
 
 game (
-	comment "Kevin Keegan's Player Manager (Europe) (Sample)"
+	comment "Kevin Keegan's Player Manager (Europe) (Demo 1)"
 	franchise "Player Manager"
 	rom ( crc E3DFF03D )
 )
@@ -2884,13 +2860,13 @@ game (
 )
 
 game (
-	comment "Kick Off 3 - European Challenge (Europe) (Beta)"
+	comment "Kick Off 3 - European Challenge (Europe) (Beta 2)"
 	franchise "Kick Off"
 	rom ( crc EA93AA27 )
 )
 
 game (
-	comment "King of Fighters 2000, The (World) (Pirate)"
+	comment "King of Fighters 2000, The (USA) (Pirate)"
 	franchise "The King of Fighters"
 	rom ( crc A7813943 )
 )
@@ -3280,9 +3256,9 @@ game (
 )
 
 game (
-	comment "Maerchen Adventure Cotton 100% (World) (NTSC) (Aftermarket) (Unl)"
+	comment "Maerchen Adventure Cotton 100% (USA) (Strictly Limited Games)"
 	franchise "Cotton"
-	rom ( crc 8424C94A )
+	rom ( crc C232AD18 )
 )
 
 game (
@@ -3292,7 +3268,7 @@ game (
 )
 
 game (
-	comment "Magical Drop 2 (Japan) (Bunka Housou Special Version)"
+	comment "Magical Drop 2 - Bunka Housou Special Version (Japan)"
 	franchise "Magical Drop"
 	rom ( crc 569A1CEC )
 )
@@ -3352,7 +3328,7 @@ game (
 )
 
 game (
-	comment "Magical Quest Starring Mickey Mouse, The (USA) (Beta 1) (1992-05-21)"
+	comment "Magical Quest Starring Mickey Mouse, The (USA) (Beta 1)"
 	franchise "Mickey Mouse"
 	rom ( crc 082A05C2 )
 )
@@ -3400,7 +3376,7 @@ game (
 )
 
 game (
-	comment "Marvel Super Heroes - War of the Gems (USA) (Beta)"
+	comment "Marvel Super Heroes in War of the Gems (USA) (Beta)"
 	franchise "Marvel"
 	rom ( crc E86CFE8F )
 )
@@ -3466,15 +3442,15 @@ game (
 )
 
 game (
-	comment "Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection)"
+	comment "Mega Man X (World) (En) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc 00D4B0CD )
+	rom ( crc 97A10846 )
 )
 
 game (
-	comment "Mega Man X2 (World) (Mega Man X Legacy Collection)"
+	comment "Mega Man X2 (World) (En) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc FFF7864D )
+	rom ( crc 8972DF65 )
 )
 
 game (
@@ -3502,9 +3478,9 @@ game (
 )
 
 game (
-	comment "Mega Man X3 (World) (Mega Man X Legacy Collection)"
+	comment "Mega Man X3 (World) (En) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc DF7BDBA9 )
+	rom ( crc 1ACB643D )
 )
 
 game (
@@ -3544,7 +3520,7 @@ game (
 )
 
 game (
-	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (1994-07-18)"
+	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (Debug)"
 	franchise "Mickey Mouse"
 	rom ( crc 7F768797 )
 )
@@ -3580,7 +3556,7 @@ game (
 )
 
 game (
-	comment "Mickey to Minnie - Magical Adventure 2 (Japan) (Beta) (1994-06-22)"
+	comment "Mickey to Minnie - Magical Adventure 2 (Japan) (Beta)"
 	franchise "Mickey Mouse"
 	rom ( crc D39B39EC )
 )
@@ -3738,7 +3714,7 @@ game (
 game (
 	comment "Mortal Kombat (Europe) (Rev 1)"
 	franchise "Mortal Kombat"
-	rom ( crc 047B3D88 )
+	rom ( crc 1ED2D8D6 )
 )
 
 game (
@@ -3778,13 +3754,13 @@ game (
 )
 
 game (
-	comment "Mortal Kombat 3 (USA) (Beta 2) (1995-08-01)"
+	comment "Mortal Kombat 3 (USA) (Beta 2)"
 	franchise "Mortal Kombat"
 	rom ( crc FFCBF355 )
 )
 
 game (
-	comment "Mortal Kombat 3 (USA) (Beta 1) (1995-07-13)"
+	comment "Mortal Kombat 3 (USA) (Beta 1)"
 	franchise "Mortal Kombat"
 	rom ( crc 8DB650F1 )
 )
@@ -3814,7 +3790,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II (USA) (Beta)"
+	comment "Mortal Kombat II (USA) (Rev 1) (Sample)"
 	franchise "Mortal Kombat"
 	rom ( crc 97FE05E5 )
 )
@@ -3838,7 +3814,7 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man (USA) (Beta) (1996-06-18)"
+	comment "Ms. Pac-Man (USA) (Beta)"
 	franchise "Pac-Man"
 	rom ( crc 41CAE05B )
 )
@@ -3892,7 +3868,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (USA) (Beta)"
+	comment "NBA Jam (USA) (Sample)"
 	franchise "NBA Jam"
 	rom ( crc 85B91E4F )
 )
@@ -3925,12 +3901,6 @@ game (
 	comment "NBA Jam - Tournament Edition (USA) (Beta)"
 	franchise "NBA Jam"
 	rom ( crc 1FE85551 )
-)
-
-game (
-	comment "NBA Jam XXXX (USA) (Proto)"
-	franchise "NBA Jam"
-	rom ( crc 0318705B )
 )
 
 game (
@@ -3982,7 +3952,7 @@ game (
 )
 
 game (
-	comment "NBA Live 97 (USA) (Beta) (1996-09-20)"
+	comment "NBA Live 97 (USA) (Beta)"
 	franchise "NBA Live"
 	rom ( crc D7C0CAD3 )
 )
@@ -4000,13 +3970,13 @@ game (
 )
 
 game (
-	comment "New 3D Golf Simulation - Devil's Course (Japan) (Sample)"
+	comment "New 3D Golf Simulation - Devil's Course (Japan) (Beta)"
 	franchise "True Golf Classics"
 	rom ( crc E983B63A )
 )
 
 game (
-	comment "NFL Pro Football '94 (Japan)"
+	comment "John Madden NFL Pro Football '94 (Japan)"
 	franchise "Madden NFL"
 	rom ( crc 1E4B3858 )
 )
@@ -4054,7 +4024,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club 96 (Europe) (Beta)"
+	comment "NFL Quarterback Club 96 (Europe) (Sample)"
 	franchise "NFL Quarterback Club"
 	rom ( crc B87ABC7E )
 )
@@ -4360,7 +4330,7 @@ game (
 )
 
 game (
-	comment "Pokemon Stadium (World) (Pirate)"
+	comment "Pokemon Stadium (USA) (Pirate)"
 	franchise "Pokémon"
 	rom ( crc C675B93A )
 )
@@ -4380,7 +4350,7 @@ game (
 game (
 	comment "Pop'n TwinBee (Japan) (Beta 2)"
 	franchise "Twinbee"
-	rom ( crc 843E1F01 )
+	rom ( crc 5D3B200F )
 )
 
 game (
@@ -4486,7 +4456,7 @@ game (
 )
 
 game (
-	comment "Prehistorik Man (Europe) (En,Fr,De,Es) (Beta)"
+	comment "Prehistorik Man (USA) (Beta)"
 	franchise "Prehistorik"
 	rom ( crc 6C0174A3 )
 )
@@ -4552,7 +4522,7 @@ game (
 )
 
 game (
-	comment "Putty Squad (Europe) (Beta)"
+	comment "Putty Squad (USA) (Proto)"
 	franchise "Putty"
 	rom ( crc 8E57BB02 )
 )
@@ -4678,7 +4648,7 @@ game (
 )
 
 game (
-	comment "Rayman (USA) (Proto)"
+	comment "Rayman (Europe) (Proto)"
 	franchise "Rayman"
 	rom ( crc 366D9177 )
 )
@@ -4750,7 +4720,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	franchise "RoboCop"
 	rom ( crc BEEBEF08 )
 )
@@ -4762,7 +4732,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	franchise "RoboCop"
 	rom ( crc F5AB5D91 )
 )
@@ -4800,7 +4770,7 @@ game (
 game (
 	comment "Rockman X (World) (Ja) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc 8C6C0934 )
+	rom ( crc 94CA42BF )
 )
 
 game (
@@ -4818,7 +4788,7 @@ game (
 game (
 	comment "Rockman X2 (World) (Ja) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc 26FEA793 )
+	rom ( crc 011E5068 )
 )
 
 game (
@@ -4834,19 +4804,19 @@ game (
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-08-23)"
+	comment "Rockman X3 (Japan) (Beta 2)"
 	franchise "Mega Man"
 	rom ( crc 003D43B7 )
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-08-09)"
+	comment "Rockman X3 (Japan) (Beta 1)"
 	franchise "Mega Man"
 	rom ( crc 6D5803BA )
 )
 
 game (
-	comment "Rockman X3 (Japan) (Beta) (1995-09-25)"
+	comment "Rockman X3 (Japan) (Beta 3)"
 	franchise "Mega Man"
 	rom ( crc 396203A2 )
 )
@@ -4854,7 +4824,7 @@ game (
 game (
 	comment "Rockman X3 (World) (Ja) (Mega Man X Legacy Collection)"
 	franchise "Mega Man"
-	rom ( crc 4BC632A1 )
+	rom ( crc 741AB27B )
 )
 
 game (
@@ -4915,12 +4885,6 @@ game (
 	comment "Romancing Sa-Ga 3 (Japan) (Rev 1)"
 	franchise "Romancing SaGa"
 	rom ( crc 6C50C2CF )
-)
-
-game (
-	comment "Romancing Sa-Ga 3 (Japan) (Sample)"
-	franchise "Romancing SaGa"
-	rom ( crc BBBE3253 )
 )
 
 game (
@@ -5038,12 +5002,6 @@ game (
 )
 
 game (
-	comment "Seiken Densetsu 3 (Japan) (Taikenban Sample ROM)"
-	franchise "Mana"
-	rom ( crc 4801E76A )
-)
-
-game (
 	comment "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)"
 	franchise "Sensible Soccer"
 	rom ( crc DCC702D4 )
@@ -5086,7 +5044,7 @@ game (
 )
 
 game (
-	comment "Shaq Fu (USA) (Beta)"
+	comment "Shaq-Fu (USA) (Beta)"
 	franchise "Shaq Fu"
 	rom ( crc E14B00EF )
 )
@@ -5128,57 +5086,27 @@ game (
 )
 
 game (
-	comment "SM Choukyoushi Hitomi (Japan) (Unl)"
+	comment "SM Choukyoushi Hitomi Vol. 1 (Japan)"
 	franchise "SM Choukyoushi Hitomi"
 	rom ( crc D12D3529 )
 )
 
 game (
-	comment "SM Choukyoushi Hitomi (Japan) (Beta) (Unl) [b]"
-	franchise "SM Choukyoushi Hitomi"
-	rom ( crc 1CFC5FEB )
-)
-
-game (
-	comment "SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl)"
+	comment "SM Choukyoushi Hitomi - Bangai Hen (Japan)"
 	franchise "SM Choukyoushi Hitomi"
 	rom ( crc E7A659E0 )
 )
 
 game (
-	comment "SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl)"
+	comment "SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan)"
 	franchise "SM Choukyoushi Hitomi"
 	rom ( crc 0504F733 )
 )
 
 game (
-	comment "SM Choukyoushi Hitomi Vol. 2 (Japan) (Unl)"
+	comment "SM Choukyoushi Hitomi Vol. 2 (Japan)"
 	franchise "SM Choukyoushi Hitomi"
 	rom ( crc 4A55CFB8 )
-)
-
-game (
-	comment "SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl)"
-	franchise "SM Choukyoushi Hitomi"
-	rom ( crc 29E1EFBF )
-)
-
-game (
-	comment "SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) [b]"
-	franchise "SM Choukyoushi Hitomi"
-	rom ( crc 1156CAC6 )
-)
-
-game (
-	comment "SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) (Alt) [b]"
-	franchise "SM Choukyoushi Hitomi"
-	rom ( crc 92E6D22F )
-)
-
-game (
-	comment "SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl)"
-	franchise "SM Choukyoushi Hitomi"
-	rom ( crc B3BE5F84 )
 )
 
 game (
@@ -5320,7 +5248,7 @@ game (
 )
 
 game (
-	comment "Star Fox 2 (USA, Europe)"
+	comment "Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)"
 	franchise "Star Fox"
 	rom ( crc 87653732 )
 )
@@ -5332,97 +5260,97 @@ game (
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-05-06)"
+	comment "Star Fox 2 (Japan) (Beta 3)"
 	franchise "Star Fox"
 	rom ( crc 52018C77 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-05-13)"
+	comment "Star Fox 2 (Japan) (Beta 4)"
 	franchise "Star Fox"
 	rom ( crc D8B14E9D )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-08-31)"
+	comment "Star Fox 2 (Japan) (Beta 5)"
 	franchise "Star Fox"
 	rom ( crc D0FCF5F5 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-12-28) (CES)"
+	comment "Star Fox 2 (USA) (Beta 1)"
 	franchise "Star Fox"
 	rom ( crc 74F8AC20 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-06-08)"
+	comment "Star Fox 2 (Japan) (Beta 6)"
 	franchise "Star Fox"
 	rom ( crc B19AF7B7 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-05-01)"
+	comment "Star Fox 2 (Japan) (Beta 2)"
 	franchise "Star Fox"
 	rom ( crc 40946E9B )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-06-28)"
+	comment "Star Fox 2 (Japan) (Beta 8)"
 	franchise "Star Fox"
 	rom ( crc 58AB9EA0 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-07-25)"
+	comment "Star Fox 2 (Japan) (Beta 9)"
 	franchise "Star Fox"
 	rom ( crc F7DE972E )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-08-31)"
+	comment "Star Fox 2 (Japan) (Beta 10)"
 	franchise "Star Fox"
 	rom ( crc BCF64CA4 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-09-13)"
+	comment "Star Fox 2 (Japan) (Beta 12)"
 	franchise "Star Fox"
 	rom ( crc 00A6F147 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-09-12)"
+	comment "Star Fox 2 (Japan) (Beta 11)"
 	franchise "Star Fox"
 	rom ( crc 47D2D319 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-09-20) (DEBUG)"
+	comment "Star Fox 2 (Japan) (Beta 13) (Debug)"
 	franchise "Star Fox"
 	rom ( crc 588DDD4D )
 )
 
 game (
-	comment "Star Fox 2 (USA) (Beta) (1995-09-12)"
+	comment "Star Fox 2 (USA) (Beta 2)"
 	franchise "Star Fox"
 	rom ( crc 760F0A88 )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1994-04-15)"
+	comment "Star Fox 2 (Japan) (Beta 1)"
 	franchise "Star Fox"
 	rom ( crc 70D7AD50 )
 )
 
 game (
-	comment "Star Fox 2 (USA) (Beta) (1995-09-13)"
+	comment "Star Fox 2 (USA) (Beta 3)"
 	franchise "Star Fox"
 	rom ( crc 3A2EF78B )
 )
 
 game (
-	comment "Star Fox 2 (Japan) (Beta) (1995-06-22)"
+	comment "Star Fox 2 (Japan) (Beta 7)"
 	franchise "Star Fox"
 	rom ( crc 1B3BC708 )
 )
@@ -5500,7 +5428,7 @@ game (
 )
 
 game (
-	comment "Street Fighter EX (World) (Pirate)"
+	comment "Street Fighter EX Plus Alpha (USA) (Pirate)"
 	franchise "Street Fighter"
 	rom ( crc DAD59B9F )
 )
@@ -5524,7 +5452,7 @@ game (
 )
 
 game (
-	comment "Street Fighter II (USA) (Beta) (1992-04-03)"
+	comment "Street Fighter II (USA) (Beta)"
 	franchise "Street Fighter"
 	rom ( crc 40C95DB4 )
 )
@@ -5602,7 +5530,7 @@ game (
 )
 
 game (
-	comment "Street Fighter Zero 2 (Japan) (En) (Proto) (1996-09-15)"
+	comment "Street Fighter Zero 2 (Japan) (En) (Beta)"
 	franchise "Street Fighter"
 	rom ( crc 349D8084 )
 )
@@ -5650,7 +5578,7 @@ game (
 )
 
 game (
-	comment "Super Aleste (Japan) (Beta) (1992-02-25)"
+	comment "Super Aleste (Japan) (Beta)"
 	franchise "Aleste"
 	rom ( crc A895E8F2 )
 )
@@ -5722,7 +5650,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman (Japan)"
+	comment "Super Bomberman (Japan) (En)"
 	franchise "Bomberman"
 	rom ( crc 7989891A )
 )
@@ -5734,13 +5662,13 @@ game (
 )
 
 game (
-	comment "Super Bomberman (USA) (Beta) (1993-05-11)"
+	comment "Super Bomberman (USA) (Beta)"
 	franchise "Bomberman"
 	rom ( crc ACC4D648 )
 )
 
 game (
-	comment "Super Bomberman - Panic Bomber W (Japan)"
+	comment "Super Bomberman - Panic Bomber World (Japan)"
 	franchise "Bomberman"
 	rom ( crc FC633ECB )
 )
@@ -5764,7 +5692,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman 2 (Japan) (Caravan You Taikenban)"
+	comment "Super Bomberman 2 - Caravan You Taikenban (Japan)"
 	franchise "Bomberman"
 	rom ( crc 2AA1DDF8 )
 )
@@ -5806,7 +5734,7 @@ game (
 )
 
 game (
-	comment "Super Bomberman 5 (Japan) (Caravan Event Ban)"
+	comment "Super Bomberman 5 - Caravan Event Ban (Japan)"
 	franchise "Bomberman"
 	rom ( crc 4590AE9D )
 )
@@ -5872,7 +5800,7 @@ game (
 )
 
 game (
-	comment "Super Donkey (Japan) (En) (Proto 1) (Zelda no Densetsu - Kamigami no Triforce leftover data)"
+	comment "Super Donkey (Japan) (En) (Proto 1)"
 	franchise "Donkey Kong"
 	rom ( crc B3B29718 )
 )
@@ -5962,7 +5890,7 @@ game (
 )
 
 game (
-	comment "Super Fire Pro Wrestling 3 (Japan) (Demo)"
+	comment "Super Fire Pro Wrestling 3 (Japan) (Auto Demo)"
 	franchise "Fire Pro Wrestling"
 	rom ( crc 10D71B45 )
 )
@@ -6094,19 +6022,19 @@ game (
 )
 
 game (
-	comment "Super Mario - Yoshi Island (Japan) (Beta) (1995-07-10)"
+	comment "Super Mario - Yoshi Island (Japan) (Beta)"
 	franchise "Super Mario Bros"
 	rom ( crc F3C13579 )
 )
 
 game (
-	comment "Super Mario - Yoshi Island (Japan) (Rev 1) (Beta) (1995-08-21)"
+	comment "Super Mario - Yoshi Island (Japan) (Rev 1) (Sample)"
 	franchise "Super Mario Bros"
 	rom ( crc 050CB66C )
 )
 
 game (
-	comment "Super Mario - Yoshi Island (Japan) (Rev 2) (Beta) (1995-10-02)"
+	comment "Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)"
 	franchise "Super Mario Bros"
 	rom ( crc FB6CE04A )
 )
@@ -6142,13 +6070,13 @@ game (
 )
 
 game (
-	comment "Super Mario All-Stars (Europe) (Wii)"
+	comment "Super Mario All-Stars (Europe) (Virtual Console)"
 	franchise "Mario Bros"
 	rom ( crc 98E5AA9E )
 )
 
 game (
-	comment "Super Mario All-Stars (USA) (Wii)"
+	comment "Super Mario All-Stars (USA) (Virtual Console)"
 	franchise "Mario Bros"
 	rom ( crc A08AC8E6 )
 )
@@ -6166,13 +6094,13 @@ game (
 )
 
 game (
-	comment "Super Mario Collection (Japan) (Rev 1)"
+	comment "Super Mario Collection (Japan) (Rev 1) (NP)"
 	franchise "Mario Bros"
 	rom ( crc 91B28D56 )
 )
 
 game (
-	comment "Super Mario Collection (Japan) (Rev 1) (Wii)"
+	comment "Super Mario Collection (Japan) (Rev 1) (Virtual Console)"
 	franchise "Mario Bros"
 	rom ( crc F8D9137F )
 )
@@ -6184,25 +6112,25 @@ game (
 )
 
 game (
-	comment "Super Mario Kart (Japan) (Beta) (1992-08-06)"
+	comment "Super Mario Kart (Japan) (Beta 3)"
 	franchise "Mario Kart"
 	rom ( crc F575F2A0 )
 )
 
 game (
-	comment "Super Mario Kart (USA) (Beta) (1992-08-06)"
+	comment "Super Mario Kart (USA) (Beta)"
 	franchise "Mario Kart"
 	rom ( crc 54F5E6D4 )
 )
 
 game (
-	comment "Super Mario Kart (Japan) (Beta) (1992-04-13)"
+	comment "Super Mario Kart (Japan) (Beta 1)"
 	franchise "Mario Kart"
 	rom ( crc 6AAF031A )
 )
 
 game (
-	comment "Super Mario Kart (Japan) (Beta) (1992-07-10)"
+	comment "Super Mario Kart (Japan) (Beta 2)"
 	franchise "Mario Kart"
 	rom ( crc 8DC4E42F )
 )
@@ -6268,7 +6196,7 @@ game (
 )
 
 game (
-	comment "Super Mario World (Japan) (En) (Arcade) [b]"
+	comment "Super Mario World (Japan) (En) (Arcade)"
 	franchise "Super Mario Bros"
 	rom ( crc C46766F2 )
 )
@@ -6358,7 +6286,7 @@ game (
 )
 
 game (
-	comment "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)"
+	comment "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)"
 	franchise "Puyo Puyo"
 	rom ( crc 881EC69D )
 )
@@ -6430,7 +6358,7 @@ game (
 )
 
 game (
-	comment "Super Probotector - Alien Rebels (Europe) (Beta)"
+	comment "Super Probotector - Alien Rebels (Europe) (Beta) (Debug)"
 	franchise "Contra"
 	rom ( crc 7C09B80A )
 )
@@ -6460,7 +6388,7 @@ game (
 )
 
 game (
-	comment "Super Puyo Puyo 2 (USA, Europe) (Ja) (Switch Online)"
+	comment "Super Puyo Puyo 2 (World) (Ja) (Switch Online)"
 	franchise "Puyo Puyo"
 	rom ( crc 8C8897F4 )
 )
@@ -6538,7 +6466,7 @@ game (
 )
 
 game (
-	comment "Super Shanghai - Dragon's Eye (Japan) (Activision)"
+	comment "Super Shanghai - Dragon's Eye (Japan)"
 	franchise "Shanghai"
 	rom ( crc C9B16CB2 )
 )
@@ -6568,13 +6496,13 @@ game (
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 3) (1992-07-21)"
+	comment "Super Star Wars (USA) (Beta 3)"
 	franchise "Star Wars"
 	rom ( crc 23665F74 )
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 1) (1992-07-10)"
+	comment "Super Star Wars (USA) (Beta 1)"
 	franchise "Star Wars"
 	rom ( crc 34DD28A0 )
 )
@@ -6586,7 +6514,7 @@ game (
 )
 
 game (
-	comment "Super Star Wars (USA) (Beta 2) (1992-07-17)"
+	comment "Super Star Wars (USA) (Beta 2)"
 	franchise "Star Wars"
 	rom ( crc 25F4A09F )
 )
@@ -6730,7 +6658,7 @@ game (
 )
 
 game (
-	comment "Super Tetris 2 + Bombliss Genteiban (Japan) (En)"
+	comment "Super Tetris 2 + Bombliss Gentei Ban (Japan) (En)"
 	franchise "Tetris"
 	rom ( crc C709B922 )
 )
@@ -6796,9 +6724,9 @@ game (
 )
 
 game (
-	comment "Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl)"
+	comment "Super Turrican 2 (USA) (Strictly Limited Games)"
 	franchise "Turrican"
-	rom ( crc 9F1098BD )
+	rom ( crc 8902AD85 )
 )
 
 game (
@@ -6814,7 +6742,7 @@ game (
 )
 
 game (
-	comment "Superman (USA) (Demo) (1992-05-25)"
+	comment "Superman (USA) (Auto Demo)"
 	franchise "Superman"
 	rom ( crc 26A050C4 )
 )
@@ -6946,7 +6874,7 @@ game (
 )
 
 game (
-	comment "Tekken 2 (World) (Pirate)"
+	comment "Tekken 2 (USA) (Pirate)"
 	franchise "Tekken"
 	rom ( crc 424588AA )
 )
@@ -7078,7 +7006,7 @@ game (
 )
 
 game (
-	comment "Tom & Jerry (USA) (Proto) (1994-07-11)"
+	comment "Tom vs Jerry - The Chase Is On! (Europe) (Proto 1)"
 	franchise "Tom and Jerry"
 	rom ( crc 0A7E967D )
 )
@@ -7108,13 +7036,13 @@ game (
 )
 
 game (
-	comment "Tom to Jerry (Japan)"
+	comment "Tom to Jerry (Japan) (En)"
 	franchise "Tom and Jerry"
 	rom ( crc BA2DE054 )
 )
 
 game (
-	comment "Trials of Mana (World) (Collection of Mana)"
+	comment "Trials of Mana (World) (En) (Collection of Mana)"
 	franchise "Mana"
 	rom ( crc 9743DC0E )
 )
@@ -7144,13 +7072,13 @@ game (
 )
 
 game (
-	comment "Trials of Mana (World) (Rev 1) (Collection of Mana)"
+	comment "Trials of Mana (World) (En) (Rev 1) (Collection of Mana)"
 	franchise "Mana"
 	rom ( crc 173E6097 )
 )
 
 game (
-	comment "Trials of Mana (World) (Beta) (Collection of Mana, 2019-04-02)"
+	comment "Trials of Mana (World) (En) (Beta) (Collection of Mana)"
 	franchise "Mana"
 	rom ( crc DFB821E4 )
 )
@@ -7288,7 +7216,7 @@ game (
 )
 
 game (
-	comment "Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)"
+	comment "Wizardry I-II-III - Story of Llylgamyn (Japan) (NP)"
 	franchise "Wizardry"
 	rom ( crc B8A72553 )
 )
@@ -7344,7 +7272,7 @@ game (
 game (
 	comment "Worms (Europe)"
 	franchise "Worms"
-	rom ( crc B035CB2D )
+	rom ( crc 90D0FAC0 )
 )
 
 game (
@@ -7450,7 +7378,7 @@ game (
 )
 
 game (
-	comment "X-Men vs. Street Fighter (World) (Pirate)"
+	comment "X-Men vs. Street Fighter (USA) (Pirate)"
 	franchise "Street Fighter"
 	rom ( crc 40242231 )
 )
@@ -7568,4 +7496,3 @@ game (
 	franchise "Zool"
 	rom ( crc 5C2A701D )
 )
-

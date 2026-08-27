@@ -10,9 +10,9 @@ game (
 )
 
 game (
-	comment "007 James Bond (Taiwan) (Othello Multivision) (Unl)"
+	comment "007 James Bond (Taiwan) (Othello Multivision)"
 	releasemonth "6"
-	rom ( crc 44BED3CF )
+	rom ( crc 76D6C64D )
 )
 
 game (
@@ -28,15 +28,15 @@ game (
 )
 
 game (
-	comment "Girl's Garden (Taiwan) (Unl)"
+	comment "Girl's Garden (Taiwan)"
 	releasemonth "12"
-	rom ( crc 9AD2A9B1 )
+	rom ( crc B9635AC4 )
 )
 
 game (
-	comment "Star Jacker (Taiwan) (Unl)"
+	comment "Star Jacker (Taiwan)"
 	releasemonth "7"
-	rom ( crc 12CAB5DA )
+	rom ( crc DF162201 )
 )
 
 game (
@@ -52,8 +52,7 @@ game (
 )
 
 game (
-	comment "Yamato (Taiwan) (Unl)"
+	comment "Yamato (Taiwan)"
 	releasemonth "3"
-	rom ( crc D0470475 )
+	rom ( crc B65A093F )
 )
-

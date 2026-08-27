@@ -10,9 +10,9 @@ game (
 )
 
 game (
-	comment "007 James Bond (Taiwan) (Othello Multivision) (Unl)"
+	comment "007 James Bond (Taiwan) (Othello Multivision)"
 	franchise "James Bond 007"
-	rom ( crc 44BED3CF )
+	rom ( crc 76D6C64D )
 )
 
 game (
@@ -28,39 +28,39 @@ game (
 )
 
 game (
-	comment "Bomb Jack (Taiwan) (English Logo) (Unl)"
+	comment "Bomb Jack (Taiwan) (English Logo)"
 	franchise "Bomb Jack"
-	rom ( crc 03E43487 )
+	rom ( crc CDA3A335 )
 )
 
 game (
-	comment "Bomb Jack (Korea) (En) (English Logo) (Unl)"
+	comment "Bomb Jack (Korea) (En) (English Logo)"
 	franchise "Bomb Jack"
-	rom ( crc 03E43487 )
+	rom ( crc 0C69D837 )
 )
 
 game (
-	comment "Bomb Jack (Korea) (En) (Korean Logo) (Unl)"
+	comment "Bomb Jack (Korea) (En) (Korean Logo)"
 	franchise "Bomb Jack"
-	rom ( crc 03E43487 )
+	rom ( crc B0C7B310 )
 )
 
 game (
-	comment "Bomb Jack (Taiwan) (Chinese Logo) (Unl)"
+	comment "Bomb Jack (Taiwan) (Chinese Logo)"
 	franchise "Bomb Jack"
-	rom ( crc 03E43487 )
+	rom ( crc DEB213FE )
 )
 
 game (
-	comment "Bomberman Special (Taiwan) (English Logo) (Unl)"
+	comment "Bomberman Special (Taiwan) (English Logo)"
 	franchise "Bomberman"
 	rom ( crc 69FC1494 )
 )
 
 game (
-	comment "Bomberman Special (Taiwan) (Chinese Logo) (Unl)"
+	comment "Bomberman Special (Taiwan) (Chinese Logo)"
 	franchise "Bomberman"
-	rom ( crc 33B61124 )
+	rom ( crc CE5648C3 )
 )
 
 game (
@@ -70,27 +70,27 @@ game (
 )
 
 game (
-	comment "Choplifter (Korea) (En) (Unl)"
+	comment "Choplifter (Korea) (En)"
 	franchise "Choplifter"
-	rom ( crc B8E2753B )
+	rom ( crc 954D8F26 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (English Logo) (Unl)"
+	comment "Choplifter (Taiwan) (English Logo)"
 	franchise "Choplifter"
-	rom ( crc B8E2753B )
+	rom ( crc 7C603987 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (Chinese Logo) (Unl)"
+	comment "Choplifter (Taiwan) (Chinese Logo)"
 	franchise "Choplifter"
-	rom ( crc B8E2753B )
+	rom ( crc 746A8D86 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (No Logo) (Unl)"
+	comment "Choplifter (Taiwan) (No Logo)"
 	franchise "Choplifter"
-	rom ( crc B8E2753B )
+	rom ( crc 825E1AAE )
 )
 
 game (
@@ -106,9 +106,9 @@ game (
 )
 
 game (
-	comment "Elevator Action (Taiwan) (Unl)"
+	comment "Elevator Action (Taiwan)"
 	franchise "Elevator Action"
-	rom ( crc 3132CE0D )
+	rom ( crc 6846E36D )
 )
 
 game (
@@ -118,25 +118,25 @@ game (
 )
 
 game (
-	comment "King's Valley (Taiwan) (Unl)"
+	comment "King's Valley (Taiwan)"
 	franchise "King's Valley"
 	rom ( crc 223397A1 )
 )
 
 game (
-	comment "Knightmare (Taiwan) (Unl)"
+	comment "Knightmare (Taiwan)"
 	franchise "Knightmare"
 	rom ( crc 281D2888 )
 )
 
 game (
-	comment "Legend of Kage, The (Taiwan) (Unl)"
+	comment "Legend of Kage, The (Taiwan)"
 	franchise "The Legend of Kage"
 	rom ( crc 2E7166D5 )
 )
 
 game (
-	comment "Lode Runner (Taiwan) (Unl)"
+	comment "Lode Runner (Taiwan)"
 	franchise "Lode Runner"
 	rom ( crc D953BDB7 )
 )
@@ -148,9 +148,9 @@ game (
 )
 
 game (
-	comment "Lode Runner (Korea) (Unl)"
+	comment "Lode Runner (Korea)"
 	franchise "Lode Runner"
-	rom ( crc 4B6E85E1 )
+	rom ( crc E68BC7D6 )
 )
 
 game (
@@ -172,9 +172,9 @@ game (
 )
 
 game (
-	comment "Monaco GP (Taiwan) (Unl)"
+	comment "Monaco GP (Taiwan)"
 	franchise "Monaco GP"
-	rom ( crc 8114C7C6 )
+	rom ( crc 01CDA679 )
 )
 
 game (
@@ -184,9 +184,9 @@ game (
 )
 
 game (
-	comment "Ninja Princess (Taiwan) (Unl)"
+	comment "Ninja Princess (Taiwan)"
 	franchise "Sega Ninja"
-	rom ( crc 4618DF79 )
+	rom ( crc 464D144B )
 )
 
 game (
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Sega-Galaga (Taiwan) (Unl)"
+	comment "Sega-Galaga (Taiwan)"
 	franchise "Galaxian"
 	rom ( crc 845BBB22 )
 )
@@ -214,9 +214,9 @@ game (
 )
 
 game (
-	comment "Space Invaders (Taiwan) (Unl)"
+	comment "Space Invaders (Taiwan)"
 	franchise "Space Invaders"
-	rom ( crc FB042522 )
+	rom ( crc 0760EA93 )
 )
 
 game (
@@ -226,9 +226,9 @@ game (
 )
 
 game (
-	comment "Star Force (Taiwan) (Unl) (Alt)"
+	comment "Star Force (Taiwan) (Alt)"
 	franchise "Star Force"
-	rom ( crc D3033F61 )
+	rom ( crc 6F9B1CCD )
 )
 
 game (
@@ -244,19 +244,19 @@ game (
 )
 
 game (
-	comment "Star Soldier (Taiwan) (Unl)"
+	comment "Star Soldier (Taiwan)"
 	franchise "Star Soldier"
-	rom ( crc 2F2F9BA3 )
+	rom ( crc E0816BB7 )
 )
 
 game (
-	comment "Tank Battalion (Taiwan) (Unl)"
+	comment "Tank Battalion (Taiwan)"
 	franchise "Tank Battalion"
 	rom ( crc 5CBD1163 )
 )
 
 game (
-	comment "TwinBee (Taiwan) (Unl)"
+	comment "TwinBee (Taiwan)"
 	franchise "Twinbee"
 	rom ( crc C550B4F0 )
 )
@@ -274,13 +274,13 @@ game (
 )
 
 game (
-	comment "Wonder Boy (Taiwan) (Unl)"
+	comment "Wonder Boy (Taiwan)"
 	franchise "Wonder Boy"
-	rom ( crc 8493FBF4 )
+	rom ( crc 953FC2B2 )
 )
 
 game (
-	comment "Yie Ar Kung-Fu II (Taiwan) (Unl)"
+	comment "Yie Ar Kung-Fu II (Taiwan)"
 	franchise "Yie Ar Kung Fu"
 	rom ( crc FC87463C )
 )
@@ -292,9 +292,9 @@ game (
 )
 
 game (
-	comment "Zaxxon (Taiwan) (Unl)"
+	comment "Zaxxon (Taiwan)"
 	franchise "Zaxxon"
-	rom ( crc CE49084D )
+	rom ( crc 49CAE925 )
 )
 
 game (
@@ -304,8 +304,7 @@ game (
 )
 
 game (
-	comment "Zoom 909 (Taiwan) (Unl)"
+	comment "Zoom 909 (Taiwan)"
 	franchise "Buck Rogers"
-	rom ( crc C19F6645 )
+	rom ( crc 9943FC2B )
 )
-

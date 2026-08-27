@@ -10,15 +10,15 @@ game (
 )
 
 game (
-	comment "Bank Panic (Taiwan) (Unl)"
+	comment "Bank Panic (Taiwan)"
 	releaseyear "1985"
-	rom ( crc EA124D9D )
+	rom ( crc BD43FDE4 )
 )
 
 game (
-	comment "007 James Bond (Taiwan) (Othello Multivision) (Unl)"
+	comment "007 James Bond (Taiwan) (Othello Multivision)"
 	releaseyear "1983"
-	rom ( crc 44BED3CF )
+	rom ( crc 76D6C64D )
 )
 
 game (
@@ -34,39 +34,39 @@ game (
 )
 
 game (
-	comment "Bomb Jack (Taiwan) (English Logo) (Unl)"
+	comment "Bomb Jack (Taiwan) (English Logo)"
 	releaseyear "1985"
-	rom ( crc 03E43487 )
+	rom ( crc CDA3A335 )
 )
 
 game (
-	comment "Bomb Jack (Korea) (En) (English Logo) (Unl)"
+	comment "Bomb Jack (Korea) (En) (English Logo)"
 	releaseyear "1985"
-	rom ( crc 03E43487 )
+	rom ( crc 0C69D837 )
 )
 
 game (
-	comment "Bomb Jack (Korea) (En) (Korean Logo) (Unl)"
+	comment "Bomb Jack (Korea) (En) (Korean Logo)"
 	releaseyear "1985"
-	rom ( crc 03E43487 )
+	rom ( crc B0C7B310 )
 )
 
 game (
-	comment "Bomb Jack (Taiwan) (Chinese Logo) (Unl)"
+	comment "Bomb Jack (Taiwan) (Chinese Logo)"
 	releaseyear "1985"
-	rom ( crc 03E43487 )
+	rom ( crc DEB213FE )
 )
 
 game (
-	comment "Bomberman Special (Taiwan) (English Logo) (Unl)"
+	comment "Bomberman Special (Taiwan) (English Logo)"
 	releaseyear "1986"
 	rom ( crc 69FC1494 )
 )
 
 game (
-	comment "Bomberman Special (Taiwan) (Chinese Logo) (Unl)"
+	comment "Bomberman Special (Taiwan) (Chinese Logo)"
 	releaseyear "1986"
-	rom ( crc 33B61124 )
+	rom ( crc CE5648C3 )
 )
 
 game (
@@ -76,15 +76,15 @@ game (
 )
 
 game (
-	comment "C_So! (Taiwan) (Unl)"
+	comment "C_So! (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 15157AA9 )
+	rom ( crc 82C4E3E5 )
 )
 
 game (
-	comment "Castle, The (Taiwan) (Unl)"
+	comment "Castle, The (Taiwan)"
 	releaseyear "1986"
-	rom ( crc 1DD233E9 )
+	rom ( crc 2E366CCF )
 )
 
 game (
@@ -94,9 +94,9 @@ game (
 )
 
 game (
-	comment "Chack'n Pop (Taiwan) (Unl)"
+	comment "Chack'n Pop (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 2C233CA7 )
+	rom ( crc D81A72CE )
 )
 
 game (
@@ -114,7 +114,7 @@ game (
 game (
 	comment "Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt)"
 	releaseyear "1984"
-	rom ( crc CF68CAB7 )
+	rom ( crc 02BC891F )
 )
 
 game (
@@ -124,21 +124,21 @@ game (
 )
 
 game (
-	comment "Champion Baseball (Taiwan) (Unl)"
+	comment "Champion Baseball (Taiwan)"
 	releaseyear "1983"
-	rom ( crc 49CE48F2 )
+	rom ( crc 677E6878 )
 )
 
 game (
-	comment "Champion Billiards (Taiwan) (Unl)"
+	comment "Champion Billiards (Taiwan)"
 	releaseyear "1986"
-	rom ( crc 4D67D945 )
+	rom ( crc 56D85BD4 )
 )
 
 game (
-	comment "Champion Boxing (Taiwan) (Unl)"
+	comment "Champion Boxing (Taiwan)"
 	releaseyear "1984"
-	rom ( crc E36096C7 )
+	rom ( crc 15D2CE33 )
 )
 
 game (
@@ -154,9 +154,9 @@ game (
 )
 
 game (
-	comment "Champion Golf (Korea) (En) (Unl)"
+	comment "Champion Golf (Korea) (En)"
 	releaseyear "1983"
-	rom ( crc FE652ADC )
+	rom ( crc 35AF42AD )
 )
 
 game (
@@ -166,21 +166,21 @@ game (
 )
 
 game (
-	comment "Champion Ice Hockey (Taiwan) (Unl)"
+	comment "Champion Ice Hockey (Taiwan)"
 	releaseyear "1985"
-	rom ( crc DD60EA3D )
+	rom ( crc C6E5192F )
 )
 
 game (
-	comment "Champion Kendou (Taiwan) (Unl)"
+	comment "Champion Kendou (Taiwan)"
 	releaseyear "1986"
-	rom ( crc F422E8E9 )
+	rom ( crc A5F61363 )
 )
 
 game (
-	comment "Champion Ice Hockey (Korea) (En) (Unl)"
+	comment "Champion Ice Hockey (Korea) (En)"
 	releaseyear "1985"
-	rom ( crc DD60EA3D )
+	rom ( crc EC0B862C )
 )
 
 game (
@@ -196,15 +196,15 @@ game (
 )
 
 game (
-	comment "Champion Soccer (Taiwan) (Unl)"
+	comment "Champion Soccer (Taiwan)"
 	releaseyear "1984"
-	rom ( crc CBE91CE6 )
+	rom ( crc 269C1AEE )
 )
 
 game (
-	comment "Championship Lode Runner (Taiwan) (Unl)"
+	comment "Championship Lode Runner (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 648E3E33 )
+	rom ( crc EC95EBCB )
 )
 
 game (
@@ -214,37 +214,31 @@ game (
 )
 
 game (
-	comment "Choplifter (Korea) (En) (Unl)"
+	comment "Choplifter (Korea) (En)"
 	releaseyear "1985"
-	rom ( crc B8E2753B )
+	rom ( crc 954D8F26 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (English Logo) (Unl)"
+	comment "Choplifter (Taiwan) (English Logo)"
 	releaseyear "1985"
-	rom ( crc B8E2753B )
+	rom ( crc 7C603987 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (Chinese Logo) (Unl)"
+	comment "Choplifter (Taiwan) (Chinese Logo)"
 	releaseyear "1985"
-	rom ( crc B8E2753B )
+	rom ( crc 746A8D86 )
 )
 
 game (
-	comment "Choplifter (Taiwan) (No Logo) (Unl)"
+	comment "Choplifter (Taiwan) (No Logo)"
 	releaseyear "1985"
-	rom ( crc B8E2753B )
+	rom ( crc 825E1AAE )
 )
 
 game (
-	comment "Circus Charlie (Taiwan) (Unl)"
-	releaseyear "1984"
-	rom ( crc 7F7F009D )
-)
-
-game (
-	comment "Circus Charlie (Korea) (Unl)"
+	comment "Circus Charlie (Korea)"
 	releaseyear "1984"
 	rom ( crc 7F7F009D )
 )
@@ -262,9 +256,9 @@ game (
 )
 
 game (
-	comment "Congo Bongo (Taiwan) (Unl)"
+	comment "Congo Bongo (Taiwan)"
 	releaseyear "1983"
-	rom ( crc A28EF70D )
+	rom ( crc F7EB94C5 )
 )
 
 game (
@@ -286,27 +280,27 @@ game (
 )
 
 game (
-	comment "Dragon Wang (Taiwan) (English Logo) (Unl)"
+	comment "Dragon Wang (Taiwan) (English Logo)"
 	releaseyear "1985"
-	rom ( crc 84E2BF11 )
+	rom ( crc 6F94E5C0 )
 )
 
 game (
-	comment "Dragon Wang (Taiwan) (Chinese Logo) (Unl)"
+	comment "Dragon Wang (Taiwan) (Chinese Logo)"
 	releaseyear "1985"
-	rom ( crc 84E2BF11 )
+	rom ( crc 7C7D4397 )
 )
 
 game (
-	comment "Drol (Taiwan) (Unl)"
+	comment "Drol (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 3530D5F7 )
+	rom ( crc B7FC033D )
 )
 
 game (
-	comment "Drol (Korea) (Unl)"
+	comment "Drol (Korea)"
 	releaseyear "1985"
-	rom ( crc 3530D5F7 )
+	rom ( crc 1D7C53BB )
 )
 
 game (
@@ -316,9 +310,9 @@ game (
 )
 
 game (
-	comment "Elevator Action (Taiwan) (Unl)"
+	comment "Elevator Action (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 3132CE0D )
+	rom ( crc 6846E36D )
 )
 
 game (
@@ -328,9 +322,9 @@ game (
 )
 
 game (
-	comment "Flicky (Taiwan) (Unl)"
+	comment "Flicky (Taiwan)"
 	releaseyear "1984"
-	rom ( crc 993DE931 )
+	rom ( crc CD0666A7 )
 )
 
 game (
@@ -346,9 +340,9 @@ game (
 )
 
 game (
-	comment "Girl's Garden (Taiwan) (Unl)"
+	comment "Girl's Garden (Taiwan)"
 	releaseyear "1984"
-	rom ( crc 9AD2A9B1 )
+	rom ( crc B9635AC4 )
 )
 
 game (
@@ -364,9 +358,9 @@ game (
 )
 
 game (
-	comment "GP World (Taiwan) (Unl)"
+	comment "GP World (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 0562D232 )
+	rom ( crc F19F7548 )
 )
 
 game (
@@ -376,15 +370,15 @@ game (
 )
 
 game (
-	comment "Guzzler (Taiwan) (Othello Multivision) (Unl)"
+	comment "Guzzler (Taiwan) (Othello Multivision)"
 	releaseyear "1983"
-	rom ( crc B1E615D9 )
+	rom ( crc EB808158 )
 )
 
 game (
-	comment "Gulkave (Korea) (Unl)"
+	comment "Gulkave (Korea)"
 	releaseyear "1986"
-	rom ( crc 2081F259 )
+	rom ( crc DDCB708B )
 )
 
 game (
@@ -394,9 +388,9 @@ game (
 )
 
 game (
-	comment "H.E.R.O. (Taiwan) (Chinese Logo) (Unl)"
+	comment "H.E.R.O. (Taiwan) (Chinese Logo)"
 	releaseyear "1985"
-	rom ( crc C7A294CB )
+	rom ( crc 83958998 )
 )
 
 game (
@@ -406,21 +400,21 @@ game (
 )
 
 game (
-	comment "H.E.R.O. (Taiwan) (English Logo) (Unl)"
+	comment "H.E.R.O. (Taiwan) (English Logo)"
 	releaseyear "1985"
-	rom ( crc C7A294CB )
+	rom ( crc 96F09C6D )
 )
 
 game (
-	comment "Hang On II (Taiwan) (Chinese Logo) (Unl)"
+	comment "Hang On II (Taiwan) (Chinese Logo)"
 	releaseyear "1985"
-	rom ( crc FE9A62AF )
+	rom ( crc E98A111E )
 )
 
 game (
-	comment "Hang On II (Taiwan) (English Logo) (Unl)"
+	comment "Hang On II (Taiwan) (English Logo)"
 	releaseyear "1985"
-	rom ( crc FE9A62AF )
+	rom ( crc CABD451B )
 )
 
 game (
@@ -430,9 +424,9 @@ game (
 )
 
 game (
-	comment "Home Mahjong (Taiwan) (Unl)"
+	comment "Home Mahjong (Taiwan)"
 	releaseyear "1984"
-	rom ( crc AEA5A89A )
+	rom ( crc 0583A9FA )
 )
 
 game (
@@ -442,43 +436,43 @@ game (
 )
 
 game (
-	comment "Hustle Chumy (Taiwan) (Unl)"
+	comment "Hustle Chumy (Taiwan)"
 	releaseyear "1984"
-	rom ( crc 1EAE8811 )
+	rom ( crc C4ED1FD9 )
 )
 
 game (
-	comment "Hyper Sports (Taiwan) (Unl)"
+	comment "Hyper Sports (Taiwan)"
 	releaseyear "1985"
-	rom ( crc D17D2085 )
+	rom ( crc 87619AC2 )
 )
 
 game (
-	comment "Hyper Sports (Korea) (Unl)"
+	comment "Hyper Sports (Korea)"
 	releaseyear "1985"
-	rom ( crc D17D2085 )
+	rom ( crc 3157EF9C )
 )
 
 game (
-	comment "King's Valley (Taiwan) (Unl)"
+	comment "King's Valley (Taiwan)"
 	releaseyear "1984"
 	rom ( crc 223397A1 )
 )
 
 game (
-	comment "Knightmare (Taiwan) (Unl)"
+	comment "Knightmare (Taiwan)"
 	releaseyear "1987"
 	rom ( crc 281D2888 )
 )
 
 game (
-	comment "Legend of Kage, The (Taiwan) (Unl)"
+	comment "Legend of Kage, The (Taiwan)"
 	releaseyear "1986"
 	rom ( crc 2E7166D5 )
 )
 
 game (
-	comment "Magical Kid Wiz (Taiwan) (Unl)"
+	comment "Magical Kid Wiz (Taiwan)"
 	releaseyear "1986"
 	rom ( crc FFC4EE3F )
 )
@@ -508,15 +502,15 @@ game (
 )
 
 game (
-	comment "Monaco GP (Taiwan) (Unl)"
+	comment "Monaco GP (Taiwan)"
 	releaseyear "1983"
-	rom ( crc 8114C7C6 )
+	rom ( crc 01CDA679 )
 )
 
 game (
-	comment "N-Sub (Taiwan) (Unl)"
+	comment "N-Sub (Taiwan)"
 	releaseyear "1983"
-	rom ( crc CF1BF7E1 )
+	rom ( crc 3E371769 )
 )
 
 game (
@@ -538,9 +532,9 @@ game (
 )
 
 game (
-	comment "Ninja Princess (Taiwan) (Unl)"
+	comment "Ninja Princess (Taiwan)"
 	releaseyear "1986"
-	rom ( crc 4618DF79 )
+	rom ( crc 464D144B )
 )
 
 game (
@@ -550,9 +544,9 @@ game (
 )
 
 game (
-	comment "Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl)"
+	comment "Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)"
 	releaseyear "1984"
-	rom ( crc DB1E871D )
+	rom ( crc B60492D5 )
 )
 
 game (
@@ -568,15 +562,15 @@ game (
 )
 
 game (
-	comment "Othello (Taiwan) (Unl)"
+	comment "Othello (Taiwan)"
 	releaseyear "1985"
-	rom ( crc F5F77820 )
+	rom ( crc 1D1A0CA3 )
 )
 
 game (
-	comment "Pacar (Taiwan) (Unl)"
+	comment "Pacar (Taiwan)"
 	releaseyear "1983"
-	rom ( crc E15AEB4F )
+	rom ( crc DD6817A0 )
 )
 
 game (
@@ -592,9 +586,9 @@ game (
 )
 
 game (
-	comment "Pachinko II (Taiwan) (Unl)"
+	comment "Pachinko II (Taiwan)"
 	releaseyear "1984"
-	rom ( crc 9764E43F )
+	rom ( crc 6EBE81BF )
 )
 
 game (
@@ -610,9 +604,9 @@ game (
 )
 
 game (
-	comment "Safari Race (Taiwan) (Unl)"
+	comment "Safari Race (Taiwan)"
 	releaseyear "1984"
-	rom ( crc 201B97EF )
+	rom ( crc B2724428 )
 )
 
 game (
@@ -622,15 +616,15 @@ game (
 )
 
 game (
-	comment "San-nin Mahjong (Taiwan) (Othello Multivision) (Unl)"
+	comment "San-nin Mahjong (Taiwan) (Othello Multivision)"
 	releaseyear "1984"
-	rom ( crc FC574C15 )
+	rom ( crc 6FD17655 )
 )
 
 game (
 	comment "San-nin Mahjong (Japan) (Othello Multivision) (Alt)"
 	releaseyear "1984"
-	rom ( crc FC574C15 )
+	rom ( crc 0E641F36 )
 )
 
 game (
@@ -658,15 +652,15 @@ game (
 )
 
 game (
-	comment "Shinnyushain Tooru-kun (Taiwan) (Unl)"
+	comment "Shinnyushain Tooru-kun (Taiwan)"
 	releaseyear "1985"
-	rom ( crc B3C0E5B2 )
+	rom ( crc 33FC5CF6 )
 )
 
 game (
-	comment "Soukoban (Taiwan) (Unl)"
+	comment "Soukoban (Taiwan)"
 	releaseyear "1985"
-	rom ( crc 27DACD13 )
+	rom ( crc A2C3FC97 )
 )
 
 game (
@@ -688,9 +682,9 @@ game (
 )
 
 game (
-	comment "Soukoban (Korea) (Unl)"
+	comment "Soukoban (Korea)"
 	releaseyear "1985"
-	rom ( crc 27DACD13 )
+	rom ( crc 148EA752 )
 )
 
 game (
@@ -700,9 +694,9 @@ game (
 )
 
 game (
-	comment "Space Invaders (Taiwan) (Unl)"
+	comment "Space Invaders (Taiwan)"
 	releaseyear "1985"
-	rom ( crc FB042522 )
+	rom ( crc 0760EA93 )
 )
 
 game (
@@ -718,9 +712,9 @@ game (
 )
 
 game (
-	comment "Star Force (Taiwan) (Unl) (Alt)"
+	comment "Star Force (Taiwan) (Alt)"
 	releaseyear "1985"
-	rom ( crc D3033F61 )
+	rom ( crc 6F9B1CCD )
 )
 
 game (
@@ -730,9 +724,9 @@ game (
 )
 
 game (
-	comment "Star Jacker (Taiwan) (Unl)"
+	comment "Star Jacker (Taiwan)"
 	releaseyear "1983"
-	rom ( crc 12CAB5DA )
+	rom ( crc DF162201 )
 )
 
 game (
@@ -748,21 +742,21 @@ game (
 )
 
 game (
-	comment "Super Tank (Taiwan) (Unl)"
+	comment "Super Tank (Taiwan)"
 	releaseyear "1986"
-	rom ( crc ACFE1BEA )
+	rom ( crc D0C3DF3F )
 )
 
 game (
-	comment "Super Tank (Korea) (Unl)"
+	comment "Super Tank (Korea)"
 	releaseyear "1986"
-	rom ( crc ACFE1BEA )
+	rom ( crc 4C48B7AC )
 )
 
 game (
-	comment "Wonder Boy (Taiwan) (Unl)"
+	comment "Wonder Boy (Taiwan)"
 	releaseyear "1986"
-	rom ( crc 8493FBF4 )
+	rom ( crc 953FC2B2 )
 )
 
 game (
@@ -772,21 +766,21 @@ game (
 )
 
 game (
-	comment "Yamato (Taiwan) (Unl)"
+	comment "Yamato (Taiwan)"
 	releaseyear "1983"
-	rom ( crc D0470475 )
+	rom ( crc B65A093F )
 )
 
 game (
-	comment "Zaxxon (Taiwan) (Unl)"
+	comment "Zaxxon (Taiwan)"
 	releaseyear "1985"
-	rom ( crc CE49084D )
+	rom ( crc 49CAE925 )
 )
 
 game (
-	comment "Zippy Race (Taiwan) (Unl)"
+	comment "Zippy Race (Taiwan)"
 	releaseyear "1983"
-	rom ( crc F37253F4 )
+	rom ( crc BCF441A5 )
 )
 
 game (
@@ -796,8 +790,7 @@ game (
 )
 
 game (
-	comment "Zoom 909 (Taiwan) (Unl)"
+	comment "Zoom 909 (Taiwan)"
 	releaseyear "1985"
-	rom ( crc C19F6645 )
+	rom ( crc 9943FC2B )
 )
-

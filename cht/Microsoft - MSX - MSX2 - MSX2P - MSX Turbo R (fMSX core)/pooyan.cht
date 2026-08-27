@@ -1,6 +1,5 @@
 cheat0_desc = "shoot one wolf (very lame cheat)"
 cheat0_address = "8198"
-cheat0_address_bit_position = "255"
 cheat0_big_endian = "false"
 cheat0_enable = "false"
 cheat0_value = "1"

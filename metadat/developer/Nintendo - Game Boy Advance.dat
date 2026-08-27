@@ -6383,13 +6383,13 @@ game (
 
 game (
 	comment "Gekido Advance - Kintaro's Revenge (USA)"
-	developer "NAPS Team"
+	developer "Naps Team"
 	rom ( crc 6BBC5F4D )
 )
 
 game (
 	comment "Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)"
-	developer "NAPS Team"
+	developer "Naps Team"
 	rom ( crc 2FB5B819 )
 )
 
@@ -11555,7 +11555,7 @@ game (
 
 game (
 	comment "Nobunaga no Yabou (Japan)"
-	developer "iNiS"
+	developer "Inis"
 	rom ( crc EF23C79E )
 )
 
@@ -13019,13 +13019,13 @@ game (
 
 game (
 	comment "Racing Fever (France)"
-	developer "NAPS Team"
+	developer "Naps Team"
 	rom ( crc 4F61DEDB )
 )
 
 game (
 	comment "Racing Fever (Europe) (En,De,Es,It)"
-	developer "NAPS Team"
+	developer "Naps Team"
 	rom ( crc E40EC737 )
 )
 
@@ -13361,7 +13361,7 @@ game (
 
 game (
 	comment "Robopon 2 - Cross Version (USA)"
-	developer "Red Entertainment"
+	developer "RED Entertainment"
 	rom ( crc 68D3023A )
 )
 
@@ -13373,7 +13373,7 @@ game (
 
 game (
 	comment "Robot Poncots 2 - Cross Version (Japan)"
-	developer "Red Entertainment"
+	developer "RED Entertainment"
 	rom ( crc 0C6F2B1B )
 )
 
@@ -14513,7 +14513,7 @@ game (
 
 game (
 	comment "Silk to Cotton (Japan)"
-	developer "KiKi"
+	developer "Kiki"
 	rom ( crc 515E2127 )
 )
 
@@ -16265,7 +16265,7 @@ game (
 
 game (
 	comment "Tantei Jinguuji Saburou - Shiroi Kage no Shoujo (Japan)"
-	developer "Workjam"
+	developer "WorkJam"
 	rom ( crc 3C21D7E0 )
 )
 

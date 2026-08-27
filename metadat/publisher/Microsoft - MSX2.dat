@@ -17,7 +17,7 @@ game (
 
 game (
 	comment "AcroJet (Japan)"
-	publisher "Systemsoft"
+	publisher "SystemSoft"
 	rom ( crc D2EE4051 )
 )
 
@@ -695,7 +695,7 @@ game (
 
 game (
 	comment "Ogre (Japan)"
-	publisher "Systemsoft"
+	publisher "SystemSoft"
 	rom ( crc F2544E2E )
 )
 
@@ -707,7 +707,7 @@ game (
 
 game (
 	comment "Ogre (Japan) (Alt)"
-	publisher "Systemsoft"
+	publisher "SystemSoft"
 	rom ( crc B19E88AA )
 )
 

@@ -141,7 +141,7 @@ game (
 
 game (
 	comment "Crimson (Japan)"
-	developer "XTALSOFT"
+	developer "Xtalsoft"
 	rom (
 		crc 8528A795
 	)
@@ -157,7 +157,7 @@ game (
 
 game (
 	comment "Daisenryaku MSX2 (Japan)"
-	developer "SystemSoft"
+	developer "Systemsoft"
 	rom (
 		crc A987A0D8
 	)
@@ -221,7 +221,7 @@ game (
 
 game (
 	comment "Dragon Quest (Japan)"
-	developer "ChunSoft"
+	developer "Chunsoft"
 	rom (
 		crc 7729E7A9
 	)
@@ -853,7 +853,7 @@ game (
 
 game (
 	comment "Ogre (Japan)"
-	developer "SystemSoft"
+	developer "Systemsoft"
 	rom (
 		crc F2544E2E
 	)
@@ -861,7 +861,7 @@ game (
 
 game (
 	comment "Ogre (Japan) (Alt 1)"
-	developer "SystemSoft"
+	developer "Systemsoft"
 	rom (
 		crc B19E88AA
 	)
@@ -1093,7 +1093,7 @@ game (
 
 game (
 	comment "Shanghai (Japan)"
-	developer "SystemSoft"
+	developer "Systemsoft"
 	rom (
 		crc 3B815DC6
 	)
@@ -1189,7 +1189,7 @@ game (
 
 game (
 	comment "Taiyou no Shinden - Asteka II (Japan)"
-	developer "Zap"
+	developer "ZAP"
 	rom (
 		crc AE82A874
 	)

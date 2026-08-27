@@ -4475,13 +4475,13 @@ game (
 
 game (
 	comment "Elfaria - The Isle of the Blest (Japan)"
-	developer "Red Entertainment"
+	developer "RED Entertainment"
 	rom ( crc 75993355 )
 )
 
 game (
 	comment "Elfaria II - The Quest of the Meld (Japan)"
-	developer "Red Entertainment"
+	developer "RED Entertainment"
 	rom ( crc 4D5DA64F )
 )
 
@@ -8339,7 +8339,7 @@ game (
 
 game (
 	comment "Kabuki Rocks (Japan)"
-	developer "Red Entertainment"
+	developer "RED Entertainment"
 	rom ( crc AD324F9D )
 )
 
@@ -16577,7 +16577,7 @@ game (
 
 game (
 	comment "Star Ocean (Japan)"
-	developer "Tri-Ace"
+	developer "tri-Ace"
 	rom ( crc 3DBDFDBF )
 )
 
@@ -20561,7 +20561,7 @@ game (
 
 game (
 	comment "Thunder Spirits (Japan) (En)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 41A933A6 )
 )
 
@@ -20573,7 +20573,7 @@ game (
 
 game (
 	comment "Thunder Spirits (USA)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 522FE837 )
 )
 

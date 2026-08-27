@@ -3875,13 +3875,13 @@ game (
 
 game (
 	comment "Elemental Master (Japan)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 5F553E29 )
 )
 
 game (
 	comment "Elemental Master (USA)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 390918C6 )
 )
 
@@ -5267,13 +5267,13 @@ game (
 
 game (
 	comment "Herzog Zwei (Japan)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 4CF676B3 )
 )
 
 game (
 	comment "Herzog Zwei (USA, Europe)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc A605B65B )
 )
 
@@ -6563,13 +6563,13 @@ game (
 
 game (
 	comment "Lightening Force - Quest for the Darkstar (World) (Sega Ages)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc CA90FF51 )
 )
 
 game (
 	comment "Lightening Force - Quest for the Darkstar (USA)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc C8F8C0E0 )
 )
 
@@ -11723,7 +11723,7 @@ game (
 
 game (
 	comment "Star Control (USA, Europe) (Unl)"
-	developer "Toys For Bob"
+	developer "Toys for Bob"
 	rom ( crc 8E2BCEAF )
 )
 
@@ -13115,43 +13115,43 @@ game (
 
 game (
 	comment "Thunder Force II (USA, Europe)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 9B1561B3 )
 )
 
 game (
 	comment "Thunder Force III (Japan, USA) (En)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 1B3F399A )
 )
 
 game (
 	comment "Thunder Force II MD (Japan)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc E75EC3E0 )
 )
 
 game (
 	comment "Thunder Force III (Japan, USA) (En) (Beta) (1990-08-01)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 2B5C2063 )
 )
 
 game (
 	comment "Thunder Force IV (World) (Sega Ages)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 311D9D4A )
 )
 
 game (
 	comment "Thunder Force IV (Europe)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc E7E3C05B )
 )
 
 game (
 	comment "Thunder Force IV (Japan)"
-	developer "Technosoft"
+	developer "TechnoSoft"
 	rom ( crc 8D606480 )
 )
 

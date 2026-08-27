@@ -3431,7 +3431,7 @@ game (
 
 game (
 	comment "Keitai Denjuu Telefang - Power Version (Japan) (GB Compatible)"
-	developer "Smilesoft"
+	developer "SmileSoft"
 	rom ( crc 8B61CFCC )
 )
 
@@ -4727,7 +4727,7 @@ game (
 
 game (
 	comment "Moorhuhn 3 - ...Es Gibt Huhn! (Europe) (En,Fr,De,Es,It)"
-	developer "similis"
+	developer "Similis"
 	rom ( crc B7C1025B )
 )
 
@@ -4811,7 +4811,7 @@ game (
 
 game (
 	comment "MTV Sports - Skateboarding Featuring Andy MacDonald (USA, Europe)"
-	developer "Darkblack Ltd"
+	developer "DarkBlack Ltd"
 	rom ( crc 744561F3 )
 )
 
@@ -5123,7 +5123,7 @@ game (
 
 game (
 	comment "Original Moorhuhn Jagd, Die (Germany)"
-	developer "similis"
+	developer "Similis"
 	rom ( crc 714EC204 )
 )
 
@@ -5321,7 +5321,7 @@ game (
 
 game (
 	comment "Pocket Monsters Diamond (Taiwan) (En) (Unl)"
-	developer "Smilesoft"
+	developer "SmileSoft"
 	rom ( crc 41E3723C )
 )
 
@@ -5561,7 +5561,7 @@ game (
 
 game (
 	comment "Pokemon Diamond (Taiwan) (En) (Unl)"
-	developer "Smilesoft"
+	developer "SmileSoft"
 	rom ( crc 1B5BEF4B )
 )
 
@@ -7001,7 +7001,7 @@ game (
 
 game (
 	comment "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)"
-	developer "Tri-Ace"
+	developer "tri-Ace"
 	rom ( crc 8C7DDBDA )
 )
 

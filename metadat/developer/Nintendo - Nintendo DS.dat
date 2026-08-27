@@ -180,7 +180,7 @@ game (
 
 game (
 	comment "Phantasy Star 0 (USA)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc AFFB07CF
 	)
@@ -188,7 +188,7 @@ game (
 
 game (
 	comment "Phantasy Star 0 (USA) (Undub)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc 1db5086c
 	)
@@ -196,7 +196,7 @@ game (
 
 game (
 	comment "Phantasy Star 0 (Europe)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc B9027C0C
 	)
@@ -204,7 +204,7 @@ game (
 
 game (
 	comment "Phantasy Star 0 (Japan)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc 512251F9
 	)
@@ -564,7 +564,7 @@ game (
 
 game (
 	comment "Dragon Quest Heroes - Rocket Slime (USA)"
-	developer "Tose"
+	developer "TOSE"
 	rom ( crc 076053F0 )
 )
 
@@ -576,7 +576,7 @@ game (
 
 game (
 	comment "Elite Beat Agents (USA)"
-	developer "iNiS"
+	developer "Inis"
 	rom ( crc 26BC50A1 )
 )
 

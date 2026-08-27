@@ -3695,7 +3695,7 @@ game (
 
 game (
 	comment "Operation WinBack (Europe) (En,Fr,De,Es,It)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc 15F1C325 )
 )
 
@@ -5939,19 +5939,19 @@ game (
 
 game (
 	comment "WinBack (Japan)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc A5364D80 )
 )
 
 game (
 	comment "WinBack (Japan) (Rev 1)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc 9FBD5973 )
 )
 
 game (
 	comment "WinBack - Covert Operations (USA)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc 1A6334D0 )
 )
 
@@ -9887,7 +9887,7 @@ game (
 
 game (
 	comment "Operation WinBack (Europe) (En,Fr,De,Es,It)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc FB96F166 )
 )
 
@@ -12131,19 +12131,19 @@ game (
 
 game (
 	comment "WinBack (Japan) (Rev 1)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc 927383BB )
 )
 
 game (
 	comment "WinBack (Japan)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc D35360B0 )
 )
 
 game (
 	comment "WinBack - Covert Operations (USA)"
-	developer "OMEGA Force"
+	developer "Omega Force"
 	rom ( crc 64C817C5 )
 )
 

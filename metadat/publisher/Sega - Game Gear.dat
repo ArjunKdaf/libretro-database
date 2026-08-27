@@ -4211,7 +4211,7 @@ game (
 
 game (
 	comment "Taisen-gata Daisenryaku G (Japan)"
-	publisher "Systemsoft"
+	publisher "SystemSoft"
 	rom ( crc 7B7717B8 )
 )
 

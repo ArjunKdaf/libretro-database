@@ -410,13 +410,13 @@ game (
 
 game (
 	comment "Sonic Rush (Europe) (En,Ja,Fr,De,Es,It)"
-	publisher "Sega"
+	publisher "SEGA"
 	rom ( crc 0A0DEC19 )
 )
 
 game (
 	comment "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It)"
-	publisher "Sega"
+	publisher "SEGA"
 	rom ( crc 0131034B )
 )
 

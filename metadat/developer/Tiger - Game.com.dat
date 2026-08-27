@@ -29,7 +29,7 @@ game (
 
 game (
 	comment "Fighters Megamix (USA)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc 061E943F
 	)
@@ -125,7 +125,7 @@ game (
 
 game (
 	comment "Sonic Jam (USA)"
-	developer "Sega"
+	developer "SEGA"
 	rom (
 		crc 8B4A63F9
 	)

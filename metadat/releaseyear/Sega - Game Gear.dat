@@ -16,31 +16,31 @@ game (
 )
 
 game (
-	comment "Aladdin (Japan)"
+	comment "Aladdin (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 770E95E1 )
 )
 
 game (
-	comment "Alien 3 (Japan)"
+	comment "Alien 3 (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 06F6EEBB )
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 1)"
 	releaseyear "1994"
 	rom ( crc 5B1F717F )
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-11)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc 8A1693AB )
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc 75A7F142 )
 )
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	releaseyear "1992"
 	rom ( crc FFE4ED47 )
 )
@@ -76,13 +76,13 @@ game (
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)"
+	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 1)"
 	releaseyear "1994"
 	rom ( crc BA45F00F )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)"
+	comment "Asterix and the Great Rescue (USA) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc 31BD3D8A )
 )
@@ -94,19 +94,19 @@ game (
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)"
+	comment "Asterix and the Great Rescue (USA) (Beta 4)"
 	releaseyear "1994"
 	rom ( crc FAF09846 )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)"
+	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc 1E8D735C )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)"
+	comment "Asterix and the Great Rescue (USA) (Beta 5)"
 	releaseyear "1994"
 	rom ( crc 66D8EB63 )
 )
@@ -142,103 +142,103 @@ game (
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 3)"
 	releaseyear "1993"
 	rom ( crc A279C6BC )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 2)"
 	releaseyear "1993"
 	rom ( crc FCF47BC9 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 4)"
 	releaseyear "1993"
 	rom ( crc FFBF5ABE )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 1)"
 	releaseyear "1993"
 	rom ( crc 75A7A8CA )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 5)"
 	releaseyear "1993"
 	rom ( crc 112B123F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 6)"
 	releaseyear "1993"
 	rom ( crc 882B8F53 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 7)"
 	releaseyear "1993"
 	rom ( crc 50D400B8 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 8)"
 	releaseyear "1993"
 	rom ( crc 81A5E68F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 9)"
 	releaseyear "1993"
 	rom ( crc 0E676927 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 10)"
 	releaseyear "1993"
 	rom ( crc F8F11B2A )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 11)"
 	releaseyear "1993"
 	rom ( crc D0971F78 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 12)"
 	releaseyear "1993"
 	rom ( crc 177D65AC )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 14)"
 	releaseyear "1993"
 	rom ( crc B73486D6 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 13)"
 	releaseyear "1993"
 	rom ( crc F61AC1E8 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 15)"
 	releaseyear "1993"
 	rom ( crc E07B865E )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 17)"
 	releaseyear "1993"
 	rom ( crc 217B1EF0 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 16)"
 	releaseyear "1993"
 	rom ( crc 167A4AF6 )
 )
@@ -322,13 +322,13 @@ game (
 )
 
 game (
-	comment "Coca-Cola Kid (Japan)"
+	comment "Sassou Shounen Eiyuuden - Coca-Cola Kid (Japan)"
 	releaseyear "1994"
 	rom ( crc C7598B81 )
 )
 
 game (
-	comment "Columns (Japan) (En) (Rev 1)"
+	comment "Columns (Japan) (En) (Rev A)"
 	releaseyear "1990"
 	rom ( crc AC37E092 )
 )
@@ -400,7 +400,7 @@ game (
 )
 
 game (
-	comment "Devilish (Japan)"
+	comment "Devilish (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 25DB174F )
 )
@@ -466,13 +466,13 @@ game (
 )
 
 game (
-	comment "Dunk Kids (Japan)"
+	comment "Dunk Kids (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 77ED48F5 )
 )
 
 game (
-	comment "Dynamite Headdy (Japan)"
+	comment "Dynamite Headdy (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc F6AF4B6B )
 )
@@ -490,25 +490,25 @@ game (
 )
 
 game (
-	comment "Ecco The Dolphin (Japan)"
+	comment "Ecco the Dolphin (Japan)"
 	releaseyear "1994"
 	rom ( crc A32EB9D5 )
 )
 
 game (
-	comment "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)"
+	comment "Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 1)"
 	releaseyear "1993"
 	rom ( crc 55036BC6 )
 )
 
 game (
-	comment "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)"
+	comment "Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 2)"
 	releaseyear "1993"
 	rom ( crc D4C74C02 )
 )
 
 game (
-	comment "Ecco The Dolphin II (Japan)"
+	comment "Ecco the Dolphin II (Japan)"
 	releaseyear "1995"
 	rom ( crc BA9CEF4F )
 )
@@ -520,7 +520,7 @@ game (
 )
 
 game (
-	comment "Eternal Legend - Eien no Densetsu (Japan)"
+	comment "Eternal Legend (Japan)"
 	releaseyear "1991"
 	rom ( crc 04302BBD )
 )
@@ -538,7 +538,7 @@ game (
 )
 
 game (
-	comment "Faceball 2000 (Japan)"
+	comment "Faceball 2000 (Japan) (En)"
 	releaseyear "1993"
 	rom ( crc AAF6F87D )
 )
@@ -598,7 +598,7 @@ game (
 )
 
 game (
-	comment "Galaga '91 (Japan)"
+	comment "Galaga '91 (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 0593BA24 )
 )
@@ -658,7 +658,7 @@ game (
 )
 
 game (
-	comment "GG Portrait - Pai Chen (Japan)"
+	comment "GG Portrait - Pai Chan (Japan)"
 	releaseyear "1996"
 	rom ( crc 695CC120 )
 )
@@ -670,7 +670,7 @@ game (
 )
 
 game (
-	comment "GG Shinobi, The (Japan)"
+	comment "GG Shinobi, The (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 83926BD1 )
 )
@@ -682,7 +682,7 @@ game (
 )
 
 game (
-	comment "GP Rider (Japan)"
+	comment "GP Rider (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 7A26EC6A )
 )
@@ -694,13 +694,13 @@ game (
 )
 
 game (
-	comment "Griffin (Japan)"
+	comment "Griffin (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc A93E8B0F )
 )
 
 game (
-	comment "Halley Wars (Japan)"
+	comment "Halley Wars (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc DEF5A5D0 )
 )
@@ -784,7 +784,7 @@ game (
 )
 
 game (
-	comment "Jang Pung II (Korea) (En) (Unl)"
+	comment "Jang Pung II (Korea) (En)"
 	releaseyear "1993"
 	rom ( crc 76C5BDFB )
 )
@@ -838,7 +838,7 @@ game (
 )
 
 game (
-	comment "Kinetic Connection (Japan)"
+	comment "Kinetic Connection (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 4AF7F2AA )
 )
@@ -868,7 +868,7 @@ game (
 )
 
 game (
-	comment "Lion King, The (USA)"
+	comment "Lion King, The (USA, Brazil) (En)"
 	releaseyear "1994"
 	rom ( crc 9808D7B3 )
 )
@@ -886,55 +886,55 @@ game (
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-03)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc AACB7387 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-11)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc 214C13DC )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-12)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 4)"
 	releaseyear "1994"
 	rom ( crc 0E80EFE0 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-14)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 6)"
 	releaseyear "1994"
 	rom ( crc EB10A2D4 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-13)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 5)"
 	releaseyear "1994"
 	rom ( crc 8250C11E )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-17)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 9)"
 	releaseyear "1994"
 	rom ( crc B65030D0 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-17) (Alt)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 8)"
 	releaseyear "1994"
 	rom ( crc 4214C474 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-20)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 10)"
 	releaseyear "1994"
 	rom ( crc 3D0B31A2 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-16)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 7)"
 	releaseyear "1994"
 	rom ( crc C6AF9643 )
 )
@@ -946,7 +946,7 @@ game (
 )
 
 game (
-	comment "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)"
+	comment "Madou Monogatari I - 3tsu no Madoukyuu (Japan)"
 	releaseyear "1993"
 	rom ( crc 00C34D94 )
 )
@@ -1030,7 +1030,7 @@ game (
 )
 
 game (
-	comment "Mickey Mouse no Castle Illusion (Japan)"
+	comment "Mickey Mouse no Castle Illusion (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 9942B69B )
 )
@@ -1054,7 +1054,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	releaseyear "1993"
 	rom ( crc DBFF0461 )
 )
@@ -1066,7 +1066,7 @@ game (
 )
 
 game (
-	comment "Nazo Puyo (Japan) (Rev 1)"
+	comment "Nazo Puyo (Japan) (Rev A)"
 	releaseyear "1993"
 	rom ( crc D8D11F8D )
 )
@@ -1090,7 +1090,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (Japan)"
+	comment "NBA Jam (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc A49E9033 )
 )
@@ -1102,169 +1102,169 @@ game (
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-08)"
+	comment "NFL '95 (USA) (Beta 1)"
 	releaseyear "1994"
 	rom ( crc 8CD96D95 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-25) (Alt)"
+	comment "NFL '95 (USA) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc 7F769052 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-25)"
+	comment "NFL '95 (USA) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc FE140EAA )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-26)"
+	comment "NFL '95 (USA) (Beta 4)"
 	releaseyear "1994"
 	rom ( crc F77138DD )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-31)"
+	comment "NFL '95 (USA) (Beta 5)"
 	releaseyear "1994"
 	rom ( crc A3B046E7 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-02)"
+	comment "NFL '95 (USA) (Beta 6)"
 	releaseyear "1994"
 	rom ( crc 3978387B )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-08)"
+	comment "NFL '95 (USA) (Beta 7)"
 	releaseyear "1994"
 	rom ( crc FF70A26F )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-10)"
+	comment "NFL '95 (USA) (Beta 8)"
 	releaseyear "1994"
 	rom ( crc 132DB489 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11)"
+	comment "NFL '95 (USA) (Beta 10)"
 	releaseyear "1994"
 	rom ( crc 088E4B6D )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11) (Alt)"
+	comment "NFL '95 (USA) (Beta 9)"
 	releaseyear "1994"
 	rom ( crc C57C6AFD )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-14)"
+	comment "NFL '95 (USA) (Beta 13)"
 	releaseyear "1994"
 	rom ( crc 2828CB66 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-14) (Alt)"
+	comment "NFL '95 (USA) (Beta 12)"
 	releaseyear "1994"
 	rom ( crc 474A162B )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-12)"
+	comment "NFL '95 (USA) (Beta 11)"
 	releaseyear "1994"
 	rom ( crc B38F48B6 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1994-12-15)"
+	comment "NHL All-Star Hockey (USA) (Beta 1)"
 	releaseyear "1995"
 	rom ( crc E583D999 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1994-12-22)"
+	comment "NHL All-Star Hockey (USA) (Beta 2)"
 	releaseyear "1995"
 	rom ( crc DFBA792A )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1994-12-29)"
+	comment "NHL All-Star Hockey (USA) (Beta 3)"
 	releaseyear "1995"
 	rom ( crc E14D071B )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1994-12-31)"
+	comment "NHL All-Star Hockey (USA) (Beta 4)"
 	releaseyear "1995"
 	rom ( crc 8A2B6323 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-02)"
+	comment "NHL All-Star Hockey (USA) (Beta 5)"
 	releaseyear "1995"
 	rom ( crc 2551F22C )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-03)"
+	comment "NHL All-Star Hockey (USA) (Beta 6)"
 	releaseyear "1995"
 	rom ( crc ECE5633B )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-11)"
+	comment "NHL All-Star Hockey (USA) (Beta 8)"
 	releaseyear "1995"
 	rom ( crc 49F8B9E4 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-07)"
+	comment "NHL All-Star Hockey (USA) (Beta 7)"
 	releaseyear "1995"
 	rom ( crc 82504476 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-13)"
+	comment "NHL All-Star Hockey (USA) (Beta 9)"
 	releaseyear "1995"
 	rom ( crc 87D8FE13 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-16)"
+	comment "NHL All-Star Hockey (USA) (Beta 10)"
 	releaseyear "1995"
 	rom ( crc 50DCF5B6 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-21)"
+	comment "NHL All-Star Hockey (USA) (Beta 12)"
 	releaseyear "1995"
 	rom ( crc 16AF7995 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)"
+	comment "NHL All-Star Hockey (USA) (Beta 13)"
 	releaseyear "1995"
 	rom ( crc 74BE3C4C )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-20)"
+	comment "NHL All-Star Hockey (USA) (Beta 11)"
 	releaseyear "1995"
 	rom ( crc 499B06C2 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt)"
+	comment "NHL All-Star Hockey (USA) (Beta 15)"
 	releaseyear "1995"
 	rom ( crc 0A4A6830 )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)"
+	comment "NHL All-Star Hockey (USA) (Beta 14)"
 	releaseyear "1995"
 	rom ( crc 0B1C38F4 )
 )
@@ -1276,13 +1276,13 @@ game (
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-25)"
+	comment "NHL All-Star Hockey (USA) (Beta 17)"
 	releaseyear "1995"
 	rom ( crc A587B13E )
 )
 
 game (
-	comment "NHL All-Star Hockey (USA) (Beta) (1995-01-24)"
+	comment "NHL All-Star Hockey (USA) (Beta 16)"
 	releaseyear "1995"
 	rom ( crc 54F5EFB2 )
 )
@@ -1294,7 +1294,7 @@ game (
 )
 
 game (
-	comment "Ninku 2 - Tenkuuryuu e no Michi (Japan)"
+	comment "Ninku 2 - Tenkuuryuu-e no Michi (Japan)"
 	releaseyear "1995"
 	rom ( crc 06247DD2 )
 )
@@ -1336,13 +1336,13 @@ game (
 )
 
 game (
-	comment "Panzer Dragoon Mini (Japan)"
+	comment "Panzer Dragoon Mini (Japan) (En)"
 	releaseyear "1996"
 	rom ( crc E9783CEA )
 )
 
 game (
-	comment "Pengo (Japan)"
+	comment "Pengo (Japan) (En)"
 	releaseyear "1990"
 	rom ( crc CE863DBA )
 )
@@ -1378,7 +1378,7 @@ game (
 )
 
 game (
-	comment "Pop Breaker (Japan)"
+	comment "Pop Breaker (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 71DEBA5A )
 )
@@ -1420,13 +1420,13 @@ game (
 )
 
 game (
-	comment "Psychic World (Japan) (En)"
+	comment "Psychic World (Japan)"
 	releaseyear "1991"
 	rom ( crc AFCC7828 )
 )
 
 game (
-	comment "Putt & Putter (Japan, Korea) (Ja)"
+	comment "Putt & Putter (Japan, Korea) (En)"
 	releaseyear "1991"
 	rom ( crc 407AC070 )
 )
@@ -1468,13 +1468,13 @@ game (
 )
 
 game (
-	comment "Rastan Saga (Japan)"
+	comment "Rastan Saga (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 9C76FB3A )
 )
 
 game (
-	comment "Riddick Bowe Boxing (Japan)"
+	comment "Riddick Bowe Boxing (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc A45FFFB7 )
 )
@@ -1558,13 +1558,13 @@ game (
 )
 
 game (
-	comment "Shanghai II (Japan)"
+	comment "Shanghai II (Japan) (En)"
 	releaseyear "1990"
 	rom ( crc 2AE8C75F )
 )
 
 game (
-	comment "Shanghai II (Japan) (Rev A)"
+	comment "Shanghai II (Japan) (En) (Rev A)"
 	releaseyear "1990"
 	rom ( crc 81314249 )
 )
@@ -1576,31 +1576,31 @@ game (
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 1)"
 	releaseyear "1994"
 	rom ( crc 65E5345C )
 )
 
 game (
-	comment "Shikinjou (Japan)"
+	comment "Shikinjou (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 9C5C7F53 )
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc E97EC011 )
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc 8BFC56C3 )
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 4)"
 	releaseyear "1994"
 	rom ( crc 80DCA91D )
 )
@@ -1660,7 +1660,7 @@ game (
 )
 
 game (
-	comment "Sonic & Tails 2 (Japan)"
+	comment "Sonic & Tails 2 (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 496BCE64 )
 )
@@ -1678,13 +1678,13 @@ game (
 )
 
 game (
-	comment "Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17)"
+	comment "Sonic Chaos (USA, Europe, Brazil) (En) (Beta)"
 	releaseyear "1993"
 	rom ( crc F95BBD91 )
 )
 
 game (
-	comment "Sonic Drift (Japan) (En) (Demo)"
+	comment "Sonic Drift (Japan) (En) (Auto Demo)"
 	releaseyear "1994"
 	rom ( crc BAAC1FC0 )
 )
@@ -1702,13 +1702,13 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)"
+	comment "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta)"
 	releaseyear "1994"
 	rom ( crc 80EB7CFB )
 )
 
 game (
-	comment "Soukoban (Japan)"
+	comment "Soukoban (Japan) (En)"
 	releaseyear "1990"
 	rom ( crc 0F3E3840 )
 )
@@ -1720,43 +1720,43 @@ game (
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-09)"
+	comment "Sports Trivia (USA) (Beta 2)"
 	releaseyear "1995"
 	rom ( crc 34407FE9 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-08)"
+	comment "Sports Trivia (USA) (Beta 1)"
 	releaseyear "1995"
 	rom ( crc C38D41C3 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-16)"
+	comment "Sports Trivia (USA) (Beta 3)"
 	releaseyear "1995"
 	rom ( crc 464F1B51 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-25)"
+	comment "Sports Trivia (USA) (Beta 5)"
 	releaseyear "1995"
 	rom ( crc 7524957C )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-25) (Alt)"
+	comment "Sports Trivia (USA) (Beta 4)"
 	releaseyear "1995"
 	rom ( crc 895AF58A )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-27)"
+	comment "Sports Trivia (USA) (Beta 6)"
 	releaseyear "1995"
 	rom ( crc 7898919F )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-05-04)"
+	comment "Sports Trivia (USA) (Beta 7)"
 	releaseyear "1995"
 	rom ( crc BBA4CF7B )
 )
@@ -1768,181 +1768,181 @@ game (
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 1)"
 	releaseyear "1995"
 	rom ( crc A8D1AC51 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 2)"
 	releaseyear "1995"
 	rom ( crc CAF87D8B )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 4)"
 	releaseyear "1995"
 	rom ( crc A3E57816 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 3)"
 	releaseyear "1995"
 	rom ( crc 43BB6B10 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 5)"
 	releaseyear "1995"
 	rom ( crc E7AFF566 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 7)"
 	releaseyear "1995"
 	rom ( crc 9A8AD5CA )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 6)"
 	releaseyear "1995"
 	rom ( crc 18CF6145 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 8)"
 	releaseyear "1995"
 	rom ( crc ACB7E580 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 9)"
 	releaseyear "1995"
 	rom ( crc 27816C09 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 10)"
 	releaseyear "1995"
 	rom ( crc 511B1D24 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 11)"
 	releaseyear "1995"
 	rom ( crc 517BD817 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 12)"
 	releaseyear "1995"
 	rom ( crc E80459B3 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 13)"
 	releaseyear "1995"
 	rom ( crc 05047357 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 14)"
 	releaseyear "1995"
 	rom ( crc E906FBD8 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 15)"
 	releaseyear "1995"
 	rom ( crc F3F9A87B )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 16)"
 	releaseyear "1995"
 	rom ( crc 302B9B36 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 17)"
 	releaseyear "1995"
 	rom ( crc 3E3D6728 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 18)"
 	releaseyear "1995"
 	rom ( crc C68762E6 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 19)"
 	releaseyear "1995"
 	rom ( crc D61A366F )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 21)"
 	releaseyear "1995"
 	rom ( crc 818EC54C )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 20)"
 	releaseyear "1995"
 	rom ( crc 93B98F19 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 22)"
 	releaseyear "1995"
 	rom ( crc F88A55F4 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 23)"
 	releaseyear "1995"
 	rom ( crc CAB74070 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 25)"
 	releaseyear "1995"
 	rom ( crc 352E8B8C )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 24)"
 	releaseyear "1995"
 	rom ( crc 961AE378 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 26)"
 	releaseyear "1995"
 	rom ( crc 8BDB184D )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 27)"
 	releaseyear "1995"
 	rom ( crc 1E360A20 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 29)"
 	releaseyear "1995"
 	rom ( crc 26470D2B )
 )
 
 game (
-	comment "Star Wars (Europe)"
+	comment "Star Wars (USA, Europe)"
 	releaseyear "1993"
 	rom ( crc 0228769C )
 )
 
 game (
-	comment "Star Wars (USA, Europe)"
+	comment "Star Wars (USA, Europe) (Rev 1)"
 	releaseyear "1993"
 	rom ( crc DB9BC599 )
 )
@@ -1978,7 +1978,7 @@ game (
 )
 
 game (
-	comment "Super Golf (Japan)"
+	comment "Super Golf (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 528CBBCE )
 )
@@ -1996,7 +1996,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (Japan, Korea) (Ja)"
+	comment "Super Monaco GP (Japan, Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 4F686C4A )
 )
@@ -2026,7 +2026,7 @@ game (
 )
 
 game (
-	comment "Tails no Skypatrol (Japan)"
+	comment "Tails' Skypatrol (Japan) (En)"
 	releaseyear "1995"
 	rom ( crc 88618AFA )
 )
@@ -2050,7 +2050,7 @@ game (
 )
 
 game (
-	comment "Taito Chase H.Q. (Japan)"
+	comment "Taito Chase H.Q. (Japan) (En)"
 	releaseyear "1991"
 	rom ( crc 7BB81E3D )
 )
@@ -2080,7 +2080,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - The Movie (Japan, Brazil) (Ja)"
+	comment "Tom and Jerry - The Movie (Japan, Brazil) (En,Ja)"
 	releaseyear "1993"
 	rom ( crc A1453EFA )
 )
@@ -2134,7 +2134,7 @@ game (
 )
 
 game (
-	comment "Wonder Boy (Japan)"
+	comment "Wonder Boy (Japan) (En)"
 	releaseyear "1990"
 	rom ( crc 9977FCB3 )
 )
@@ -2146,13 +2146,13 @@ game (
 )
 
 game (
-	comment "World Series Baseball (USA) (Rev 1)"
+	comment "World Series Baseball (USA) (Rev A)"
 	releaseyear "1993"
 	rom ( crc BB38CFD7 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-06-29)"
+	comment "World Series Baseball '95 (USA) (Beta 1)"
 	releaseyear "1994"
 	rom ( crc 496515A6 )
 )
@@ -2164,7 +2164,7 @@ game (
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-09)"
+	comment "World Series Baseball '95 (USA) (Beta 2)"
 	releaseyear "1994"
 	rom ( crc 410F1CA0 )
 )
@@ -2176,73 +2176,73 @@ game (
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-19)"
+	comment "World Series Baseball '95 (USA) (Beta 3)"
 	releaseyear "1994"
 	rom ( crc 5F7CCA5F )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-22)"
+	comment "World Series Baseball '95 (USA) (Beta 4)"
 	releaseyear "1994"
 	rom ( crc 6073CD59 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-28)"
+	comment "World Series Baseball '95 (USA) (Beta 5)"
 	releaseyear "1994"
 	rom ( crc 4190AD97 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-29)"
+	comment "World Series Baseball '95 (USA) (Beta 6)"
 	releaseyear "1994"
 	rom ( crc F1987DE6 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-13)"
+	comment "X-Men - Mojo World (USA) (Beta 2)"
 	releaseyear "1996"
 	rom ( crc C4F3CED4 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-05)"
+	comment "X-Men - Mojo World (USA) (Beta 1)"
 	releaseyear "1996"
 	rom ( crc 626F9987 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-24)"
+	comment "X-Men - Mojo World (USA) (Beta 3)"
 	releaseyear "1996"
 	rom ( crc 78001A5D )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-25)"
+	comment "X-Men - Mojo World (USA) (Beta 4)"
 	releaseyear "1996"
 	rom ( crc D4D2F077 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-27)"
+	comment "X-Men - Mojo World (USA) (Beta 5)"
 	releaseyear "1996"
 	rom ( crc 425AC73F )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-29)"
+	comment "X-Men - Mojo World (USA) (Beta 7)"
 	releaseyear "1996"
 	rom ( crc BA71DA19 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-28)"
+	comment "X-Men - Mojo World (USA) (Beta 6)"
 	releaseyear "1996"
 	rom ( crc D44925EA )
 )
 
 game (
-	comment "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)"
+	comment "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc 88EBBF9E )
 )
@@ -2266,7 +2266,7 @@ game (
 )
 
 game (
-	comment "Zool no Yume Bouken (Japan)"
+	comment "Zool no Yume Bouken (Japan) (En)"
 	releaseyear "1994"
 	rom ( crc E35EF7ED )
 )
@@ -2278,8 +2278,7 @@ game (
 )
 
 game (
-	comment "Zoop (USA) (Beta) (1995-08-11)"
+	comment "Zoop (USA) (Beta)"
 	releaseyear "1995"
 	rom ( crc F397F041 )
 )
-

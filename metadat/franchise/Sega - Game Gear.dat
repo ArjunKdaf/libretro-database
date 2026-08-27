@@ -10,67 +10,67 @@ game (
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 2)"
 	franchise "Batman"
 	rom ( crc 14867057 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 1)"
 	franchise "Batman"
 	rom ( crc ACCE0D15 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En)"
 	franchise "Batman"
 	rom ( crc BB4F23FF )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 6)"
 	franchise "Batman"
 	rom ( crc C403264A )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 4)"
 	franchise "Batman"
 	rom ( crc E57566F3 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 7)"
 	franchise "Batman"
 	rom ( crc 50C2F1AD )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 5)"
 	franchise "Batman"
 	rom ( crc A9CF66ED )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 3)"
 	franchise "Batman"
 	rom ( crc 50376471 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)"
+	comment "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta 8)"
 	franchise "Batman"
 	rom ( crc FC916FD7 )
 )
 
 game (
-	comment "Aladdin (Japan)"
+	comment "Aladdin (Japan) (En)"
 	franchise "Disney"
 	rom ( crc 770E95E1 )
 )
 
 game (
-	comment "Alien 3 (Japan)"
+	comment "Alien 3 (Japan) (En)"
 	franchise "Alien"
 	rom ( crc 06F6EEBB )
 )
@@ -82,19 +82,19 @@ game (
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 1)"
 	franchise "Disney"
 	rom ( crc 5B1F717F )
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-11)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 2)"
 	franchise "Disney"
 	rom ( crc 8A1693AB )
 )
 
 game (
-	comment "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13)"
+	comment "Aladdin (USA, Europe, Brazil) (En) (Beta 3)"
 	franchise "Disney"
 	rom ( crc 75A7F142 )
 )
@@ -112,7 +112,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	franchise "Alien"
 	rom ( crc FFE4ED47 )
 )
@@ -136,13 +136,13 @@ game (
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)"
+	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 1)"
 	franchise "ASTERIX"
 	rom ( crc BA45F00F )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)"
+	comment "Asterix and the Great Rescue (USA) (Beta 3)"
 	franchise "ASTERIX"
 	rom ( crc 31BD3D8A )
 )
@@ -154,25 +154,25 @@ game (
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)"
+	comment "Asterix and the Great Rescue (USA) (Beta 4)"
 	franchise "ASTERIX"
 	rom ( crc FAF09846 )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)"
+	comment "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 2)"
 	franchise "ASTERIX"
 	rom ( crc 1E8D735C )
 )
 
 game (
-	comment "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)"
+	comment "Asterix and the Great Rescue (USA) (Beta 5)"
 	franchise "ASTERIX"
 	rom ( crc 66D8EB63 )
 )
 
 game (
-	comment "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10)"
+	comment "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta)"
 	franchise "Golden Axe"
 	rom ( crc 3435AB54 )
 )
@@ -208,7 +208,7 @@ game (
 )
 
 game (
-	comment "Barbie Super Model (USA) (Proto) (1994-08-25)"
+	comment "Barbie Super Model (USA) (Proto)"
 	franchise "Barbie"
 	rom ( crc 03A0CE9E )
 )
@@ -262,103 +262,103 @@ game (
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 3)"
 	franchise "Berenstain Bears"
 	rom ( crc A279C6BC )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 2)"
 	franchise "Berenstain Bears"
 	rom ( crc FCF47BC9 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 4)"
 	franchise "Berenstain Bears"
 	rom ( crc FFBF5ABE )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 1)"
 	franchise "Berenstain Bears"
 	rom ( crc 75A7A8CA )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 5)"
 	franchise "Berenstain Bears"
 	rom ( crc 112B123F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 6)"
 	franchise "Berenstain Bears"
 	rom ( crc 882B8F53 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 7)"
 	franchise "Berenstain Bears"
 	rom ( crc 50D400B8 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 8)"
 	franchise "Berenstain Bears"
 	rom ( crc 81A5E68F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 9)"
 	franchise "Berenstain Bears"
 	rom ( crc 0E676927 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 10)"
 	franchise "Berenstain Bears"
 	rom ( crc F8F11B2A )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 11)"
 	franchise "Berenstain Bears"
 	rom ( crc D0971F78 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 12)"
 	franchise "Berenstain Bears"
 	rom ( crc 177D65AC )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 14)"
 	franchise "Berenstain Bears"
 	rom ( crc B73486D6 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 13)"
 	franchise "Berenstain Bears"
 	rom ( crc F61AC1E8 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 15)"
 	franchise "Berenstain Bears"
 	rom ( crc E07B865E )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 17)"
 	franchise "Berenstain Bears"
 	rom ( crc 217B1EF0 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 16)"
 	franchise "Berenstain Bears"
 	rom ( crc 167A4AF6 )
 )
@@ -424,145 +424,145 @@ game (
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-01)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 2)"
 	franchise "Eternal Champions"
 	rom ( crc 448C6890 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-05-05)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 1)"
 	franchise "Eternal Champions"
 	rom ( crc A5FA4EAF )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-07)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 4)"
 	franchise "Eternal Champions"
 	rom ( crc 9B2FD7F3 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-05)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 3)"
 	franchise "Eternal Champions"
 	rom ( crc AF43B940 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-08)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 5)"
 	franchise "Eternal Champions"
 	rom ( crc 2036D4B7 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-14)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 7)"
 	franchise "Eternal Champions"
 	rom ( crc 463A2197 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-12)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 6)"
 	franchise "Eternal Champions"
 	rom ( crc F2C24745 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-20)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 9)"
 	franchise "Eternal Champions"
 	rom ( crc BF82CF83 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-19)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 8)"
 	franchise "Eternal Champions"
 	rom ( crc 3CDB35B1 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-26)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 11)"
 	franchise "Eternal Champions"
 	rom ( crc ABE696E5 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-22)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 10)"
 	franchise "Eternal Champions"
 	rom ( crc 4AC79CEC )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 14)"
 	franchise "Eternal Champions"
 	rom ( crc D3614E4E )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 13)"
 	franchise "Eternal Champions"
 	rom ( crc E1112763 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-30)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 15)"
 	franchise "Eternal Champions"
 	rom ( crc F68A3581 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-28)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 12)"
 	franchise "Eternal Champions"
 	rom ( crc 5CD07AED )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-03)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 16)"
 	franchise "Eternal Champions"
 	rom ( crc E3C0EA98 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-05)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 17)"
 	franchise "Eternal Champions"
 	rom ( crc 4158E203 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-06)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 18)"
 	franchise "Eternal Champions"
 	rom ( crc E44D1B01 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-20)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 22)"
 	franchise "Eternal Champions"
 	rom ( crc B0597A54 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 24)"
 	franchise "Eternal Champions"
 	rom ( crc 26CED733 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 23)"
 	franchise "Eternal Champions"
 	rom ( crc 8E149BB8 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-19)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 21)"
 	franchise "Eternal Champions"
 	rom ( crc DD5F9327 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-10)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 19)"
 	franchise "Eternal Champions"
 	rom ( crc 42BECEF6 )
 )
 
 game (
-	comment "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-11)"
+	comment "Chicago Syndicate (USA, Brazil) (En) (Beta 20)"
 	franchise "Eternal Champions"
 	rom ( crc AFE46AA8 )
 )
@@ -598,7 +598,7 @@ game (
 )
 
 game (
-	comment "CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)"
+	comment "CJ Elephant Fugitive (USA, Europe) (Beta)"
 	franchise "CJ Elephant"
 	rom ( crc 3ACE6335 )
 )
@@ -610,13 +610,13 @@ game (
 )
 
 game (
-	comment "Columns (Japan) (En) (Rev 1)"
+	comment "Columns (Japan) (En) (Rev A)"
 	franchise "Columns"
 	rom ( crc AC37E092 )
 )
 
 game (
-	comment "Columns (USA, Europe, Brazil) (En) (Rev 2)"
+	comment "Columns (USA, Europe, Brazil) (En)"
 	franchise "Columns"
 	rom ( crc 83FA26D9 )
 )
@@ -628,7 +628,7 @@ game (
 )
 
 game (
-	comment "Deep Duck Trouble Starring Donald Duck (USA, Europe)"
+	comment "Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En)"
 	franchise "Donald Duck"
 	rom ( crc 5A136D7E )
 )
@@ -724,43 +724,43 @@ game (
 )
 
 game (
-	comment "Ecco The Dolphin (Japan)"
+	comment "Ecco the Dolphin (Japan)"
 	franchise "Ecco the Dolphin"
 	rom ( crc A32EB9D5 )
 )
 
 game (
-	comment "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)"
+	comment "Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 1)"
 	franchise "Ecco the Dolphin"
 	rom ( crc 55036BC6 )
 )
 
 game (
-	comment "Ecco The Dolphin (USA, Europe, Brazil) (En)"
+	comment "Ecco the Dolphin (USA, Europe, Brazil) (En)"
 	franchise "Ecco the Dolphin"
 	rom ( crc 866C7113 )
 )
 
 game (
-	comment "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)"
+	comment "Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 2)"
 	franchise "Ecco the Dolphin"
 	rom ( crc D4C74C02 )
 )
 
 game (
-	comment "Ecco The Dolphin II (Japan)"
+	comment "Ecco the Dolphin II (Japan)"
 	franchise "Ecco the Dolphin"
 	rom ( crc BA9CEF4F )
 )
 
 game (
-	comment "Empire Syndicate (Unknown) (Beta)"
+	comment "Empire Syndicate (USA) (Beta)"
 	franchise "Eternal Champions"
 	rom ( crc 64F17CAC )
 )
 
 game (
-	comment "Eternal Legend - Eien no Densetsu (Japan)"
+	comment "Eternal Legend (Japan)"
 	franchise "Pokémon"
 	rom ( crc 04302BBD )
 )
@@ -802,7 +802,7 @@ game (
 )
 
 game (
-	comment "FIFA International Soccer (USA, Europe)"
+	comment "FIFA International Soccer (USA, Europe) (En,Fr,De,Es)"
 	franchise "FIFA"
 	rom ( crc E632A3A2 )
 )
@@ -814,7 +814,7 @@ game (
 )
 
 game (
-	comment "Galaga '91 (Japan)"
+	comment "Galaga '91 (Japan) (En)"
 	franchise "Galaxian"
 	rom ( crc 0593BA24 )
 )
@@ -868,7 +868,7 @@ game (
 )
 
 game (
-	comment "GG Portrait - Pai Chen (Japan)"
+	comment "GG Portrait - Pai Chan (Japan)"
 	franchise "GG Portrait"
 	rom ( crc 695CC120 )
 )
@@ -880,7 +880,7 @@ game (
 )
 
 game (
-	comment "GG Shinobi, The (Japan)"
+	comment "GG Shinobi, The (Japan) (En)"
 	franchise "Shinobi"
 	rom ( crc 83926BD1 )
 )
@@ -898,7 +898,7 @@ game (
 )
 
 game (
-	comment "Halley Wars (Japan)"
+	comment "Halley Wars (Japan) (En)"
 	franchise "Halley"
 	rom ( crc DEF5A5D0 )
 )
@@ -1066,37 +1066,37 @@ game (
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 1)"
 	franchise "Mickey Mouse"
 	rom ( crc 1CC16AD9 )
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 2)"
 	franchise "Mickey Mouse"
 	rom ( crc 63020617 )
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 4)"
 	franchise "Mickey Mouse"
 	rom ( crc F9D4CEE9 )
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 3)"
 	franchise "Mickey Mouse"
 	rom ( crc A0565A5C )
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 6)"
 	franchise "Mickey Mouse"
 	rom ( crc DE8545AF )
 )
 
 game (
-	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)"
+	comment "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 5)"
 	franchise "Mickey Mouse"
 	rom ( crc 670EDE92 )
 )
@@ -1114,13 +1114,13 @@ game (
 )
 
 game (
-	comment "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)"
+	comment "Lemmings 2 - The Tribes (Europe) (Proto)"
 	franchise "Lemmings"
 	rom ( crc FBC807E1 )
 )
 
 game (
-	comment "Lion King, The (USA)"
+	comment "Lion King, The (USA, Brazil) (En)"
 	franchise "Disney"
 	rom ( crc 9808D7B3 )
 )
@@ -1138,49 +1138,49 @@ game (
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-03)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 2)"
 	franchise "Disney"
 	rom ( crc AACB7387 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-11)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 3)"
 	franchise "Disney"
 	rom ( crc 214C13DC )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-12)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 4)"
 	franchise "Disney"
 	rom ( crc 0E80EFE0 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-14)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 6)"
 	franchise "Disney"
 	rom ( crc EB10A2D4 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-13)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 5)"
 	franchise "Disney"
 	rom ( crc 8250C11E )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-17)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 9)"
 	franchise "Disney"
 	rom ( crc B65030D0 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-17) (Alt)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 8)"
 	franchise "Disney"
 	rom ( crc 4214C474 )
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-20)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 10)"
 	franchise "Disney"
 	rom ( crc 3D0B31A2 )
 )
@@ -1192,7 +1192,7 @@ game (
 )
 
 game (
-	comment "Lion King, The (USA) (Beta) (1994-08-16)"
+	comment "Lion King, The (USA, Brazil) (En) (Beta 7)"
 	franchise "Disney"
 	rom ( crc C6AF9643 )
 )
@@ -1216,7 +1216,7 @@ game (
 )
 
 game (
-	comment "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)"
+	comment "Madou Monogatari I - 3tsu no Madoukyuu (Japan)"
 	franchise "Madou Monogatari"
 	rom ( crc 00C34D94 )
 )
@@ -1282,7 +1282,7 @@ game (
 )
 
 game (
-	comment "Mickey Mouse no Castle Illusion (Japan)"
+	comment "Mickey Mouse no Castle Illusion (Japan) (En)"
 	franchise "Mickey Mouse"
 	rom ( crc 9942B69B )
 )
@@ -1306,7 +1306,7 @@ game (
 )
 
 game (
-	comment "Micro Machines (USA, Europe) (Beta) (1993-10-22)"
+	comment "Micro Machines (USA, Europe) (Beta)"
 	franchise "Micro Machines"
 	rom ( crc C21E6CD0 )
 )
@@ -1318,7 +1318,7 @@ game (
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)"
+	comment "Mighty Morphin Power Rangers (USA, Europe) (Beta)"
 	franchise "Power Rangers"
 	rom ( crc 2887F04A )
 )
@@ -1348,7 +1348,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	franchise "Mortal Kombat"
 	rom ( crc DBFF0461 )
 )
@@ -1378,7 +1378,7 @@ game (
 )
 
 game (
-	comment "Nazo Puyo (Japan) (Rev 1)"
+	comment "Nazo Puyo (Japan) (Rev A)"
 	franchise "Nazo Puyo"
 	rom ( crc D8D11F8D )
 )
@@ -1408,181 +1408,181 @@ game (
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 1)"
 	franchise "NBA Action"
 	rom ( crc 31084021 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-12-01)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 2)"
 	franchise "NBA Action"
 	rom ( crc 8C089DA5 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-04)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 3)"
 	franchise "NBA Action"
 	rom ( crc C658B5B3 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-06)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 4)"
 	franchise "NBA Action"
 	rom ( crc 41DABD84 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-24)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 6)"
 	franchise "NBA Action"
 	rom ( crc 9824F77D )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-10)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 5)"
 	franchise "NBA Action"
 	rom ( crc A34B2B4C )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-29)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 7)"
 	franchise "NBA Action"
 	rom ( crc 0D6BF79D )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-03)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 9)"
 	franchise "NBA Action"
 	rom ( crc E2341DCE )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-06)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 10)"
 	franchise "NBA Action"
 	rom ( crc 07649147 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-02)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 8)"
 	franchise "NBA Action"
 	rom ( crc F9D5500B )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 18)"
 	franchise "NBA Action"
 	rom ( crc AFC8A69E )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-08)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 11)"
 	franchise "NBA Action"
 	rom ( crc 5E089FBC )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-15)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 13)"
 	franchise "NBA Action"
 	rom ( crc E73B02A4 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-17)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 14)"
 	franchise "NBA Action"
 	rom ( crc C4B3328C )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-12)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 12)"
 	franchise "NBA Action"
 	rom ( crc 0C0F6B4C )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-24)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 17)"
 	franchise "NBA Action"
 	rom ( crc 21A79F63 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-21)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 16)"
 	franchise "NBA Action"
 	rom ( crc 9265F8C3 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 19)"
 	franchise "NBA Action"
 	rom ( crc 188A319E )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-20)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 15)"
 	franchise "NBA Action"
 	rom ( crc 91E3026C )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 20)"
 	franchise "NBA Action"
 	rom ( crc 6896B65D )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-27)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 21)"
 	franchise "NBA Action"
 	rom ( crc AB721F11 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 22)"
 	franchise "NBA Action"
 	rom ( crc 82E882D6 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-01)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 24)"
 	franchise "NBA Action"
 	rom ( crc 4415C0BB )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-02)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 25)"
 	franchise "NBA Action"
 	rom ( crc 5254577A )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-08)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 30)"
 	franchise "NBA Action"
 	rom ( crc C9E98A49 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 23)"
 	franchise "NBA Action"
 	rom ( crc D15AA940 )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-05)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 29)"
 	franchise "NBA Action"
 	rom ( crc E197A0BB )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 28)"
 	franchise "NBA Action"
 	rom ( crc A82049DF )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-03)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 26)"
 	franchise "NBA Action"
 	rom ( crc 75A5BC5D )
 )
 
 game (
-	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt)"
+	comment "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 27)"
 	franchise "NBA Action"
 	rom ( crc 80C0586C )
 )
@@ -1594,13 +1594,13 @@ game (
 )
 
 game (
-	comment "NBA Jam (USA) (Rev 1)"
+	comment "NBA Jam (USA) (Rev 1) (Putative Proto)"
 	franchise "NBA Jam"
 	rom ( crc 820FA4AB )
 )
 
 game (
-	comment "NBA Jam (Japan)"
+	comment "NBA Jam (Japan) (En)"
 	franchise "NBA Jam"
 	rom ( crc A49E9033 )
 )
@@ -1618,79 +1618,79 @@ game (
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-08)"
+	comment "NFL '95 (USA) (Beta 1)"
 	franchise "Joe Montana Football"
 	rom ( crc 8CD96D95 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-25) (Alt)"
+	comment "NFL '95 (USA) (Beta 2)"
 	franchise "Joe Montana Football"
 	rom ( crc 7F769052 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-25)"
+	comment "NFL '95 (USA) (Beta 3)"
 	franchise "Joe Montana Football"
 	rom ( crc FE140EAA )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-26)"
+	comment "NFL '95 (USA) (Beta 4)"
 	franchise "Joe Montana Football"
 	rom ( crc F77138DD )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-31)"
+	comment "NFL '95 (USA) (Beta 5)"
 	franchise "Joe Montana Football"
 	rom ( crc A3B046E7 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-02)"
+	comment "NFL '95 (USA) (Beta 6)"
 	franchise "Joe Montana Football"
 	rom ( crc 3978387B )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-08)"
+	comment "NFL '95 (USA) (Beta 7)"
 	franchise "Joe Montana Football"
 	rom ( crc FF70A26F )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-10)"
+	comment "NFL '95 (USA) (Beta 8)"
 	franchise "Joe Montana Football"
 	rom ( crc 132DB489 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11)"
+	comment "NFL '95 (USA) (Beta 10)"
 	franchise "Joe Montana Football"
 	rom ( crc 088E4B6D )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11) (Alt)"
+	comment "NFL '95 (USA) (Beta 9)"
 	franchise "Joe Montana Football"
 	rom ( crc C57C6AFD )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-14)"
+	comment "NFL '95 (USA) (Beta 13)"
 	franchise "Joe Montana Football"
 	rom ( crc 2828CB66 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-14) (Alt)"
+	comment "NFL '95 (USA) (Beta 12)"
 	franchise "Joe Montana Football"
 	rom ( crc 474A162B )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-12)"
+	comment "NFL '95 (USA) (Beta 11)"
 	franchise "Joe Montana Football"
 	rom ( crc B38F48B6 )
 )
@@ -1732,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Ninku 2 - Tenkuuryuu e no Michi (Japan)"
+	comment "Ninku 2 - Tenkuuryuu-e no Michi (Japan)"
 	franchise "Ninku"
 	rom ( crc 06247DD2 )
 )
@@ -1762,7 +1762,7 @@ game (
 )
 
 game (
-	comment "OutRun (Japan, Europe, Korea) (Ja)"
+	comment "OutRun (Japan, Korea) (En)"
 	franchise "OutRun"
 	rom ( crc D58CB27C )
 )
@@ -1804,7 +1804,7 @@ game (
 )
 
 game (
-	comment "Panzer Dragoon Mini (Japan)"
+	comment "Panzer Dragoon Mini (Japan) (En)"
 	franchise "Panzer Dragoon"
 	rom ( crc E9783CEA )
 )
@@ -1840,13 +1840,13 @@ game (
 )
 
 game (
-	comment "Pete Sampras Tennis (USA, Europe)"
+	comment "Pete Sampras Tennis (Europe)"
 	franchise "Pete Sampras Tennis"
 	rom ( crc C1756BEE )
 )
 
 game (
-	comment "PGA Tour Golf (USA) (Rev 1)"
+	comment "PGA Tour Golf (USA) (Rev 1) (Putative Proto)"
 	franchise "PGA Tour Golf"
 	rom ( crc 1C77D996 )
 )
@@ -1996,7 +1996,7 @@ game (
 )
 
 game (
-	comment "Rastan Saga (Japan)"
+	comment "Rastan Saga (Japan) (En)"
 	franchise "Rastan"
 	rom ( crc 9C76FB3A )
 )
@@ -2032,7 +2032,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA, Europe)"
+	comment "RoboCop Versus The Terminator (USA, Europe)"
 	franchise "Terminator"
 	rom ( crc 4AB7FA4E )
 )
@@ -2062,13 +2062,13 @@ game (
 )
 
 game (
-	comment "Shanghai II (Japan)"
+	comment "Shanghai II (Japan) (En)"
 	franchise "Shanghai"
 	rom ( crc 2AE8C75F )
 )
 
 game (
-	comment "Shanghai II (Japan) (Rev A)"
+	comment "Shanghai II (Japan) (En) (Rev A)"
 	franchise "Shanghai"
 	rom ( crc 81314249 )
 )
@@ -2080,7 +2080,7 @@ game (
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 1)"
 	franchise "Shining Force"
 	rom ( crc 65E5345C )
 )
@@ -2092,19 +2092,19 @@ game (
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 2)"
 	franchise "Shining Force"
 	rom ( crc E97EC011 )
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 3)"
 	franchise "Shining Force"
 	rom ( crc 8BFC56C3 )
 )
 
 game (
-	comment "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)"
+	comment "Shining Force - The Sword of Hajya (USA) (Beta 4)"
 	franchise "Shining Force"
 	rom ( crc 80DCA91D )
 )
@@ -2194,7 +2194,7 @@ game (
 )
 
 game (
-	comment "Smurfs Travel the World, The (Europe) (En,Fr,De,Es)"
+	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)"
 	franchise "Les Schtroumpfs"
 	rom ( crc 3EB337DF )
 )
@@ -2218,7 +2218,7 @@ game (
 )
 
 game (
-	comment "Sonic & Tails 2 (Japan)"
+	comment "Sonic & Tails 2 (Japan) (En)"
 	franchise "Sonic"
 	rom ( crc 496BCE64 )
 )
@@ -2230,37 +2230,37 @@ game (
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-05-31)"
+	comment "Sonic Blast (World) (Beta 1)"
 	franchise "Sonic"
 	rom ( crc C09EF45B )
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-08-06)"
+	comment "Sonic Blast (World) (Beta 3)"
 	franchise "Sonic"
 	rom ( crc 19DAD067 )
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-07-04)"
+	comment "Sonic Blast (World) (Beta 2)"
 	franchise "Sonic"
 	rom ( crc 362B186D )
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-08-21)"
+	comment "Sonic Blast (World) (Beta 4)"
 	franchise "Sonic"
 	rom ( crc 5EECB549 )
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-08-27)"
+	comment "Sonic Blast (World) (Beta 5)"
 	franchise "Sonic"
 	rom ( crc E6847AC0 )
 )
 
 game (
-	comment "Sonic Blast (World) (Beta) (1996-09-02)"
+	comment "Sonic Blast (World) (Beta 6)"
 	franchise "Sonic"
 	rom ( crc 2F22A352 )
 )
@@ -2278,13 +2278,13 @@ game (
 )
 
 game (
-	comment "Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17)"
+	comment "Sonic Chaos (USA, Europe, Brazil) (En) (Beta)"
 	franchise "Sonic"
 	rom ( crc F95BBD91 )
 )
 
 game (
-	comment "Sonic Drift (Japan) (En) (Demo)"
+	comment "Sonic Drift (Japan) (En) (Auto Demo)"
 	franchise "Sonic Drift"
 	rom ( crc BAAC1FC0 )
 )
@@ -2302,7 +2302,7 @@ game (
 )
 
 game (
-	comment "Sonic Labyrinth (USA, Europe) (Virtual Console)"
+	comment "Sonic Labyrinth (World) (Virtual Console)"
 	franchise "Sonic"
 	rom ( crc B531A09E )
 )
@@ -2314,121 +2314,121 @@ game (
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-07)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 1)"
 	franchise "Sonic"
 	rom ( crc 3283580D )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-10)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 2)"
 	franchise "Sonic"
 	rom ( crc 1A736612 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-11)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 3)"
 	franchise "Sonic"
 	rom ( crc 1AED8F62 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-21)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 4)"
 	franchise "Sonic"
 	rom ( crc 46657B4E )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-28)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 5)"
 	franchise "Sonic"
 	rom ( crc 1233C3E3 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-29)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 6)"
 	franchise "Sonic"
 	rom ( crc AA7AEDB0 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-30)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 7)"
 	franchise "Sonic"
 	rom ( crc 2CA34AB2 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-05)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 8)"
 	franchise "Sonic"
 	rom ( crc 09B913D5 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-12)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 9)"
 	franchise "Sonic"
 	rom ( crc F8A432F6 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-13)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 10)"
 	franchise "Sonic"
 	rom ( crc 1F1ABF2C )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-15)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 11)"
 	franchise "Sonic"
 	rom ( crc E3B5CD1E )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-21)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 12)"
 	franchise "Sonic"
 	rom ( crc BBAECF7C )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-27)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 13)"
 	franchise "Sonic"
 	rom ( crc 07D32244 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 14)"
 	franchise "Sonic"
 	rom ( crc 30A7D062 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 15)"
 	franchise "Sonic"
 	rom ( crc 221C4BA4 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-03)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 16)"
 	franchise "Sonic"
 	rom ( crc E2FE976A )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-05)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 17)"
 	franchise "Sonic"
 	rom ( crc BE76BF30 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-06)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 18)"
 	franchise "Sonic"
 	rom ( crc A4833D27 )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-25)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 19)"
 	franchise "Sonic"
 	rom ( crc A035FD5C )
 )
 
 game (
-	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-30)"
+	comment "Sonic Spinball (USA, Europe, Brazil) (En) (Beta 20)"
 	franchise "Sonic"
 	rom ( crc 6107819D )
 )
@@ -2440,7 +2440,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog (Japan, Europe, Brazil) (En) (Rev 1)"
+	comment "Sonic The Hedgehog (World) (Rev A)"
 	franchise "Sonic"
 	rom ( crc D163356E )
 )
@@ -2452,7 +2452,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)"
+	comment "Sonic The Hedgehog (World) (Rev A) (Virtual Console)"
 	franchise "Sonic"
 	rom ( crc C2572208 )
 )
@@ -2464,13 +2464,13 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)"
+	comment "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta)"
 	franchise "Sonic"
 	rom ( crc 80EB7CFB )
 )
 
 game (
-	comment "Soukoban (Japan)"
+	comment "Soukoban (Japan) (En)"
 	franchise "Sokoban"
 	rom ( crc 0F3E3840 )
 )
@@ -2482,7 +2482,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Auto Demo)"
+	comment "Sonic The Hedgehog 2 (USA) (Auto Demo)"
 	franchise "Sonic"
 	rom ( crc 15AD37A5 )
 )
@@ -2530,49 +2530,49 @@ game (
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-09)"
+	comment "Sports Trivia (USA) (Beta 2)"
 	franchise "Sports Trivia"
 	rom ( crc 34407FE9 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-08)"
+	comment "Sports Trivia (USA) (Beta 1)"
 	franchise "Sports Trivia"
 	rom ( crc C38D41C3 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-03-16)"
+	comment "Sports Trivia (USA) (Beta 3)"
 	franchise "Sports Trivia"
 	rom ( crc 464F1B51 )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-25)"
+	comment "Sports Trivia (USA) (Beta 5)"
 	franchise "Sports Trivia"
 	rom ( crc 7524957C )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-25) (Alt)"
+	comment "Sports Trivia (USA) (Beta 4)"
 	franchise "Sports Trivia"
 	rom ( crc 895AF58A )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-04-27)"
+	comment "Sports Trivia (USA) (Beta 6)"
 	franchise "Sports Trivia"
 	rom ( crc 7898919F )
 )
 
 game (
-	comment "Sports Trivia (USA) (Beta) (1995-05-04)"
+	comment "Sports Trivia (USA) (Beta 7)"
 	franchise "Sports Trivia"
 	rom ( crc BBA4CF7B )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 28)"
 	franchise "Sports Trivia"
 	rom ( crc 5B5DE94D )
 )
@@ -2584,169 +2584,169 @@ game (
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 1)"
 	franchise "Sports Trivia"
 	rom ( crc A8D1AC51 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 2)"
 	franchise "Sports Trivia"
 	rom ( crc CAF87D8B )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 4)"
 	franchise "Sports Trivia"
 	rom ( crc A3E57816 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 3)"
 	franchise "Sports Trivia"
 	rom ( crc 43BB6B10 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 5)"
 	franchise "Sports Trivia"
 	rom ( crc E7AFF566 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 7)"
 	franchise "Sports Trivia"
 	rom ( crc 9A8AD5CA )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 6)"
 	franchise "Sports Trivia"
 	rom ( crc 18CF6145 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 8)"
 	franchise "Sports Trivia"
 	rom ( crc ACB7E580 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 9)"
 	franchise "Sports Trivia"
 	rom ( crc 27816C09 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 10)"
 	franchise "Sports Trivia"
 	rom ( crc 511B1D24 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 11)"
 	franchise "Sports Trivia"
 	rom ( crc 517BD817 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 12)"
 	franchise "Sports Trivia"
 	rom ( crc E80459B3 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 13)"
 	franchise "Sports Trivia"
 	rom ( crc 05047357 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 14)"
 	franchise "Sports Trivia"
 	rom ( crc E906FBD8 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 15)"
 	franchise "Sports Trivia"
 	rom ( crc F3F9A87B )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 16)"
 	franchise "Sports Trivia"
 	rom ( crc 302B9B36 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 17)"
 	franchise "Sports Trivia"
 	rom ( crc 3E3D6728 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 18)"
 	franchise "Sports Trivia"
 	rom ( crc C68762E6 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 19)"
 	franchise "Sports Trivia"
 	rom ( crc D61A366F )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 21)"
 	franchise "Sports Trivia"
 	rom ( crc 818EC54C )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 20)"
 	franchise "Sports Trivia"
 	rom ( crc 93B98F19 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 22)"
 	franchise "Sports Trivia"
 	rom ( crc F88A55F4 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 23)"
 	franchise "Sports Trivia"
 	rom ( crc CAB74070 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 25)"
 	franchise "Sports Trivia"
 	rom ( crc 352E8B8C )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 24)"
 	franchise "Sports Trivia"
 	rom ( crc 961AE378 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 26)"
 	franchise "Sports Trivia"
 	rom ( crc 8BDB184D )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 27)"
 	franchise "Sports Trivia"
 	rom ( crc 1E360A20 )
 )
 
 game (
-	comment "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)"
+	comment "Sports Trivia - Championship Edition (USA) (Beta 29)"
 	franchise "Sports Trivia"
 	rom ( crc 26470D2B )
 )
@@ -2758,13 +2758,13 @@ game (
 )
 
 game (
-	comment "Star Wars (Europe)"
+	comment "Star Wars (USA, Europe)"
 	franchise "Star Wars"
 	rom ( crc 0228769C )
 )
 
 game (
-	comment "Star Wars (USA, Europe)"
+	comment "Star Wars (USA, Europe) (Rev 1)"
 	franchise "Star Wars"
 	rom ( crc DB9BC599 )
 )
@@ -2818,43 +2818,43 @@ game (
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-11-11)"
+	comment "Super Columns (USA, Europe) (Beta 1)"
 	franchise "Columns"
 	rom ( crc F28F89D1 )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-12-01)"
+	comment "Super Columns (USA, Europe) (Beta 2)"
 	franchise "Columns"
 	rom ( crc 56CF1D4F )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-12-21)"
+	comment "Super Columns (USA, Europe) (Beta 4)"
 	franchise "Columns"
 	rom ( crc 81451FC0 )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-12-15)"
+	comment "Super Columns (USA, Europe) (Beta 3)"
 	franchise "Columns"
 	rom ( crc ABE92434 )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-12-26)"
+	comment "Super Columns (USA, Europe) (Beta 5)"
 	franchise "Columns"
 	rom ( crc 5C4C633D )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1994-12-28)"
+	comment "Super Columns (USA, Europe) (Beta 6)"
 	franchise "Columns"
 	rom ( crc 3D931952 )
 )
 
 game (
-	comment "Super Columns (USA, Europe) (Beta) (1995-01-06)"
+	comment "Super Columns (USA, Europe) (Beta 7)"
 	franchise "Columns"
 	rom ( crc 096F4FF5 )
 )
@@ -2872,7 +2872,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (Japan, Korea) (Ja)"
+	comment "Super Monaco GP (Japan, Korea) (En)"
 	franchise "Monaco GP"
 	rom ( crc 4F686C4A )
 )
@@ -2944,7 +2944,7 @@ game (
 )
 
 game (
-	comment "Tails no Skypatrol (Japan)"
+	comment "Tails' Skypatrol (Japan) (En)"
 	franchise "Sonic"
 	rom ( crc 88618AFA )
 )
@@ -2968,7 +2968,7 @@ game (
 )
 
 game (
-	comment "Taito Chase H.Q. (Japan)"
+	comment "Taito Chase H.Q. (Japan) (En)"
 	franchise "Chase H.Q."
 	rom ( crc 7BB81E3D )
 )
@@ -2998,85 +2998,85 @@ game (
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 1)"
 	franchise "Taz"
 	rom ( crc 030F396A )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-10)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 2)"
 	franchise "Taz"
 	rom ( crc 92388016 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-14)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 3)"
 	franchise "Taz"
 	rom ( crc 9267D968 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-19)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 4)"
 	franchise "Taz"
 	rom ( crc 57747640 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-21)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 5)"
 	franchise "Taz"
 	rom ( crc A43FDFAD )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-23)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 6)"
 	franchise "Taz"
 	rom ( crc 6CD0FD78 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-29)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 7)"
 	franchise "Taz"
 	rom ( crc 3C03919D )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 9)"
 	franchise "Taz"
 	rom ( crc 18913D93 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-30)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 8)"
 	franchise "Taz"
 	rom ( crc 09679B89 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 10)"
 	franchise "Taz"
 	rom ( crc D84A631C )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 11)"
 	franchise "Taz"
 	rom ( crc 61330A58 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 12)"
 	franchise "Taz"
 	rom ( crc 1F040BCA )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-09)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 13)"
 	franchise "Taz"
 	rom ( crc C867DA05 )
 )
 
 game (
-	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10)"
+	comment "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 14)"
 	franchise "Taz"
 	rom ( crc FAF4BEC0 )
 )
@@ -3094,55 +3094,55 @@ game (
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1994-11-28)"
+	comment "Tempo Jr. (World) (Beta 1)"
 	franchise "Tempo"
 	rom ( crc A33B5B92 )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1994-12-05)"
+	comment "Tempo Jr. (World) (Beta 2)"
 	franchise "Tempo"
 	rom ( crc 3475D48E )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1994-12-12)"
+	comment "Tempo Jr. (World) (Beta 3)"
 	franchise "Tempo"
 	rom ( crc FB9A5885 )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1994-12-26)"
+	comment "Tempo Jr. (World) (Beta 4)"
 	franchise "Tempo"
 	rom ( crc E484E41C )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1995-01-17)"
+	comment "Tempo Jr. (World) (Beta 5)"
 	franchise "Tempo"
 	rom ( crc AB6DC88C )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1995-01-20)"
+	comment "Tempo Jr. (World) (Beta 6)"
 	franchise "Tempo"
 	rom ( crc 96D64B16 )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1995-01-31)"
+	comment "Tempo Jr. (World) (Beta 7)"
 	franchise "Tempo"
 	rom ( crc 7AFEDF36 )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1995-02-06)"
+	comment "Tempo Jr. (World) (Beta 8)"
 	franchise "Tempo"
 	rom ( crc 3EF6551C )
 )
 
 game (
-	comment "Tempo Jr. (World) (Beta) (1995-02-15)"
+	comment "Tempo Jr. (World) (Beta 9)"
 	franchise "Tempo"
 	rom ( crc 79E83D67 )
 )
@@ -3166,13 +3166,13 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - The Movie (Japan, Brazil) (Ja)"
+	comment "Tom and Jerry - The Movie (Japan, Brazil) (En,Ja)"
 	franchise "Tom and Jerry"
 	rom ( crc A1453EFA )
 )
 
 game (
-	comment "Tom and Jerry - The Movie (USA, Europe)"
+	comment "Tom and Jerry - The Movie (USA, Europe) (En,Ja)"
 	franchise "Tom and Jerry"
 	rom ( crc 5CD33FF2 )
 )
@@ -3214,7 +3214,7 @@ game (
 )
 
 game (
-	comment "Wonder Boy (Japan)"
+	comment "Wonder Boy (Japan) (En)"
 	franchise "Wonder Boy"
 	rom ( crc 9977FCB3 )
 )
@@ -3232,13 +3232,13 @@ game (
 )
 
 game (
-	comment "World Series Baseball (USA) (Rev 1)"
+	comment "World Series Baseball (USA) (Rev A)"
 	franchise "World Series Baseball"
 	rom ( crc BB38CFD7 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-06-29)"
+	comment "World Series Baseball '95 (USA) (Beta 1)"
 	franchise "World Series Baseball"
 	rom ( crc 496515A6 )
 )
@@ -3250,7 +3250,7 @@ game (
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-09)"
+	comment "World Series Baseball '95 (USA) (Beta 2)"
 	franchise "World Series Baseball"
 	rom ( crc 410F1CA0 )
 )
@@ -3262,25 +3262,25 @@ game (
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-19)"
+	comment "World Series Baseball '95 (USA) (Beta 3)"
 	franchise "World Series Baseball"
 	rom ( crc 5F7CCA5F )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-22)"
+	comment "World Series Baseball '95 (USA) (Beta 4)"
 	franchise "World Series Baseball"
 	rom ( crc 6073CD59 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-28)"
+	comment "World Series Baseball '95 (USA) (Beta 5)"
 	franchise "World Series Baseball"
 	rom ( crc 4190AD97 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-07-29)"
+	comment "World Series Baseball '95 (USA) (Beta 6)"
 	franchise "World Series Baseball"
 	rom ( crc F1987DE6 )
 )
@@ -3310,31 +3310,31 @@ game (
 )
 
 game (
-	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)"
+	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta 1)"
 	franchise "X-Men"
 	rom ( crc 66CC4034 )
 )
 
 game (
-	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)"
+	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta 2)"
 	franchise "X-Men"
 	rom ( crc 271A0A1D )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-13)"
+	comment "X-Men - Mojo World (USA) (Beta 2)"
 	franchise "X-Men"
 	rom ( crc C4F3CED4 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-05)"
+	comment "X-Men - Mojo World (USA) (Beta 1)"
 	franchise "X-Men"
 	rom ( crc 626F9987 )
 )
 
 game (
-	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)"
+	comment "X-Men - GameMaster's Legacy (USA, Europe) (Beta 3)"
 	franchise "X-Men"
 	rom ( crc A3CF94BA )
 )
@@ -3346,37 +3346,37 @@ game (
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-24)"
+	comment "X-Men - Mojo World (USA) (Beta 3)"
 	franchise "X-Men"
 	rom ( crc 78001A5D )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-25)"
+	comment "X-Men - Mojo World (USA) (Beta 4)"
 	franchise "X-Men"
 	rom ( crc D4D2F077 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-27)"
+	comment "X-Men - Mojo World (USA) (Beta 5)"
 	franchise "X-Men"
 	rom ( crc 425AC73F )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-29)"
+	comment "X-Men - Mojo World (USA) (Beta 7)"
 	franchise "X-Men"
 	rom ( crc BA71DA19 )
 )
 
 game (
-	comment "X-Men - Mojo World (USA) (Beta) (1996-06-28)"
+	comment "X-Men - Mojo World (USA) (Beta 6)"
 	franchise "X-Men"
 	rom ( crc D44925EA )
 )
 
 game (
-	comment "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)"
+	comment "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En)"
 	franchise "Yu Yu Hakusho"
 	rom ( crc 88EBBF9E )
 )
@@ -3400,8 +3400,7 @@ game (
 )
 
 game (
-	comment "Zool no Yume Bouken (Japan)"
+	comment "Zool no Yume Bouken (Japan) (En)"
 	franchise "Zool"
 	rom ( crc E35EF7ED )
 )
-

@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "10-Pin Bowling (USA)"
+	comment "10-Pin Bowling (USA) (Proto)"
 	users 1
 	rom ( crc 9A024415 )
 )
@@ -22,55 +22,55 @@ game (
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-005, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-005, Sachen-Commin)"
 	users 2
 	rom ( crc F4310EB3 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-002, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-002, Sachen)"
 	users 2
 	rom ( crc 5E438DB8 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-007, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-007, Sachen)"
 	users 2
 	rom ( crc 62D9350E )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-001, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-001, Sachen-Commin)"
 	users 2
 	rom ( crc 82F06E93 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-004, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-004, Sachen-Commin)"
 	users 2
 	rom ( crc C69A19F6 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-008, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-008, Sachen)"
 	users 2
 	rom ( crc 740E9BC8 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-006, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-006, Sachen)"
 	users 2
 	rom ( crc 95398DA5 )
 )
 
 game (
-	comment "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin)"
 	users 2
 	rom ( crc C294AA21 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-009, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-009, Sachen)"
 	users 2
 	rom ( crc 114E1F1E )
 )
@@ -160,13 +160,13 @@ game (
 )
 
 game (
-	comment "Aerostar (Japan)"
+	comment "Aerostar (Japan) (En)"
 	users 1
 	rom ( crc DFA3B28A )
 )
 
 game (
-	comment "After Burst (Japan)"
+	comment "After Burst (Japan) (En)"
 	users 1
 	rom ( crc C0049D77 )
 )
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Alien 3 (Japan)"
+	comment "Alien 3 (Japan) (En)"
 	users 1
 	rom ( crc E59049B2 )
 )
@@ -292,7 +292,7 @@ game (
 )
 
 game (
-	comment "Altered Space - A 3-D Alien Adventure (Japan)"
+	comment "Altered Space - A 3-D Alien Adventure (Japan) (En)"
 	users 1
 	rom ( crc CE36E36E )
 )
@@ -346,7 +346,7 @@ game (
 )
 
 game (
-	comment "Amida (Japan)"
+	comment "Amida (Japan) (En)"
 	users 1
 	rom ( crc 60128AA8 )
 )
@@ -466,7 +466,7 @@ game (
 )
 
 game (
-	comment "Asterix & Obelix (Spain) (En,Es) (SGB Enhanced)"
+	comment "Asterix & Obelix (Europe) (En,Es) (SGB Enhanced)"
 	users 1
 	rom ( crc B1FD41D0 )
 )
@@ -490,7 +490,7 @@ game (
 )
 
 game (
-	comment "Astro Rabby (Japan)"
+	comment "Astro Rabby (Japan) (En)"
 	users 1
 	rom ( crc 61E48EEF )
 )
@@ -574,7 +574,7 @@ game (
 )
 
 game (
-	comment "Bakuretsu Senshi Warrior (Japan)"
+	comment "Bakuretsu Senshi Warrior (Japan) (En)"
 	users 2
 	rom ( crc ECF1B801 )
 )
@@ -610,7 +610,7 @@ game (
 )
 
 game (
-	comment "Bart no Survival Camp (Japan)"
+	comment "Bart no Survival Camp (Japan) (En)"
 	users 1
 	rom ( crc 0FD66B1A )
 )
@@ -652,7 +652,7 @@ game (
 )
 
 game (
-	comment "Batman - Return of the Joker (Japan)"
+	comment "Batman - Return of the Joker (Japan) (En)"
 	users 1
 	rom ( crc DE459A47 )
 )
@@ -670,7 +670,7 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan)"
+	comment "Batman Forever (Japan) (En)"
 	users 1
 	rom ( crc C2FD6244 )
 )
@@ -700,7 +700,7 @@ game (
 )
 
 game (
-	comment "Battle Bull (Japan)"
+	comment "Battle Bull (Japan) (En)"
 	users 2
 	rom ( crc 5C69E449 )
 )
@@ -736,7 +736,7 @@ game (
 )
 
 game (
-	comment "Battle Pingpong (Japan)"
+	comment "Battle Pingpong (Japan) (En)"
 	users 2
 	rom ( crc 7C787BC4 )
 )
@@ -754,7 +754,7 @@ game (
 )
 
 game (
-	comment "BattleCity (Japan)"
+	comment "BattleCity (Japan) (En)"
 	users 2
 	rom ( crc A37A814A )
 )
@@ -946,7 +946,7 @@ game (
 )
 
 game (
-	comment "Blodia (Japan)"
+	comment "Blodia (Japan) (En)"
 	users 2
 	rom ( crc 51FF6E53 )
 )
@@ -1012,7 +1012,7 @@ game (
 )
 
 game (
-	comment "Bomber Boy (Japan)"
+	comment "Bomber Boy (Japan) (En)"
 	users 1
 	rom ( crc EF9595AC )
 )
@@ -1030,7 +1030,7 @@ game (
 )
 
 game (
-	comment "Bomber King - Scenario 2 (Japan)"
+	comment "Bomber King - Scenario 2 (Japan) (En)"
 	users 1
 	rom ( crc B8FE9077 )
 )
@@ -1090,7 +1090,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (Japan)"
+	comment "Boulder Dash (Japan) (En)"
 	users 2
 	rom ( crc B5B3F85B )
 )
@@ -1108,7 +1108,7 @@ game (
 )
 
 game (
-	comment "Boxing (Japan)"
+	comment "Boxing (Japan) (En)"
 	users 2
 	rom ( crc EF7E9FA0 )
 )
@@ -1126,7 +1126,7 @@ game (
 )
 
 game (
-	comment "Brain Drain (Japan) (SGB Enhanced)"
+	comment "Brain Drain (Japan) (En) (SGB Enhanced)"
 	users 1
 	rom ( crc E558AACD )
 )
@@ -1162,7 +1162,7 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Japan)"
+	comment "Bubble Bobble (Japan) (En)"
 	users 1
 	rom ( crc AD9B300C )
 )
@@ -1180,13 +1180,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble Junior (Japan)"
+	comment "Bubble Bobble Junior (Japan) (En)"
 	users 1
 	rom ( crc 39E261B9 )
 )
 
 game (
-	comment "Bubble Ghost (Japan)"
+	comment "Bubble Ghost (Japan) (En)"
 	users 1
 	rom ( crc 874D0D6F )
 )
@@ -1240,7 +1240,7 @@ game (
 )
 
 game (
-	comment "Burai Senshi Deluxe (Japan)"
+	comment "Burai Senshi Deluxe (Japan) (En)"
 	users 1
 	rom ( crc 5A1A20F3 )
 )
@@ -1258,7 +1258,7 @@ game (
 )
 
 game (
-	comment "Burning Paper (Japan)"
+	comment "Burning Paper (Japan) (En)"
 	users 1
 	rom ( crc 88F8C991 )
 )
@@ -1336,7 +1336,7 @@ game (
 )
 
 game (
-	comment "Card Game (Japan)"
+	comment "Card Game (Japan) (En)"
 	users 2
 	rom ( crc D05F4C90 )
 )
@@ -1362,7 +1362,7 @@ game (
 game (
 	comment "Casper (USA) (Beta)"
 	users 1
-	rom ( crc 14C66168 )
+	rom ( crc E0AB72FB )
 )
 
 game (
@@ -1498,7 +1498,7 @@ game (
 )
 
 game (
-	comment "Chessmaster, The (Japan)"
+	comment "Chessmaster, The (Japan) (En)"
 	users 2
 	rom ( crc 82150E4A )
 )
@@ -1564,7 +1564,7 @@ game (
 )
 
 game (
-	comment "Choplifter II (Japan)"
+	comment "Choplifter II (Japan) (En)"
 	users 2
 	rom ( crc 5109F484 )
 )
@@ -1870,7 +1870,7 @@ game (
 )
 
 game (
-	comment "Dead Heat Scramble (Japan)"
+	comment "Dead Heat Scramble (Japan) (En)"
 	users 2
 	rom ( crc A8301BDD )
 )
@@ -1882,19 +1882,19 @@ game (
 )
 
 game (
-	comment "Deadeus (World) (v1.3.8) (Aftermarket) (Unl)"
+	comment "Deadeus (World) (v1.3.8)"
 	users 1
 	rom ( crc 7DA95971 )
 )
 
 game (
-	comment "Deadeus (World) (v1.2.5) (Aftermarket) (Unl)"
+	comment "Deadeus (World) (v1.2.5)"
 	users 1
 	rom ( crc 9E2BF649 )
 )
 
 game (
-	comment "Dennis (Europe) (Beta) (1993-09-13)"
+	comment "Dennis (Europe) (Beta)"
 	users 1
 	rom ( crc 807D34A4 )
 )
@@ -2092,7 +2092,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Japan)"
+	comment "Double Dragon (Japan) (En)"
 	users 2
 	rom ( crc A0645E8A )
 )
@@ -2152,7 +2152,7 @@ game (
 )
 
 game (
-	comment "Dr. Franken (Japan)"
+	comment "Dr. Franken (Japan) (En)"
 	users 1
 	rom ( crc 3D04B8E7 )
 )
@@ -2236,19 +2236,19 @@ game (
 )
 
 game (
-	comment "Dragon Slayer I (Japan)"
+	comment "Dragon Slayer I (Japan) (En)"
 	users 1
 	rom ( crc 308A2465 )
 )
 
 game (
-	comment "Dragon Tail (Japan)"
+	comment "Dragon Tail (Japan) (En)"
 	users 1
 	rom ( crc 1D1155AF )
 )
 
 game (
-	comment "Dragon's Lair (Japan)"
+	comment "Dragon's Lair (Japan) (En)"
 	users 2
 	rom ( crc 73C994A0 )
 )
@@ -2266,15 +2266,9 @@ game (
 )
 
 game (
-	comment "Dragonborne (World) (Aftermarket) (Unl)"
+	comment "Dragonborne (World) (Alt)"
 	users 1
 	rom ( crc 0AE28712 )
-)
-
-game (
-	comment "Dragonborne (World) (Demo) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc EDA66890 )
 )
 
 game (
@@ -2302,7 +2296,7 @@ game (
 )
 
 game (
-	comment "Druaga no Tou (Japan)"
+	comment "Druaga no Tou (Japan) (En)"
 	users 1
 	rom ( crc F924BDB1 )
 )
@@ -2386,7 +2380,7 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan)"
+	comment "Elevator Action (Japan) (En)"
 	users 1
 	rom ( crc BEAD8AE4 )
 )
@@ -2398,7 +2392,7 @@ game (
 )
 
 game (
-	comment "Exodus - Journey to the Promised Land (USA) (Unl)"
+	comment "Exodus - Journey to the Promised Land (USA)"
 	users 2
 	rom ( crc 2E5497EF )
 )
@@ -2524,7 +2518,7 @@ game (
 )
 
 game (
-	comment "Ferrari (Japan)"
+	comment "Ferrari (Japan) (En)"
 	users 4
 	rom ( crc A7BDFEC8 )
 )
@@ -2536,7 +2530,7 @@ game (
 )
 
 game (
-	comment "Fidgetts, The (Japan)"
+	comment "Fidgetts, The (Japan) (En)"
 	users 1
 	rom ( crc FFD4A9E3 )
 )
@@ -2632,7 +2626,7 @@ game (
 )
 
 game (
-	comment "Final Reverse (Japan)"
+	comment "Final Reverse (Japan) (En)"
 	users 2
 	rom ( crc E94A6942 )
 )
@@ -2668,7 +2662,7 @@ game (
 )
 
 game (
-	comment "Flappy Special (Japan)"
+	comment "Flappy Special (Japan) (En)"
 	users 1
 	rom ( crc 3B6CDDA4 )
 )
@@ -2704,7 +2698,7 @@ game (
 )
 
 game (
-	comment "Flipull - An Exciting Cube Game (Japan)"
+	comment "Flipull - An Exciting Cube Game (Japan) (En)"
 	users 2
 	rom ( crc 198F147D )
 )
@@ -2716,7 +2710,7 @@ game (
 )
 
 game (
-	comment "Foreman for Real (Japan)"
+	comment "Foreman for Real (Japan) (En)"
 	users 2
 	rom ( crc 860EA816 )
 )
@@ -2758,13 +2752,13 @@ game (
 )
 
 game (
-	comment "Funny Field (Japan)"
+	comment "Funny Field (Japan) (En)"
 	users 1
 	rom ( crc BFD87AA4 )
 )
 
 game (
-	comment "Fushigi na Blobby - Princess Blob o Sukue! (Japan)"
+	comment "Fushigina Blobby - Princess Blob o Sukue! (Japan)"
 	users 1
 	rom ( crc 3D0BAC10 )
 )
@@ -2776,7 +2770,7 @@ game (
 )
 
 game (
-	comment "Galaga & Galaxian (Japan) (SGB Enhanced)"
+	comment "Galaga & Galaxian (Japan) (En) (SGB Enhanced)"
 	users 1
 	rom ( crc 532036D5 )
 )
@@ -2922,7 +2916,7 @@ game (
 game (
 	comment "Gauntlet II (USA, Europe) (Beta)"
 	users 1
-	rom ( crc 7E805AC6 )
+	rom ( crc 965BBE1F )
 )
 
 game (
@@ -2932,7 +2926,7 @@ game (
 )
 
 game (
-	comment "GB Basketball (Japan)"
+	comment "GB Basketball (Japan) (En)"
 	users 2
 	rom ( crc D9B24D21 )
 )
@@ -3028,7 +3022,7 @@ game (
 )
 
 game (
-	comment "Ghostbusters II (Japan)"
+	comment "Ghostbusters II (Japan) (En)"
 	users 1
 	rom ( crc 69B161BC )
 )
@@ -3064,7 +3058,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan)"
+	comment "Go! Go! Tank (Japan) (En)"
 	users 2
 	rom ( crc 30AE39B6 )
 )
@@ -3082,7 +3076,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan) (Beta)"
+	comment "Go! Go! Tank (Japan) (En) (Beta)"
 	users 2
 	rom ( crc 6DCF5E7F )
 )
@@ -3196,7 +3190,7 @@ game (
 )
 
 game (
-	comment "Head On (Japan)"
+	comment "Head On (Japan) (En)"
 	users 2
 	rom ( crc 78830DAF )
 )
@@ -3214,7 +3208,7 @@ game (
 )
 
 game (
-	comment "Heiankyou Alien (Japan)"
+	comment "Heiankyou Alien (Japan) (En)"
 	users 2
 	rom ( crc 08BF29C9 )
 )
@@ -3352,9 +3346,9 @@ game (
 )
 
 game (
-	comment "Hook (Europe) (Beta)"
+	comment "Hook (USA) (Sample)"
 	users 1
-	rom ( crc 32DD6FD6 )
+	rom ( crc C091ABC8 )
 )
 
 game (
@@ -3400,9 +3394,9 @@ game (
 )
 
 game (
-	comment "Hugo (World) (Aftermarket) (Homebrew)"
+	comment "Hugo (World)"
 	users 1
-	rom ( crc 26684589 )
+	rom ( crc 8CC87F60 )
 )
 
 game (
@@ -3694,7 +3688,7 @@ game (
 )
 
 game (
-	comment "Jetsons, The - Robot Panic (USA) (Rev 1) (Possible Proto)"
+	comment "Jetsons, The - Robot Panic (USA, Europe) (Rev 1)"
 	users 1
 	rom ( crc CC38CF0D )
 )
@@ -3712,7 +3706,7 @@ game (
 )
 
 game (
-	comment "Jimmy Connors no Pro Tennis Tour (Japan)"
+	comment "Jimmy Connors no Pro Tennis Tour (Japan) (En)"
 	users 2
 	rom ( crc 18671602 )
 )
@@ -3754,7 +3748,7 @@ game (
 )
 
 game (
-	comment "Jordan vs Bird - One on One (Japan)"
+	comment "Jordan vs Bird - One on One (Japan) (En)"
 	users 2
 	rom ( crc 3FCB174D )
 )
@@ -3766,13 +3760,13 @@ game (
 )
 
 game (
-	comment "Joshua & the Battle of Jericho (USA) (Unl)"
+	comment "Joshua & the Battle of Jericho (USA)"
 	users 1
 	rom ( crc E0CF879B )
 )
 
 game (
-	comment "Judge Dredd (Japan)"
+	comment "Judge Dredd (Japan) (En)"
 	users 1
 	rom ( crc 951B9907 )
 )
@@ -3868,13 +3862,13 @@ game (
 )
 
 game (
-	comment "Kaisen Game - Navyblue (Japan)"
+	comment "Kaisen Game - Navyblue (Japan) (En)"
 	users 2
 	rom ( crc AFD8C47C )
 )
 
 game (
-	comment "Kaisen Game - Radarmission (Japan)"
+	comment "Kaisen Game - Radarmission (Japan) (En)"
 	users 1
 	rom ( crc 892FC0AF )
 )
@@ -3892,7 +3886,7 @@ game (
 )
 
 game (
-	comment "Kick Boxing, The (Japan)"
+	comment "Kick Boxing, The (Japan) (En)"
 	users 1
 	rom ( crc 8056344C )
 )
@@ -3916,7 +3910,7 @@ game (
 )
 
 game (
-	comment "King James Bible (USA) (Unl)"
+	comment "King James Bible (USA)"
 	users 1
 	rom ( crc 23679231 )
 )
@@ -4060,7 +4054,7 @@ game (
 )
 
 game (
-	comment "Konamic Golf (Japan)"
+	comment "Konamic Golf (Japan) (En)"
 	users 1
 	rom ( crc C16D4DB2 )
 )
@@ -4078,13 +4072,13 @@ game (
 )
 
 game (
-	comment "Koro Dice (Japan)"
+	comment "Koro Dice (Japan) (En)"
 	users 1
 	rom ( crc 39608C31 )
 )
 
 game (
-	comment "Krusty World (Japan)"
+	comment "Krusty World (Japan) (En)"
 	users 1
 	rom ( crc 01FBC9F6 )
 )
@@ -4126,13 +4120,13 @@ game (
 )
 
 game (
-	comment "Lawnmower Man, The (USA) (Proto 1) (1993-10-11) (Not For Resale)"
+	comment "Lawnmower Man, The (USA) (Proto 1) (Not For Resale)"
 	users 1
 	rom ( crc 1CAC0775 )
 )
 
 game (
-	comment "Lawnmower Man, The (USA) (Proto 2) (1993-11-10)"
+	comment "Lawnmower Man, The (USA) (Proto 2)"
 	users 1
 	rom ( crc 545613E9 )
 )
@@ -4204,7 +4198,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto) (1998-11-16)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto)"
 	users 1
 	rom ( crc F7C59F5C )
 )
@@ -4216,13 +4210,13 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta) (1993-05-19)"
+	comment "Lemmings (Europe) (Beta)"
 	users 1
 	rom ( crc E2A65174 )
 )
 
 game (
-	comment "Lemmings (Japan)"
+	comment "Lemmings (Japan) (En)"
 	users 1
 	rom ( crc 7D5CC03A )
 )
@@ -4318,7 +4312,7 @@ game (
 )
 
 game (
-	comment "Lock n' Chase ~ Lock 'n' Chase (World)"
+	comment "Lock n' Chase (World)"
 	users 1
 	rom ( crc DAB91C7A )
 )
@@ -4342,7 +4336,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced)"
+	comment "Looney Tunes Series - Daffy Duck (Japan) (En) (SGB Enhanced)"
 	users 1
 	rom ( crc 798D9489 )
 )
@@ -4396,7 +4390,7 @@ game (
 )
 
 game (
-	comment "Lunar Lander (Japan)"
+	comment "Lunar Lander (Japan) (En)"
 	users 2
 	rom ( crc 030D2054 )
 )
@@ -4492,7 +4486,7 @@ game (
 )
 
 game (
-	comment "Master Karateka (Japan)"
+	comment "Master Karateka (Japan) (En)"
 	users 1
 	rom ( crc 4C0FB33E )
 )
@@ -4660,7 +4654,7 @@ game (
 )
 
 game (
-	comment "Mickey Mouse (Japan)"
+	comment "Mickey Mouse (Japan) (En)"
 	users 1
 	rom ( crc 4CA75D4D )
 )
@@ -4672,13 +4666,13 @@ game (
 )
 
 game (
-	comment "Mickey Mouse II (Japan)"
+	comment "Mickey Mouse II (Japan) (En)"
 	users 1
 	rom ( crc DFEE8BCC )
 )
 
 game (
-	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan)"
+	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan) (En)"
 	users 1
 	rom ( crc 0D30B3A1 )
 )
@@ -4720,7 +4714,7 @@ game (
 )
 
 game (
-	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)"
+	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 3FAC2661 )
 )
@@ -4756,7 +4750,7 @@ game (
 )
 
 game (
-	comment "Migrain (Japan)"
+	comment "Migrain (Japan) (En)"
 	users 1
 	rom ( crc CED936F8 )
 )
@@ -4786,7 +4780,7 @@ game (
 )
 
 game (
-	comment "Minesweeper - Soukaitei (Japan)"
+	comment "Minesweeper - Soukaitei (Japan) (En)"
 	users 2
 	rom ( crc 5532B3D1 )
 )
@@ -4804,7 +4798,7 @@ game (
 )
 
 game (
-	comment "Mini-Putt (Japan)"
+	comment "Mini-Putt (Japan) (En)"
 	users 4
 	rom ( crc 33CD7550 )
 )
@@ -4888,7 +4882,7 @@ game (
 )
 
 game (
-	comment "Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01)"
+	comment "Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta)"
 	users 1
 	rom ( crc E7723A39 )
 )
@@ -4912,7 +4906,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	users 1
 	rom ( crc 160FA9EF )
 )
@@ -4924,7 +4918,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat & Mortal Kombat II (Japan)"
+	comment "Mortal Kombat & Mortal Kombat II (Japan) (En)"
 	users 1
 	rom ( crc B1A8DFD0 )
 )
@@ -4954,7 +4948,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
+	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)"
 	users 1
 	rom ( crc 57BA5D56 )
 )
@@ -4966,7 +4960,7 @@ game (
 )
 
 game (
-	comment "Motocross Maniacs (Japan)"
+	comment "Motocross Maniacs (Japan) (En)"
 	users 2
 	rom ( crc DA6053C3 )
 )
@@ -5044,15 +5038,21 @@ game (
 )
 
 game (
-	comment "MVP Baseball (Japan)"
+	comment "MVP Baseball (Japan) (En)"
 	users 2
 	rom ( crc 38C126AA )
 )
 
 game (
-	comment "Mysterium (USA) (Beta)"
+	comment "Mysterium (USA) (v1.00AI) (Beta)"
 	users 2
-	rom ( crc 78F5BB56 )
+	rom ( crc 57B3E6C3 )
+)
+
+game (
+	comment "Mysterium (USA) (v1.00AU) (Beta)"
+	users 2
+	rom ( crc 004C1AF7 )
 )
 
 game (
@@ -5164,7 +5164,7 @@ game (
 )
 
 game (
-	comment "NBA All-Star Challenge 2 (Japan)"
+	comment "NBA All-Star Challenge 2 (Japan) (En)"
 	users 2
 	rom ( crc DF9DB013 )
 )
@@ -5182,7 +5182,7 @@ game (
 )
 
 game (
-	comment "NBA Jam - Tournament Edition (Japan)"
+	comment "NBA Jam - Tournament Edition (Japan) (En)"
 	users 1
 	rom ( crc 32909F62 )
 )
@@ -5230,7 +5230,7 @@ game (
 )
 
 game (
-	comment "Nemesis (Japan)"
+	comment "Nemesis (Japan) (En)"
 	users 1
 	rom ( crc B338DAE7 )
 )
@@ -5248,7 +5248,7 @@ game (
 )
 
 game (
-	comment "Nemesis II (Japan)"
+	comment "Nemesis II (Japan) (En)"
 	users 1
 	rom ( crc AC5B062D )
 )
@@ -5326,7 +5326,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club '95 (Japan)"
+	comment "NFL Quarterback Club '95 (Japan) (En)"
 	users 2
 	rom ( crc EECB703C )
 )
@@ -5440,7 +5440,7 @@ game (
 )
 
 game (
-	comment "NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl)"
+	comment "NIV Bible & the 20 Lost Levels of Joshua (USA)"
 	users 2
 	rom ( crc E7A26B31 )
 )
@@ -5524,7 +5524,7 @@ game (
 )
 
 game (
-	comment "Othello (Japan)"
+	comment "Othello (Japan) (En)"
 	users 1
 	rom ( crc C17A002E )
 )
@@ -5596,7 +5596,7 @@ game (
 )
 
 game (
-	comment "Pac-Man (Japan)"
+	comment "Pac-Man (Japan) (En)"
 	users 2
 	rom ( crc 65998F48 )
 )
@@ -5614,7 +5614,7 @@ game (
 )
 
 game (
-	comment "Pac-Panic (Japan) (SGB Enhanced)"
+	comment "Pac-Panic (Japan) (En) (SGB Enhanced)"
 	users 1
 	rom ( crc AAEBD509 )
 )
@@ -5656,7 +5656,7 @@ game (
 )
 
 game (
-	comment "Palamedes (Japan)"
+	comment "Palamedes (Japan) (En)"
 	users 2
 	rom ( crc 4B993D0D )
 )
@@ -5848,7 +5848,7 @@ game (
 )
 
 game (
-	comment "Pipe Dream (Japan)"
+	comment "Pipe Dream (Japan) (En)"
 	users 2
 	rom ( crc D8B4AEA4 )
 )
@@ -5866,7 +5866,7 @@ game (
 )
 
 game (
-	comment "Pitman (Japan)"
+	comment "Pitman (Japan) (En)"
 	users 1
 	rom ( crc A0B68136 )
 )
@@ -6112,25 +6112,25 @@ game (
 )
 
 game (
-	comment "Populous (Europe) (Sample)"
+	comment "Populous (Europe) (Beta 6)"
 	users 1
 	rom ( crc ECF2DD6F )
 )
 
 game (
-	comment "Populous Gaiden (Japan)"
+	comment "Populous Gaiden (Japan) (En)"
 	users 1
 	rom ( crc F327167E )
 )
 
 game (
-	comment "Power Mission (Japan)"
+	comment "Power Mission (Japan) (En)"
 	users 1
 	rom ( crc 0E2A1414 )
 )
 
 game (
-	comment "Power Mission (Japan) (Rev 1)"
+	comment "Power Mission (Japan) (En) (Rev 1)"
 	users 1
 	rom ( crc E30EF8AB )
 )
@@ -6310,7 +6310,7 @@ game (
 )
 
 game (
-	comment "Puzznic (Japan)"
+	comment "Puzznic (Japan) (En)"
 	users 2
 	rom ( crc 916E638D )
 )
@@ -6334,7 +6334,7 @@ game (
 )
 
 game (
-	comment "Q Billion (Japan)"
+	comment "Q Billion (Japan) (En)"
 	users 2
 	rom ( crc 979ED154 )
 )
@@ -6370,7 +6370,7 @@ game (
 )
 
 game (
-	comment "R-Type (Japan)"
+	comment "R-Type (Japan) (En)"
 	users 1
 	rom ( crc E4988910 )
 )
@@ -6394,7 +6394,7 @@ game (
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	users 1
 	rom ( crc 6002E291 )
 )
@@ -6484,7 +6484,7 @@ game (
 )
 
 game (
-	comment "Red October o Oe! (Japan)"
+	comment "Red October o Oe! (Japan) (En)"
 	users 1
 	rom ( crc C2E7BE35 )
 )
@@ -6534,11 +6534,11 @@ game (
 game (
 	comment "Riddick Bowe Boxing (USA) (Beta)"
 	users 2
-	rom ( crc 882D01E6 )
+	rom ( crc A07512A6 )
 )
 
 game (
-	comment "Ring Rage (Japan)"
+	comment "Ring Rage (Japan) (En)"
 	users 2
 	rom ( crc FD3D5BA7 )
 )
@@ -6562,7 +6562,7 @@ game (
 )
 
 game (
-	comment "Roadster (Japan)"
+	comment "Roadster (Japan) (En)"
 	users 2
 	rom ( crc 04453E78 )
 )
@@ -6598,7 +6598,7 @@ game (
 )
 
 game (
-	comment "RoboCop (Japan)"
+	comment "RoboCop (Japan) (En)"
 	users 1
 	rom ( crc 06D6980B )
 )
@@ -6628,13 +6628,13 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	users 1
 	rom ( crc 9E3B05C4 )
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	users 1
 	rom ( crc F82D7223 )
 )
@@ -6646,7 +6646,7 @@ game (
 )
 
 game (
-	comment "Rockman World (Japan)"
+	comment "Rockman World (Japan) (En)"
 	users 1
 	rom ( crc 3BE6AC04 )
 )
@@ -6700,7 +6700,7 @@ game (
 )
 
 game (
-	comment "Rubble Saver (Japan)"
+	comment "Rubble Saver (Japan) (En)"
 	users 1
 	rom ( crc E8AEA452 )
 )
@@ -6712,7 +6712,7 @@ game (
 )
 
 game (
-	comment "Rubble Saver II (Japan)"
+	comment "Rubble Saver II (Japan) (En)"
 	users 1
 	rom ( crc 92C95F2D )
 )
@@ -6748,13 +6748,13 @@ game (
 )
 
 game (
-	comment "Saigo no Nindou (Japan)"
+	comment "Saigo no Nindou (Japan) (En)"
 	users 1
 	rom ( crc B864A3B6 )
 )
 
 game (
-	comment "Sagaia (Japan)"
+	comment "Sagaia (Japan) (En)"
 	users 1
 	rom ( crc E43DA090 )
 )
@@ -6862,7 +6862,7 @@ game (
 )
 
 game (
-	comment "Shanghai (Japan) (Activision)"
+	comment "Shanghai (Japan)"
 	users 2
 	rom ( crc 6AA684EB )
 )
@@ -6928,7 +6928,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan)"
+	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan) (En)"
 	users 1
 	rom ( crc 7AA4E0BB )
 )
@@ -7000,7 +7000,7 @@ game (
 )
 
 game (
-	comment "Snoopy - Magic Show (Japan)"
+	comment "Snoopy - Magic Show (Japan) (En)"
 	users 1
 	rom ( crc 4892984D )
 )
@@ -7048,13 +7048,13 @@ game (
 )
 
 game (
-	comment "Soccer (Japan)"
+	comment "Soccer (Japan) (En)"
 	users 1
 	rom ( crc BE51A876 )
 )
 
 game (
-	comment "Soccer Boy (Japan)"
+	comment "Soccer Boy (Japan) (En)"
 	users 1
 	rom ( crc 23F64E82 )
 )
@@ -7096,7 +7096,7 @@ game (
 )
 
 game (
-	comment "Sonic 6 (Unknown) (En) (Pirate)"
+	comment "Sonic 6 (USA) (Pirate)"
 	users 1
 	rom ( crc AA4E9379 )
 )
@@ -7132,7 +7132,7 @@ game (
 )
 
 game (
-	comment "Space Invaders (Japan)"
+	comment "Space Invaders (Japan) (En)"
 	users 2
 	rom ( crc 868B57B2 )
 )
@@ -7162,7 +7162,7 @@ game (
 )
 
 game (
-	comment "Speedball 2 - Brutal Deluxe (Japan) (En)"
+	comment "Speedball 2 - Brutal Deluxe (Japan) (En) (Possible Proto)"
 	users 1
 	rom ( crc D0E0116F )
 )
@@ -7204,7 +7204,7 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11)"
+	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc BF2D1F10 )
 )
@@ -7216,7 +7216,7 @@ game (
 )
 
 game (
-	comment "Spiritual Warfare (USA) (Unl)"
+	comment "Spiritual Warfare (USA)"
 	users 1
 	rom ( crc F7A961BA )
 )
@@ -7234,7 +7234,7 @@ game (
 )
 
 game (
-	comment "Splitz (Europe) (Beta)"
+	comment "Splitz (Europe) (Beta 6)"
 	users 1
 	rom ( crc 5E8F955E )
 )
@@ -7246,7 +7246,7 @@ game (
 )
 
 game (
-	comment "Splitz - Nigaoe 15 Game (Japan)"
+	comment "Splitz - Nigaoe 15 Game (Japan) (En)"
 	users 1
 	rom ( crc B07A2745 )
 )
@@ -7276,7 +7276,7 @@ game (
 )
 
 game (
-	comment "Spot - Cool Adventure (Japan)"
+	comment "Spot - Cool Adventure (Japan) (En)"
 	users 1
 	rom ( crc 552A53B9 )
 )
@@ -7438,7 +7438,7 @@ game (
 )
 
 game (
-	comment "Street Racer (Japan)"
+	comment "Street Racer (Japan) (En)"
 	users 2
 	rom ( crc 5BBACAA8 )
 )
@@ -7678,7 +7678,7 @@ game (
 )
 
 game (
-	comment "Super Street Basketball (Japan)"
+	comment "Super Street Basketball (Japan) (En)"
 	users 1
 	rom ( crc A269559F )
 )
@@ -7738,7 +7738,7 @@ game (
 )
 
 game (
-	comment "T2 - The Arcade Game (Japan)"
+	comment "T2 - The Arcade Game (Japan) (En)"
 	users 1
 	rom ( crc 7EC795FA )
 )
@@ -7870,7 +7870,7 @@ game (
 )
 
 game (
-	comment "Tecmo Bowl GB (Japan)"
+	comment "Tecmo Bowl GB (Japan) (En)"
 	users 1
 	rom ( crc CFD74E34 )
 )
@@ -7906,13 +7906,13 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta) (1991-05-20)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta)"
 	users 1
 	rom ( crc 64A667A3 )
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En)"
 	users 1
 	rom ( crc 84E6FB25 )
 )
@@ -8092,7 +8092,7 @@ game (
 )
 
 game (
-	comment "Tiny Toon Adventures (Japan) (Beta) (1991-07-16)"
+	comment "Tiny Toon Adventures (Japan) (Beta)"
 	users 1
 	rom ( crc 4E4A17B5 )
 )
@@ -8110,7 +8110,7 @@ game (
 )
 
 game (
-	comment "Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06)"
+	comment "Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 7BF96CA9 )
 )
@@ -8176,13 +8176,13 @@ game (
 )
 
 game (
-	comment "Tom to Jerry (Japan)"
+	comment "Tom to Jerry (Japan) (En)"
 	users 1
 	rom ( crc CA836E6D )
 )
 
 game (
-	comment "Tom to Jerry Part 2 (Japan)"
+	comment "Tom to Jerry Part 2 (Japan) (En)"
 	users 1
 	rom ( crc DD19A9EC )
 )
@@ -8206,7 +8206,7 @@ game (
 )
 
 game (
-	comment "Torpedo Range (Japan)"
+	comment "Torpedo Range (Japan) (En)"
 	users 1
 	rom ( crc 1FB35885 )
 )
@@ -8272,7 +8272,7 @@ game (
 )
 
 game (
-	comment "Track Meet - Mezase! Barcelona (Japan)"
+	comment "Track Meet - Mezase! Barcelona (Japan) (En)"
 	users 1
 	rom ( crc 48D37CD2 )
 )
@@ -8302,7 +8302,7 @@ game (
 )
 
 game (
-	comment "Trip World (Japan)"
+	comment "Trip World (Japan) (En)"
 	users 1
 	rom ( crc 11568E64 )
 )
@@ -8320,7 +8320,7 @@ game (
 )
 
 game (
-	comment "Tumble Pop (Japan)"
+	comment "Tumble Pop (Japan) (En)"
 	users 2
 	rom ( crc 881AFD62 )
 )
@@ -8398,7 +8398,7 @@ game (
 )
 
 game (
-	comment "Ultra Golf (USA) (Beta) (1991-11-20)"
+	comment "Ultra Golf (USA) (Beta)"
 	users 1
 	rom ( crc D9DDB091 )
 )
@@ -8452,7 +8452,7 @@ game (
 )
 
 game (
-	comment "Vattle Giuce (Japan)"
+	comment "Vattle Giuce (Japan) (En)"
 	users 1
 	rom ( crc 956B603C )
 )
@@ -8494,7 +8494,7 @@ game (
 )
 
 game (
-	comment "VS Battler (Japan)"
+	comment "VS Battler (Japan) (En)"
 	users 1
 	rom ( crc 20AE389A )
 )
@@ -8674,7 +8674,7 @@ game (
 )
 
 game (
-	comment "World Beach Volley - 1991 GB Cup (Japan)"
+	comment "World Beach Volley - 1991 GB Cup (Japan) (En)"
 	users 1
 	rom ( crc A2894581 )
 )
@@ -8692,7 +8692,7 @@ game (
 )
 
 game (
-	comment "World Bowling (Japan)"
+	comment "World Bowling (Japan) (En)"
 	users 1
 	rom ( crc 47FEADF2 )
 )
@@ -8716,7 +8716,7 @@ game (
 )
 
 game (
-	comment "World Cup Striker (Japan)"
+	comment "World Cup Striker (Japan) (En)"
 	users 1
 	rom ( crc FDEFA88D )
 )
@@ -8746,7 +8746,7 @@ game (
 )
 
 game (
-	comment "World Ice Hockey (Japan)"
+	comment "World Ice Hockey (Japan) (En)"
 	users 1
 	rom ( crc 4E345023 )
 )
@@ -8776,7 +8776,7 @@ game (
 )
 
 game (
-	comment "WWF King of the Ring (Japan)"
+	comment "WWF King of the Ring (Japan) (En)"
 	users 2
 	rom ( crc 3AB55613 )
 )
@@ -8800,7 +8800,7 @@ game (
 )
 
 game (
-	comment "WWF Superstars 2 (Japan)"
+	comment "WWF Superstars 2 (Japan) (En)"
 	users 2
 	rom ( crc CA12D752 )
 )
@@ -8830,7 +8830,7 @@ game (
 )
 
 game (
-	comment "Xenon 2 - Megablast (Japan)"
+	comment "Xenon 2 - Megablast (Japan) (En)"
 	users 2
 	rom ( crc 2FEB70D2 )
 )
@@ -8962,7 +8962,7 @@ game (
 )
 
 game (
-	comment "Zool (Japan) (Proto)"
+	comment "Zool (Japan) (En) (Proto)"
 	users 1
 	rom ( crc 3BE6DEC8 )
 )
@@ -8980,7 +8980,7 @@ game (
 )
 
 game (
-	comment "Zoop (Japan)"
+	comment "Zoop (Japan) (En)"
 	users 2
 	rom ( crc 10E1A10C )
 )
@@ -8990,4 +8990,3 @@ game (
 	users 2
 	rom ( crc 7B440074 )
 )
-

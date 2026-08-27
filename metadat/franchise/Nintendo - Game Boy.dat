@@ -82,7 +82,7 @@ game (
 )
 
 game (
-	comment "Alien 3 (Japan)"
+	comment "Alien 3 (Japan) (En)"
 	franchise "Alien"
 	rom ( crc E59049B2 )
 )
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Asterix & Obelix (Spain) (En,Es) (SGB Enhanced)"
+	comment "Asterix & Obelix (Europe) (En,Es) (SGB Enhanced)"
 	franchise "ASTERIX"
 	rom ( crc B1FD41D0 )
 )
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Bart no Survival Camp (Japan)"
+	comment "Bart no Survival Camp (Japan) (En)"
 	franchise "The Simpsons"
 	rom ( crc 0FD66B1A )
 )
@@ -232,7 +232,7 @@ game (
 )
 
 game (
-	comment "Batman - Return of the Joker (Japan)"
+	comment "Batman - Return of the Joker (Japan) (En)"
 	franchise "Batman"
 	rom ( crc DE459A47 )
 )
@@ -250,7 +250,7 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan)"
+	comment "Batman Forever (Japan) (En)"
 	franchise "Batman"
 	rom ( crc C2FD6244 )
 )
@@ -370,7 +370,7 @@ game (
 )
 
 game (
-	comment "Bomber Boy (Japan)"
+	comment "Bomber Boy (Japan) (En)"
 	franchise "Bomberman"
 	rom ( crc EF9595AC )
 )
@@ -424,13 +424,13 @@ game (
 )
 
 game (
-	comment "Boulder Dash (Japan)"
+	comment "Boulder Dash (Japan) (En)"
 	franchise "Boulder Dash"
 	rom ( crc B5B3F85B )
 )
 
 game (
-	comment "Bubble Bobble (Japan)"
+	comment "Bubble Bobble (Japan) (En)"
 	franchise "Bubble Bobble"
 	rom ( crc AD9B300C )
 )
@@ -448,7 +448,7 @@ game (
 )
 
 game (
-	comment "Bubble Bobble Junior (Japan)"
+	comment "Bubble Bobble Junior (Japan) (En)"
 	franchise "Bubble Bobble"
 	rom ( crc 39E261B9 )
 )
@@ -556,7 +556,7 @@ game (
 )
 
 game (
-	comment "Choplifter II (Japan)"
+	comment "Choplifter II (Japan) (En)"
 	franchise "Choplifter"
 	rom ( crc 5109F484 )
 )
@@ -760,7 +760,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Japan)"
+	comment "Double Dragon (Japan) (En)"
 	franchise "Double Dragon"
 	rom ( crc A0645E8A )
 )
@@ -826,13 +826,13 @@ game (
 )
 
 game (
-	comment "Dragon Slayer I (Japan)"
+	comment "Dragon Slayer I (Japan) (En)"
 	franchise "Dragon Slayer"
 	rom ( crc 308A2465 )
 )
 
 game (
-	comment "Dragon's Lair (Japan)"
+	comment "Dragon's Lair (Japan) (En)"
 	franchise "Dragon's Lair"
 	rom ( crc 73C994A0 )
 )
@@ -886,7 +886,7 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan)"
+	comment "Elevator Action (Japan) (En)"
 	franchise "Elevator Action"
 	rom ( crc BEAD8AE4 )
 )
@@ -1000,7 +1000,7 @@ game (
 )
 
 game (
-	comment "Galaga & Galaxian (Japan) (SGB Enhanced)"
+	comment "Galaga & Galaxian (Japan) (En) (SGB Enhanced)"
 	franchise "Galaxian"
 	rom ( crc 532036D5 )
 )
@@ -1086,7 +1086,7 @@ game (
 game (
 	comment "Gauntlet II (USA, Europe) (Beta)"
 	franchise "Gauntlet"
-	rom ( crc 7E805AC6 )
+	rom ( crc 965BBE1F )
 )
 
 game (
@@ -1396,7 +1396,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto) (1998-11-16)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto)"
 	franchise "The Legend of Zelda"
 	rom ( crc F7C59F5C )
 )
@@ -1408,13 +1408,13 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta) (1993-05-19)"
+	comment "Lemmings (Europe) (Beta)"
 	franchise "Lemmings"
 	rom ( crc E2A65174 )
 )
 
 game (
-	comment "Lemmings (Japan)"
+	comment "Lemmings (Japan) (En)"
 	franchise "Lemmings"
 	rom ( crc 7D5CC03A )
 )
@@ -1492,7 +1492,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced)"
+	comment "Looney Tunes Series - Daffy Duck (Japan) (En) (SGB Enhanced)"
 	franchise "Looney Tunes"
 	rom ( crc 798D9489 )
 )
@@ -1672,7 +1672,7 @@ game (
 )
 
 game (
-	comment "Mickey Mouse (Japan)"
+	comment "Mickey Mouse (Japan) (En)"
 	franchise "Mickey Mouse"
 	rom ( crc 4CA75D4D )
 )
@@ -1684,13 +1684,13 @@ game (
 )
 
 game (
-	comment "Mickey Mouse II (Japan)"
+	comment "Mickey Mouse II (Japan) (En)"
 	franchise "Mickey Mouse"
 	rom ( crc DFEE8BCC )
 )
 
 game (
-	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan)"
+	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan) (En)"
 	franchise "Mickey Mouse"
 	rom ( crc 0D30B3A1 )
 )
@@ -1732,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)"
+	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta)"
 	franchise "Mickey Mouse"
 	rom ( crc 3FAC2661 )
 )
@@ -1798,7 +1798,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	franchise "Mortal Kombat"
 	rom ( crc 160FA9EF )
 )
@@ -1810,7 +1810,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat & Mortal Kombat II (Japan)"
+	comment "Mortal Kombat & Mortal Kombat II (Japan) (En)"
 	franchise "Mortal Kombat"
 	rom ( crc B1A8DFD0 )
 )
@@ -1840,7 +1840,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
+	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)"
 	franchise "Mortal Kombat"
 	rom ( crc 57BA5D56 )
 )
@@ -1912,7 +1912,7 @@ game (
 )
 
 game (
-	comment "NBA Jam - Tournament Edition (Japan)"
+	comment "NBA Jam - Tournament Edition (Japan) (En)"
 	franchise "NBA Jam"
 	rom ( crc 32909F62 )
 )
@@ -1936,7 +1936,7 @@ game (
 )
 
 game (
-	comment "Nemesis II (Japan)"
+	comment "Nemesis II (Japan) (En)"
 	franchise "Gradius"
 	rom ( crc AC5B062D )
 )
@@ -1966,7 +1966,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club '95 (Japan)"
+	comment "NFL Quarterback Club '95 (Japan) (En)"
 	franchise "NFL Quarterback Club"
 	rom ( crc EECB703C )
 )
@@ -2080,7 +2080,7 @@ game (
 )
 
 game (
-	comment "Pac-Man (Japan)"
+	comment "Pac-Man (Japan) (En)"
 	franchise "Pac-Man"
 	rom ( crc 65998F48 )
 )
@@ -2098,7 +2098,7 @@ game (
 )
 
 game (
-	comment "Pac-Panic (Japan) (SGB Enhanced)"
+	comment "Pac-Panic (Japan) (En) (SGB Enhanced)"
 	franchise "Pac-Man"
 	rom ( crc AAEBD509 )
 )
@@ -2338,7 +2338,7 @@ game (
 )
 
 game (
-	comment "Popeye (Japan)"
+	comment "Popeye (Japan) (En)"
 	franchise "Popeye"
 	rom ( crc 2FB4DA21 )
 )
@@ -2380,13 +2380,13 @@ game (
 )
 
 game (
-	comment "Populous (Europe) (Sample)"
+	comment "Populous (Europe) (Beta 6)"
 	franchise "Populous"
 	rom ( crc ECF2DD6F )
 )
 
 game (
-	comment "Populous Gaiden (Japan)"
+	comment "Populous Gaiden (Japan) (En)"
 	franchise "Populous"
 	rom ( crc F327167E )
 )
@@ -2506,7 +2506,7 @@ game (
 )
 
 game (
-	comment "R-Type (Japan)"
+	comment "R-Type (Japan) (En)"
 	franchise "R-Type"
 	rom ( crc E4988910 )
 )
@@ -2530,7 +2530,7 @@ game (
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	franchise "R-Type"
 	rom ( crc 6002E291 )
 )
@@ -2578,7 +2578,7 @@ game (
 )
 
 game (
-	comment "RoboCop (Japan)"
+	comment "RoboCop (Japan) (En)"
 	franchise "RoboCop"
 	rom ( crc 06D6980B )
 )
@@ -2608,13 +2608,13 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	franchise "RoboCop"
 	rom ( crc 9E3B05C4 )
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	franchise "RoboCop"
 	rom ( crc F82D7223 )
 )
@@ -2626,7 +2626,7 @@ game (
 )
 
 game (
-	comment "Rockman World (Japan)"
+	comment "Rockman World (Japan) (En)"
 	franchise "Mega Man"
 	rom ( crc 3BE6AC04 )
 )
@@ -2686,7 +2686,7 @@ game (
 )
 
 game (
-	comment "Sagaia (Japan)"
+	comment "Sagaia (Japan) (En)"
 	franchise "Darius"
 	rom ( crc E43DA090 )
 )
@@ -2722,7 +2722,7 @@ game (
 )
 
 game (
-	comment "Shanghai (Japan) (Activision)"
+	comment "Shanghai (Japan)"
 	franchise "Shanghai"
 	rom ( crc 6AA684EB )
 )
@@ -2758,7 +2758,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan)"
+	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan) (En)"
 	franchise "The Simpsons"
 	rom ( crc 7AA4E0BB )
 )
@@ -2806,7 +2806,7 @@ game (
 )
 
 game (
-	comment "Sonic 6 (Unknown) (En) (Pirate)"
+	comment "Sonic 6 (USA) (Pirate)"
 	franchise "Sonic"
 	rom ( crc AA4E9379 )
 )
@@ -2818,7 +2818,7 @@ game (
 )
 
 game (
-	comment "Space Invaders (Japan)"
+	comment "Space Invaders (Japan) (En)"
 	franchise "Space Invaders"
 	rom ( crc 868B57B2 )
 )
@@ -2860,7 +2860,7 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11)"
+	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2)"
 	franchise "Spider-Man"
 	rom ( crc BF2D1F10 )
 )
@@ -3172,13 +3172,13 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta) (1991-05-20)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta)"
 	franchise "Teenage Mutant Ninja Turtles"
 	rom ( crc 64A667A3 )
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En)"
 	franchise "Teenage Mutant Ninja Turtles"
 	rom ( crc 84E6FB25 )
 )
@@ -3334,13 +3334,13 @@ game (
 )
 
 game (
-	comment "Tom to Jerry (Japan)"
+	comment "Tom to Jerry (Japan) (En)"
 	franchise "Tom and Jerry"
 	rom ( crc CA836E6D )
 )
 
 game (
-	comment "Tom to Jerry Part 2 (Japan)"
+	comment "Tom to Jerry Part 2 (Japan) (En)"
 	franchise "Tom and Jerry"
 	rom ( crc DD19A9EC )
 )
@@ -3436,7 +3436,7 @@ game (
 )
 
 game (
-	comment "WWF King of the Ring (Japan)"
+	comment "WWF King of the Ring (Japan) (En)"
 	franchise "WWF"
 	rom ( crc 3AB55613 )
 )
@@ -3460,7 +3460,7 @@ game (
 )
 
 game (
-	comment "WWF Superstars 2 (Japan)"
+	comment "WWF Superstars 2 (Japan) (En)"
 	franchise "WWF"
 	rom ( crc CA12D752 )
 )
@@ -3484,7 +3484,7 @@ game (
 )
 
 game (
-	comment "Xenon 2 - Megablast (Japan)"
+	comment "Xenon 2 - Megablast (Japan) (En)"
 	franchise "Xenon"
 	rom ( crc 2FEB70D2 )
 )
@@ -3544,7 +3544,7 @@ game (
 )
 
 game (
-	comment "Zool (Japan) (Proto)"
+	comment "Zool (Japan) (En) (Proto)"
 	franchise "Zool"
 	rom ( crc 3BE6DEC8 )
 )
@@ -3559,186 +3559,232 @@ game (
 	franchise "Pokémon"
 	rom ( crc 742357FC )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc C2CA5626 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc ABEDD2BF )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 2C5732DB )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 7246170A )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 41F772A9 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc D622859A )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F566A0F4 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 1E0DEED5 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc CC9E3167 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F8C76CE6 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc A5A31B25 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F46A9F16 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 72C95AFF )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 5BF275E1 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 34D3506E )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 0BF8E2A1 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc BA55AB15 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 05EFDF57 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 8A938944 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E067F4E0 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc B414C109 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 1DC45D3B )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 46885EC0 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 70C8D460 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 233110DE )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc FA26C76E )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E4583418 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 26B87107 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc A86F449A )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 5B4CDEBB )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc D7EAE9A2 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 001129FB )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 8C1B6B94 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E05A7E7F )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 86493CE6 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 287130CC )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 515322A3 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 9B039BA0 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc DD94307F )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc DB02F066 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E7D7D94D )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E80479B6 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc B7D71D6A )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 0A0D2593 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F8C2504D )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 132BA0A8 )
@@ -3748,190 +3794,237 @@ game (
 	franchise "Pokémon"
 	rom ( crc DBD0B8DC )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc C83DF319 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc B539A028 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 0DEE0D87 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 42C5430A )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 00787832 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 2E63BC59 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 1116AE9F )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc D0B1E29B )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc A4DE9817 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 8CC8A922 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc ED14EFFD )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc BC60C7A8 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F612C80B )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 63EF11D8 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 359963F8 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 6C93C997 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 8BE1C176 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc ECFDA715 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 819417D2 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 6BC938E7 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc FE8E7F7E )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 4E05098B )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc F77FD8CF )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 78579258 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 2372DEFB )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 00754AD7 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 3381A40E )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 3BBF1B08 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc D46965D6 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc EBFC4EF6 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 91DCEC6C )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc D6CC5177 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 63E41242 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc B0B5A5DE )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 16768541 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc CBB8F4BD )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 4C62ADC7 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 5180E1A7 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc CAA8EBF9 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc B56FEE0F )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 54C97537 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc E75E7D8D )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 51024CF3 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 23757859 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc C0D79ECF )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 9F2D9CA7 )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 3ACA6219 )

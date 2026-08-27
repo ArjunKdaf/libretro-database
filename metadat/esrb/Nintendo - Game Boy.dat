@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "10-Pin Bowling (USA)"
+	comment "10-Pin Bowling (USA) (Proto)"
 	esrb_rating "E"
 	rom ( crc 9A024415 )
 )
@@ -88,7 +88,7 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan)"
+	comment "Batman Forever (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc C2FD6244 )
 )
@@ -160,7 +160,7 @@ game (
 )
 
 game (
-	comment "Brain Drain (Japan) (SGB Enhanced)"
+	comment "Brain Drain (Japan) (En) (SGB Enhanced)"
 	esrb_rating "E"
 	rom ( crc E558AACD )
 )
@@ -192,7 +192,7 @@ game (
 game (
 	comment "Casper (USA) (Beta)"
 	esrb_rating "KA"
-	rom ( crc 14C66168 )
+	rom ( crc E0AB72FB )
 )
 
 game (
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Chessmaster, The (Japan)"
+	comment "Chessmaster, The (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 82150E4A )
 )
@@ -358,7 +358,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Japan)"
+	comment "Double Dragon (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc A0645E8A )
 )
@@ -406,7 +406,7 @@ game (
 )
 
 game (
-	comment "Dr. Franken (Japan)"
+	comment "Dr. Franken (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc 3D04B8E7 )
 )
@@ -460,13 +460,13 @@ game (
 )
 
 game (
-	comment "Dragon Slayer I (Japan)"
+	comment "Dragon Slayer I (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc 308A2465 )
 )
 
 game (
-	comment "Dragon's Lair (Japan)"
+	comment "Dragon's Lair (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 73C994A0 )
 )
@@ -508,7 +508,7 @@ game (
 )
 
 game (
-	comment "Druaga no Tou (Japan)"
+	comment "Druaga no Tou (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc F924BDB1 )
 )
@@ -562,7 +562,7 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan)"
+	comment "Elevator Action (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc BEAD8AE4 )
 )
@@ -574,7 +574,7 @@ game (
 )
 
 game (
-	comment "Exodus - Journey to the Promised Land (USA) (Unl)"
+	comment "Exodus - Journey to the Promised Land (USA)"
 	esrb_rating "NOT RATED"
 	rom ( crc 2E5497EF )
 )
@@ -688,7 +688,7 @@ game (
 )
 
 game (
-	comment "Ferrari (Japan)"
+	comment "Ferrari (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc A7BDFEC8 )
 )
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Final Reverse (Japan)"
+	comment "Final Reverse (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc E94A6942 )
 )
@@ -802,7 +802,7 @@ game (
 )
 
 game (
-	comment "Flappy Special (Japan)"
+	comment "Flappy Special (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc 3B6CDDA4 )
 )
@@ -820,13 +820,13 @@ game (
 )
 
 game (
-	comment "Flipull - An Exciting Cube Game (Japan)"
+	comment "Flipull - An Exciting Cube Game (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 198F147D )
 )
 
 game (
-	comment "Foreman for Real (Japan)"
+	comment "Foreman for Real (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 860EA816 )
 )
@@ -868,13 +868,13 @@ game (
 )
 
 game (
-	comment "Fushigi na Blobby - Princess Blob o Sukue! (Japan)"
+	comment "Fushigina Blobby - Princess Blob o Sukue! (Japan)"
 	esrb_rating "NOT RATED"
 	rom ( crc 3D0BAC10 )
 )
 
 game (
-	comment "Galaga & Galaxian (Japan) (SGB Enhanced)"
+	comment "Galaga & Galaxian (Japan) (En) (SGB Enhanced)"
 	esrb_rating "E"
 	rom ( crc 532036D5 )
 )
@@ -966,7 +966,7 @@ game (
 game (
 	comment "Gauntlet II (USA, Europe) (Beta)"
 	esrb_rating "NOT RATED"
-	rom ( crc 7E805AC6 )
+	rom ( crc 965BBE1F )
 )
 
 game (
@@ -1018,7 +1018,7 @@ game (
 )
 
 game (
-	comment "Ghostbusters II (Japan)"
+	comment "Ghostbusters II (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 69B161BC )
 )
@@ -1048,7 +1048,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan)"
+	comment "Go! Go! Tank (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 30AE39B6 )
 )
@@ -1066,7 +1066,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan) (Beta)"
+	comment "Go! Go! Tank (Japan) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc 6DCF5E7F )
 )
@@ -1096,7 +1096,7 @@ game (
 )
 
 game (
-	comment "Goukaku Boy Series - Koukou Nyuushi Derujun - Chuugaku Eitango 1700 (Japan) (IE Institute)"
+	comment "Goukaku Boy Series - Koukou Nyuushi Derujun - Chuugaku Eitango 1700 (Japan) (Possible Proto) (IE Institute)"
 	esrb_rating "NOT RATED"
 	rom ( crc BC14FCE6 )
 )
@@ -1210,7 +1210,7 @@ game (
 )
 
 game (
-	comment "Judge Dredd (Japan)"
+	comment "Judge Dredd (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 951B9907 )
 )
@@ -1312,7 +1312,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto) (1998-11-16)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto)"
 	esrb_rating "E"
 	rom ( crc F7C59F5C )
 )
@@ -1324,13 +1324,13 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta) (1993-05-19)"
+	comment "Lemmings (Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc E2A65174 )
 )
 
 game (
-	comment "Lemmings (Japan)"
+	comment "Lemmings (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 7D5CC03A )
 )
@@ -1456,13 +1456,13 @@ game (
 )
 
 game (
-	comment "Mickey Mouse (Japan)"
+	comment "Mickey Mouse (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 4CA75D4D )
 )
 
 game (
-	comment "Mickey Mouse II (Japan)"
+	comment "Mickey Mouse II (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc DFEE8BCC )
 )
@@ -1534,7 +1534,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	esrb_rating "T"
 	rom ( crc 160FA9EF )
 )
@@ -1546,7 +1546,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat & Mortal Kombat II (Japan)"
+	comment "Mortal Kombat & Mortal Kombat II (Japan) (En)"
 	esrb_rating "T"
 	rom ( crc B1A8DFD0 )
 )
@@ -1576,7 +1576,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
+	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)"
 	esrb_rating "M"
 	rom ( crc 57BA5D56 )
 )
@@ -1588,7 +1588,7 @@ game (
 )
 
 game (
-	comment "MVP Baseball (Japan)"
+	comment "MVP Baseball (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 38C126AA )
 )
@@ -1906,7 +1906,7 @@ game (
 )
 
 game (
-	comment "Sonic 6 (Unknown) (En) (Pirate)"
+	comment "Sonic 6 (USA) (Pirate)"
 	esrb_rating "E"
 	rom ( crc AA4E9379 )
 )
@@ -1918,7 +1918,7 @@ game (
 )
 
 game (
-	comment "Space Invaders (Japan)"
+	comment "Space Invaders (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 868B57B2 )
 )
@@ -1978,7 +1978,7 @@ game (
 )
 
 game (
-	comment "Street Racer (Japan)"
+	comment "Street Racer (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 5BBACAA8 )
 )
@@ -2110,7 +2110,7 @@ game (
 )
 
 game (
-	comment "Trip World (Japan)"
+	comment "Trip World (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 11568E64 )
 )
@@ -2158,7 +2158,7 @@ game (
 )
 
 game (
-	comment "World Cup Striker (Japan)"
+	comment "World Cup Striker (Japan) (En)"
 	esrb_rating "NOT RATED"
 	rom ( crc FDEFA88D )
 )
@@ -2200,7 +2200,7 @@ game (
 )
 
 game (
-	comment "Zoop (Japan)"
+	comment "Zoop (Japan) (En)"
 	esrb_rating "KA"
 	rom ( crc 10E1A10C )
 )
@@ -2210,4 +2210,3 @@ game (
 	esrb_rating "KA"
 	rom ( crc 7B440074 )
 )
-

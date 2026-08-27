@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "10-Pin Bowling (USA)"
+	comment "10-Pin Bowling (USA) (Proto)"
 	developer "Morning Star Multimedia"
 	rom ( crc 9A024415 )
 )
@@ -22,55 +22,55 @@ game (
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-005, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-005, Sachen-Commin)"
 	developer "Beam Software"
 	rom ( crc F4310EB3 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-002, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-002, Sachen)"
 	developer "Beam Software"
 	rom ( crc 5E438DB8 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-007, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-007, Sachen)"
 	developer "Beam Software"
 	rom ( crc 62D9350E )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-001, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-001, Sachen-Commin)"
 	developer "Beam Software"
 	rom ( crc 82F06E93 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-004, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Europe) (4B-004, Sachen-Commin)"
 	developer "Beam Software"
 	rom ( crc C69A19F6 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-008, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-008, Sachen)"
 	developer "Beam Software"
 	rom ( crc 740E9BC8 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-006, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-006, Sachen)"
 	developer "Beam Software"
 	rom ( crc 95398DA5 )
 )
 
 game (
-	comment "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin) (Unl)"
+	comment "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin)"
 	developer "Beam Software"
 	rom ( crc C294AA21 )
 )
 
 game (
-	comment "4 in 1 (Europe) (4B-009, Sachen) (Unl)"
+	comment "4 in 1 (Europe) (4B-009, Sachen)"
 	developer "Beam Software"
 	rom ( crc 114E1F1E )
 )
@@ -160,13 +160,13 @@ game (
 )
 
 game (
-	comment "Aerostar (Japan)"
+	comment "Aerostar (Japan) (En)"
 	developer "Sigma Pro-Tech"
 	rom ( crc DFA3B28A )
 )
 
 game (
-	comment "After Burst (Japan)"
+	comment "After Burst (Japan) (En)"
 	developer "Dual Corporation"
 	rom ( crc C0049D77 )
 )
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Alfred Chicken (Japan) (SGB Enhanced)"
+	comment "Alfred Chicken (Japan) (En) (SGB Enhanced)"
 	developer "Twilight"
 	rom ( crc 1089098F )
 )
@@ -256,7 +256,7 @@ game (
 )
 
 game (
-	comment "Alien 3 (Japan)"
+	comment "Alien 3 (Japan) (En)"
 	developer "Bits Studios"
 	rom ( crc E59049B2 )
 )
@@ -304,7 +304,7 @@ game (
 )
 
 game (
-	comment "Altered Space - A 3-D Alien Adventure (Japan)"
+	comment "Altered Space - A 3-D Alien Adventure (Japan) (En)"
 	developer "Software Creations"
 	rom ( crc CE36E36E )
 )
@@ -358,7 +358,7 @@ game (
 )
 
 game (
-	comment "Amida (Japan)"
+	comment "Amida (Japan) (En)"
 	developer "Coconuts Japan"
 	rom ( crc 60128AA8 )
 )
@@ -478,7 +478,7 @@ game (
 )
 
 game (
-	comment "Asterix & Obelix (Spain) (En,Es) (SGB Enhanced)"
+	comment "Asterix & Obelix (Europe) (En,Es) (SGB Enhanced)"
 	developer "Bit Managers"
 	rom ( crc B1FD41D0 )
 )
@@ -502,7 +502,7 @@ game (
 )
 
 game (
-	comment "Astro Rabby (Japan)"
+	comment "Astro Rabby (Japan) (En)"
 	developer "Information Global Service"
 	rom ( crc 61E48EEF )
 )
@@ -586,7 +586,7 @@ game (
 )
 
 game (
-	comment "Bakuretsu Senshi Warrior (Japan)"
+	comment "Bakuretsu Senshi Warrior (Japan) (En)"
 	developer "SAS Sakata"
 	rom ( crc ECF1B801 )
 )
@@ -622,7 +622,7 @@ game (
 )
 
 game (
-	comment "Bart no Survival Camp (Japan)"
+	comment "Bart no Survival Camp (Japan) (En)"
 	developer "Imagineer"
 	rom ( crc 0FD66B1A )
 )
@@ -664,7 +664,7 @@ game (
 )
 
 game (
-	comment "Batman - Return of the Joker (Japan)"
+	comment "Batman - Return of the Joker (Japan) (En)"
 	developer "Sunsoft"
 	rom ( crc DE459A47 )
 )
@@ -682,7 +682,7 @@ game (
 )
 
 game (
-	comment "Batman Forever (Japan)"
+	comment "Batman Forever (Japan) (En)"
 	developer "Probe Entertainment"
 	rom ( crc C2FD6244 )
 )
@@ -712,7 +712,7 @@ game (
 )
 
 game (
-	comment "Battle Bull (Japan)"
+	comment "Battle Bull (Japan) (En)"
 	developer "Jorudan"
 	rom ( crc 5C69E449 )
 )
@@ -748,7 +748,7 @@ game (
 )
 
 game (
-	comment "Battle Pingpong (Japan)"
+	comment "Battle Pingpong (Japan) (En)"
 	developer "Quest"
 	rom ( crc 7C787BC4 )
 )
@@ -766,7 +766,7 @@ game (
 )
 
 game (
-	comment "BattleCity (Japan)"
+	comment "BattleCity (Japan) (En)"
 	developer "Namco"
 	rom ( crc A37A814A )
 )
@@ -958,7 +958,7 @@ game (
 )
 
 game (
-	comment "Blodia (Japan)"
+	comment "Blodia (Japan) (En)"
 	developer "Hudson"
 	rom ( crc 51FF6E53 )
 )
@@ -1024,7 +1024,7 @@ game (
 )
 
 game (
-	comment "Bomber Boy (Japan)"
+	comment "Bomber Boy (Japan) (En)"
 	developer "Hudson"
 	rom ( crc EF9595AC )
 )
@@ -1042,7 +1042,7 @@ game (
 )
 
 game (
-	comment "Bomber King - Scenario 2 (Japan)"
+	comment "Bomber King - Scenario 2 (Japan) (En)"
 	developer "Aicom"
 	rom ( crc B8FE9077 )
 )
@@ -1102,7 +1102,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (Japan)"
+	comment "Boulder Dash (Japan) (En)"
 	developer "Victor Entertainment"
 	rom ( crc B5B3F85B )
 )
@@ -1120,7 +1120,7 @@ game (
 )
 
 game (
-	comment "Boxing (Japan)"
+	comment "Boxing (Japan) (En)"
 	developer "TOSE"
 	rom ( crc EF7E9FA0 )
 )
@@ -1138,7 +1138,7 @@ game (
 )
 
 game (
-	comment "Brain Drain (Japan) (SGB Enhanced)"
+	comment "Brain Drain (Japan) (En) (SGB Enhanced)"
 	developer "Visual Impact"
 	rom ( crc E558AACD )
 )
@@ -1174,7 +1174,7 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Japan)"
+	comment "Bubble Bobble (Japan) (En)"
 	developer "Taito"
 	rom ( crc AD9B300C )
 )
@@ -1192,13 +1192,13 @@ game (
 )
 
 game (
-	comment "Bubble Bobble Junior (Japan)"
+	comment "Bubble Bobble Junior (Japan) (En)"
 	developer "Taito"
 	rom ( crc 39E261B9 )
 )
 
 game (
-	comment "Bubble Ghost (Japan)"
+	comment "Bubble Ghost (Japan) (En)"
 	developer "Ere Informatique"
 	rom ( crc 874D0D6F )
 )
@@ -1252,7 +1252,7 @@ game (
 )
 
 game (
-	comment "Burai Senshi Deluxe (Japan)"
+	comment "Burai Senshi Deluxe (Japan) (En)"
 	developer "Kindle Imagine Develop"
 	rom ( crc 5A1A20F3 )
 )
@@ -1270,7 +1270,7 @@ game (
 )
 
 game (
-	comment "Burning Paper (Japan)"
+	comment "Burning Paper (Japan) (En)"
 	developer "Pixel"
 	rom ( crc 88F8C991 )
 )
@@ -1348,7 +1348,7 @@ game (
 )
 
 game (
-	comment "Card Game (Japan)"
+	comment "Card Game (Japan) (En)"
 	developer "Marionette"
 	rom ( crc D05F4C90 )
 )
@@ -1374,7 +1374,7 @@ game (
 game (
 	comment "Casper (USA) (Beta)"
 	developer "Funcom"
-	rom ( crc 14C66168 )
+	rom ( crc E0AB72FB )
 )
 
 game (
@@ -1510,7 +1510,7 @@ game (
 )
 
 game (
-	comment "Chessmaster, The (Japan)"
+	comment "Chessmaster, The (Japan) (En)"
 	developer "Park Place Productions"
 	rom ( crc 82150E4A )
 )
@@ -1576,7 +1576,7 @@ game (
 )
 
 game (
-	comment "Choplifter II (Japan)"
+	comment "Choplifter II (Japan) (En)"
 	developer "Beam Software"
 	rom ( crc 5109F484 )
 )
@@ -1894,7 +1894,7 @@ game (
 )
 
 game (
-	comment "Dead Heat Scramble (Japan)"
+	comment "Dead Heat Scramble (Japan) (En)"
 	developer "Copya System Ltd."
 	rom ( crc A8301BDD )
 )
@@ -1906,19 +1906,19 @@ game (
 )
 
 game (
-	comment "Deadeus (World) (v1.3.8) (Aftermarket) (Unl)"
+	comment "Deadeus (World) (v1.3.8)"
 	developer "IZMA"
 	rom ( crc 7DA95971 )
 )
 
 game (
-	comment "Deadeus (World) (v1.2.5) (Aftermarket) (Unl)"
+	comment "Deadeus (World) (v1.2.5)"
 	developer "IZMA"
 	rom ( crc 9E2BF649 )
 )
 
 game (
-	comment "Dennis (Europe) (Beta) (1993-09-13)"
+	comment "Dennis (Europe) (Beta)"
 	developer "Ocean"
 	rom ( crc 807D34A4 )
 )
@@ -2122,7 +2122,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Japan)"
+	comment "Double Dragon (Japan) (En)"
 	developer "Technos Japan Corp."
 	rom ( crc A0645E8A )
 )
@@ -2188,7 +2188,7 @@ game (
 )
 
 game (
-	comment "Dr. Franken (Japan)"
+	comment "Dr. Franken (Japan) (En)"
 	developer "Motivetime Ltd."
 	rom ( crc 3D04B8E7 )
 )
@@ -2272,19 +2272,19 @@ game (
 )
 
 game (
-	comment "Dragon Slayer I (Japan)"
+	comment "Dragon Slayer I (Japan) (En)"
 	developer "Falcom"
 	rom ( crc 308A2465 )
 )
 
 game (
-	comment "Dragon Tail (Japan)"
+	comment "Dragon Tail (Japan) (En)"
 	developer "Data East"
 	rom ( crc 1D1155AF )
 )
 
 game (
-	comment "Dragon's Lair (Japan)"
+	comment "Dragon's Lair (Japan) (En)"
 	developer "MotiveTime, Ltd."
 	rom ( crc 73C994A0 )
 )
@@ -2302,15 +2302,9 @@ game (
 )
 
 game (
-	comment "Dragonborne (World) (Aftermarket) (Unl)"
+	comment "Dragonborne (World) (Alt)"
 	developer "Spacebot Interactive"
 	rom ( crc 0AE28712 )
-)
-
-game (
-	comment "Dragonborne (World) (Demo) (Aftermarket) (Unl)"
-	developer "Spacebot Interactive"
-	rom ( crc EDA66890 )
 )
 
 game (
@@ -2338,7 +2332,7 @@ game (
 )
 
 game (
-	comment "Druaga no Tou (Japan)"
+	comment "Druaga no Tou (Japan) (En)"
 	developer "TOSE"
 	rom ( crc F924BDB1 )
 )
@@ -2422,7 +2416,7 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan)"
+	comment "Elevator Action (Japan) (En)"
 	developer "Taito"
 	rom ( crc BEAD8AE4 )
 )
@@ -2434,7 +2428,7 @@ game (
 )
 
 game (
-	comment "Exodus - Journey to the Promised Land (USA) (Unl)"
+	comment "Exodus - Journey to the Promised Land (USA)"
 	developer "Wisdom Tree"
 	rom ( crc 2E5497EF )
 )
@@ -2560,7 +2554,7 @@ game (
 )
 
 game (
-	comment "Ferrari (Japan)"
+	comment "Ferrari (Japan) (En)"
 	developer "System 3 Software"
 	rom ( crc A7BDFEC8 )
 )
@@ -2572,7 +2566,7 @@ game (
 )
 
 game (
-	comment "Fidgetts, The (Japan)"
+	comment "Fidgetts, The (Japan) (En)"
 	developer "Game Over Production"
 	rom ( crc FFD4A9E3 )
 )
@@ -2668,7 +2662,7 @@ game (
 )
 
 game (
-	comment "Final Reverse (Japan)"
+	comment "Final Reverse (Japan) (En)"
 	developer "Shouei"
 	rom ( crc E94A6942 )
 )
@@ -2704,7 +2698,7 @@ game (
 )
 
 game (
-	comment "Flappy Special (Japan)"
+	comment "Flappy Special (Japan) (En)"
 	developer "DB Soft"
 	rom ( crc 3B6CDDA4 )
 )
@@ -2734,7 +2728,7 @@ game (
 )
 
 game (
-	comment "Flipull - An Exciting Cube Game (Japan)"
+	comment "Flipull - An Exciting Cube Game (Japan) (En)"
 	developer "SibGame"
 	rom ( crc 198F147D )
 )
@@ -2746,7 +2740,7 @@ game (
 )
 
 game (
-	comment "Foreman for Real (Japan)"
+	comment "Foreman for Real (Japan) (En)"
 	developer "Software Creations"
 	rom ( crc 860EA816 )
 )
@@ -2788,13 +2782,13 @@ game (
 )
 
 game (
-	comment "Funny Field (Japan)"
+	comment "Funny Field (Japan) (En)"
 	developer "SNK"
 	rom ( crc BFD87AA4 )
 )
 
 game (
-	comment "Fushigi na Blobby - Princess Blob o Sukue! (Japan)"
+	comment "Fushigina Blobby - Princess Blob o Sukue! (Japan)"
 	developer "Absolute Entertainment"
 	rom ( crc 3D0BAC10 )
 )
@@ -2806,7 +2800,7 @@ game (
 )
 
 game (
-	comment "Galaga & Galaxian (Japan) (SGB Enhanced)"
+	comment "Galaga & Galaxian (Japan) (En) (SGB Enhanced)"
 	developer "TOSE"
 	rom ( crc 532036D5 )
 )
@@ -2940,7 +2934,7 @@ game (
 game (
 	comment "Gauntlet II (USA, Europe) (Beta)"
 	developer "Atari"
-	rom ( crc 7E805AC6 )
+	rom ( crc 965BBE1F )
 )
 
 game (
@@ -2950,7 +2944,7 @@ game (
 )
 
 game (
-	comment "GB Basketball (Japan)"
+	comment "GB Basketball (Japan) (En)"
 	developer "Enigma Variations"
 	rom ( crc D9B24D21 )
 )
@@ -3046,7 +3040,7 @@ game (
 )
 
 game (
-	comment "Ghostbusters II (Japan)"
+	comment "Ghostbusters II (Japan) (En)"
 	developer "Kemco"
 	rom ( crc 69B161BC )
 )
@@ -3094,7 +3088,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan)"
+	comment "Go! Go! Tank (Japan) (En)"
 	developer "Copya System"
 	rom ( crc 30AE39B6 )
 )
@@ -3112,7 +3106,7 @@ game (
 )
 
 game (
-	comment "Go! Go! Tank (Japan) (Beta)"
+	comment "Go! Go! Tank (Japan) (En) (Beta)"
 	developer "Copya System"
 	rom ( crc 6DCF5E7F )
 )
@@ -3178,7 +3172,7 @@ game (
 )
 
 game (
-	comment "Goukaku Boy Series - Koukou Nyuushi Derujun - Chuugaku Eitango 1700 (Japan) (IE Institute)"
+	comment "Goukaku Boy Series - Koukou Nyuushi Derujun - Chuugaku Eitango 1700 (Japan) (Possible Proto) (IE Institute)"
 	developer "C-Lab"
 	rom ( crc BC14FCE6 )
 )
@@ -3250,7 +3244,7 @@ game (
 )
 
 game (
-	comment "Head On (Japan)"
+	comment "Head On (Japan) (En)"
 	developer "Graphic Research"
 	rom ( crc 78830DAF )
 )
@@ -3268,7 +3262,7 @@ game (
 )
 
 game (
-	comment "Heiankyou Alien (Japan)"
+	comment "Heiankyou Alien (Japan) (En)"
 	developer "Live Planning"
 	rom ( crc 08BF29C9 )
 )
@@ -3400,9 +3394,9 @@ game (
 )
 
 game (
-	comment "Hook (Europe) (Beta)"
+	comment "Hook (USA) (Sample)"
 	developer "Ukiyotei"
-	rom ( crc 32DD6FD6 )
+	rom ( crc C091ABC8 )
 )
 
 game (
@@ -3448,9 +3442,9 @@ game (
 )
 
 game (
-	comment "Hugo (World) (Aftermarket) (Homebrew)"
+	comment "Hugo (World)"
 	developer "ITE Media"
-	rom ( crc 26684589 )
+	rom ( crc 8CC87F60 )
 )
 
 game (
@@ -3730,7 +3724,7 @@ game (
 )
 
 game (
-	comment "Jetsons, The - Robot Panic (USA) (Rev 1) (Possible Proto)"
+	comment "Jetsons, The - Robot Panic (USA, Europe) (Rev 1)"
 	developer "Act Japan"
 	rom ( crc CC38CF0D )
 )
@@ -3748,7 +3742,7 @@ game (
 )
 
 game (
-	comment "Jimmy Connors no Pro Tennis Tour (Japan)"
+	comment "Jimmy Connors no Pro Tennis Tour (Japan) (En)"
 	developer "Ubisoft"
 	rom ( crc 18671602 )
 )
@@ -3790,7 +3784,7 @@ game (
 )
 
 game (
-	comment "Jordan vs Bird - One on One (Japan)"
+	comment "Jordan vs Bird - One on One (Japan) (En)"
 	developer "Imagineer"
 	rom ( crc 3FCB174D )
 )
@@ -3802,13 +3796,13 @@ game (
 )
 
 game (
-	comment "Joshua & the Battle of Jericho (USA) (Unl)"
+	comment "Joshua & the Battle of Jericho (USA)"
 	developer "Wisdom Tree"
 	rom ( crc E0CF879B )
 )
 
 game (
-	comment "Judge Dredd (Japan)"
+	comment "Judge Dredd (Japan) (En)"
 	developer "Probe Entertainment"
 	rom ( crc 951B9907 )
 )
@@ -3880,7 +3874,7 @@ game (
 )
 
 game (
-	comment "Kaisen Game - Navyblue (Japan)"
+	comment "Kaisen Game - Navyblue (Japan) (En)"
 	developer "Pack In Video"
 	rom ( crc AFD8C47C )
 )
@@ -3892,7 +3886,7 @@ game (
 )
 
 game (
-	comment "Kaisen Game - Radarmission (Japan)"
+	comment "Kaisen Game - Radarmission (Japan) (En)"
 	developer "Nintendo"
 	rom ( crc 892FC0AF )
 )
@@ -3934,7 +3928,7 @@ game (
 )
 
 game (
-	comment "Kick Boxing, The (Japan)"
+	comment "Kick Boxing, The (Japan) (En)"
 	developer "Loriciels"
 	rom ( crc 8056344C )
 )
@@ -3964,7 +3958,7 @@ game (
 )
 
 game (
-	comment "King James Bible (USA) (Unl)"
+	comment "King James Bible (USA)"
 	developer "Wisdom Tree"
 	rom ( crc 23679231 )
 )
@@ -4084,7 +4078,7 @@ game (
 )
 
 game (
-	comment "Klax (Japan) (Hudson Soft)"
+	comment "Klax (Japan) (En) (Hudson Soft)"
 	developer "Hudson"
 	rom ( crc B4955889 )
 )
@@ -4156,7 +4150,7 @@ game (
 )
 
 game (
-	comment "Konamic Golf (Japan)"
+	comment "Konamic Golf (Japan) (En)"
 	developer "Capcom"
 	rom ( crc C16D4DB2 )
 )
@@ -4180,7 +4174,7 @@ game (
 )
 
 game (
-	comment "Koro Dice (Japan)"
+	comment "Koro Dice (Japan) (En)"
 	developer "A Wave Inc"
 	rom ( crc 39608C31 )
 )
@@ -4192,7 +4186,7 @@ game (
 )
 
 game (
-	comment "Krusty World (Japan)"
+	comment "Krusty World (Japan) (En)"
 	developer "Audiogenic Software"
 	rom ( crc 01FBC9F6 )
 )
@@ -4246,13 +4240,13 @@ game (
 )
 
 game (
-	comment "Lawnmower Man, The (USA) (Proto 1) (1993-10-11) (Not For Resale)"
+	comment "Lawnmower Man, The (USA) (Proto 1) (Not For Resale)"
 	developer "Sales Curve"
 	rom ( crc 1CAC0775 )
 )
 
 game (
-	comment "Lawnmower Man, The (USA) (Proto 2) (1993-11-10)"
+	comment "Lawnmower Man, The (USA) (Proto 2)"
 	developer "Sales Curve"
 	rom ( crc 545613E9 )
 )
@@ -4330,7 +4324,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto) (1998-11-16)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Proto)"
 	developer "Nintendo EAD"
 	rom ( crc F7C59F5C )
 )
@@ -4342,13 +4336,13 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta) (1993-05-19)"
+	comment "Lemmings (Europe) (Beta)"
 	developer "DMA Design"
 	rom ( crc E2A65174 )
 )
 
 game (
-	comment "Lemmings (Japan)"
+	comment "Lemmings (Japan) (En)"
 	developer "DMA Design"
 	rom ( crc 7D5CC03A )
 )
@@ -4450,7 +4444,7 @@ game (
 )
 
 game (
-	comment "Lock n' Chase ~ Lock 'n' Chase (World)"
+	comment "Lock n' Chase (World)"
 	developer "Data East"
 	rom ( crc DAB91C7A )
 )
@@ -4474,7 +4468,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced)"
+	comment "Looney Tunes Series - Daffy Duck (Japan) (En) (SGB Enhanced)"
 	developer "Sunsoft"
 	rom ( crc 798D9489 )
 )
@@ -4528,7 +4522,7 @@ game (
 )
 
 game (
-	comment "Lunar Lander (Japan)"
+	comment "Lunar Lander (Japan) (En)"
 	developer "Pack In Video"
 	rom ( crc 030D2054 )
 )
@@ -4654,7 +4648,7 @@ game (
 )
 
 game (
-	comment "Master Karateka (Japan)"
+	comment "Master Karateka (Japan) (En)"
 	developer "TOSE"
 	rom ( crc 4C0FB33E )
 )
@@ -4846,25 +4840,25 @@ game (
 )
 
 game (
-	comment "Mick & Mack as the Global Gladiators (USA) (Proto) (1993-07-20)"
+	comment "Mick & Mack as the Global Gladiators (USA) (Proto)"
 	developer "Virgin Games"
 	rom ( crc 1E8A59C2 )
 )
 
 game (
-	comment "Mick & Mack as the Global Gladiators (USA) (Proto) (1993-10-04)"
+	comment "Mick & Mack as the Global Gladiators (USA) (Proto)"
 	developer "Virgin Games"
 	rom ( crc 2646F927 )
 )
 
 game (
-	comment "Mick & Mack as the Global Gladiators (USA) (Proto) (1993-09-27)"
+	comment "Mick & Mack as the Global Gladiators (USA) (Proto)"
 	developer "Virgin Games"
 	rom ( crc 016AE810 )
 )
 
 game (
-	comment "Mick & Mack as the Global Gladiators (USA) (Proto) (1994-01-18)"
+	comment "Mick & Mack as the Global Gladiators (USA) (Proto)"
 	developer "Virgin Games"
 	rom ( crc CF486F7B )
 )
@@ -4876,7 +4870,7 @@ game (
 )
 
 game (
-	comment "Mickey Mouse (Japan)"
+	comment "Mickey Mouse (Japan) (En)"
 	developer "Kemco"
 	rom ( crc 4CA75D4D )
 )
@@ -4888,13 +4882,13 @@ game (
 )
 
 game (
-	comment "Mickey Mouse II (Japan)"
+	comment "Mickey Mouse II (Japan) (En)"
 	developer "Kemco"
 	rom ( crc DFEE8BCC )
 )
 
 game (
-	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan)"
+	comment "Mickey Mouse IV - Mahou no Labyrinth (Japan) (En)"
 	developer "Kemco"
 	rom ( crc 0D30B3A1 )
 )
@@ -4936,7 +4930,7 @@ game (
 )
 
 game (
-	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)"
+	comment "Mickey's Ultimate Challenge (USA, Europe) (Beta)"
 	developer "Designer Software"
 	rom ( crc 3FAC2661 )
 )
@@ -4978,7 +4972,7 @@ game (
 )
 
 game (
-	comment "Migrain (Japan)"
+	comment "Migrain (Japan) (En)"
 	developer "Electro Brain Corp."
 	rom ( crc CED936F8 )
 )
@@ -5008,7 +5002,7 @@ game (
 )
 
 game (
-	comment "Minesweeper - Soukaitei (Japan)"
+	comment "Minesweeper - Soukaitei (Japan) (En)"
 	developer "Arc System Works"
 	rom ( crc 5532B3D1 )
 )
@@ -5044,7 +5038,7 @@ game (
 )
 
 game (
-	comment "Mini-Putt (Japan)"
+	comment "Mini-Putt (Japan) (En)"
 	developer "Artech Digital Entertainment"
 	rom ( crc 33CD7550 )
 )
@@ -5158,7 +5152,7 @@ game (
 )
 
 game (
-	comment "Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01)"
+	comment "Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta)"
 	developer "Rareware"
 	rom ( crc E7723A39 )
 )
@@ -5170,7 +5164,7 @@ game (
 )
 
 game (
-	comment "Monster Truck (Japan)"
+	comment "Monster Truck (Japan) (En)"
 	developer "Another"
 	rom ( crc ABF9B517 )
 )
@@ -5188,7 +5182,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
+	comment "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)"
 	developer "Midway"
 	rom ( crc 160FA9EF )
 )
@@ -5200,7 +5194,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat & Mortal Kombat II (Japan)"
+	comment "Mortal Kombat & Mortal Kombat II (Japan) (En)"
 	developer "Probe Software"
 	rom ( crc B1A8DFD0 )
 )
@@ -5230,7 +5224,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
+	comment "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)"
 	developer "Midway"
 	rom ( crc 57BA5D56 )
 )
@@ -5242,7 +5236,7 @@ game (
 )
 
 game (
-	comment "Motocross Maniacs (Japan)"
+	comment "Motocross Maniacs (Japan) (En)"
 	developer "Konami"
 	rom ( crc DA6053C3 )
 )
@@ -5320,15 +5314,21 @@ game (
 )
 
 game (
-	comment "MVP Baseball (Japan)"
+	comment "MVP Baseball (Japan) (En)"
 	developer "Sculptured Software"
 	rom ( crc 38C126AA )
 )
 
 game (
-	comment "Mysterium (USA) (Beta)"
+	comment "Mysterium (USA) (v1.00AI) (Beta)"
 	developer "Maxis Software"
-	rom ( crc 78F5BB56 )
+	rom ( crc 57B3E6C3 )
+)
+
+game (
+	comment "Mysterium (USA) (v1.00AU) (Beta)"
+	developer "Maxis Software"
+	rom ( crc 004C1AF7 )
 )
 
 game (
@@ -5464,7 +5464,7 @@ game (
 )
 
 game (
-	comment "NBA All-Star Challenge 2 (Japan)"
+	comment "NBA All-Star Challenge 2 (Japan) (En)"
 	developer "Beam Software"
 	rom ( crc DF9DB013 )
 )
@@ -5482,7 +5482,7 @@ game (
 )
 
 game (
-	comment "NBA Jam - Tournament Edition (Japan)"
+	comment "NBA Jam - Tournament Edition (Japan) (En)"
 	developer "Torus Games"
 	rom ( crc 32909F62 )
 )
@@ -5542,7 +5542,7 @@ game (
 )
 
 game (
-	comment "Nemesis (Japan)"
+	comment "Nemesis (Japan) (En)"
 	developer "Konami"
 	rom ( crc B338DAE7 )
 )
@@ -5560,7 +5560,7 @@ game (
 )
 
 game (
-	comment "Nemesis II (Japan)"
+	comment "Nemesis II (Japan) (En)"
 	developer "Konami"
 	rom ( crc AC5B062D )
 )
@@ -5650,7 +5650,7 @@ game (
 )
 
 game (
-	comment "NFL Quarterback Club '95 (Japan)"
+	comment "NFL Quarterback Club '95 (Japan) (En)"
 	developer "Beam Software"
 	rom ( crc EECB703C )
 )
@@ -5794,7 +5794,7 @@ game (
 )
 
 game (
-	comment "NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl)"
+	comment "NIV Bible & the 20 Lost Levels of Joshua (USA)"
 	developer "Wisdom Tree"
 	rom ( crc E7A26B31 )
 )
@@ -5896,7 +5896,7 @@ game (
 )
 
 game (
-	comment "Othello (Japan)"
+	comment "Othello (Japan) (En)"
 	developer "Kawada, Co. Ltd"
 	rom ( crc C17A002E )
 )
@@ -5986,7 +5986,7 @@ game (
 )
 
 game (
-	comment "Pac-Man (Japan)"
+	comment "Pac-Man (Japan) (En)"
 	developer "Namco"
 	rom ( crc 65998F48 )
 )
@@ -6004,7 +6004,7 @@ game (
 )
 
 game (
-	comment "Pac-Panic (Japan) (SGB Enhanced)"
+	comment "Pac-Panic (Japan) (En) (SGB Enhanced)"
 	developer "Now Production"
 	rom ( crc AAEBD509 )
 )
@@ -6088,7 +6088,7 @@ game (
 )
 
 game (
-	comment "Palamedes (Japan)"
+	comment "Palamedes (Japan) (En)"
 	developer "Hot-B"
 	rom ( crc 4B993D0D )
 )
@@ -6292,7 +6292,7 @@ game (
 )
 
 game (
-	comment "Pipe Dream (Japan)"
+	comment "Pipe Dream (Japan) (En)"
 	developer "The Assembly Line"
 	rom ( crc D8B4AEA4 )
 )
@@ -6310,7 +6310,7 @@ game (
 )
 
 game (
-	comment "Pitman (Japan)"
+	comment "Pitman (Japan) (En)"
 	developer "ASK Kodansha"
 	rom ( crc A0B68136 )
 )
@@ -6568,7 +6568,7 @@ game (
 )
 
 game (
-	comment "Popeye (Japan)"
+	comment "Popeye (Japan) (En)"
 	developer "Sigma Enterprises"
 	rom ( crc 2FB4DA21 )
 )
@@ -6610,25 +6610,25 @@ game (
 )
 
 game (
-	comment "Populous (Europe) (Sample)"
+	comment "Populous (Europe) (Beta 6)"
 	developer "Bullfrog"
 	rom ( crc ECF2DD6F )
 )
 
 game (
-	comment "Populous Gaiden (Japan)"
+	comment "Populous Gaiden (Japan) (En)"
 	developer "Bullfrog"
 	rom ( crc F327167E )
 )
 
 game (
-	comment "Power Mission (Japan)"
+	comment "Power Mission (Japan) (En)"
 	developer "Graphic Research Co., Ltd."
 	rom ( crc 0E2A1414 )
 )
 
 game (
-	comment "Power Mission (Japan) (Rev 1)"
+	comment "Power Mission (Japan) (En) (Rev 1)"
 	developer "Graphic Research Co., Ltd."
 	rom ( crc E30EF8AB )
 )
@@ -6814,7 +6814,7 @@ game (
 )
 
 game (
-	comment "Puzznic (Japan)"
+	comment "Puzznic (Japan) (En)"
 	developer "Taito"
 	rom ( crc 916E638D )
 )
@@ -6838,7 +6838,7 @@ game (
 )
 
 game (
-	comment "Q Billion (Japan)"
+	comment "Q Billion (Japan) (En)"
 	developer "SETA Corporation"
 	rom ( crc 979ED154 )
 )
@@ -6874,7 +6874,7 @@ game (
 )
 
 game (
-	comment "R-Type (Japan)"
+	comment "R-Type (Japan) (En)"
 	developer "Irem"
 	rom ( crc E4988910 )
 )
@@ -6904,7 +6904,7 @@ game (
 )
 
 game (
-	comment "R-Type II (Japan)"
+	comment "R-Type II (Japan) (En)"
 	developer "Irem"
 	rom ( crc 6002E291 )
 )
@@ -7000,7 +7000,7 @@ game (
 )
 
 game (
-	comment "Red October o Oe! (Japan)"
+	comment "Red October o Oe! (Japan) (En)"
 	developer "HiTech Software"
 	rom ( crc C2E7BE35 )
 )
@@ -7050,11 +7050,11 @@ game (
 game (
 	comment "Riddick Bowe Boxing (USA) (Beta)"
 	developer "Equilibrium, Inc."
-	rom ( crc 882D01E6 )
+	rom ( crc A07512A6 )
 )
 
 game (
-	comment "Ring Rage (Japan)"
+	comment "Ring Rage (Japan) (En)"
 	developer "Taito"
 	rom ( crc FD3D5BA7 )
 )
@@ -7078,7 +7078,7 @@ game (
 )
 
 game (
-	comment "Roadster (Japan)"
+	comment "Roadster (Japan) (En)"
 	developer "TOSE"
 	rom ( crc 04453E78 )
 )
@@ -7114,7 +7114,7 @@ game (
 )
 
 game (
-	comment "RoboCop (Japan)"
+	comment "RoboCop (Japan) (En)"
 	developer "Ocean"
 	rom ( crc 06D6980B )
 )
@@ -7144,13 +7144,13 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	developer "Unexpected Development"
 	rom ( crc 9E3B05C4 )
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	developer "Unexpected Development"
 	rom ( crc F82D7223 )
 )
@@ -7168,7 +7168,7 @@ game (
 )
 
 game (
-	comment "Rockman World (Japan)"
+	comment "Rockman World (Japan) (En)"
 	developer "Capcom"
 	rom ( crc 3BE6AC04 )
 )
@@ -7222,7 +7222,7 @@ game (
 )
 
 game (
-	comment "Rubble Saver (Japan)"
+	comment "Rubble Saver (Japan) (En)"
 	developer "A Wave Inc"
 	rom ( crc E8AEA452 )
 )
@@ -7234,7 +7234,7 @@ game (
 )
 
 game (
-	comment "Rubble Saver II (Japan)"
+	comment "Rubble Saver II (Japan) (En)"
 	developer "A Wave Inc"
 	rom ( crc 92C95F2D )
 )
@@ -7270,13 +7270,13 @@ game (
 )
 
 game (
-	comment "Saigo no Nindou (Japan)"
+	comment "Saigo no Nindou (Japan) (En)"
 	developer "Bits Studios"
 	rom ( crc B864A3B6 )
 )
 
 game (
-	comment "Sagaia (Japan)"
+	comment "Sagaia (Japan) (En)"
 	developer "Act Japan"
 	rom ( crc E43DA090 )
 )
@@ -7408,7 +7408,7 @@ game (
 )
 
 game (
-	comment "Shanghai (Japan) (Activision)"
+	comment "Shanghai (Japan)"
 	developer "HAL Laboratory"
 	rom ( crc 6AA684EB )
 )
@@ -7462,7 +7462,7 @@ game (
 )
 
 game (
-	comment "Shisenshou - Match-Mania (Japan)"
+	comment "Shisenshou - Match-Mania (Japan) (En)"
 	developer "Tamtex"
 	rom ( crc 0CDD8B04 )
 )
@@ -7492,7 +7492,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan)"
+	comment "Simpsons, The - Bart no Jack to Mame no Ki (Japan) (En)"
 	developer "Software Creations"
 	rom ( crc 7AA4E0BB )
 )
@@ -7564,7 +7564,7 @@ game (
 )
 
 game (
-	comment "Snoopy - Magic Show (Japan)"
+	comment "Snoopy - Magic Show (Japan) (En)"
 	developer "Kemco"
 	rom ( crc 4892984D )
 )
@@ -7612,13 +7612,13 @@ game (
 )
 
 game (
-	comment "Soccer (Japan)"
+	comment "Soccer (Japan) (En)"
 	developer "TOSE"
 	rom ( crc BE51A876 )
 )
 
 game (
-	comment "Soccer Boy (Japan)"
+	comment "Soccer Boy (Japan) (En)"
 	developer "Kitty Group"
 	rom ( crc 23F64E82 )
 )
@@ -7636,7 +7636,7 @@ game (
 )
 
 game (
-	comment "Solitaire (Japan)"
+	comment "Solitaire (Japan) (En)"
 	developer "Odyssey Software, Inc."
 	rom ( crc 1119484A )
 )
@@ -7672,7 +7672,7 @@ game (
 )
 
 game (
-	comment "Sonic 6 (Unknown) (En) (Pirate)"
+	comment "Sonic 6 (USA) (Pirate)"
 	developer "Sonic World"
 	rom ( crc AA4E9379 )
 )
@@ -7708,7 +7708,7 @@ game (
 )
 
 game (
-	comment "Space Invaders (Japan)"
+	comment "Space Invaders (Japan) (En)"
 	developer "Taito"
 	rom ( crc 868B57B2 )
 )
@@ -7744,7 +7744,7 @@ game (
 )
 
 game (
-	comment "Speedball 2 - Brutal Deluxe (Japan) (En)"
+	comment "Speedball 2 - Brutal Deluxe (Japan) (En) (Possible Proto)"
 	developer "Spidersoft"
 	rom ( crc D0E0116F )
 )
@@ -7786,7 +7786,7 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11)"
+	comment "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2)"
 	developer "Bits Studios"
 	rom ( crc BF2D1F10 )
 )
@@ -7798,7 +7798,7 @@ game (
 )
 
 game (
-	comment "Spiritual Warfare (USA) (Unl)"
+	comment "Spiritual Warfare (USA)"
 	developer "Wisdom Tree"
 	rom ( crc F7A961BA )
 )
@@ -7816,7 +7816,7 @@ game (
 )
 
 game (
-	comment "Splitz (Europe) (Beta)"
+	comment "Splitz (Europe) (Beta 6)"
 	developer "Enigma Variations"
 	rom ( crc 5E8F955E )
 )
@@ -7828,7 +7828,7 @@ game (
 )
 
 game (
-	comment "Splitz - Nigaoe 15 Game (Japan)"
+	comment "Splitz - Nigaoe 15 Game (Japan) (En)"
 	developer "Enigma Variations"
 	rom ( crc B07A2745 )
 )
@@ -7864,7 +7864,7 @@ game (
 )
 
 game (
-	comment "Spot - Cool Adventure (Japan)"
+	comment "Spot - Cool Adventure (Japan) (En)"
 	developer "Virgin"
 	rom ( crc 552A53B9 )
 )
@@ -8026,7 +8026,7 @@ game (
 )
 
 game (
-	comment "Street Racer (Japan)"
+	comment "Street Racer (Japan) (En)"
 	developer "Vivid Image"
 	rom ( crc 5BBACAA8 )
 )
@@ -8260,13 +8260,13 @@ game (
 )
 
 game (
-	comment "Super Street Basketball 2 (Japan) (SGB Enhanced)"
+	comment "Super Street Basketball 2 (Japan) (En) (SGB Enhanced)"
 	developer "Arcadia Systems"
 	rom ( crc 8090C9CC )
 )
 
 game (
-	comment "Super Street Basketball (Japan)"
+	comment "Super Street Basketball (Japan) (En)"
 	developer "C-Lab"
 	rom ( crc A269559F )
 )
@@ -8326,7 +8326,7 @@ game (
 )
 
 game (
-	comment "T2 - The Arcade Game (Japan)"
+	comment "T2 - The Arcade Game (Japan) (En)"
 	developer "LJN"
 	rom ( crc 7EC795FA )
 )
@@ -8458,7 +8458,7 @@ game (
 )
 
 game (
-	comment "Tecmo Bowl GB (Japan)"
+	comment "Tecmo Bowl GB (Japan) (En)"
 	developer "Tecmo"
 	rom ( crc CFD74E34 )
 )
@@ -8494,13 +8494,13 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta) (1991-05-20)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta)"
 	developer "Konami"
 	rom ( crc 64A667A3 )
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (Japan)"
+	comment "Teenage Mutant Ninja Turtles 2 (Japan) (En)"
 	developer "Konami"
 	rom ( crc 84E6FB25 )
 )
@@ -8686,7 +8686,7 @@ game (
 )
 
 game (
-	comment "Tiny Toon Adventures (Japan) (Beta) (1991-07-16)"
+	comment "Tiny Toon Adventures (Japan) (Beta)"
 	developer "Konami"
 	rom ( crc 4E4A17B5 )
 )
@@ -8704,7 +8704,7 @@ game (
 )
 
 game (
-	comment "Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06)"
+	comment "Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta)"
 	developer "Konami"
 	rom ( crc 7BF96CA9 )
 )
@@ -8776,13 +8776,13 @@ game (
 )
 
 game (
-	comment "Tom to Jerry (Japan)"
+	comment "Tom to Jerry (Japan) (En)"
 	developer "Beam Software"
 	rom ( crc CA836E6D )
 )
 
 game (
-	comment "Tom to Jerry Part 2 (Japan)"
+	comment "Tom to Jerry Part 2 (Japan) (En)"
 	developer "Beam Software"
 	rom ( crc DD19A9EC )
 )
@@ -8806,7 +8806,7 @@ game (
 )
 
 game (
-	comment "Torpedo Range (Japan)"
+	comment "Torpedo Range (Japan) (En)"
 	developer "SETA Corporation"
 	rom ( crc 1FB35885 )
 )
@@ -8872,7 +8872,7 @@ game (
 )
 
 game (
-	comment "Track Meet - Mezase! Barcelona (Japan)"
+	comment "Track Meet - Mezase! Barcelona (Japan) (En)"
 	developer "Interplay"
 	rom ( crc 48D37CD2 )
 )
@@ -8902,7 +8902,7 @@ game (
 )
 
 game (
-	comment "Trip World (Japan)"
+	comment "Trip World (Japan) (En)"
 	developer "Sunsoft"
 	rom ( crc 11568E64 )
 )
@@ -8938,7 +8938,7 @@ game (
 )
 
 game (
-	comment "Tumble Pop (Japan)"
+	comment "Tumble Pop (Japan) (En)"
 	developer "Data East"
 	rom ( crc 881AFD62 )
 )
@@ -9028,7 +9028,7 @@ game (
 )
 
 game (
-	comment "Ultra Golf (USA) (Beta) (1991-11-20)"
+	comment "Ultra Golf (USA) (Beta)"
 	developer "Capcom"
 	rom ( crc D9DDB091 )
 )
@@ -9124,7 +9124,7 @@ game (
 )
 
 game (
-	comment "VS Battler (Japan)"
+	comment "VS Battler (Japan) (En)"
 	developer "Copya System Ltd."
 	rom ( crc 20AE389A )
 )
@@ -9310,7 +9310,7 @@ game (
 )
 
 game (
-	comment "World Beach Volley - 1991 GB Cup (Japan)"
+	comment "World Beach Volley - 1991 GB Cup (Japan) (En)"
 	developer "Graphic Research"
 	rom ( crc A2894581 )
 )
@@ -9328,7 +9328,7 @@ game (
 )
 
 game (
-	comment "World Bowling (Japan)"
+	comment "World Bowling (Japan) (En)"
 	developer "Athena"
 	rom ( crc 47FEADF2 )
 )
@@ -9352,7 +9352,7 @@ game (
 )
 
 game (
-	comment "World Cup Striker (Japan)"
+	comment "World Cup Striker (Japan) (En)"
 	developer "Denton Designs"
 	rom ( crc FDEFA88D )
 )
@@ -9382,7 +9382,7 @@ game (
 )
 
 game (
-	comment "World Ice Hockey (Japan)"
+	comment "World Ice Hockey (Japan) (En)"
 	developer "Athena"
 	rom ( crc 4E345023 )
 )
@@ -9412,7 +9412,7 @@ game (
 )
 
 game (
-	comment "WWF King of the Ring (Japan)"
+	comment "WWF King of the Ring (Japan) (En)"
 	developer "Eastridge Technology"
 	rom ( crc 3AB55613 )
 )
@@ -9436,7 +9436,7 @@ game (
 )
 
 game (
-	comment "WWF Superstars 2 (Japan)"
+	comment "WWF Superstars 2 (Japan) (En)"
 	developer "Sculptured Software"
 	rom ( crc CA12D752 )
 )
@@ -9466,7 +9466,7 @@ game (
 )
 
 game (
-	comment "Xenon 2 - Megablast (Japan)"
+	comment "Xenon 2 - Megablast (Japan) (En)"
 	developer "Image Works"
 	rom ( crc 2FEB70D2 )
 )
@@ -9616,7 +9616,7 @@ game (
 )
 
 game (
-	comment "Zool (Japan) (Proto)"
+	comment "Zool (Japan) (En) (Proto)"
 	developer "Gremlin Graphics Software"
 	rom ( crc 3BE6DEC8 )
 )
@@ -9634,7 +9634,7 @@ game (
 )
 
 game (
-	comment "Zoop (Japan)"
+	comment "Zoop (Japan) (En)"
 	developer "Hookstone"
 	rom ( crc 10E1A10C )
 )
@@ -9644,166 +9644,207 @@ game (
 	developer "Hookstone"
 	rom ( crc 7B440074 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc DBD0B8DC )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc C83DF319 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc B539A028 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 0DEE0D87 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 42C5430A )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 00787832 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 2E63BC59 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 1116AE9F )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc D0B1E29B )
 )
+
 game (
 	franchise "Pokémon"
 	rom ( crc 742357FC )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc A4DE9817 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 8CC8A922 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc ED14EFFD )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc BC60C7A8 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc F612C80B )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 63EF11D8 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 359963F8 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 6C93C997 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 8BE1C176 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc ECFDA715 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 819417D2 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 6BC938E7 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc FE8E7F7E )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 4E05098B )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc F77FD8CF )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 78579258 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 2372DEFB )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 00754AD7 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 3381A40E )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 3BBF1B08 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc D46965D6 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc EBFC4EF6 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 91DCEC6C )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc D6CC5177 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 63E41242 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc B0B5A5DE )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 16768541 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc CBB8F4BD )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 4C62ADC7 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 5180E1A7 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc CAA8EBF9 )
@@ -9813,72 +9854,38 @@ game (
 	developer "Game Freak"
 	rom ( crc B56FEE0F )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 54C97537 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc E75E7D8D )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 51024CF3 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 23757859 )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc C0D79ECF )
 )
+
 game (
 	developer "Game Freak"
 	rom ( crc 9F2D9CA7 )
 )
-game (
-	developer "Game Freak"
-	rom ( crc 3ACA6219 )
-)
 
 game (
 	developer "Game Freak"
-	rom ( crc 7D527D62 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc 8B56FE33 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc D03426E9 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc 7A01E45A )
-)
-game (
-	developer "Game Freak"
-	rom ( crc 964B7A10 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc 8C17AAE6 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc E9E6483A )
-)
-game (
-	developer "Game Freak"
-	rom ( crc A2545D33 )
-)
-game (
-	developer "Game Freak"
-	rom ( crc FD3DA7FF )
-)
-game (
-	developer "Game Freak"
-	rom ( crc 4EC85504 )
+	rom ( crc 3ACA6219 )
 )

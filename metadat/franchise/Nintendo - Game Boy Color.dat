@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Adventure Digimon 7 2002 (Taiwan) (En) (Unl)"
+	comment "2002 Adventure Digimon 7 (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc 1BFC7099 )
 )
@@ -268,7 +268,7 @@ game (
 )
 
 game (
-	comment "Bing Yuan Li Xian Ji II (Taiwan) (Unl) (Alt)"
+	comment "Bingyuan Lixian Ji II (Taiwan) (Alt)"
 	franchise "Ice Age"
 	rom ( crc B149F421 )
 )
@@ -280,7 +280,7 @@ game (
 )
 
 game (
-	comment "Bing Yuan Li Xian Ji (Taiwan) (Unl)"
+	comment "Bingyuan Lixian Ji (Taiwan)"
 	franchise "Ice Age"
 	rom ( crc 7CA57891 )
 )
@@ -304,7 +304,7 @@ game (
 )
 
 game (
-	comment "Bomberman 3 (Taiwan) (Unl)"
+	comment "Feng Kuang A Gei III - Chaoji Zhadan Ren (Taiwan)"
 	franchise "Bomberman"
 	rom ( crc 8059E009 )
 )
@@ -562,55 +562,55 @@ game (
 )
 
 game (
-	comment "Digimon - Yellow Jade (USA) (Unl)"
+	comment "Digimon - Yellow Jade (USA)"
 	franchise "Digimon"
 	rom ( crc 96662E76 )
 )
 
 game (
-	comment "Digimon 02 4 (Taiwan) (En) (Unl)"
+	comment "Digimon 02 4 (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc A90061E9 )
 )
 
 game (
-	comment "Digimon 2 (Taiwan) (En) (Unl)"
+	comment "Digimon 2 (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc A43AB22B )
 )
 
 game (
-	comment "Digimon 3 Crystal (Taiwan) (En) (Unl)"
+	comment "Digimon 3 Crystal (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc FE8BF4E8 )
 )
 
 game (
-	comment "Digimon Adventure 2001 (USA) (Unl)"
+	comment "Digimon Adventure 2001 (USA)"
 	franchise "Digimon"
 	rom ( crc 01F1FCEE )
 )
 
 game (
-	comment "Digimon Adventure 6 2002 (Taiwan) (En) (Unl)"
+	comment "2002 Digimon Adventure 6 (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc 3F0D046B )
 )
 
 game (
-	comment "Digimon Crystal II (USA) (Unl)"
+	comment "Digimon Crystal II (USA)"
 	franchise "Digimon"
 	rom ( crc 685E76DF )
 )
 
 game (
-	comment "Digimon Pocket (Taiwan) (En) (Unl)"
+	comment "Digimon Pocket (Taiwan) (En)"
 	franchise "Digimon"
 	rom ( crc 6791B106 )
 )
 
 game (
-	comment "Digimon Saphire (USA) (Unl)"
+	comment "Digimon Saphire (USA)"
 	franchise "Digimon"
 	rom ( crc BE4C1D83 )
 )
@@ -640,7 +640,7 @@ game (
 )
 
 game (
-	comment "Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En) (Unl)"
+	comment "Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En)"
 	franchise "Donkey Kong"
 	rom ( crc 1A369DD5 )
 )
@@ -673,12 +673,6 @@ game (
 	comment "Doraemon Kart 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	franchise "Doraemon"
 	rom ( crc CF1A2038 )
-)
-
-game (
-	comment "Donkey Kong Country (USA) (En,Fr,De,Es,It) (Demo) (Kiosk)"
-	franchise "Donkey Kong"
-	rom ( crc 080605A3 )
 )
 
 game (
@@ -754,9 +748,9 @@ game (
 )
 
 game (
-	comment "Dragon Ball - Final Bout (Taiwan) (Unl)"
+	comment "Dragon Ball - Final Bout (Taiwan)"
 	franchise "Dragon Ball"
-	rom ( crc D9849157 )
+	rom ( crc 039079BD )
 )
 
 game (
@@ -868,13 +862,13 @@ game (
 )
 
 game (
-	comment "Dragon Ball Z Fighting 2002 (Taiwan) (Zh) (Unl)"
+	comment "Gedou Qi Long Qiu 2002 (Taiwan) (Zh)"
 	franchise "Dragon Ball Z"
 	rom ( crc 8FA35740 )
 )
 
 game (
-	comment "Dragon Ball Z 3 2002 Fighting (Taiwan) (En) (Unl)"
+	comment "Dragon Ball Z 3 - 2002 Fighting (Taiwan) (En)"
 	franchise "Dragon Ball Z"
 	rom ( crc DBE0F44E )
 )
@@ -892,7 +886,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
+	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt)"
 	franchise "Dragon Quest Monsters"
 	rom ( crc 66B83E3A )
 )
@@ -904,13 +898,13 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
 	franchise "Dragon Quest Monsters"
 	rom ( crc 68BA18D7 )
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
 	franchise "Dragon Quest Monsters"
 	rom ( crc 2C428A87 )
 )
@@ -922,7 +916,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	franchise "Dragon Quest Monsters"
 	rom ( crc 649E8D97 )
 )
@@ -1234,31 +1228,31 @@ game (
 )
 
 game (
-	comment "Harry Potter (Taiwan) (Unl)"
+	comment "Harry Potter (Taiwan)"
 	franchise "Harry Potter"
 	rom ( crc 5BEBE333 )
 )
 
 game (
-	comment "Harry Potter 2 - The Black Art Wrestle Edition (USA) (Unl)"
+	comment "Harry Potter 2 - The Black Art Wrestle Edition (USA)"
 	franchise "Harry Potter"
 	rom ( crc 772337F4 )
 )
 
 game (
-	comment "Harry Potter 3 (USA) (Unl)"
+	comment "Harry Potter 3 (USA)"
 	franchise "Harry Potter"
 	rom ( crc D0FECE32 )
 )
 
 game (
-	comment "Harry Potter 3 - Shen Qi Zhi Guang Lun (Taiwan) (Unl)"
+	comment "Harry Potter 3 - Shen Qi Zhi Guang Lun (Taiwan)"
 	franchise "Harry Potter"
 	rom ( crc AA83A110 )
 )
 
 game (
-	comment "Harry Potter 3 2003 (Taiwan) (Unl)"
+	comment "2003 Harry Potter 3 (Taiwan)"
 	franchise "Harry Potter"
 	rom ( crc 4EA2C869 )
 )
@@ -1270,7 +1264,7 @@ game (
 )
 
 game (
-	comment "Harry Potter II (USA) (Unl)"
+	comment "Harry Potter II (USA)"
 	franchise "Harry Potter"
 	rom ( crc 2FF706C0 )
 )
@@ -1510,55 +1504,55 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Beta) (1998-12-11) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc BE5E366E )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 33C65722 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 84415B28 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc FDCCC2BD )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 865CC1ED )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 05F23861 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-07) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 5715D896 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc A8855C67 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 3E88A24A )
 )
@@ -1570,7 +1564,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Europe) (Rev 2) (Beta) (1999-09-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc F9A66CDA )
 )
@@ -1714,7 +1708,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1) (1999-10-28)"
+	comment "Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1)"
 	franchise "Looney Tunes"
 	rom ( crc 3ACB4840 )
 )
@@ -2098,7 +2092,7 @@ game (
 )
 
 game (
-	comment "NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)"
+	comment "NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible)"
 	franchise "NBA In The Zone"
 	rom ( crc F6BAE9A0 )
 )
@@ -2248,7 +2242,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters - Crystal Version (Taiwan) (Unl)"
+	comment "Pocket Monsters - Crystal Version (Taiwan)"
 	franchise "Pokémon"
 	rom ( crc 4B2B8B57 )
 )
@@ -2374,13 +2368,13 @@ game (
 )
 
 game (
-	comment "Pokemon - Sapphire Version (USA) (Unl)"
+	comment "Pokemon - Sapphire Version (USA)"
 	franchise "Pokémon"
 	rom ( crc 71536B8E )
 )
 
 game (
-	comment "Pokemon - Mewtwo Strikes Back (Taiwan) (En) (Unl)"
+	comment "Pokemon - Mewtwo Strikes Back (Taiwan) (En)"
 	franchise "Pokémon"
 	rom ( crc 6E447A33 )
 )
@@ -2458,7 +2452,7 @@ game (
 )
 
 game (
-	comment "Pokemon Gold Version 2 (Taiwan) (Unl)"
+	comment "Pokemon Gold Version 2 (Taiwan)"
 	franchise "Pokémon"
 	rom ( crc 5EAB2B1E )
 )
@@ -2482,7 +2476,7 @@ game (
 )
 
 game (
-	comment "Pokemon Pearl (Taiwan) (En) (Unl)"
+	comment "Pokemon Pearl (Taiwan) (En)"
 	franchise "Pokémon"
 	rom ( crc E2F527FF )
 )
@@ -2536,7 +2530,7 @@ game (
 )
 
 game (
-	comment "Pokemon Vision Jade (Taiwan) (De) (Unl)"
+	comment "Pokemon Vision Jade (Taiwan) (De)"
 	franchise "Pokémon"
 	rom ( crc 2705CA20 )
 )
@@ -2686,7 +2680,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Japan) (Proto)"
+	comment "Prince of Persia (Japan) (En,Ja) (Proto) (GB Compatible)"
 	franchise "Prince of Persia"
 	rom ( crc D7DBBE1E )
 )
@@ -2785,12 +2779,6 @@ game (
 	comment "Resident Evil (World) (Proto 2)"
 	franchise "Resident Evil"
 	rom ( crc 53F7BBA1 )
-)
-
-game (
-	comment "Resident Evil (Unknown) (Demo) (Climax Entertainment)"
-	franchise "Resident Evil"
-	rom ( crc 1A921065 )
 )
 
 game (
@@ -2944,7 +2932,7 @@ game (
 )
 
 game (
-	comment "Shuma Baolong 02 4 (Taiwan) (Zh) (Unl)"
+	comment "Shuma Baolong 02 4 (Taiwan)"
 	franchise "Digimon"
 	rom ( crc 2EE18AB2 )
 )
@@ -2980,7 +2968,7 @@ game (
 )
 
 game (
-	comment "Sonic Adventure 7 (Taiwan) (En) (Unl)"
+	comment "Sonic Adventure 7 (Taiwan) (En)"
 	franchise "Sonic"
 	rom ( crc DEC1260E )
 )
@@ -3052,7 +3040,7 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 - Movie Version (USA) (Unl)"
+	comment "Spider-Man 3 - Movie Version (USA)"
 	franchise "Spider-Man"
 	rom ( crc 2C0D43A9 )
 )
@@ -3124,25 +3112,25 @@ game (
 )
 
 game (
-	comment "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+	comment "Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	franchise "Breakout"
 	rom ( crc 6833923D )
 )
 
 game (
-	comment "Super Breakout! (USA) (GB Compatible)"
+	comment "Super Breakout (USA) (GB Compatible)"
 	franchise "Breakout"
 	rom ( crc 52F51CB5 )
 )
 
 game (
-	comment "Super Donkey Kong 5 (Taiwan) (En) (Rumble Version) (Unl)"
+	comment "Super Donkey Kong 5 (Taiwan) (En) (Rumble Version)"
 	franchise "Donkey Kong"
 	rom ( crc D44C9806 )
 )
 
 game (
-	comment "Super Donkey Kong 5 (Taiwan) (En) (Rumble Version) (Unl) (Alt)"
+	comment "Super Donkey Kong 5 (Taiwan) (En) (Rumble Version) (Alt)"
 	franchise "Donkey Kong"
 	rom ( crc 33093C28 )
 )
@@ -3166,7 +3154,7 @@ game (
 )
 
 game (
-	comment "Superman - Battle for Metropolis (Europe) (Proto) (2001-01-12) (GB Compatible)"
+	comment "Superman - Battle for Metropolis (Europe) (Proto) (GB Compatible)"
 	franchise "Superman"
 	rom ( crc 6606382C )
 )
@@ -3286,9 +3274,9 @@ game (
 )
 
 game (
-	comment "Tezhong Budui (Taiwan) (Unl) (Alt)"
+	comment "Tezhong Budui (Taiwan)"
 	franchise "Metal Slug"
-	rom ( crc BF0028D9 )
+	rom ( crc A658D85E )
 )
 
 game (
@@ -3388,7 +3376,7 @@ game (
 )
 
 game (
-	comment "Tomb Raider (Taiwan) (Unl)"
+	comment "Tomb Raider (Taiwan)"
 	franchise "Tomb Raider"
 	rom ( crc 269F0852 )
 )
@@ -3400,7 +3388,7 @@ game (
 )
 
 game (
-	comment "Tomb Raider 2 (Taiwan) (Unl)"
+	comment "Tomb Raider 2 (Taiwan)"
 	franchise "Tomb Raider"
 	rom ( crc 717A5D19 )
 )
@@ -3556,19 +3544,19 @@ game (
 )
 
 game (
-	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan)"
+	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)"
 	franchise "Wizardry"
 	rom ( crc A99A33DC )
 )
 
 game (
-	comment "Wizardry II - Llylgamyn no Isan (Japan)"
+	comment "Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)"
 	franchise "Wizardry"
 	rom ( crc DD727F1A )
 )
 
 game (
-	comment "Wizardry III - Diamond no Kishi (Japan)"
+	comment "Wizardry III - Diamond no Kishi (Japan) (En,Ja)"
 	franchise "Wizardry"
 	rom ( crc D44D3596 )
 )
@@ -3754,32 +3742,31 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc F46F0CED )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T180056) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 11290C31 )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 879CDF7D )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T215532) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 3C63E083 )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T022124) (GB Compatible)"
 	franchise "The Legend of Zelda"
 	rom ( crc 13C76902 )
 )
-

@@ -460,7 +460,7 @@ game (
 )
 
 game (
-	comment "Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21)"
+	comment "Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta)"
 	esrb_rating "E"
 	rom ( crc A56180A8 )
 )
@@ -904,7 +904,7 @@ game (
 )
 
 game (
-	comment "Daikatana (USA) (Proto 1) (2000-04-19)"
+	comment "Daikatana (USA) (Proto 1)"
 	esrb_rating "E"
 	rom ( crc 351862BB )
 )
@@ -1048,12 +1048,6 @@ game (
 )
 
 game (
-	comment "Donkey Kong Country (USA) (En,Fr,De,Es,It) (Demo) (Kiosk)"
-	esrb_rating "E"
-	rom ( crc 080605A3 )
-)
-
-game (
 	comment "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc B1743477 )
@@ -1132,7 +1126,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
+	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt)"
 	esrb_rating "E"
 	rom ( crc 66B83E3A )
 )
@@ -1144,13 +1138,13 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 68BA18D7 )
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 2C428A87 )
 )
@@ -1174,7 +1168,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 649E8D97 )
 )
@@ -1654,7 +1648,7 @@ game (
 )
 
 game (
-	comment "Harry Potter (Taiwan) (Unl)"
+	comment "Harry Potter (Taiwan)"
 	esrb_rating "E"
 	rom ( crc 5BEBE333 )
 )
@@ -1906,7 +1900,7 @@ game (
 )
 
 game (
-	comment "Jeremy McGrath Supercross 2000 (Japan) (En) (NP)"
+	comment "Jeremy McGrath Supercross 2000 (Japan) (En) (Possible Proto) (NP)"
 	esrb_rating "E"
 	rom ( crc 666D2A75 )
 )
@@ -1978,7 +1972,7 @@ game (
 )
 
 game (
-	comment "Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Rumble Version) (SGB Enhanced, GB Compatible) (NP)"
+	comment "Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Possible Proto) (Rumble Version) (SGB Enhanced, GB Compatible) (NP)"
 	esrb_rating "E"
 	rom ( crc 456D4DFC )
 )
@@ -2020,19 +2014,19 @@ game (
 )
 
 game (
-	comment "Klustar (Japan) (Proto 2) (1999-09-28) (GB Compatible)"
+	comment "Klustar (Japan) (Proto 2) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 65DA9075 )
 )
 
 game (
-	comment "Klustar (Europe) (En,Fr,De,Es,It) (Beta) (1998-10-01) (GB Compatible)"
+	comment "Klustar (Europe) (En,Fr,De,Es,It) (Beta) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc FC56BB35 )
 )
 
 game (
-	comment "Klustar (Japan) (Proto 1) (1998-10-01) (GB Compatible)"
+	comment "Klustar (Japan) (Proto 1) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc F9C6E0A5 )
 )
@@ -2170,55 +2164,55 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Beta) (1998-12-11) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc BE5E366E )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 33C65722 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 84415B28 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc FDCCC2BD )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 865CC1ED )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 05F23861 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-07) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 5715D896 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc A8855C67 )
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 3E88A24A )
 )
@@ -2230,7 +2224,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Europe) (Rev 2) (Beta) (1999-09-19) (SGB Enhanced) (GB Compatible)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Europe) (Rev 2) (Beta) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc F9A66CDA )
 )
@@ -2380,7 +2374,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1) (1999-10-28)"
+	comment "Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 3ACB4840 )
 )
@@ -2746,7 +2740,7 @@ game (
 )
 
 game (
-	comment "Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1)"
+	comment "Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1) (Possible Proto)"
 	esrb_rating "E"
 	rom ( crc 9C51F4C7 )
 )
@@ -2968,7 +2962,7 @@ game (
 )
 
 game (
-	comment "NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)"
+	comment "NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc F6BAE9A0 )
 )
@@ -3166,7 +3160,7 @@ game (
 )
 
 game (
-	comment "Pocket Bowling (Japan) (GB Compatible)"
+	comment "Pocket Bowling (Japan) (En) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 26589B79 )
 )
@@ -3178,13 +3172,13 @@ game (
 )
 
 game (
-	comment "Pocket Color Block (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 389CF56F )
 )
 
 game (
-	comment "Pocket Monsters - Crystal Version (Taiwan) (Unl)"
+	comment "Pocket Monsters - Crystal Version (Taiwan)"
 	esrb_rating "E"
 	rom ( crc 4B2B8B57 )
 )
@@ -3196,7 +3190,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Diamond (Taiwan) (En) (Unl)"
+	comment "Pocket Monsters Diamond (Taiwan) (En)"
 	esrb_rating "E"
 	rom ( crc 41E3723C )
 )
@@ -3352,7 +3346,7 @@ game (
 )
 
 game (
-	comment "Pokemon Diamond (Taiwan) (En) (Unl)"
+	comment "Pokemon Diamond (Taiwan) (En)"
 	esrb_rating "E"
 	rom ( crc 1B5BEF4B )
 )
@@ -3556,7 +3550,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Japan) (Proto)"
+	comment "Prince of Persia (Japan) (En,Ja) (Proto) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc D7DBBE1E )
 )
@@ -4174,7 +4168,7 @@ game (
 )
 
 game (
-	comment "Sonic Adventure 7 (Taiwan) (En) (Unl)"
+	comment "Sonic Adventure 7 (Taiwan) (En)"
 	esrb_rating "E"
 	rom ( crc DEC1260E )
 )
@@ -4354,13 +4348,13 @@ game (
 )
 
 game (
-	comment "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+	comment "Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 6833923D )
 )
 
 game (
-	comment "Super Breakout! (USA) (GB Compatible)"
+	comment "Super Breakout (USA) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 52F51CB5 )
 )
@@ -4384,7 +4378,7 @@ game (
 )
 
 game (
-	comment "Super Mario Bros. Deluxe (Japan) (En) (Rev 1) (NP)"
+	comment "Super Mario Bros. Deluxe (Japan) (Rev 1) (NP)"
 	esrb_rating "E"
 	rom ( crc F4E91F63 )
 )
@@ -4672,7 +4666,7 @@ game (
 )
 
 game (
-	comment "Tomb Raider (Taiwan) (Unl)"
+	comment "Tomb Raider (Taiwan)"
 	esrb_rating "E"
 	rom ( crc 269F0852 )
 )
@@ -5248,7 +5242,7 @@ game (
 )
 
 game (
-	comment "Xtreme Wheels (Japan) (NP)"
+	comment "Xtreme Wheels (Japan) (Possible Proto) (NP)"
 	esrb_rating "E"
 	rom ( crc 30132AB8 )
 )
@@ -5344,31 +5338,31 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc F46F0CED )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T180056) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 11290C31 )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 879CDF7D )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T215532) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 3C63E083 )
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14) (GB Compatible)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T022124) (GB Compatible)"
 	esrb_rating "E"
 	rom ( crc 13C76902 )
 )
@@ -5378,4 +5372,3 @@ game (
 	esrb_rating "E"
 	rom ( crc 38D91885 )
 )
-

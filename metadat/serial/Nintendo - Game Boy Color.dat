@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "4x4 World Trophy (Europe) (En,Fr,De,Es,It)"
+	comment "4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AQ3P"
 	rom (
 		crc F62AD75E
@@ -60,7 +60,7 @@ game (
 )
 
 game (
-	comment "Adventures of Elmo in Grouchland, The (Europe)"
+	comment "Sesame Street - The Adventures of Elmo in Grouchland (Europe) (GB Compatible)"
 	serial "DMG-AELP-EUR"
 	rom (
 		crc 41228EE7
@@ -68,7 +68,7 @@ game (
 )
 
 game (
-	comment "Adventures of Elmo in Grouchland, The (USA)"
+	comment "Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible)"
 	serial "DMG-AELE-USA"
 	rom (
 		crc 2C4C2A5F
@@ -132,7 +132,7 @@ game (
 )
 
 game (
-	comment "Alice in Wonderland (USA)"
+	comment "Alice in Wonderland (USA, Australia)"
 	serial "CGB-AIWE-USA"
 	rom (
 		crc 3199F65F
@@ -140,7 +140,7 @@ game (
 )
 
 game (
-	comment "All Star Tennis 2000 (Europe)"
+	comment "All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)"
 	serial "DMG-AZTP-EUR"
 	rom (
 		crc 952B94E5
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Animal Breeder 3 (Japan) (SGB Enhanced)"
+	comment "Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AA3J-JPN"
 	rom (
 		crc C62A4C30
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Antz (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-ANXP"
 	rom (
 		crc 4839E0C1
@@ -228,7 +228,7 @@ game (
 )
 
 game (
-	comment "Antz (USA) (En,Fr,Es)"
+	comment "Antz (USA) (En,Fr,Es) (GB Compatible)"
 	serial "DMG-ANXE-USA"
 	rom (
 		crc DC0BE439
@@ -252,7 +252,7 @@ game (
 )
 
 game (
-	comment "Aqualife (Japan) (SGB Enhanced)"
+	comment "Aqualife (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AALJ-JPN"
 	rom (
 		crc E243FEB4
@@ -260,7 +260,7 @@ game (
 )
 
 game (
-	comment "Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced)"
+	comment "Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BRBJ-JPN"
 	rom (
 		crc 8EE043EA
@@ -292,7 +292,7 @@ game (
 )
 
 game (
-	comment "Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl)"
+	comment "Asterix & Obelix Contre Cesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible)"
 	serial "DMG-BAOP"
 	rom (
 		crc 71043D76
@@ -324,7 +324,7 @@ game (
 )
 
 game (
-	comment "Austin Powers - Welcome to my Underground Lair! (USA)"
+	comment "Austin Powers - Welcome to My Underground Lair! (USA)"
 	serial "CGB-BEAE-USA"
 	rom (
 		crc ABA42B78
@@ -348,7 +348,7 @@ game (
 )
 
 game (
-	comment "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAYP-EUR"
 	rom (
 		crc F9CCAB09
@@ -356,7 +356,7 @@ game (
 )
 
 game (
-	comment "Azure Dreams (USA) (SGB Enhanced)"
+	comment "Azure Dreams (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAZE-USA"
 	rom (
 		crc 71D52876
@@ -364,7 +364,7 @@ game (
 )
 
 game (
-	comment "B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced)"
+	comment "B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AOKJ-JPN"
 	rom (
 		crc DDCE76D6
@@ -380,7 +380,7 @@ game (
 )
 
 game (
-	comment "Babe and Friends (Europe) (En,Fr,De,Es,It)"
+	comment "Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AVAP"
 	rom (
 		crc B3681854
@@ -388,7 +388,7 @@ game (
 )
 
 game (
-	comment "Babe and Friends (USA)"
+	comment "Babe and Friends (USA) (GB Compatible)"
 	serial "DMG-AVAE-USA"
 	rom (
 		crc E25407F1
@@ -404,7 +404,7 @@ game (
 )
 
 game (
-	comment "Backgammon (Europe) (En,Fr,De,Es)"
+	comment "Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)"
 	serial "DMG-AAKP-EUR"
 	rom (
 		crc D33D6F7B
@@ -412,7 +412,7 @@ game (
 )
 
 game (
-	comment "Backgammon (Japan)"
+	comment "Backgammon (Japan) (GB Compatible)"
 	serial "DMG-AAKJ-JPN"
 	rom (
 		crc 712A49B3
@@ -428,7 +428,7 @@ game (
 )
 
 game (
-	comment "Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced)"
+	comment "Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A4RJ-JPN"
 	rom (
 		crc 5C95D5A2
@@ -444,7 +444,7 @@ game (
 )
 
 game (
-	comment "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan)"
+	comment "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)"
 	serial "DMG-AUEJ-JPN"
 	rom (
 		crc D514C9A0
@@ -460,7 +460,7 @@ game (
 )
 
 game (
-	comment "Ballistic (USA)"
+	comment "Ballistic (USA) (GB Compatible)"
 	serial "DMG-ALIE-USA"
 	rom (
 		crc A9050F72
@@ -468,7 +468,7 @@ game (
 )
 
 game (
-	comment "Balloon Fight GB (Japan) (NP, SGB Enhanced)"
+	comment "Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-BSJ-JPN"
 	rom (
 		crc D2AF64CE
@@ -476,7 +476,7 @@ game (
 )
 
 game (
-	comment "Barbie - Aventura Submarina (Spain)"
+	comment "Barbie - Aventura Submarina (Spain) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc 0CF2B7F2
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Barbie - Avventure nell'Oceano (Italy)"
+	comment "Barbie - Avventure nell'Oceano (Italy) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc 59645A18
@@ -492,7 +492,7 @@ game (
 )
 
 game (
-	comment "Barbie - Chasse au Tresor Sous-Marine (France)"
+	comment "Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc 4068E981
@@ -500,7 +500,7 @@ game (
 )
 
 game (
-	comment "Barbie - Diepzee Avontuur (Netherlands)"
+	comment "Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc 39C6B8DF
@@ -516,7 +516,7 @@ game (
 )
 
 game (
-	comment "Barbie - Meeres Abenteuer (Germany)"
+	comment "Barbie - Meeres Abenteuer (Germany) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc 5E46D64A
@@ -524,7 +524,7 @@ game (
 )
 
 game (
-	comment "Barbie - Ocean Discovery (Europe)"
+	comment "Barbie - Ocean Discovery (United Kingdom) (GB Compatible)"
 	serial "DMG-ADYP-EUR"
 	rom (
 		crc FDC8E7F1
@@ -532,7 +532,7 @@ game (
 )
 
 game (
-	comment "Barbie - Ocean Discovery (USA)"
+	comment "Barbie - Ocean Discovery (USA) (GB Compatible)"
 	serial "DMG-ADYE-USA"
 	rom (
 		crc 746936C6
@@ -556,7 +556,7 @@ game (
 )
 
 game (
-	comment "Barcode Taisen Bardigun (Japan) (SGB Enhanced)"
+	comment "Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ABEJ-JPN"
 	rom (
 		crc DDFCF4B7
@@ -612,7 +612,7 @@ game (
 )
 
 game (
-	comment "Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "CGB-BBNP-EUR"
 	rom (
 		crc 48C99939
@@ -620,7 +620,7 @@ game (
 )
 
 game (
-	comment "Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)"
+	comment "Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)"
 	serial "CGB-BB7E-USA"
 	rom (
 		crc 851C8710
@@ -628,7 +628,7 @@ game (
 )
 
 game (
-	comment "Beatmania GB (Japan) (SGB Enhanced)"
+	comment "Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AOOJ-JPN"
 	rom (
 		crc 0D9CB195
@@ -644,7 +644,7 @@ game (
 )
 
 game (
-	comment "Beatmania GB2 - Gotcha Mix (Japan) (SGB Enhanced)"
+	comment "Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2GJ-JPN"
 	rom (
 		crc 59BEB372
@@ -652,7 +652,7 @@ game (
 )
 
 game (
-	comment "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced)"
+	comment "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVUP-EUR"
 	rom (
 		crc E4C410F0
@@ -660,7 +660,7 @@ game (
 )
 
 game (
-	comment "Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced)"
+	comment "Beauty and the Beast - A Board Game Adventure (USA, Australia) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVUE-USA"
 	rom (
 		crc 6DE1D581
@@ -692,7 +692,7 @@ game (
 )
 
 game (
-	comment "Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced)"
+	comment "Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BC2J-JPN"
 	rom (
 		crc 5BE2517C
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Bokujou Monogatari GB2 (Japan)"
+	comment "Bokujou Monogatari 2 GB (Japan) (GB Compatible)"
 	serial "DMG-A37J-JPN"
 	rom (
 		crc EE993302
@@ -780,7 +780,7 @@ game (
 )
 
 game (
-	comment "Bokujou Monogatari GB3 - Boy Meets Girl (Japan)"
+	comment "Bokujou Monogatari 3 GB - Boy Meets Girl (Japan)"
 	serial "CGB-BWAJ-JPN"
 	rom (
 		crc 3A18B41F
@@ -788,7 +788,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Max - Hikari no Yuusha (Japan)"
+	comment "Bomberman Max - Hikari no Yuusha (Japan)"
 	serial "CGB-A8BJ-JPN"
 	rom (
 		crc 7A44CE88
@@ -796,7 +796,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Max - Yami no Senshi (Japan)"
+	comment "Bomberman Max - Yami no Senshi (Japan)"
 	serial "CGB-A7BJ-JPN"
 	rom (
 		crc 48B60E8E
@@ -820,7 +820,7 @@ game (
 )
 
 game (
-	comment "Bomberman Quest (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Bomberman Quest (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQVP-EUR"
 	rom (
 		crc 5A9B9AE6
@@ -828,7 +828,7 @@ game (
 )
 
 game (
-	comment "Bomberman Quest (USA) (SGB Enhanced)"
+	comment "Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVQE-USA"
 	rom (
 		crc A089C656
@@ -844,7 +844,7 @@ game (
 )
 
 game (
-	comment "Bug's Life, A (Europe) (SGB Enhanced)"
+	comment "Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APXP-EUR"
 	rom (
 		crc DB93E0F6
@@ -852,7 +852,7 @@ game (
 )
 
 game (
-	comment "Bug's Life, A (USA) (SGB Enhanced)"
+	comment "Bug's Life, A (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APXE-USA"
 	rom (
 		crc 8360047A
@@ -860,7 +860,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny & Lola Bunny - Operation Carrots (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Bugs Bunny & Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-ABLP-EUR"
 	rom (
 		crc F0CC407F
@@ -868,7 +868,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny - Crazy Castle 3 (Japan)"
+	comment "Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible)"
 	serial "DMG-AB6J-JPN"
 	rom (
 		crc AE839CAE
@@ -876,7 +876,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny et le Chateau des Catastrophes (France)"
+	comment "Bugs Bunny et le Chateau des Catastrophes (France) (En)"
 	serial "CGB-AO4P-EUU"
 	rom (
 		crc 6DA8E6EB
@@ -884,7 +884,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny in Crazy Castle 4 (Europe)"
+	comment "Bugs Bunny in - Crazy Castle 4 (Europe)"
 	serial "CGB-AO4P-EUU"
 	rom (
 		crc 53155E60
@@ -892,7 +892,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny in Crazy Castle 4 (Japan)"
+	comment "Bugs Bunny - Crazy Castle 4 (Japan)"
 	serial "CGB-AO4J-JPN"
 	rom (
 		crc D6387EAA
@@ -900,7 +900,7 @@ game (
 )
 
 game (
-	comment "Bugs Bunny in Crazy Castle 4 (USA)"
+	comment "Bugs Bunny in - Crazy Castle 4 (USA)"
 	serial "CGB-AO4E-USA"
 	rom (
 		crc 98DBFFE0
@@ -916,7 +916,7 @@ game (
 )
 
 game (
-	comment "Burger Burger Pocket (Japan) (SGB Enhanced)"
+	comment "Burger Burger Pocket - Hamburger Simulation (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ABNJ-JPN"
 	rom (
 		crc 1ABCEDBE
@@ -956,7 +956,7 @@ game (
 )
 
 game (
-	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan)"
+	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (GB Compatible)"
 	serial "DMG-AM7J-JPN"
 	rom (
 		crc 89BA58ED
@@ -964,7 +964,7 @@ game (
 )
 
 game (
-	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev A)"
+	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible)"
 	serial "DMG-AM7J-JPN"
 	rom (
 		crc 43F28E22
@@ -972,7 +972,7 @@ game (
 )
 
 game (
-	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev B)"
+	comment "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible)"
 	serial "DMG-AM7J-JPN"
 	rom (
 		crc 7243E258
@@ -1044,7 +1044,7 @@ game (
 )
 
 game (
-	comment "Catz - Your Virtual Petz Palz (Europe)"
+	comment "Catz (Europe)"
 	serial "CGB-AZCP-EUR"
 	rom (
 		crc 099D6555
@@ -1052,7 +1052,7 @@ game (
 )
 
 game (
-	comment "Catz - Your Virtual Petz Palz (USA)"
+	comment "Catz (USA)"
 	serial "CGB-AZCE-USA"
 	rom (
 		crc 769A2C5A
@@ -1060,7 +1060,7 @@ game (
 )
 
 game (
-	comment "Centipede (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-AC5P-EUR"
 	rom (
 		crc 255DB8BE
@@ -1068,7 +1068,7 @@ game (
 )
 
 game (
-	comment "Centipede (USA)"
+	comment "Centipede (USA) (GB Compatible)"
 	serial "DMG-AC5E-USA"
 	rom (
 		crc 13AD07B1
@@ -1076,7 +1076,7 @@ game (
 )
 
 game (
-	comment "Chase H.Q. - Secret Police (Europe) (SGB Enhanced)"
+	comment "Chase H.Q. - Secret Police (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AH9P-EUR"
 	rom (
 		crc CFDF816B
@@ -1084,7 +1084,7 @@ game (
 )
 
 game (
-	comment "Chase H.Q. - Secret Police (USA) (SGB Enhanced)"
+	comment "Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AH9E-USA"
 	rom (
 		crc 7C7FDEFC
@@ -1092,7 +1092,7 @@ game (
 )
 
 game (
-	comment "Checkmate (Japan) (En,Ja)"
+	comment "Checkmate (Japan) (En,Ja) (GB Compatible)"
 	serial "DMG-ACZJ-JPN"
 	rom (
 		crc 1AAB415D
@@ -1132,7 +1132,7 @@ game (
 )
 
 game (
-	comment "Choro Q - Hyper Customable GB (Japan) (SGB Enhanced)"
+	comment "Choro Q - Hyper Customable GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACQJ-JPN"
 	rom (
 		crc 65610CA4
@@ -1140,7 +1140,7 @@ game (
 )
 
 game (
-	comment "Classic Bubble Bobble (Europe) (SGB Enhanced)"
+	comment "Classic Bubble Bobble (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVWP-EUR"
 	rom (
 		crc A0F66D87
@@ -1148,7 +1148,7 @@ game (
 )
 
 game (
-	comment "Classic Bubble Bobble (USA) (SGB Enhanced)"
+	comment "Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVWE-USA"
 	rom (
 		crc C1B22246
@@ -1164,7 +1164,7 @@ game (
 )
 
 game (
-	comment "Columns GB - Tezuka Osamu Characters (Japan) (SGB Enhanced)"
+	comment "Columns GB - Tezuka Osamu Characters (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AOYJ-JPN"
 	rom (
 		crc FBE5DE37
@@ -1188,7 +1188,7 @@ game (
 )
 
 game (
-	comment "Cool Hand (Europe) (En,Fr,De)"
+	comment "Cool Hand (Europe) (En,Fr,De) (GB Compatible)"
 	serial "DMG-ACWP-EUR"
 	rom (
 		crc E6C91FB8
@@ -1204,7 +1204,7 @@ game (
 )
 
 game (
-	comment "Cross Country Racing (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Cross Country Racing (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARLP-EUR"
 	rom (
 		crc B7B91FE9
@@ -1276,7 +1276,7 @@ game (
 )
 
 game (
-	comment "DT - Lords of Genomes (Japan) (SGB Enhanced)"
+	comment "DT - Lords of Genomes (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BBDJ-JPN"
 	rom (
 		crc 42CEB854
@@ -1292,7 +1292,7 @@ game (
 )
 
 game (
-	comment "DX Monopoly GB (Japan) (SGB Enhanced)"
+	comment "DX Monopoly GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BMPJ-JPN"
 	rom (
 		crc 3F1E076C
@@ -1308,7 +1308,7 @@ game (
 )
 
 game (
-	comment "Daffy Duck - Subette Koron de Oogane Mochi (Japan)"
+	comment "Daffy Duck - Subette Koron de Oogane Mochi (Japan) (GB Compatible)"
 	serial "DMG-AD7J-JPN"
 	rom (
 		crc 5B4507D9
@@ -1316,7 +1316,7 @@ game (
 )
 
 game (
-	comment "Daikaijuu Monogatari - Poyon no Dungeon Room (Japan) (SGB Enhanced)"
+	comment "Daikaijuu Monogatari - Poyon no Dungeon Room (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ADZJ-JPN"
 	rom (
 		crc 2F368DA6
@@ -1332,7 +1332,7 @@ game (
 )
 
 game (
-	comment "Daikaijuu Monogatari - The Miracle of the Zone II (Japan) (SGB Enhanced)"
+	comment "Daikaijuu Monogatari - The Miracle of the Zone II (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AM6J-JPN"
 	rom (
 		crc 692D6794
@@ -1340,7 +1340,7 @@ game (
 )
 
 game (
-	comment "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced)"
+	comment "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BGNJ-JPN"
 	rom (
 		crc E2071293
@@ -1364,7 +1364,7 @@ game (
 )
 
 game (
-	comment "Dance Dance Revolution GB2 (Japan)"
+	comment "Dance Dance Revolution GB 2 (Japan)"
 	serial "CGB-BD2J-JPN"
 	rom (
 		crc 565FEC36
@@ -1372,7 +1372,7 @@ game (
 )
 
 game (
-	comment "Dance Dance Revolution GB3 (Japan)"
+	comment "Dance Dance Revolution GB 3 (Japan)"
 	serial "DMG-BD6J-JPN"
 	rom (
 		crc 58F26F36
@@ -1380,7 +1380,7 @@ game (
 )
 
 game (
-	comment "Dancing Furby (Japan)"
+	comment "Dancing Furby (Japan) (GB Compatible)"
 	serial "DMG-BFBJ-JPN"
 	rom (
 		crc 3263F692
@@ -1420,7 +1420,7 @@ game (
 )
 
 game (
-	comment "Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced)"
+	comment "Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BSAJ-JPN"
 	rom (
 		crc 0FD34427
@@ -1436,7 +1436,7 @@ game (
 )
 
 game (
-	comment "Deja Vu I & II - The Casebooks of Ace Harding (Japan)"
+	comment "Deja Vu I & II (Japan)"
 	serial "CGB-ADTJ-JPN"
 	rom (
 		crc BAF2CC96
@@ -1476,7 +1476,7 @@ game (
 )
 
 game (
-	comment "Dino Breeder 3 - Gaia Fukkatsu (Japan) (SGB Enhanced)"
+	comment "Dino Breeder 3 - Gaia Fukkatsu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AD3J-JPN"
 	rom (
 		crc D9F071BB
@@ -1484,7 +1484,7 @@ game (
 )
 
 game (
-	comment "Dino Breeder 4 (Japan) (SGB Enhanced)"
+	comment "Dino Breeder 4 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A4DJ-JPN"
 	rom (
 		crc B0106777
@@ -1500,7 +1500,7 @@ game (
 )
 
 game (
-	comment "Dogz - Your Virtual Petz Palz (USA)"
+	comment "Dogz (USA)"
 	serial "CGB-AOZE-USA"
 	rom (
 		crc A8397183
@@ -1508,7 +1508,7 @@ game (
 )
 
 game (
-	comment "Dokapon! - Millennium Quest (Japan) (SGB Enhanced)"
+	comment "Dokapon! - Millennium Quest (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BDKJ-JPN"
 	rom (
 		crc 4FE9E966
@@ -1572,7 +1572,7 @@ game (
 )
 
 game (
-	comment "Doraemon - Aruke Aruke Labyrinth (Japan)"
+	comment "Doraemon - Aruke Aruke Labyrinth (Japan) (GB Compatible)"
 	serial "CGB-ADAJ-JPN"
 	rom (
 		crc F6D79A79
@@ -1580,7 +1580,7 @@ game (
 )
 
 game (
-	comment "Doraemon - Kimi to Pet no Monogatari (Japan)"
+	comment "Doraemon - Kimi to Pet no Monogatari (Japan) (GB Compatible)"
 	serial "DMG-BRDJ-JPN"
 	rom (
 		crc 2FA46211
@@ -1588,7 +1588,7 @@ game (
 )
 
 game (
-	comment "Doraemon Kart 2 (Japan) (SGB Enhanced)"
+	comment "Doraemon Kart 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ADOJ-JPN"
 	rom (
 		crc CF1A2038
@@ -1596,7 +1596,7 @@ game (
 )
 
 game (
-	comment "Doraemon Memories - Nobita no Omoide Daibouken (Japan)"
+	comment "Doraemon Memories - Nobita no Omoide Daibouken (Japan) (GB Compatible)"
 	serial "DMG-BDMJ-JPN"
 	rom (
 		crc D187CEC4
@@ -1612,7 +1612,7 @@ game (
 )
 
 game (
-	comment "Doraemon no Quiz Boy (Japan) (Rev A)"
+	comment "Doraemon no Quiz Boy (Japan) (Rev 1)"
 	serial "CGB-BQBJ-JPN"
 	rom (
 		crc 915356E3
@@ -1756,7 +1756,7 @@ game (
 )
 
 game (
-	comment "Dragon Dance (USA) (SGB Enhanced)"
+	comment "Dragon Dance (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BDAE-USA"
 	rom (
 		crc 0602DBE1
@@ -1764,7 +1764,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest I & II (Japan) (SGB Enhanced)"
+	comment "Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AEDJ-JPN"
 	rom (
 		crc A053B42E
@@ -1780,7 +1780,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters (Germany) (SGB Enhanced)"
+	comment "Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWQP-EUR"
 	rom (
 		crc 2A82B63B
@@ -1788,7 +1788,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev A) (SGB Enhanced)"
+	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ADQJ-JPN"
 	rom (
 		crc D263D88D
@@ -1796,7 +1796,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced)"
+	comment "Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ADQJ-JPN"
 	rom (
 		crc 4702C4F1
@@ -1804,7 +1804,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BQIJ-JPN"
 	rom (
 		crc 68BA18D7
@@ -1812,7 +1812,7 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BQLJ-JPN"
 	rom (
 		crc 2C428A87
@@ -1836,7 +1836,7 @@ game (
 )
 
 game (
-	comment "Dragon Warrior I & II (USA) (SGB Enhanced)"
+	comment "Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AEDE-USA"
 	rom (
 		crc 71D693DA
@@ -1852,7 +1852,7 @@ game (
 )
 
 game (
-	comment "Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced)"
+	comment "Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BQLE-USA"
 	rom (
 		crc AB7BFDD5
@@ -1860,7 +1860,7 @@ game (
 )
 
 game (
-	comment "Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced)"
+	comment "Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BQIE-USA"
 	rom (
 		crc 35EC5FB2
@@ -1876,7 +1876,7 @@ game (
 )
 
 game (
-	comment "Driver - You are the Wheelman (USA) (En,Fr,De,Es,It)"
+	comment "Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It)"
 	serial "CGB-BDRE-USA"
 	rom (
 		crc D4C7F6DF
@@ -1884,7 +1884,7 @@ game (
 )
 
 game (
-	comment "Dropzone (Europe)"
+	comment "Dropzone (Europe) (GB Compatible)"
 	serial "DMG-AD4P-EUR"
 	rom (
 		crc 1E71B67E
@@ -1916,7 +1916,7 @@ game (
 )
 
 game (
-	comment "Dungeon Savior (Japan) (SGB Enhanced)"
+	comment "Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ADWJ-JPN"
 	rom (
 		crc 2BCB5F78
@@ -1988,7 +1988,7 @@ game (
 )
 
 game (
-	comment "Elie no Atelier GB (Japan) (SGB Enhanced)"
+	comment "Elie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A8EJ-JPN"
 	rom (
 		crc 7967320E
@@ -1996,7 +1996,7 @@ game (
 )
 
 game (
-	comment "Elmo's 123s (Europe)"
+	comment "Sesame Street - Elmo's 123s (Europe) (GB Compatible)"
 	serial "DMG-AE3P-EUR"
 	rom (
 		crc 3BF7FCD4
@@ -2004,7 +2004,7 @@ game (
 )
 
 game (
-	comment "Elmo's 123s (USA)"
+	comment "Sesame Street - Elmo's 123s (USA) (GB Compatible)"
 	serial "DMG-AE3E-USA"
 	rom (
 		crc 1833FB38
@@ -2012,7 +2012,7 @@ game (
 )
 
 game (
-	comment "Elmo's ABCs (Europe)"
+	comment "Sesame Street - Elmo's ABCs (Europe) (GB Compatible)"
 	serial "DMG-AEAP-EUR"
 	rom (
 		crc 20158FBC
@@ -2020,7 +2020,7 @@ game (
 )
 
 game (
-	comment "Elmo's ABCs (USA)"
+	comment "Sesame Street - Elmo's ABCs (USA) (GB Compatible)"
 	serial "DMG-AEAE-USA"
 	rom (
 		crc CC1FB2A9
@@ -2031,7 +2031,7 @@ game (
 	comment "Emperor's New Groove, The (Europe) (En,Fr,De,Es,It)"
 	serial "CGB-BENP-EUR"
 	rom (
-		crc 4CAA8CD0
+		crc EB29C584
 	)
 )
 
@@ -2052,7 +2052,7 @@ game (
 )
 
 game (
-	comment "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AEVP-EUR"
 	rom (
 		crc DFD6A908
@@ -2060,7 +2060,7 @@ game (
 )
 
 game (
-	comment "Evel Knievel (USA)"
+	comment "Evel Knievel (USA) (GB Compatible)"
 	serial "DMG-AEVE-USA"
 	rom (
 		crc 51E951B5
@@ -2084,7 +2084,7 @@ game (
 )
 
 game (
-	comment "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
+	comment "F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta)"
 	serial "CGB-AEQP-EUR"
 	rom (
 		crc E115DDB1
@@ -2116,7 +2116,7 @@ game (
 )
 
 game (
-	comment "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev A) (SGB Enhanced)"
+	comment "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AFUJ-JPN"
 	rom (
 		crc C4D3628F
@@ -2124,7 +2124,7 @@ game (
 )
 
 game (
-	comment "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced)"
+	comment "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AFUJ-JPN"
 	rom (
 		crc B59A51C4
@@ -2196,7 +2196,7 @@ game (
 )
 
 game (
-	comment "Frogger (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-AFRP-EUR"
 	rom (
 		crc B6BF0672
@@ -2204,7 +2204,7 @@ game (
 )
 
 game (
-	comment "Frogger (USA)"
+	comment "Frogger (USA) (GB Compatible)"
 	serial "DMG-AFRE-USA"
 	rom (
 		crc AF46EA77
@@ -2212,7 +2212,7 @@ game (
 )
 
 game (
-	comment "Frogger (USA) (Rev A)"
+	comment "Frogger (USA) (Rev 1) (GB Compatible)"
 	serial "DMG-AFRE-USA"
 	rom (
 		crc BA907064
@@ -2220,7 +2220,7 @@ game (
 )
 
 game (
-	comment "Frogger (USA) (Rev B)"
+	comment "Frogger (USA) (Rev 2) (GB Compatible)"
 	serial "DMG-AFRE-USA"
 	rom (
 		crc D9A22E5D
@@ -2236,7 +2236,7 @@ game (
 )
 
 game (
-	comment "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced)"
+	comment "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BZOJ-JPN"
 	rom (
 		crc A7317BB8
@@ -2244,7 +2244,7 @@ game (
 )
 
 game (
-	comment "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev A) (SGB Enhanced)"
+	comment "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BLUJ-JPN"
 	rom (
 		crc A4DDE805
@@ -2252,7 +2252,7 @@ game (
 )
 
 game (
-	comment "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced)"
+	comment "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BLUJ-JPN"
 	rom (
 		crc C693AA37
@@ -2276,7 +2276,7 @@ game (
 )
 
 game (
-	comment "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan)"
+	comment "Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ)"
 	serial "CGB-AFMJ-JPN"
 	rom (
 		crc 2C97E90F
@@ -2308,7 +2308,7 @@ game (
 )
 
 game (
-	comment "Gakkyuu Ou Yamazaki (Japan) (Rev A)"
+	comment "Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)"
 	serial "DMG-AYMJ-JPN"
 	rom (
 		crc EF2CFD99
@@ -2332,7 +2332,7 @@ game (
 )
 
 game (
-	comment "Game Boy Gallery 3 (Australia) (SGB Enhanced)"
+	comment "Game Boy Gallery 3 (Australia) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AGLU-AUS"
 	rom (
 		crc 6935FEA1
@@ -2340,7 +2340,7 @@ game (
 )
 
 game (
-	comment "Game Boy Gallery 3 (Japan) (SGB Enhanced)"
+	comment "Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AGQJ-JPN"
 	rom (
 		crc 149F807E
@@ -2348,7 +2348,7 @@ game (
 )
 
 game (
-	comment "Game Boy Gallery 4 (Australia) (SGB Enhanced)"
+	comment "Game Boy Gallery 4 (Australia) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AGQU-AUS"
 	rom (
 		crc 2549FDDE
@@ -2356,10 +2356,10 @@ game (
 )
 
 game (
-	comment "Game Boy Wars 2 (Japan) (SGB Enhanced)"
+	comment "Game Boy Wars 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWOJ-JPN"
 	rom (
-		crc 559EDB5E
+		crc C69DC37B
 	)
 )
 
@@ -2372,7 +2372,7 @@ game (
 )
 
 game (
-	comment "Game Conveni 21 (Japan)"
+	comment "Game Conveni 21 (Japan) (GB Compatible)"
 	serial "DMG-BG2J-JPN"
 	rom (
 		crc 994314B3
@@ -2388,7 +2388,7 @@ game (
 )
 
 game (
-	comment "Ganbare Goemon - Tengutou no Gyakushuu (Japan)"
+	comment "Ganbare Goemon - Tengutou no Gyakushuu (Japan) (GB Compatible)"
 	serial "DMG-AGUJ-JPN"
 	rom (
 		crc D829EB2F
@@ -2420,7 +2420,7 @@ game (
 )
 
 game (
-	comment "Gem Gem Monster (Japan) (SGB Enhanced)"
+	comment "Gem Gem Monster (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AJYJ-JPN"
 	rom (
 		crc DE7505C0
@@ -2436,7 +2436,7 @@ game (
 )
 
 game (
-	comment "Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VRKJ-JPN"
 	rom (
 		crc 9EBDB6C6
@@ -2468,7 +2468,7 @@ game (
 )
 
 game (
-	comment "Glocal Hexcite (Japan) (SGB Enhanced)"
+	comment "Glocal Hexcite (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AICJ-JPN"
 	rom (
 		crc F1908391
@@ -2484,7 +2484,7 @@ game (
 )
 
 game (
-	comment "Godzilla - The Series (Europe) (En,Fr,De)"
+	comment "Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible)"
 	serial "DMG-AZIP-EUR"
 	rom (
 		crc 2A073369
@@ -2492,7 +2492,7 @@ game (
 )
 
 game (
-	comment "Godzilla - The Series (USA) (En,Fr,De)"
+	comment "Godzilla - The Series (USA) (En,Fr,De) (GB Compatible)"
 	serial "DMG-AZIE-USA"
 	rom (
 		crc DD716EFE
@@ -2532,7 +2532,7 @@ game (
 )
 
 game (
-	comment "Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AAFD-NOE"
 	rom (
 		crc BB9B597D
@@ -2540,7 +2540,7 @@ game (
 )
 
 game (
-	comment "Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AAFD-NOE"
 	rom (
 		crc 14D1ADBE
@@ -2548,7 +2548,7 @@ game (
 )
 
 game (
-	comment "Golf Daisuki! (Japan) (SGB Enhanced)"
+	comment "Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAGJ-JPN"
 	rom (
 		crc 80444A86
@@ -2556,7 +2556,7 @@ game (
 )
 
 game (
-	comment "Golf Ou (Japan) (SGB Enhanced)"
+	comment "Golf Ou - The King of Golf (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "CGB-AZAJ-JPN"
 	rom (
 		crc 634B2D43
@@ -2564,7 +2564,7 @@ game (
 )
 
 game (
-	comment "Golf de Ohasuta (Japan)"
+	comment "Golf de Ohasuta (Japan) (GB Compatible)"
 	serial "DMG-AOHJ-JPN"
 	rom (
 		crc 38273BDD
@@ -2580,7 +2580,7 @@ game (
 )
 
 game (
-	comment "Goraku Ou Tango! (Japan)"
+	comment "Goraku Ou Tango! (Japan) (GB Compatible)"
 	serial "DMG-AOEJ-JPN"
 	rom (
 		crc 81FB43E1
@@ -2588,7 +2588,7 @@ game (
 )
 
 game (
-	comment "Grand Theft Auto (Europe) (En,Fr,De,Es,It)"
+	comment "Grand Theft Auto (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AOAP-EUR"
 	rom (
 		crc 25BA9231
@@ -2596,7 +2596,7 @@ game (
 )
 
 game (
-	comment "Grand Theft Auto (USA)"
+	comment "Grand Theft Auto (USA) (GB Compatible)"
 	serial "DMG-AOAE-USA"
 	rom (
 		crc 924DE366
@@ -2636,7 +2636,7 @@ game (
 )
 
 game (
-	comment "Great Battle Pocket, The (Japan) (SGB Enhanced)"
+	comment "Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AGVJ-JPN"
 	rom (
 		crc B471C095
@@ -2644,7 +2644,7 @@ game (
 )
 
 game (
-	comment "Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt)"
+	comment "Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)"
 	serial "CGB-BGPP-EUR"
 	rom (
 		crc 053BC315
@@ -2668,7 +2668,7 @@ game (
 )
 
 game (
-	comment "Guruguru Garakutas (Japan) (SGB Enhanced)"
+	comment "Guruguru Garakutas (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AUGJ-JPN"
 	rom (
 		crc 7EAEEEAC
@@ -2684,7 +2684,7 @@ game (
 )
 
 game (
-	comment "Gute Zeiten Schlechte Zeiten Quiz (Germany)"
+	comment "Gute Zeiten Schlechte Zeiten Quiz (Germany) (GB Compatible)"
 	serial "DMG-BGQD-NOE"
 	rom (
 		crc 5F13A2D4
@@ -2708,7 +2708,7 @@ game (
 )
 
 game (
-	comment "Hamster Club (Japan)"
+	comment "Hamster Club (Japan) (GB Compatible)"
 	serial "DMG-AJNJ-JPN"
 	rom (
 		crc 8A4D86A0
@@ -2732,7 +2732,7 @@ game (
 )
 
 game (
-	comment "Hamster Club 2 (Japan)"
+	comment "Hamster Club 2 (Japan) (GB Compatible)"
 	serial "DMG-BJNJ-JPN"
 	rom (
 		crc 2FB398F9
@@ -2756,7 +2756,7 @@ game (
 )
 
 game (
-	comment "Hamster Paradise 2 (Japan) (Rev A)"
+	comment "Hamster Paradise 2 (Japan) (Rev 1)"
 	serial "CGB-BHMJ-JPN"
 	rom (
 		crc B9E1F3B0
@@ -2812,7 +2812,7 @@ game (
 )
 
 game (
-	comment "Hanasaka Tenshi Tenten-kun no Beat Breaker (Japan) (SGB Enhanced)"
+	comment "Hanasaka Tenshi Tenten-kun no Beat Breaker (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHTJ-JPN"
 	rom (
 		crc 6E988C07
@@ -2836,7 +2836,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon 2 GBC (Europe) (SGB Enhanced)"
+	comment "Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BM2P-EUR"
 	rom (
 		crc 160CA990
@@ -2844,7 +2844,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon 2 GBC (Germany) (SGB Enhanced)"
+	comment "Harvest Moon 2 GBC (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BM2P-EUR"
 	rom (
 		crc 32A04C29
@@ -2852,7 +2852,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon 2 GBC (USA) (SGB Enhanced)"
+	comment "Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BM2E-USA"
 	rom (
 		crc 08906220
@@ -2868,7 +2868,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon GB (Europe) (SGB Enhanced)"
+	comment "Harvest Moon GB (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYXP-EUR"
 	rom (
 		crc C8A6F68A
@@ -2876,7 +2876,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon GB (Germany) (SGB Enhanced)"
+	comment "Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYXP-EUR"
 	rom (
 		crc D3896652
@@ -2884,7 +2884,7 @@ game (
 )
 
 game (
-	comment "Harvest Moon GB (USA) (SGB Enhanced)"
+	comment "Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYXE-USA"
 	rom (
 		crc AB5738A1
@@ -2892,7 +2892,7 @@ game (
 )
 
 game (
-	comment "Hello Kitty no Beads Factory (Japan) (SGB Enhanced)"
+	comment "Hello Kitty no Beads Factory (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHBJ-JPN"
 	rom (
 		crc 12F74CD4
@@ -2908,7 +2908,7 @@ game (
 )
 
 game (
-	comment "Hello Kitty no Magical Museum (Japan) (SGB Enhanced)"
+	comment "Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHKJ-JPN"
 	rom (
 		crc F6768930
@@ -2916,7 +2916,7 @@ game (
 )
 
 game (
-	comment "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced)"
+	comment "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BKTJ-JPN"
 	rom (
 		crc 45F4159B
@@ -2932,7 +2932,7 @@ game (
 )
 
 game (
-	comment "Hello Kitty's Cube Frenzy (USA)"
+	comment "Hello Kitty's Cube Frenzy (USA) (GB Compatible)"
 	serial "DMG-AF4E-USA"
 	rom (
 		crc 937729F6
@@ -2948,7 +2948,7 @@ game (
 )
 
 game (
-	comment "Hero Hero Kun (Japan)"
+	comment "Hero Hero-kun (Japan)"
 	serial "CGB-BH9J-JPN"
 	rom (
 		crc 8CABDCA4
@@ -2988,7 +2988,7 @@ game (
 )
 
 game (
-	comment "Hole In One Golf (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VHIE-USA"
 	rom (
 		crc 27A53965
@@ -2996,7 +2996,7 @@ game (
 )
 
 game (
-	comment "Hollywood Pinball (Europe) (En,Fr,De,It)"
+	comment "Hollywood Pinball (Europe) (En,Fr,De,It) (GB Compatible)"
 	serial "DMG-AHLP-EUR"
 	rom (
 		crc 8BD1F635
@@ -3004,7 +3004,7 @@ game (
 )
 
 game (
-	comment "Hollywood Pinball (Japan)"
+	comment "Hollywood Pinball (Japan) (GB Compatible)"
 	serial "DMG-AHNJ-JPN"
 	rom (
 		crc 77D7E5B7
@@ -3012,7 +3012,7 @@ game (
 )
 
 game (
-	comment "Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQTP-EUR"
 	rom (
 		crc ABD8CEAE
@@ -3028,7 +3028,7 @@ game (
 )
 
 game (
-	comment "Honkaku Shougi - Shougi Ou (Japan) (SGB Enhanced)"
+	comment "Honkaku Shougi - Shougi Ou (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AG8J-JPN"
 	rom (
 		crc 3A96E868
@@ -3036,7 +3036,7 @@ game (
 )
 
 game (
-	comment "Honkaku Taisen Shougi Ayumu (Japan)"
+	comment "Honkaku Taisen Shougi Ayumu (Japan) (GB Compatible)"
 	serial "DMG-AIBJ-JPN"
 	rom (
 		crc 89140949
@@ -3044,7 +3044,7 @@ game (
 )
 
 game (
-	comment "Honkaku Yonin Uchi Mahjong - Mahjong Ou (Japan) (SGB Enhanced)"
+	comment "Honkaku Yonin Uchi Mahjong - Mahjong Ou (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAAJ-JPN"
 	rom (
 		crc 8ED4BBBA
@@ -3068,7 +3068,7 @@ game (
 )
 
 game (
-	comment "Hugo 2 1-2 (Germany)"
+	comment "Hugo 2 1-2 (Germany) (GB Compatible)"
 	serial "DMG-AHOP-NOE"
 	rom (
 		crc FAB64B18
@@ -3076,7 +3076,7 @@ game (
 )
 
 game (
-	comment "Hunter X Hunter - Hunter no Keifu (Japan)"
+	comment "Hunter x Hunter - Hunter no Keifu (Japan)"
 	serial "CGB-BHHJ-JPN"
 	rom (
 		crc A1361642
@@ -3084,7 +3084,7 @@ game (
 )
 
 game (
-	comment "Hunter X Hunter - Kindan no Hihou (Japan)"
+	comment "Hunter x Hunter - Kindan no Hihou (Japan)"
 	serial "CGB-BHKJ-JPN"
 	rom (
 		crc D23C6A75
@@ -3108,7 +3108,7 @@ game (
 )
 
 game (
-	comment "Hyper Olympic Series - Track & Field GB (Japan) (SGB Enhanced)"
+	comment "Hyper Olympic Series - Track & Field GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHDJ-JPN"
 	rom (
 		crc 77F76EBC
@@ -3148,7 +3148,7 @@ game (
 )
 
 game (
-	comment "International Rally (USA) (SGB Enhanced)"
+	comment "International Rally (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARLE-USA"
 	rom (
 		crc B85FD752
@@ -3172,7 +3172,7 @@ game (
 )
 
 game (
-	comment "International Superstar Soccer 99 (Europe) (SGB Enhanced)"
+	comment "International Superstar Soccer 99 (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWZP-EUR"
 	rom (
 		crc 1B76D115
@@ -3180,7 +3180,7 @@ game (
 )
 
 game (
-	comment "International Superstar Soccer 99 (USA) (SGB Enhanced)"
+	comment "International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWZE-USA"
 	rom (
 		crc 9D0290A7
@@ -3188,7 +3188,7 @@ game (
 )
 
 game (
-	comment "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced)"
+	comment "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHDP-EUR"
 	rom (
 		crc 327EC81F
@@ -3196,7 +3196,7 @@ game (
 )
 
 game (
-	comment "International Track & Field (USA) (SGB Enhanced)"
+	comment "International Track & Field (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHDE-USA"
 	rom (
 		crc 803D5D57
@@ -3204,7 +3204,7 @@ game (
 )
 
 game (
-	comment "It's a World Rally (Japan) (SGB Enhanced)"
+	comment "It's a World Rally (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARLJ-JPN"
 	rom (
 		crc 39E34650
@@ -3236,7 +3236,7 @@ game (
 )
 
 game (
-	comment "Jack no Daibouken - Daimaou no Gyakushuu (Japan) (SGB Enhanced)"
+	comment "Jack no Daibouken - Daimaou no Gyakushuu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQJJ-JPN"
 	rom (
 		crc CFF5325A
@@ -3244,7 +3244,7 @@ game (
 )
 
 game (
-	comment "Jagainu-kun (Japan)"
+	comment "Jagainu-kun (Japan) (GB Compatible)"
 	serial "DMG-B39J-JPN"
 	rom (
 		crc AEB634C5
@@ -3276,7 +3276,7 @@ game (
 )
 
 game (
-	comment "Jeff Gordon XS Racing (USA)"
+	comment "Jeff Gordon XS Racing (USA) (GB Compatible)"
 	serial "DMG-AJZE-USA"
 	rom (
 		crc A41ED926
@@ -3284,7 +3284,7 @@ game (
 )
 
 game (
-	comment "Jet de Go! (Japan)"
+	comment "Jet de Go! - Let's Go by Airliner (Japan)"
 	serial "CGB-BJEJ-JPN"
 	rom (
 		crc 20C4CCF6
@@ -3300,7 +3300,7 @@ game (
 )
 
 game (
-	comment "Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced)"
+	comment "Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACJJ-JPN"
 	rom (
 		crc C8D46E99
@@ -3316,7 +3316,7 @@ game (
 )
 
 game (
-	comment "Jissen ni Yakudatsu Tsumego (Japan) (Rev A)"
+	comment "Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)"
 	serial "CGB-BJTJ-JPN"
 	rom (
 		crc 55EFA05E
@@ -3324,7 +3324,7 @@ game (
 )
 
 game (
-	comment "Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enhanced)"
+	comment "Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A55J-JPN"
 	rom (
 		crc 9FA5CDB5
@@ -3356,7 +3356,7 @@ game (
 )
 
 game (
-	comment "Juukou Senki Bullet Battlers (Japan) (SGB Enhanced)"
+	comment "Juukou Senki Bullet Battlers (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZXJ-JPN"
 	rom (
 		crc 4039C187
@@ -3380,7 +3380,7 @@ game (
 )
 
 game (
-	comment "Kaitei Densetsu!! Treasure World (Japan)"
+	comment "Kaitei Densetsu!! Treasure World (Japan) (GB Compatible)"
 	serial "DMG-BDTJ-JPN"
 	rom (
 		crc 4C7258D9
@@ -3388,7 +3388,7 @@ game (
 )
 
 game (
-	comment "Kakurenbo Battle Monster Tactics (Japan)"
+	comment "Kakurenbo Battle - Monster Tactics (Japan)"
 	serial "CGB-BMFJ-JPN"
 	rom (
 		crc 9CFA76C3
@@ -3396,7 +3396,7 @@ game (
 )
 
 game (
-	comment "Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen (Japan) (SGB Enhanced)"
+	comment "Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWRJ-JPN"
 	rom (
 		crc 459A126B
@@ -3404,7 +3404,7 @@ game (
 )
 
 game (
-	comment "Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen (Japan) (SGB Enhanced)"
+	comment "Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2WJ-JPN"
 	rom (
 		crc 4FBEC464
@@ -3412,7 +3412,7 @@ game (
 )
 
 game (
-	comment "Kanji Boy (Japan) (SGB Enhanced)"
+	comment "Kanji Boy (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWKJ-JPN"
 	rom (
 		crc 18CAA513
@@ -3420,7 +3420,7 @@ game (
 )
 
 game (
-	comment "Kanji Boy 2 (Japan) (SGB Enhanced)"
+	comment "Kanji Boy 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2CJ-JPN"
 	rom (
 		crc 81FD8918
@@ -3436,7 +3436,7 @@ game (
 )
 
 game (
-	comment "Kanji de Puzzle (Japan)"
+	comment "Kanji de Puzzle (Japan) (GB Compatible)"
 	serial "DMG-BKAJ-JPN"
 	rom (
 		crc 25EFA1D7
@@ -3444,7 +3444,7 @@ game (
 )
 
 game (
-	comment "Kanzume Monsters Parfait (Japan) (SGB Enhanced)"
+	comment "Kanzume Monsters Parfait (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQPJ-JPN"
 	rom (
 		crc 6D5B59C0
@@ -3452,7 +3452,7 @@ game (
 )
 
 game (
-	comment "Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi (Japan) (SGB Enhanced)"
+	comment "Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AOPJ-JPN"
 	rom (
 		crc DD948071
@@ -3460,7 +3460,7 @@ game (
 )
 
 game (
-	comment "Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced)"
+	comment "Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARMJ-JPN"
 	rom (
 		crc BF80C897
@@ -3468,7 +3468,7 @@ game (
 )
 
 game (
-	comment "Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced)"
+	comment "Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AKHJ-JPN"
 	rom (
 		crc A262269F
@@ -3476,7 +3476,7 @@ game (
 )
 
 game (
-	comment "Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VUTJ-JPN"
 	rom (
 		crc F0B09DDB
@@ -3484,7 +3484,7 @@ game (
 )
 
 game (
-	comment "Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced)"
+	comment "Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AEIJ-JPN"
 	rom (
 		crc 44767443
@@ -3492,7 +3492,7 @@ game (
 )
 
 game (
-	comment "Kawaii Pet Shop Monogatari 2 (Japan)"
+	comment "Kawaii Pet Shop Monogatari 2 (Japan) (GB Compatible)"
 	serial "DMG-BMNJ-JPN"
 	rom (
 		crc 3791DCA1
@@ -3508,7 +3508,7 @@ game (
 )
 
 game (
-	comment "Keibajou e Ikou! Wide (Japan)"
+	comment "Keibajou e Ikou! Wide (Japan) (GB Compatible)"
 	serial "DMG-A5CJ-JPN"
 	rom (
 		crc 710286EA
@@ -3516,7 +3516,7 @@ game (
 )
 
 game (
-	comment "Keitai Denjuu Telefang - Power Version (Japan)"
+	comment "Keitai Denjuu Telefang - Power Version (Japan) (GB Compatible)"
 	serial "DMG-BTXJ-JPN"
 	rom (
 		crc 8B61CFCC
@@ -3524,7 +3524,7 @@ game (
 )
 
 game (
-	comment "Keitai Denjuu Telefang - Speed Version (Japan)"
+	comment "Keitai Denjuu Telefang - Speed Version (Japan) (GB Compatible)"
 	serial "DMG-BTZJ-JPN"
 	rom (
 		crc FB528F66
@@ -3540,7 +3540,7 @@ game (
 )
 
 game (
-	comment "Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced)"
+	comment "Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AB7J-JPN"
 	rom (
 		crc 72895639
@@ -3564,7 +3564,7 @@ game (
 )
 
 game (
-	comment "Kindaichi Shounen no Jikenbo - 10nenme no Shoutaijou (Japan) (SGB Enhanced)"
+	comment "Kindaichi Shounen no Jikenbo - 10 Nenme no Shoutaijou (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BKSJ-JPN"
 	rom (
 		crc DE52FFDC
@@ -3572,7 +3572,7 @@ game (
 )
 
 game (
-	comment "Kinniku Banzuke GB - Chousensha wa Kimida! (Japan) (SGB Enhanced)"
+	comment "Kinniku Banzuke GB - Chousensha wa Kimida! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A5KJ-JPN"
 	rom (
 		crc E2E4328B
@@ -3580,7 +3580,7 @@ game (
 )
 
 game (
-	comment "Kinniku Banzuke GB2 - Mezase! Muscle Champion (Japan) (SGB Enhanced)"
+	comment "Kinniku Banzuke GB 2 - Mezase! Muscle Champion (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-B6KJ-JPN"
 	rom (
 		crc 42DE9092
@@ -3588,7 +3588,7 @@ game (
 )
 
 game (
-	comment "Kinniku Banzuke GB3 - Shinseiki Survival Retsuden! (Japan)"
+	comment "Kinniku Banzuke GB 3 - Shinseiki Survival Retsuden! (Japan)"
 	serial "CGB-B7KJ-JPN"
 	rom (
 		crc E2F6253E
@@ -3612,7 +3612,7 @@ game (
 )
 
 game (
-	comment "Kisekae Series 2 - Oshare Nikki (Japan) (Rev A)"
+	comment "Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1)"
 	serial "CGB-B23J-JPN"
 	rom (
 		crc E915337C
@@ -3628,7 +3628,7 @@ game (
 )
 
 game (
-	comment "Klustar (Europe) (En,Fr,De,Es,It)"
+	comment "Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AKUP-EUR"
 	rom (
 		crc 577E1521
@@ -3636,7 +3636,7 @@ game (
 )
 
 game (
-	comment "Klustar (USA)"
+	comment "Klustar (USA) (GB Compatible)"
 	serial "DMG-AKUE-USA"
 	rom (
 		crc 3F8D6041
@@ -3652,7 +3652,7 @@ game (
 )
 
 game (
-	comment "Koguru Guruguru - Guruguru to Nakayoshi (Japan) (NP, SGB Enhanced)"
+	comment "Koguru Guruguru - Guruguru to Nakayoshi (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-BKGJ-JPN"
 	rom (
 		crc D6050F64
@@ -3660,7 +3660,7 @@ game (
 )
 
 game (
-	comment "Konami GB Collection Vol.1 (Europe)"
+	comment "Konami GB Collection Vol.1 (Europe) (GB Compatible)"
 	serial "DMG-AF5P-EUR"
 	rom (
 		crc 203F8727
@@ -3668,7 +3668,7 @@ game (
 )
 
 game (
-	comment "Konami GB Collection Vol.2 (Europe)"
+	comment "Konami GB Collection Vol.2 (Europe) (GB Compatible)"
 	serial "DMG-AF6P-EUR"
 	rom (
 		crc A6499792
@@ -3676,7 +3676,7 @@ game (
 )
 
 game (
-	comment "Konami GB Collection Vol.3 (Europe)"
+	comment "Konami GB Collection Vol.3 (Europe) (GB Compatible)"
 	serial "DMG-AF7P-EUR"
 	rom (
 		crc D4D6243D
@@ -3684,7 +3684,7 @@ game (
 )
 
 game (
-	comment "Konami GB Collection Vol.4 (Europe)"
+	comment "Konami GB Collection Vol.4 (Europe) (GB Compatible)"
 	serial "DMG-AF8P-EUR"
 	rom (
 		crc 8800F1C9
@@ -3700,7 +3700,7 @@ game (
 )
 
 game (
-	comment "Konchuu Hakase 2 (Japan) (SGB Enhanced)"
+	comment "Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2KJ-JPN"
 	rom (
 		crc B6381744
@@ -3732,7 +3732,7 @@ game (
 )
 
 game (
-	comment "Koushien Pocket (Japan) (SGB Enhanced)"
+	comment "Koushien Pocket (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AKSJ-JPN"
 	rom (
 		crc 6910FF3A
@@ -3820,7 +3820,7 @@ game (
 )
 
 game (
-	comment "Las Vegas Cool Hand (USA)"
+	comment "Las Vegas Cool Hand (USA) (GB Compatible)"
 	serial "DMG-ACWE-USA"
 	rom (
 		crc BEF1CDE4
@@ -3828,7 +3828,7 @@ game (
 )
 
 game (
-	comment "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	comment "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta)"
 	serial "CGB-BLDP-EUR"
 	rom (
 		crc F90A3DAE
@@ -3852,7 +3852,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLF-NFRA"
 	rom (
 		crc 4E2B75E7
@@ -3860,31 +3860,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc 4E2B75E7
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced)"
-	serial "DMG-AZLF-NFRA"
-	rom (
-		crc 4E2B75E7
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc 4E2B75E7
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced)"
+	comment "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLF-NFRA"
 	rom (
 		crc F48824FE
@@ -3892,31 +3868,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc F48824FE
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced)"
-	serial "DMG-AZLF-NFRA"
-	rom (
-		crc F48824FE
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc F48824FE
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev A) (SGB Enhanced)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLF-NFRA"
 	rom (
 		crc EFB76777
@@ -3924,56 +3876,8 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev A) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc EFB76777
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev A) (SGB Enhanced)"
+	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLF-NFRA"
-	rom (
-		crc EFB76777
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev A) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc EFB76777
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced)"
-	serial "DMG-AZLF-NFRA"
-	rom (
-		crc FED5959B
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
-	rom (
-		crc FED5959B
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced)"
-	serial "DMG-AZLF-NFRA"
-	rom (
-		crc FED5959B
-	)
-)
-
-game (
-	comment "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced)"
-	serial "DMG-AZLP-EUR"
 	rom (
 		crc FED5959B
 	)
@@ -3988,7 +3892,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Oracle of Ages (USA)"
+	comment "Legend of Zelda, The - Oracle of Ages (USA, Australia)"
 	serial "CGB-AZ8E-USA"
 	rom (
 		crc 3800A387
@@ -4004,7 +3908,7 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The - Oracle of Seasons (USA)"
+	comment "Legend of Zelda, The - Oracle of Seasons (USA, Australia)"
 	serial "CGB-AZ7E-USA"
 	rom (
 		crc D7E9F5D7
@@ -4012,7 +3916,7 @@ game (
 )
 
 game (
-	comment "Legend of the River King 2 (Europe) (SGB Enhanced)"
+	comment "Legend of the River King 2 (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BRKP-EUR"
 	rom (
 		crc F24D010A
@@ -4020,7 +3924,7 @@ game (
 )
 
 game (
-	comment "Legend of the River King 2 (USA) (SGB Enhanced)"
+	comment "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BRKE-USA"
 	rom (
 		crc 840FD525
@@ -4028,7 +3932,7 @@ game (
 )
 
 game (
-	comment "Legend of the River King GB (Europe) (SGB Enhanced)"
+	comment "Legend of the River King GB (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARKP-EUR"
 	rom (
 		crc 87EF9530
@@ -4036,7 +3940,7 @@ game (
 )
 
 game (
-	comment "Legend of the River King GB (Germany) (SGB Enhanced)"
+	comment "Legend of the River King GB (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARKP-EUR"
 	rom (
 		crc 1241F3F5
@@ -4044,7 +3948,7 @@ game (
 )
 
 game (
-	comment "Legend of the River King GB (USA) (SGB Enhanced)"
+	comment "Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARKE-USA"
 	rom (
 		crc 7E821F47
@@ -4052,7 +3956,7 @@ game (
 )
 
 game (
-	comment "Lemmings (USA)"
+	comment "Lemmings & Oh No! More Lemmings (USA)"
 	serial "CGB-ALEE-USA"
 	rom (
 		crc 97E5CE2F
@@ -4060,7 +3964,7 @@ game (
 )
 
 game (
-	comment "Lil' Monster (USA) (SGB Enhanced)"
+	comment "Lil' Monster (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AJYE-USA"
 	rom (
 		crc C6859B34
@@ -4100,7 +4004,7 @@ game (
 )
 
 game (
-	comment "Lode Runner - Domudomu Dan no Yabou (Japan)"
+	comment "Lode Runner - Domudomu Dan no Yabou (Japan) (GB Compatible)"
 	serial "DMG-BXLJ-JPN"
 	rom (
 		crc ECEAB84E
@@ -4108,7 +4012,7 @@ game (
 )
 
 game (
-	comment "Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced)"
+	comment "Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARAJ-JPN"
 	rom (
 		crc 66E166BB
@@ -4132,7 +4036,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes (Europe)"
+	comment "Looney Tunes (Europe) (GB Compatible)"
 	serial "DMG-ALTP"
 	rom (
 		crc 76CF3E3A
@@ -4140,7 +4044,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes (USA)"
+	comment "Looney Tunes (USA) (GB Compatible)"
 	serial "DMG-ALTE-USA"
 	rom (
 		crc 4EF3DDD7
@@ -4148,7 +4052,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes - Carrot Crazy (USA) (En,Fr,Es)"
+	comment "Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible)"
 	serial "DMG-ABLE-USA"
 	rom (
 		crc 11FB5617
@@ -4156,7 +4060,7 @@ game (
 )
 
 game (
-	comment "Looney Tunes - Twouble! (USA) (En,Fr,Es)"
+	comment "Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible)"
 	serial "DMG-AYRE-USA"
 	rom (
 		crc 698D7BE4
@@ -4212,7 +4116,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc 29E193C5
@@ -4220,7 +4124,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc D54D5836
@@ -4228,7 +4132,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc E078D9F8
@@ -4236,7 +4140,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc 065A3BF5
@@ -4244,7 +4148,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc C0287CF2
@@ -4252,7 +4156,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B51J-JPN"
 	rom (
 		crc 267B5253
@@ -4260,7 +4164,7 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B62J-JPN"
 	rom (
 		crc D457CC6C
@@ -4268,15 +4172,15 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B62J-JPN"
 	rom (
-		crc A30AD68D
+		crc 27AB2187
 	)
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B63J-JPN"
 	rom (
 		crc 3EF25533
@@ -4284,15 +4188,15 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B63J-JPN"
 	rom (
-		crc 9C932F0D
+		crc 62D3F1E5
 	)
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B61J-JPN"
 	rom (
 		crc 094FFD1E
@@ -4300,10 +4204,10 @@ game (
 )
 
 game (
-	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced)"
+	comment "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)"
 	serial "DMG-B61J-JPN"
 	rom (
-		crc 8019C6F5
+		crc 88CE5C13
 	)
 )
 
@@ -4324,7 +4228,7 @@ game (
 )
 
 game (
-	comment "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced)"
+	comment "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARCJ-JPN"
 	rom (
 		crc 3AEBFAD8
@@ -4460,7 +4364,7 @@ game (
 )
 
 game (
-	comment "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev A)"
+	comment "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)"
 	serial "CGB-AXCP-EUR"
 	rom (
 		crc C82BE2F4
@@ -4476,7 +4380,7 @@ game (
 )
 
 game (
-	comment "Mahjong Joou (Japan) (SGB Enhanced)"
+	comment "Mahjong Joou (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A56J-JPN"
 	rom (
 		crc 7D83A5E8
@@ -4484,7 +4388,7 @@ game (
 )
 
 game (
-	comment "Mahjong Quest (Japan) (SGB Enhanced)"
+	comment "Mahjong Quest (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AMJJ-JPN"
 	rom (
 		crc C870B88F
@@ -4492,7 +4396,7 @@ game (
 )
 
 game (
-	comment "Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev A) (SGB Enhanced)"
+	comment "Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A23J-JPN"
 	rom (
 		crc 0D16A545
@@ -4500,7 +4404,7 @@ game (
 )
 
 game (
-	comment "Majokko Mari-chan no Kisekae Monogatari (Japan) (SGB Enhanced)"
+	comment "Majokko Mari-chan no Kisekae Monogatari (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A23J-JPN"
 	rom (
 		crc 934F4B0A
@@ -4508,7 +4412,7 @@ game (
 )
 
 game (
-	comment "Marie no Atelier GB (Japan) (SGB Enhanced)"
+	comment "Marie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A8MJ-JPN"
 	rom (
 		crc 6144FC66
@@ -4516,7 +4420,7 @@ game (
 )
 
 game (
-	comment "Mario Family (Japan)"
+	comment "Jaguar Mishin Sashi Senyou Soft - Mario Family (Japan)"
 	serial "CGB-BJMJ-JPN"
 	rom (
 		crc AB3F3CEF
@@ -4604,7 +4508,7 @@ game (
 )
 
 game (
-	comment "Maya the Bee & Her Friends (Europe) (En,Fr,De,Es)"
+	comment "Maya the Bee & Her Friends (Europe) (En,Fr,De) (GB Compatible)"
 	serial "DMG-AMVP-EUR"
 	rom (
 		crc 983B1D26
@@ -4628,7 +4532,7 @@ game (
 )
 
 game (
-	comment "Medarot 2 - Kabuto Version (Japan) (SGB Enhanced)"
+	comment "Medarot 2 - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2MJ-JPN"
 	rom (
 		crc BF6BD446
@@ -4636,7 +4540,7 @@ game (
 )
 
 game (
-	comment "Medarot 2 - Kuwagata Version (Japan) (SGB Enhanced)"
+	comment "Medarot 2 - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2NJ-JPN"
 	rom (
 		crc 5B8FFD37
@@ -4644,7 +4548,7 @@ game (
 )
 
 game (
-	comment "Medarot 2 - Parts Collection (Japan) (SGB Enhanced)"
+	comment "Medarot 2 - Parts Collection (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A7CJ-JPN"
 	rom (
 		crc 159673DB
@@ -4708,7 +4612,7 @@ game (
 )
 
 game (
-	comment "Medarot Cardrobottle - Kabuto Version (Japan) (SGB Enhanced)"
+	comment "Medarot Cardrobottle - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A8CJ-JPN"
 	rom (
 		crc 4F03D80A
@@ -4716,7 +4620,7 @@ game (
 )
 
 game (
-	comment "Medarot Cardrobottle - Kuwagata Version (Japan) (SGB Enhanced)"
+	comment "Medarot Cardrobottle - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A9CJ-JPN"
 	rom (
 		crc A3735F81
@@ -4724,7 +4628,7 @@ game (
 )
 
 game (
-	comment "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced)"
+	comment "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2LJ-JPN"
 	rom (
 		crc 9CAA00B5
@@ -4732,7 +4636,7 @@ game (
 )
 
 game (
-	comment "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced)"
+	comment "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A4BJ-JPN"
 	rom (
 		crc 3B5F24FC
@@ -4740,7 +4644,7 @@ game (
 )
 
 game (
-	comment "Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced)"
+	comment "Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A5BJ-JPN"
 	rom (
 		crc E620FAE2
@@ -4748,7 +4652,7 @@ game (
 )
 
 game (
-	comment "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced)"
+	comment "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BC3J-JPN"
 	rom (
 		crc CABDD802
@@ -4796,7 +4700,7 @@ game (
 )
 
 game (
-	comment "Metal Walker (USA)"
+	comment "Metal Walker (USA) (GB Compatible)"
 	serial "DMG-BM4E-USA"
 	rom (
 		crc 3BE68391
@@ -4876,7 +4780,7 @@ game (
 )
 
 game (
-	comment "Minna no Shougi - Shokyuu Hen (Japan)"
+	comment "Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible)"
 	serial "DMG-A7YJ-JPN"
 	rom (
 		crc 5CB4FC8A
@@ -4908,7 +4812,7 @@ game (
 )
 
 game (
-	comment "Mission Impossible (Europe) (En,Fr,De,Es,It)"
+	comment "Mission - Impossible (Europe) (En,Fr,De,Es,It)"
 	serial "CGB-AIMP-EUR"
 	rom (
 		crc 0AF32BAA
@@ -4916,7 +4820,7 @@ game (
 )
 
 game (
-	comment "Mission Impossible (USA) (En,Fr,Es)"
+	comment "Mission - Impossible (USA) (En,Fr,Es)"
 	serial "CGB-AIME-USA"
 	rom (
 		crc 41230D11
@@ -4948,7 +4852,7 @@ game (
 )
 
 game (
-	comment "Monkey Puncher (Europe) (SGB Enhanced)"
+	comment "Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BSPP-EUR"
 	rom (
 		crc BC1809CE
@@ -4956,7 +4860,7 @@ game (
 )
 
 game (
-	comment "Monopoly (Japan) (SGB Enhanced)"
+	comment "Monopoly (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHAJ-JPN"
 	rom (
 		crc 0503E567
@@ -4964,7 +4868,7 @@ game (
 )
 
 game (
-	comment "Monopoly (USA)"
+	comment "Monopoly (USA) (GB Compatible)"
 	serial "DMG-ANOE-USA"
 	rom (
 		crc E559A717
@@ -4980,7 +4884,7 @@ game (
 )
 
 game (
-	comment "Monster Farm Battle Card GB (Japan) (SGB Enhanced)"
+	comment "Monster Farm Battle Card GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A6TJ-JPN"
 	rom (
 		crc 69B88F1E
@@ -4988,7 +4892,7 @@ game (
 )
 
 game (
-	comment "Monster Race 2 (Japan) (SGB Enhanced)"
+	comment "Monster Race 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AMWJ"
 	rom (
 		crc B985F0D8
@@ -4996,7 +4900,7 @@ game (
 )
 
 game (
-	comment "Monster Rancher Battle Card GB (USA) (SGB Enhanced)"
+	comment "Monster Rancher Battle Card GB (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A6TE-USA"
 	rom (
 		crc 50DDF120
@@ -5012,7 +4916,7 @@ game (
 )
 
 game (
-	comment "Monster Traveler (Japan) (Rev A)"
+	comment "Monster Traveler (Japan) (Rev 1)"
 	serial "CGB-BFVJ"
 	rom (
 		crc F60A376E
@@ -5036,7 +4940,7 @@ game (
 )
 
 game (
-	comment "Monsters, Inc. (Europe) (Rev A)"
+	comment "Monsters, Inc. (Europe) (Rev 1)"
 	serial "CGB-B4QP-EUR"
 	rom (
 		crc 3726858A
@@ -5044,7 +4948,7 @@ game (
 )
 
 game (
-	comment "Montezuma's Return! (Europe) (En,Fr,De,Es,It)"
+	comment "Montezuma's Return! (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AZMP-EUR"
 	rom (
 		crc 659693DE
@@ -5052,7 +4956,7 @@ game (
 )
 
 game (
-	comment "Montezuma's Return! (USA) (En,Es)"
+	comment "Montezuma's Return! (USA) (En,Es) (GB Compatible)"
 	serial "DMG-AZME-USA"
 	rom (
 		crc DE04772F
@@ -5084,7 +4988,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat 4 (Germany) (SGB Enhanced)"
+	comment "Mortal Kombat 4 (Germany) (En) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A4KP-EUR"
 	rom (
 		crc 87588725
@@ -5092,7 +4996,7 @@ game (
 )
 
 game (
-	comment "Mr Nutz (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "CGB-ANUP-EUR"
 	rom (
 		crc 4E37C741
@@ -5100,7 +5004,7 @@ game (
 )
 
 game (
-	comment "Mr Nutz (USA) (En,Fr,Es)"
+	comment "Mr. Nutz (USA) (En,Fr,Es)"
 	serial "CGB-ANUE-USA"
 	rom (
 		crc 59F67529
@@ -5132,7 +5036,7 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man - Special Colour Edition (Europe)"
+	comment "Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQCP-EUR"
 	rom (
 		crc F2335DA9
@@ -5172,7 +5076,7 @@ game (
 )
 
 game (
-	comment "Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P)"
+	comment "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "CGB-AX9P-EUR"
 	rom (
 		crc 3204B92C
@@ -5180,7 +5084,7 @@ game (
 )
 
 game (
-	comment "Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P)"
+	comment "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv)"
 	serial "CGB-AX9P-EUR"
 	rom (
 		crc 0FAFA3F2
@@ -5188,7 +5092,7 @@ game (
 )
 
 game (
-	comment "Muppets, The (USA)"
+	comment "Jim Henson's Muppets (USA)"
 	serial "CGB-BMUE-USA"
 	rom (
 		crc 3C476C6F
@@ -5204,7 +5108,7 @@ game (
 )
 
 game (
-	comment "N.Y. Race (Europe) (En,Fr,De,Es,It,Pt)"
+	comment "NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)"
 	serial "CGB-BNXP-EUR"
 	rom (
 		crc 62F560D8
@@ -5236,7 +5140,7 @@ game (
 )
 
 game (
-	comment "NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced)"
+	comment "NBA 3 on 3 Featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACVE-USA"
 	rom (
 		crc 001F4754
@@ -5252,7 +5156,7 @@ game (
 )
 
 game (
-	comment "NBA In the Zone (USA) (Rev A) (SGB Enhanced)"
+	comment "NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ANZE-USA"
 	rom (
 		crc BE949F74
@@ -5260,7 +5164,7 @@ game (
 )
 
 game (
-	comment "NBA In the Zone 2000 (USA)"
+	comment "NBA in the Zone 2000 (USA)"
 	serial "CGB-AJ7E-USA"
 	rom (
 		crc FDB38C49
@@ -5268,7 +5172,7 @@ game (
 )
 
 game (
-	comment "NBA Pro '99 (Europe) (SGB Enhanced)"
+	comment "NBA Pro 99 (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ANZP-EUR"
 	rom (
 		crc 748564AE
@@ -5284,7 +5188,7 @@ game (
 )
 
 game (
-	comment "NFL Blitz (USA)"
+	comment "NFL Blitz (USA, Europe) (GB Compatible)"
 	serial "DMG-ABZE-USA"
 	rom (
 		crc D731DED7
@@ -5372,7 +5276,7 @@ game (
 )
 
 game (
-	comment "Nakayoshi Pet Series 1 - Kawaii Hamster (Japan)"
+	comment "Nakayoshi Pet Series 1 - Kawaii Hamster (Japan) (GB Compatible)"
 	serial "CGB-B2HJ-JPN"
 	rom (
 		crc 98D0FCB0
@@ -5380,7 +5284,7 @@ game (
 )
 
 game (
-	comment "Nakayoshi Pet Series 2 - Kawaii Usagi (Japan)"
+	comment "Nakayoshi Pet Series 2 - Kawaii Usagi (Japan) (GB Compatible)"
 	serial "CGB-B7IJ-JPN"
 	rom (
 		crc 866095C2
@@ -5452,7 +5356,7 @@ game (
 )
 
 game (
-	comment "New Batman Adventures, The - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "CGB-BBBP-EUR"
 	rom (
 		crc E025067B
@@ -5460,7 +5364,7 @@ game (
 )
 
 game (
-	comment "New Batman Adventures, The - Chaos in Gotham (USA)"
+	comment "Batman - Chaos in Gotham (USA)"
 	serial "CGB-BBBE-USA"
 	rom (
 		crc B241A4F3
@@ -5500,7 +5404,7 @@ game (
 )
 
 game (
-	comment "Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced)"
+	comment "Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AGYJ-JPN"
 	rom (
 		crc 233862D0
@@ -5532,7 +5436,7 @@ game (
 )
 
 game (
-	comment "Oddworld Adventures II (Europe) (En,Fr,De,Es,It)"
+	comment "Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AOWP-EUR"
 	rom (
 		crc 4B83B14F
@@ -5540,7 +5444,7 @@ game (
 )
 
 game (
-	comment "Oddworld Adventures II (USA) (En,Fr,De,Es,It)"
+	comment "Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AOWE-USA"
 	rom (
 		crc 5C260D5A
@@ -5556,7 +5460,7 @@ game (
 )
 
 game (
-	comment "Ohasuta Yama-chan & Raymond (Japan) (SGB Enhanced)"
+	comment "Ohasuta Yama-chan & Raymond (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AOSJ-JPN"
 	rom (
 		crc 840EF32F
@@ -5572,7 +5476,7 @@ game (
 )
 
 game (
-	comment "Ojarumaru - Mangan Jinja no Ennichi de Ojaru! (Japan)"
+	comment "Ojarumaru - Mangan Jinja no Ennichi de Ojaru! (Japan) (GB Compatible)"
 	serial "DMG-BOJJ-JPN"
 	rom (
 		crc D86507C9
@@ -5580,7 +5484,7 @@ game (
 )
 
 game (
-	comment "Ojarumaru - Tsukiyo ga Ike no Takaramono (Japan)"
+	comment "Ojarumaru - Tsukiyo ga Ike no Takaramono (Japan) (GB Compatible)"
 	serial "DMG-BORJ-JPN"
 	rom (
 		crc ED7461D2
@@ -5596,7 +5500,7 @@ game (
 )
 
 game (
-	comment "Othello Millennium (Japan)"
+	comment "Othello Millennium (Japan) (GB Compatible)"
 	serial "DMG-AO7J-JPN"
 	rom (
 		crc C7800576
@@ -5604,7 +5508,7 @@ game (
 )
 
 game (
-	comment "Other Life - Azure Dreams GB (Japan) (SGB Enhanced)"
+	comment "Other Life - Azure Dreams GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAZJ-JPN"
 	rom (
 		crc C6F1ABD4
@@ -5620,7 +5524,7 @@ game (
 )
 
 game (
-	comment "Ou Dorobou Jing - Angel Version (Japan) (SGB Enhanced)"
+	comment "Ou Dorobou Jing - Angel Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZWJ-JPN"
 	rom (
 		crc D47C0DCF
@@ -5628,7 +5532,7 @@ game (
 )
 
 game (
-	comment "Ou Dorobou Jing - Devil Version (Japan) (SGB Enhanced)"
+	comment "Ou Dorobou Jing - Devil Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZKJ-JPN"
 	rom (
 		crc 2A39A874
@@ -5636,7 +5540,7 @@ game (
 )
 
 game (
-	comment "Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume (Japan) (SGB Enhanced)"
+	comment "Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYIJ-JPN"
 	rom (
 		crc 3F635A4F
@@ -5644,7 +5548,7 @@ game (
 )
 
 game (
-	comment "Pac-Man - Special Color Edition (USA) (SGB Enhanced)"
+	comment "Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AACE-USA"
 	rom (
 		crc 3485EF86
@@ -5652,7 +5556,7 @@ game (
 )
 
 game (
-	comment "Pac-Man - Special Colour Edition (Europe)"
+	comment "Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AACP-EUR"
 	rom (
 		crc F565647F
@@ -5660,7 +5564,7 @@ game (
 )
 
 game (
-	comment "Pachinko CR Mouretsu Genshijin T (Japan)"
+	comment "Pachinko CR Mouretsu Genshijin T (Japan) (GB Compatible)"
 	serial "DMG-AXAJ-JPN"
 	rom (
 		crc F75E269E
@@ -5668,7 +5572,7 @@ game (
 )
 
 game (
-	comment "Pachinko Hisshou Guide - Data no Ousama (Japan)"
+	comment "Pachinko Hisshou Guide - Data no Ousama (Japan) (GB Compatible)"
 	serial "DMG-AYEJ-JPN"
 	rom (
 		crc 1A631BAB
@@ -5676,7 +5580,7 @@ game (
 )
 
 game (
-	comment "Pachipachi Pachisurou - New Pulsar Hen (Japan) (SGB Enhanced)"
+	comment "Pachipachi Pachisurou - New Pulsar Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ANPJ-JPN"
 	rom (
 		crc 1E443D1B
@@ -5700,7 +5604,7 @@ game (
 )
 
 game (
-	comment "Phantom Zona (Japan) (SGB Enhanced)"
+	comment "Phantom Zona (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BKZJ-JPN"
 	rom (
 		crc 3E43F25F
@@ -5716,7 +5620,7 @@ game (
 )
 
 game (
-	comment "Pitfall GB (Japan)"
+	comment "Pitfall GB (Japan) (GB Compatible)"
 	serial "DMG-AFLJ-JPN"
 	rom (
 		crc FA09CEBE
@@ -5756,7 +5660,7 @@ game (
 )
 
 game (
-	comment "Pocket Bowling (Japan)"
+	comment "Pocket Bowling (Japan) (En) (GB Compatible)"
 	serial "DMG-AVBJ-JPN"
 	rom (
 		crc 26589B79
@@ -5764,7 +5668,7 @@ game (
 )
 
 game (
-	comment "Pocket Bowling (USA)"
+	comment "Pocket Bowling (USA) (GB Compatible)"
 	serial "DMG-AVBE-USA"
 	rom (
 		crc 3ED30908
@@ -5780,7 +5684,7 @@ game (
 )
 
 game (
-	comment "Pocket Color Block (Japan) (SGB Enhanced)"
+	comment "Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AC6J-JPN"
 	rom (
 		crc 389CF56F
@@ -5788,7 +5692,7 @@ game (
 )
 
 game (
-	comment "Pocket Color Mahjong (Japan)"
+	comment "Pocket Color Mahjong (Japan) (GB Compatible)"
 	serial "DMG-A2AJ-JPN"
 	rom (
 		crc 08DC0AF4
@@ -5796,7 +5700,7 @@ game (
 )
 
 game (
-	comment "Pocket Color Trump (Japan)"
+	comment "Pocket Color Trump (Japan) (GB Compatible)"
 	serial "DMG-A4CJ-JPN"
 	rom (
 		crc C73EB10E
@@ -5812,7 +5716,7 @@ game (
 )
 
 game (
-	comment "Pocket Densha 2 (Japan) (SGB Enhanced)"
+	comment "Pocket Densha 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AP8J-JPN"
 	rom (
 		crc 4D26E880
@@ -5820,7 +5724,7 @@ game (
 )
 
 game (
-	comment "Pocket Family GB2 (Japan)"
+	comment "Pocket Family GB 2 (Japan)"
 	serial "CGB-HA2J-JPN"
 	rom (
 		crc 2A273244
@@ -5828,7 +5732,7 @@ game (
 )
 
 game (
-	comment "Pocket GI Stable (Japan) (SGB Enhanced)"
+	comment "Pocket GI Stable (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APUJ-JPN"
 	rom (
 		crc C424874E
@@ -5852,7 +5756,7 @@ game (
 )
 
 game (
-	comment "Pocket King (Japan) (SGB Enhanced)"
+	comment "Pocket King (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AV5J-JPN"
 	rom (
 		crc DEE71D44
@@ -5892,7 +5796,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Gin (Japan) (Rev A) (SGB Enhanced)"
+	comment "Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXJ-JPN"
 	rom (
 		crc 0AEA5383
@@ -5900,7 +5804,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Gin (Japan) (SGB Enhanced)"
+	comment "Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXJ-JPN"
 	rom (
 		crc BE1B928A
@@ -5908,7 +5812,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Kin (Japan) (Rev A) (SGB Enhanced)"
+	comment "Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUJ-JPN"
 	rom (
 		crc 4EF7F2A5
@@ -5916,7 +5820,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters Kin (Japan) (SGB Enhanced)"
+	comment "Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUJ-JPN"
 	rom (
 		crc 524478D4
@@ -5948,7 +5852,7 @@ game (
 )
 
 game (
-	comment "Pocket Puyo Puyo Sun (Japan) (SGB Enhanced)"
+	comment "Pocket Puyo Puyo Sun (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYSJ-JPN"
 	rom (
 		crc 45661EC3
@@ -5972,7 +5876,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Edicion Oro (Spain) (SGB Enhanced)"
+	comment "Pokemon - Edicion Oro (Spain) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUP-EUR"
 	rom (
 		crc 3434A92B
@@ -5980,7 +5884,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Edicion Plata (Spain) (SGB Enhanced)"
+	comment "Pokemon - Edicion Plata (Spain) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXP-EUR"
 	rom (
 		crc 1D9FAAC5
@@ -5988,7 +5892,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Goldene Edition (Germany) (SGB Enhanced)"
+	comment "Pokemon - Goldene Edition (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUP-EUR"
 	rom (
 		crc 4889DFAA
@@ -5996,7 +5900,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Silberne Edition (Germany) (SGB Enhanced)"
+	comment "Pokemon - Silberne Edition (Germany) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXP-EUR"
 	rom (
 		crc 96C9DB95
@@ -6004,7 +5908,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Version Argent (France) (SGB Enhanced)"
+	comment "Pokemon - Version Argent (France) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXP-EUR"
 	rom (
 		crc E0C216EA
@@ -6012,7 +5916,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Version Or (France) (SGB Enhanced)"
+	comment "Pokemon - Version Or (France) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUP-EUR"
 	rom (
 		crc 37A70702
@@ -6020,7 +5924,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Versione Argento (Italy) (SGB Enhanced)"
+	comment "Pokemon - Versione Argento (Italy) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAXP-EUR"
 	rom (
 		crc CBA6D2D4
@@ -6028,7 +5932,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Versione Oro (Italy) (SGB Enhanced)"
+	comment "Pokemon - Versione Oro (Italy) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AAUP-EUR"
 	rom (
 		crc 4C184CE3
@@ -6036,7 +5940,7 @@ game (
 )
 
 game (
-	comment "Pokemon Card GB (Japan) (SGB Enhanced)"
+	comment "Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACXJ-JPN"
 	rom (
 		crc 1926F570
@@ -6044,7 +5948,7 @@ game (
 )
 
 game (
-	comment "Pokemon Card GB2 - GR Dan Sanjou! (Japan)"
+	comment "Pokemon Card GB 2 - GR Dan Sanjou! (Japan)"
 	serial "CGB-BP7J-JPN"
 	rom (
 		crc 6C933A14
@@ -6052,7 +5956,7 @@ game (
 )
 
 game (
-	comment "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VPHP-EUR"
 	rom (
 		crc 39C432A4
@@ -6060,7 +5964,7 @@ game (
 )
 
 game (
-	comment "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VPHJ-JPN"
 	rom (
 		crc 13C70DE9
@@ -6068,7 +5972,7 @@ game (
 )
 
 game (
-	comment "Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VPHE-USA"
 	rom (
 		crc 03CE8D9A
@@ -6084,7 +5988,7 @@ game (
 )
 
 game (
-	comment "Pokemon Puzzle Challenge (USA)"
+	comment "Pokemon Puzzle Challenge (USA, Australia)"
 	serial "CGB-BPNE-USA"
 	rom (
 		crc D06BBA96
@@ -6092,7 +5996,7 @@ game (
 )
 
 game (
-	comment "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced)"
+	comment "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AXQP-EUR"
 	rom (
 		crc 966DAEF1
@@ -6100,7 +6004,7 @@ game (
 )
 
 game (
-	comment "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AXQP-EUR"
 	rom (
 		crc 4523376E
@@ -6108,7 +6012,7 @@ game (
 )
 
 game (
-	comment "Pokemon Trading Card Game (USA) (SGB Enhanced)"
+	comment "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AXQE-USA"
 	rom (
 		crc 81069D53
@@ -6180,7 +6084,7 @@ game (
 )
 
 game (
-	comment "Power Pro Kun Pocket (Japan) (Rev A) (SGB Enhanced)"
+	comment "Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVVJ-JPN"
 	rom (
 		crc 894D88F2
@@ -6188,7 +6092,7 @@ game (
 )
 
 game (
-	comment "Power Pro Kun Pocket (Japan) (SGB Enhanced)"
+	comment "Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVVJ-JPN"
 	rom (
 		crc 145540D8
@@ -6196,7 +6100,7 @@ game (
 )
 
 game (
-	comment "Power Pro Kun Pocket 2 (Japan) (SGB Enhanced)"
+	comment "Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BPWJ-JPN"
 	rom (
 		crc C2A4A3EB
@@ -6204,7 +6108,7 @@ game (
 )
 
 game (
-	comment "Power Quest (Europe) (En,Fr,De,Es,It) (SGB Enhanced)"
+	comment "Power Quest (Europe) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APQP-EUR"
 	rom (
 		crc 30E1E567
@@ -6212,7 +6116,7 @@ game (
 )
 
 game (
-	comment "Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced)"
+	comment "Power Quest (USA) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APQE-USA"
 	rom (
 		crc DAD6F6B4
@@ -6228,7 +6132,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Bad Mojo Jojo (Europe)"
+	comment "Powerpuff Girls, The - Bad Mojo Jojo (Europe) (BJJP)"
 	serial "CGB-BJJP-EUR"
 	rom (
 		crc 75D1063A
@@ -6244,7 +6148,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev A)"
+	comment "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)"
 	serial "CGB-BJJE-USA"
 	rom (
 		crc 548A287A
@@ -6252,7 +6156,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B)"
+	comment "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)"
 	serial "CGB-BJJE-USA"
 	rom (
 		crc A111704F
@@ -6276,7 +6180,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Battle Him (USA) (Rev A)"
+	comment "Powerpuff Girls, The - Battle Him (USA) (Rev 1)"
 	serial "CGB-BBHE-USA"
 	rom (
 		crc E3D6964C
@@ -6300,7 +6204,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Paint the Townsville Green (Europe)"
+	comment "Powerpuff Girls, The - Paint the Townsville Green (Europe) (BPTP)"
 	serial "CGB-BPTP-EUR"
 	rom (
 		crc 98E4B0C4
@@ -6316,7 +6220,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev A)"
+	comment "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)"
 	serial "CGB-BPTE-USA"
 	rom (
 		crc 295B3646
@@ -6324,7 +6228,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B)"
+	comment "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)"
 	serial "CGB-BPTE-USA"
 	rom (
 		crc 443367AE
@@ -6332,7 +6236,7 @@ game (
 )
 
 game (
-	comment "Powerpuff Girls, The - Panique A Townsville (France)"
+	comment "Powerpuff Girls, The - Panique a Townsville (France)"
 	serial "CGB-BPTP-EUR"
 	rom (
 		crc 79A417DB
@@ -6348,7 +6252,7 @@ game (
 )
 
 game (
-	comment "Pro Foot (France) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Pro Foot (France) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AAFF-FRA"
 	rom (
 		crc A9905932
@@ -6356,7 +6260,7 @@ game (
 )
 
 game (
-	comment "Pro Mahjong Kiwame GB II (Japan) (SGB Enhanced)"
+	comment "Pro Mahjong Kiwame II GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AA2J-JPN"
 	rom (
 		crc 14F91F86
@@ -6364,7 +6268,7 @@ game (
 )
 
 game (
-	comment "Pro Mahjong Tsuwamono GB (Japan) (SGB Enhanced)"
+	comment "Pro Mahjong Tsuwamono GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQDJ-JPN"
 	rom (
 		crc 1461D8D8
@@ -6372,7 +6276,7 @@ game (
 )
 
 game (
-	comment "Pro Mahjong Tsuwamono GB2 (Japan)"
+	comment "Pro Mahjong Tsuwamono GB 2 (Japan)"
 	serial "CGB-BMWJ-JPN"
 	rom (
 		crc F03016F5
@@ -6388,7 +6292,7 @@ game (
 )
 
 game (
-	comment "Pro Pool (USA) (En,Fr,De)"
+	comment "Pro Pool (USA) (En,Fr,De) (Beta)"
 	serial "CGB-BPLE-USA"
 	rom (
 		crc 04D3031A
@@ -6404,7 +6308,7 @@ game (
 )
 
 game (
-	comment "Puchi Carat (Europe) (SGB Enhanced)"
+	comment "Puchi Carat (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AIQP-EUR"
 	rom (
 		crc A9A89DDA
@@ -6412,7 +6316,7 @@ game (
 )
 
 game (
-	comment "Puchi Carat (Japan) (SGB Enhanced)"
+	comment "Puchi Carat (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACUJ-JPN"
 	rom (
 		crc F0D0C36D
@@ -6436,7 +6340,7 @@ game (
 )
 
 game (
-	comment "Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced)"
+	comment "Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWYJ-JPN"
 	rom (
 		crc 67350BC9
@@ -6444,7 +6348,7 @@ game (
 )
 
 game (
-	comment "Puzz Loop (Japan)"
+	comment "Puzz Loop (Japan) (GB Compatible)"
 	serial "DMG-BPZJ-JPN"
 	rom (
 		crc AF858234
@@ -6452,7 +6356,7 @@ game (
 )
 
 game (
-	comment "Puzzle Bobble 4 (Japan)"
+	comment "Puzzle Bobble 4 (Japan) (GB Compatible)"
 	serial "DMG-AA4J-JPN"
 	rom (
 		crc 79A35284
@@ -6468,7 +6372,7 @@ game (
 )
 
 game (
-	comment "Puzzle Master (USA)"
+	comment "Puzzle Master (USA) (GB Compatible)"
 	serial "DMG-AZOE-USA"
 	rom (
 		crc 06EB7A01
@@ -6476,7 +6380,7 @@ game (
 )
 
 game (
-	comment "Puzzle de Shoubuyo! Wootama-chan (Japan)"
+	comment "Puzzle de Shoubuyo! - Wootama-chan (Japan) (GB Compatible)"
 	serial "DMG-BKUJ-JPN"
 	rom (
 		crc 73ED3042
@@ -6508,7 +6412,7 @@ game (
 )
 
 game (
-	comment "QIX Adventure (Europe)"
+	comment "Qix Adventure (Europe)"
 	serial "CGB-AQYP-EUR"
 	rom (
 		crc D729DB40
@@ -6516,7 +6420,7 @@ game (
 )
 
 game (
-	comment "QIX Adventure (Japan)"
+	comment "Qix Adventure (Japan)"
 	serial "CGB-AQSJ-JPN"
 	rom (
 		crc 5ACEA4A9
@@ -6524,7 +6428,7 @@ game (
 )
 
 game (
-	comment "Quest - Fantasy Challenge (USA) (SGB Enhanced)"
+	comment "Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AQTE-USA"
 	rom (
 		crc 98285775
@@ -6532,7 +6436,7 @@ game (
 )
 
 game (
-	comment "Quest RPG - Brian's Journey (USA)"
+	comment "Quest - Brian's Journey (USA) (GB Compatible)"
 	serial "DMG-AQRE-USA"
 	rom (
 		crc 9AC27645
@@ -6540,7 +6444,7 @@ game (
 )
 
 game (
-	comment "Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced)"
+	comment "Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACNP-EUR"
 	rom (
 		crc CE55A4DE
@@ -6548,7 +6452,7 @@ game (
 )
 
 game (
-	comment "Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced)"
+	comment "Quest for Camelot (USA, Australia) (En,Fr,Es) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ACNE-USA"
 	rom (
 		crc D903DB7D
@@ -6556,7 +6460,7 @@ game (
 )
 
 game (
-	comment "Qui Qui (Japan)"
+	comment "Qui Qui (Japan) (GB Compatible)"
 	serial "DMG-AQUJ-JPN"
 	rom (
 		crc 56D76BA2
@@ -6564,7 +6468,7 @@ game (
 )
 
 game (
-	comment "R-Type DX (Japan)"
+	comment "R-Type DX (Japan) (En) (GB Compatible)"
 	serial "DMG-ARUJ-JPN"
 	rom (
 		crc 3623EBB6
@@ -6588,7 +6492,7 @@ game (
 )
 
 game (
-	comment "Rats! (USA) (En,Es)"
+	comment "Rats! (USA) (En,Es) (GB Compatible)"
 	serial "DMG-AVTE-USA"
 	rom (
 		crc 17635AD1
@@ -6620,7 +6524,7 @@ game (
 )
 
 game (
-	comment "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)"
+	comment "Rayman 2 Forever (Europe) (En,Fr,De,Es,It)"
 	serial "CGB-BRYP-EUR"
 	rom (
 		crc 250015D4
@@ -6628,7 +6532,7 @@ game (
 )
 
 game (
-	comment "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)"
+	comment "Rayman 2 (USA) (En,Fr,De,Es,It)"
 	serial "CGB-BRYE-USA"
 	rom (
 		crc 6F5C315D
@@ -6684,7 +6588,7 @@ game (
 )
 
 game (
-	comment "Real Pro Yakyuu! - Central League Hen (Japan) (SGB Enhanced)"
+	comment "Real Pro Yakyuu! - Central League Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AECJ-JPN"
 	rom (
 		crc AFFF6BB9
@@ -6692,7 +6596,7 @@ game (
 )
 
 game (
-	comment "Real Pro Yakyuu! - Pacific League Hen (Japan) (SGB Enhanced)"
+	comment "Real Pro Yakyuu! - Pacific League Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AEPJ"
 	rom (
 		crc 16B81C36
@@ -6708,7 +6612,7 @@ game (
 )
 
 game (
-	comment "Reservoir Rat (Europe) (En,Fr,De,Es,It)"
+	comment "Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AVTP-EUR"
 	rom (
 		crc 22621803
@@ -6748,7 +6652,7 @@ game (
 )
 
 game (
-	comment "Revelations - The Demon Slayer (USA) (SGB Enhanced)"
+	comment "Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ALBE-USA"
 	rom (
 		crc D1A65D74
@@ -6756,7 +6660,7 @@ game (
 )
 
 game (
-	comment "Rip-Tide Racer (Europe) (En,Fr,De,Es,It)"
+	comment "Rip-Tide Racer (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AXYP-EUR"
 	rom (
 		crc AB8C3A31
@@ -6764,7 +6668,7 @@ game (
 )
 
 game (
-	comment "Roadsters Trophy (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-ARRP-EUR"
 	rom (
 		crc 717B3525
@@ -6772,7 +6676,7 @@ game (
 )
 
 game (
-	comment "Roadsters Trophy (USA) (En,Fr,De,Es,It,Nl)"
+	comment "Roadsters (USA) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-ARPE-USA"
 	rom (
 		crc 38B022BE
@@ -6788,7 +6692,7 @@ game (
 )
 
 game (
-	comment "Robopon - Sun Version (USA) (SGB Enhanced)"
+	comment "Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-HREE-USA"
 	rom (
 		crc 32CAEF11
@@ -6796,7 +6700,7 @@ game (
 )
 
 game (
-	comment "Robot Poncots - Comic Bom Bom Special Version (Japan) (SGB Enhanced)"
+	comment "Robot Poncots - Comic Bom Bom Special Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-H5UJ-JPN"
 	rom (
 		crc 4AA209CD
@@ -6804,7 +6708,7 @@ game (
 )
 
 game (
-	comment "Robot Poncots - Moon Version (Japan) (SGB Enhanced)"
+	comment "Robot Poncots - Moon Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-B3UJ"
 	rom (
 		crc 87A29030
@@ -6812,7 +6716,7 @@ game (
 )
 
 game (
-	comment "Robot Poncots - Star Version (Japan) (SGB Enhanced)"
+	comment "Robot Poncots - Star Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-HRCJ"
 	rom (
 		crc B28F32AC
@@ -6820,7 +6724,7 @@ game (
 )
 
 game (
-	comment "Robot Poncots - Sun Version (Japan) (SGB Enhanced)"
+	comment "Robot Poncots - Sun Version (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-HREJ-JPN"
 	rom (
 		crc CB0B8003
@@ -6836,7 +6740,7 @@ game (
 )
 
 game (
-	comment "Rockman X - Cyber Mission (Japan)"
+	comment "Rockman X - Cyber Mission (Japan) (GB Compatible)"
 	serial "DMG-BRXJ-JPN"
 	rom (
 		crc 919077AB
@@ -6852,7 +6756,7 @@ game (
 )
 
 game (
-	comment "Rocky Mountain Trophy Hunter (USA)"
+	comment "Rocky Mountain - Trophy Hunter (USA)"
 	serial "CGB-BRME-USA"
 	rom (
 		crc 9AA5B021
@@ -6860,7 +6764,7 @@ game (
 )
 
 game (
-	comment "Roi Lion, Le - Les Adventures de Simba (France)"
+	comment "Roi Lion, Le - La Formidable Aventure de Simba (France)"
 	serial "CGB-BLKP-EUR"
 	rom (
 		crc 6467FBA0
@@ -6884,7 +6788,7 @@ game (
 )
 
 game (
-	comment "Ronaldo V-Football (Europe) (En,Fr,De,Es,It,Nl,Pt)"
+	comment "Ronaldo V-Football (Europe) (En,Fr,De,Es,It,Nl,Pt) (GB Compatible)"
 	serial "DMG-AORP"
 	rom (
 		crc A856C066
@@ -6892,7 +6796,7 @@ game (
 )
 
 game (
-	comment "Ronaldo V-Soccer (USA) (En,Fr,Es,Pt)"
+	comment "Ronaldo V-Soccer (USA) (En,Fr,Es,Pt) (GB Compatible)"
 	serial "DMG-AORE-USA"
 	rom (
 		crc D0204F10
@@ -6908,7 +6812,7 @@ game (
 )
 
 game (
-	comment "Rox (Japan)"
+	comment "Rox (Japan) (En) (GB Compatible)"
 	serial "DMG-ARXJ-JPN"
 	rom (
 		crc 4BD73D99
@@ -6924,7 +6828,7 @@ game (
 )
 
 game (
-	comment "Rugrats Movie, The (Europe) (SGB Enhanced)"
+	comment "Rugrats Movie, The (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARZP"
 	rom (
 		crc B4091600
@@ -6932,7 +6836,7 @@ game (
 )
 
 game (
-	comment "Rugrats Movie, The (USA) (SGB Enhanced)"
+	comment "Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ARQE-USA"
 	rom (
 		crc FEBE2606
@@ -6940,7 +6844,7 @@ game (
 )
 
 game (
-	comment "Rugrats in Paris - The Movie (Europe) (En,Es)"
+	comment "Rugrats en Paris - La pelicula (Spain) (En,Es)"
 	serial "CGB-BRPP-EUR"
 	rom (
 		crc 35323432
@@ -6948,7 +6852,7 @@ game (
 )
 
 game (
-	comment "SD Hiryuu no Ken EX (Japan) (SGB Enhanced)"
+	comment "SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AUXJ-JPN"
 	rom (
 		crc 365BF43F
@@ -6964,7 +6868,7 @@ game (
 )
 
 game (
-	comment "Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced)"
+	comment "Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AREJ-JPN"
 	rom (
 		crc B5412C6F
@@ -6980,7 +6884,7 @@ game (
 )
 
 game (
-	comment "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced)"
+	comment "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AS9J-JPN"
 	rom (
 		crc E787B44C
@@ -6988,7 +6892,7 @@ game (
 )
 
 game (
-	comment "Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced)"
+	comment "Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ATPJ-JPN"
 	rom (
 		crc 458B579D
@@ -6996,7 +6900,7 @@ game (
 )
 
 game (
-	comment "Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced)"
+	comment "Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ATFJ-JPN"
 	rom (
 		crc EFE51E17
@@ -7012,7 +6916,7 @@ game (
 )
 
 game (
-	comment "Saru Puncher (Japan) (SGB Enhanced)"
+	comment "Saru Puncher (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BSPJ-JPN"
 	rom (
 		crc B02564FC
@@ -7028,15 +6932,15 @@ game (
 )
 
 game (
-	comment "Sei Hai Densetsu (Japan) (SGB Enhanced)"
+	comment "Sei Hai Densetsu (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AEOJ-JPN"
 	rom (
-		crc 612F0529
+		crc 8804F856
 	)
 )
 
 game (
-	comment "Seme COM Dungeon - Drururuaga (Japan)"
+	comment "Seme COM Dungeon - Drururuaga (Japan) (GB Compatible)"
 	serial "DMG-BV6J-JPN"
 	rom (
 		crc 0B1B928C
@@ -7044,7 +6948,7 @@ game (
 )
 
 game (
-	comment "Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced)"
+	comment "Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BHSJ-JPN"
 	rom (
 		crc 23FA5F53
@@ -7068,7 +6972,7 @@ game (
 )
 
 game (
-	comment "Shadowgate Return (Japan)"
+	comment "Shadowgate Return (Japan) (GB Compatible)"
 	serial "DMG-ASWJ-JPN"
 	rom (
 		crc 1BCD7D70
@@ -7092,7 +6996,7 @@ game (
 )
 
 game (
-	comment "Shanghai Pocket (USA) (SGB Enhanced)"
+	comment "Shanghai Pocket (Europe) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AHPE-USA"
 	rom (
 		crc 9401BA47
@@ -7108,7 +7012,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced)"
+	comment "Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BHNJ-JPN"
 	rom (
 		crc F90C4977
@@ -7116,7 +7020,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced)"
+	comment "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BHEJ-JPN"
 	rom (
 		crc 55B9AF51
@@ -7148,7 +7052,7 @@ game (
 )
 
 game (
-	comment "Shougi 2 (Japan)"
+	comment "Shougi 2 (Japan) (GB Compatible)"
 	serial "DMG-AS8J-JPN"
 	rom (
 		crc A7748D2B
@@ -7156,7 +7060,7 @@ game (
 )
 
 game (
-	comment "Shougi 3 (Japan)"
+	comment "Shougi 3 (Japan) (GB Compatible)"
 	serial "DMG-B9SJ-JPN"
 	rom (
 		crc 64B479FA
@@ -7164,7 +7068,7 @@ game (
 )
 
 game (
-	comment "Shutokou Racing, The (Japan) (SGB Enhanced)"
+	comment "Shutokou Racing, The (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ASUJ-JPN"
 	rom (
 		crc 36E781CD
@@ -7252,7 +7156,7 @@ game (
 )
 
 game (
-	comment "Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced)"
+	comment "Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AANJ-JPN"
 	rom (
 		crc A80EEEAD
@@ -7260,7 +7164,7 @@ game (
 )
 
 game (
-	comment "Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced)"
+	comment "Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWIJ"
 	rom (
 		crc 081D7FCB
@@ -7268,7 +7172,7 @@ game (
 )
 
 game (
-	comment "Soul Getter - Houkago Bouken RPG (Japan)"
+	comment "Soul Getter - Houkago Bouken RPG (Japan) (GB Compatible)"
 	serial "DMG-AL9J-JPN"
 	rom (
 		crc 3FFCD45B
@@ -7276,7 +7180,7 @@ game (
 )
 
 game (
-	comment "Space Invaders X (Japan)"
+	comment "Space Invaders X (Japan) (En) (GB Compatible)"
 	serial "DMG-BSIJ-JPN"
 	rom (
 		crc C016BC79
@@ -7308,7 +7212,7 @@ game (
 )
 
 game (
-	comment "Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AV2P-EUR"
 	rom (
 		crc 63353C0F
@@ -7340,7 +7244,7 @@ game (
 )
 
 game (
-	comment "Spirou Robbedoes - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	comment "Spirou - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)"
 	serial "CGB-BSCP-EUR"
 	rom (
 		crc 3E9BC90B
@@ -7348,7 +7252,7 @@ game (
 )
 
 game (
-	comment "Spy vs. Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)"
 	serial "CGB-AS6P-EUR"
 	rom (
 		crc 713C6C17
@@ -7356,7 +7260,7 @@ game (
 )
 
 game (
-	comment "Spy vs. Spy (USA)"
+	comment "Spy vs Spy (USA)"
 	serial "CGB-AS6E-USA"
 	rom (
 		crc F0463D51
@@ -7364,7 +7268,7 @@ game (
 )
 
 game (
-	comment "Star Ocean - Blue Sphere (Japan) (SGB Enhanced)"
+	comment "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BO2J-JPN"
 	rom (
 		crc 8C7DDBDA
@@ -7380,7 +7284,7 @@ game (
 )
 
 game (
-	comment "Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced)"
+	comment "Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVKP-EUR"
 	rom (
 		crc 816A4D94
@@ -7428,7 +7332,7 @@ game (
 )
 
 game (
-	comment "Super Bombliss DX (Japan) (En) (SGB Enhanced)"
+	comment "Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-A2OJ-JPN"
 	rom (
 		crc 34C8A4A5
@@ -7436,7 +7340,7 @@ game (
 )
 
 game (
-	comment "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-AOTP-EUR"
 	rom (
 		crc 6833923D
@@ -7444,7 +7348,7 @@ game (
 )
 
 game (
-	comment "Super Breakout! (USA)"
+	comment "Super Breakout (USA) (GB Compatible)"
 	serial "DMG-AOTE-USA"
 	rom (
 		crc 52F51CB5
@@ -7540,7 +7444,7 @@ game (
 )
 
 game (
-	comment "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced)"
+	comment "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AL6J-JPN"
 	rom (
 		crc D24E592D
@@ -7556,7 +7460,7 @@ game (
 )
 
 game (
-	comment "Survival Kids (USA) (SGB Enhanced)"
+	comment "Survival Kids (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVKE-USA"
 	rom (
 		crc C46ABA56
@@ -7564,15 +7468,15 @@ game (
 )
 
 game (
-	comment "Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced)"
+	comment "Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVKJ-JPN"
 	rom (
-		crc 19C2BD07
+		crc 61FA675C
 	)
 )
 
 game (
-	comment "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced)"
+	comment "Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-B2VJ-JPN"
 	rom (
 		crc AB8B25D8
@@ -7580,7 +7484,7 @@ game (
 )
 
 game (
-	comment "Sweet Ange (Japan) (SGB Enhanced)"
+	comment "Sweet Ange (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AUBJ-JPN"
 	rom (
 		crc 4BE9B159
@@ -7596,7 +7500,7 @@ game (
 )
 
 game (
-	comment "Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced)"
+	comment "Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ALVJ-JPN"
 	rom (
 		crc C6FE4497
@@ -7620,7 +7524,7 @@ game (
 )
 
 game (
-	comment "Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (SGB Enhanced)"
+	comment "Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BMKJ-JPN"
 	rom (
 		crc 6DD8AC91
@@ -7628,7 +7532,7 @@ game (
 )
 
 game (
-	comment "Sylvester and Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Sylvester & Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-AYRP-EUR"
 	rom (
 		crc 6BB3B0DC
@@ -7636,7 +7540,7 @@ game (
 )
 
 game (
-	comment "TNN Outdoors Fishing Champ (USA) (SGB Enhanced)"
+	comment "TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AFCE-USA"
 	rom (
 		crc 00A14D18
@@ -7644,7 +7548,7 @@ game (
 )
 
 game (
-	comment "Tabaluga (Germany)"
+	comment "Tabaluga (Germany) (GB Compatible)"
 	serial "DMG-ALUP-EUR"
 	rom (
 		crc F09F92D7
@@ -7652,7 +7556,7 @@ game (
 )
 
 game (
-	comment "Taito Memorial - Bubble Bobble (Japan) (SGB Enhanced)"
+	comment "Taito Memorial - Bubble Bobble (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AVWJ-JPN"
 	rom (
 		crc 388C6760
@@ -7660,7 +7564,7 @@ game (
 )
 
 game (
-	comment "Taito Memorial - Chase H.Q. - Secret Police (Japan) (SGB Enhanced)"
+	comment "Taito Memorial - Chase H.Q. - Secret Police (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AH9J-JPN"
 	rom (
 		crc 6A0C272D
@@ -7668,7 +7572,7 @@ game (
 )
 
 game (
-	comment "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced)"
+	comment "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AN6J-JPN"
 	rom (
 		crc 725CF31C
@@ -7716,7 +7620,7 @@ game (
 )
 
 game (
-	comment "Tazmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It)"
+	comment "Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AVZP-EUR"
 	rom (
 		crc 683752A0
@@ -7724,7 +7628,7 @@ game (
 )
 
 game (
-	comment "Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It)"
+	comment "Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-ATIE-USA"
 	rom (
 		crc 3611D0D8
@@ -7740,7 +7644,7 @@ game (
 )
 
 game (
-	comment "Test Drive 6 (Europe) (En,Fr,De,Es,It)"
+	comment "Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Compatible)"
 	serial "DMG-AW6P-EUR"
 	rom (
 		crc 13691CEB
@@ -7748,7 +7652,7 @@ game (
 )
 
 game (
-	comment "Test Drive 6 (USA)"
+	comment "Test Drive 6 (USA) (GB Compatible)"
 	serial "DMG-AW6E-USA"
 	rom (
 		crc 5CE00547
@@ -7772,7 +7676,7 @@ game (
 )
 
 game (
-	comment "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced)"
+	comment "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-VQ3E-USA"
 	rom (
 		crc 0FDD5B9E
@@ -7788,7 +7692,7 @@ game (
 )
 
 game (
-	comment "Tetris DX (World) (SGB Enhanced)"
+	comment "Tetris DX (World) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-ATEA-USA"
 	rom (
 		crc 69989152
@@ -7796,7 +7700,7 @@ game (
 )
 
 game (
-	comment "Three Lions (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	comment "Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
 	serial "DMG-AAFP-UKV"
 	rom (
 		crc 1CBEA1AA
@@ -7820,7 +7724,7 @@ game (
 )
 
 game (
-	comment "Tintin - Prisoners of the Sun (Europe) (En,Fr,De)"
+	comment "Tintin - Le Temple Du Soleil (Europe) (En,Fr,De)"
 	serial "CGB-BTTP-EUR"
 	rom (
 		crc B2205D49
@@ -7860,7 +7764,7 @@ game (
 )
 
 game (
-	comment "Titus the Fox to Marrakech and Back (Europe)"
+	comment "Titus the Fox (Europe) (GB Compatible)"
 	serial "DMG-BFXP-EUR"
 	rom (
 		crc 2F9F19DE
@@ -7868,7 +7772,7 @@ game (
 )
 
 game (
-	comment "Titus the Fox to Marrakech and Back (USA)"
+	comment "Titus the Fox (USA) (GB Compatible)"
 	serial "DMG-BFXE-USA"
 	rom (
 		crc BA70D28F
@@ -7876,7 +7780,7 @@ game (
 )
 
 game (
-	comment "Tokoro-san no Setagaya C.C. (Japan)"
+	comment "Tokoro-san no Setagaya C.C. (Japan) (GB Compatible)"
 	serial "DMG-BGBJ-JPN"
 	rom (
 		crc 9139E307
@@ -7892,7 +7796,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - Mousehunt (USA) (En,Fr,Es)"
+	comment "Tom and Jerry - Mouse Hunt (USA) (En,Fr,Es)"
 	serial "CGB-BTJE-USA"
 	rom (
 		crc 5FC6BEC0
@@ -7900,7 +7804,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry in Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	comment "Tom and Jerry in - Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)"
 	serial "CGB-BTOP-EUR"
 	rom (
 		crc 9D9C84F4
@@ -7908,7 +7812,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry in Mouse Attacks! (USA)"
+	comment "Tom and Jerry in - Mouse Attacks! (USA)"
 	serial "CGB-BTOE-USA"
 	rom (
 		crc 38CE3F76
@@ -7972,7 +7876,7 @@ game (
 )
 
 game (
-	comment "Top Gear Pocket (Japan) (Rumble Version)"
+	comment "Top Gear Pocket (Japan) (En) (Rumble Version)"
 	serial "CGB-VGRJ"
 	rom (
 		crc EBCCA3DA
@@ -8004,7 +7908,7 @@ game (
 )
 
 game (
-	comment "Totsugeki! Papparatai (Japan) (SGB Enhanced)"
+	comment "Totsugeki! Papparatai (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-APHJ-JPN"
 	rom (
 		crc 0AEAE8FB
@@ -8020,7 +7924,7 @@ game (
 )
 
 game (
-	comment "Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev A)"
+	comment "Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1)"
 	serial "CGB-BHTJ-JPN"
 	rom (
 		crc D549E074
@@ -8068,7 +7972,7 @@ game (
 )
 
 game (
-	comment "Tsuri Sensei 2 (Japan) (SGB Enhanced)"
+	comment "Tsuri Sensei 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AF2J-JPN"
 	rom (
 		crc 1BE00A6E
@@ -8084,7 +7988,7 @@ game (
 )
 
 game (
-	comment "Turok 2 - Seeds of Evil (Japan)"
+	comment "Turok 2 - Jikku Senshi (Japan) (GB Compatible)"
 	serial "DMG-A2TJ-JPN"
 	rom (
 		crc F095B446
@@ -8140,7 +8044,7 @@ game (
 )
 
 game (
-	comment "Tyco RC - Racin' Ratz (USA)"
+	comment "Racin' Ratz (USA)"
 	serial "CGB-BTIE-USA"
 	rom (
 		crc D6881014
@@ -8156,7 +8060,7 @@ game (
 )
 
 game (
-	comment "Uchuujin Tanaka Tarou de RPG Tsuku-ru GB 2 (Japan)"
+	comment "Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan)"
 	serial "CGB-B3QJ-JPN"
 	rom (
 		crc 219E42E3
@@ -8196,7 +8100,7 @@ game (
 )
 
 game (
-	comment "Uno (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 	serial "DMG-AUNP"
 	rom (
 		crc 70760CCE
@@ -8204,7 +8108,7 @@ game (
 )
 
 game (
-	comment "Uno (USA)"
+	comment "Uno (USA) (GB Compatible)"
 	serial "DMG-AUNE-USA"
 	rom (
 		crc F026D509
@@ -8228,7 +8132,7 @@ game (
 )
 
 game (
-	comment "V-Rally - Championship Edition (USA) (En,Fr,Es)"
+	comment "V-Rally - Edition 99 (USA) (En,Fr,Es)"
 	serial "CGB-AVLE-USA"
 	rom (
 		crc DA300C6C
@@ -8244,7 +8148,7 @@ game (
 )
 
 game (
-	comment "VS Lemmings (Japan)"
+	comment "Lemmings VS (Japan)"
 	serial "CGB-ALEJ-JPN"
 	rom (
 		crc 947D45AE
@@ -8268,7 +8172,7 @@ game (
 )
 
 game (
-	comment "Visiteurs, Les (France)"
+	comment "Visiteurs, Les (France) (GB Compatible)"
 	serial "CGB-AY9P-EUR"
 	rom (
 		crc D843F898
@@ -8300,7 +8204,7 @@ game (
 )
 
 game (
-	comment "Wario Land 2 (Japan) (SGB Enhanced)"
+	comment "Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AW2J-JPN"
 	rom (
 		crc B30FDBF5
@@ -8340,7 +8244,7 @@ game (
 )
 
 game (
-	comment "Watashi no Kitchen (Japan) (Rev A)"
+	comment "Watashi no Kitchen (Japan) (Rev 1)"
 	serial "CGB-BKRJ-JPN"
 	rom (
 		crc 584669E4
@@ -8356,7 +8260,7 @@ game (
 )
 
 game (
-	comment "Wetrix GB (Europe) (En,Fr,De)"
+	comment "Wetrix (Europe) (En,Fr,De)"
 	serial "CGB-BWXP-EUR"
 	rom (
 		crc 9CBFAA3D
@@ -8364,7 +8268,7 @@ game (
 )
 
 game (
-	comment "Wetrix GB (Japan) (SGB Enhanced)"
+	comment "Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AW5J-JPN"
 	rom (
 		crc 6215C5B3
@@ -8388,7 +8292,7 @@ game (
 )
 
 game (
-	comment "Wings of Fury (Europe) (En,Fr,De)"
+	comment "Wings of Fury (Europe) (En,Fr,De) (GB Compatible)"
 	serial "DMG-AFXP-EUR"
 	rom (
 		crc 6D59104F
@@ -8396,7 +8300,7 @@ game (
 )
 
 game (
-	comment "Wings of Fury (USA)"
+	comment "Wings of Fury (USA) (GB Compatible)"
 	serial "DMG-AFAE-USA"
 	rom (
 		crc C94A413A
@@ -8420,7 +8324,7 @@ game (
 )
 
 game (
-	comment "Wizardry Empire (Japan) (Rev A)"
+	comment "Wizardry Empire (Japan) (Rev 1)"
 	serial "CGB-AEWJ-JPN"
 	rom (
 		crc FA82620F
@@ -8436,7 +8340,7 @@ game (
 )
 
 game (
-	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan)"
+	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)"
 	serial "CGB-BWIJ-JPN"
 	rom (
 		crc A99A33DC
@@ -8444,7 +8348,7 @@ game (
 )
 
 game (
-	comment "Wizardry II - Llylgamyn no Isan (Japan)"
+	comment "Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)"
 	serial "CGB-BW2J-JPN"
 	rom (
 		crc DD727F1A
@@ -8452,7 +8356,7 @@ game (
 )
 
 game (
-	comment "Wizardry III - Diamond no Kishi (Japan)"
+	comment "Wizardry III - Diamond no Kishi (Japan) (En,Ja)"
 	serial "CGB-BW3J-JPN"
 	rom (
 		crc D44D3596
@@ -8492,7 +8396,7 @@ game (
 )
 
 game (
-	comment "World Destruction League - Thunder Tanks (USA) (En,Fr,De)"
+	comment "WDL - World Destruction League - Thunder Tanks (USA) (En,Fr,De)"
 	serial "CGB-BBTE-USA"
 	rom (
 		crc 1A0BF4D7
@@ -8508,7 +8412,7 @@ game (
 )
 
 game (
-	comment "World Soccer GB2 (Japan) (SGB Enhanced)"
+	comment "World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AWZJ-JPN"
 	rom (
 		crc DD18DB5F
@@ -8575,7 +8479,7 @@ game (
 	comment "Yakouchuu GB (Japan)"
 	serial "CGB-AYTJ-JPN"
 	rom (
-		crc AA05DAF1
+		crc E0A06018
 	)
 )
 
@@ -8628,7 +8532,7 @@ game (
 )
 
 game (
-	comment "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced)"
+	comment "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYCJ-JPN"
 	rom (
 		crc 1371E872
@@ -8644,7 +8548,7 @@ game (
 )
 
 game (
-	comment "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced)"
+	comment "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AYKJ-JPN"
 	rom (
 		crc BA7182C3
@@ -8684,7 +8588,7 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev A) (SGB Enhanced)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLJ-JPN"
 	rom (
 		crc BD8A1041
@@ -8692,7 +8596,7 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev B) (SGB Enhanced)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLJ-JPN"
 	rom (
 		crc E998E595
@@ -8700,7 +8604,7 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced)"
+	comment "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-AZLJ-JPN"
 	rom (
 		crc D974ABEA
@@ -8724,7 +8628,7 @@ game (
 )
 
 game (
-	comment "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev A) (SGB Enhanced)"
+	comment "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BGZJ-JPN"
 	rom (
 		crc 96461918
@@ -8732,7 +8636,7 @@ game (
 )
 
 game (
-	comment "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced)"
+	comment "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible)"
 	serial "DMG-BGZJ-JPN"
 	rom (
 		crc F36C874D
@@ -8754,4 +8658,3 @@ game (
 		crc C09F9E1B
 	)
 )
-

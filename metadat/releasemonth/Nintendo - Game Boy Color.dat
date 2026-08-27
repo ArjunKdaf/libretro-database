@@ -178,7 +178,7 @@ game (
 )
 
 game (
-	comment "ATV Racing (Europe) (Unl)"
+	comment "ATV Racing (Europe)"
 	releasemonth "2"
 	rom ( crc 7987D5CD )
 )
@@ -196,13 +196,13 @@ game (
 )
 
 game (
-	comment "ATV Racing & Karate Joe (Europe) (Unl)"
+	comment "ATV Racing & Karate Joe (Europe)"
 	releasemonth "3"
 	rom ( crc A07B6E79 )
 )
 
 game (
-	comment "ATV Racing & Karate Joe (Europe) (Unl) (Alt)"
+	comment "ATV Racing & Karate Joe (Europe) (Alt)"
 	releasemonth "3"
 	rom ( crc 6908F4AF )
 )
@@ -1036,13 +1036,13 @@ game (
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
 	releasemonth "3"
 	rom ( crc 68BA18D7 )
 )
 
 game (
-	comment "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)"
 	releasemonth "3"
 	rom ( crc 2C428A87 )
 )
@@ -1252,7 +1252,7 @@ game (
 )
 
 game (
-	comment "Full Time Soccer (Europe) (Unl)"
+	comment "Full Time Soccer (Europe)"
 	releasemonth "3"
 	rom ( crc B99BEDA2 )
 )
@@ -1264,7 +1264,7 @@ game (
 )
 
 game (
-	comment "Full Time Soccer & Hang Time Basketball (Europe) (Unl)"
+	comment "Full Time Soccer & Hang Time Basketball (Europe)"
 	releasemonth "3"
 	rom ( crc 0634C196 )
 )
@@ -1420,7 +1420,7 @@ game (
 )
 
 game (
-	comment "Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	releasemonth "10"
 	rom ( crc 80444A86 )
 )
@@ -1612,7 +1612,7 @@ game (
 )
 
 game (
-	comment "Hang Time Basketball (Europe) (Unl)"
+	comment "Hang Time Basketball (Europe)"
 	releasemonth "3"
 	rom ( crc 3207B7D9 )
 )
@@ -2056,7 +2056,7 @@ game (
 )
 
 game (
-	comment "Karate Joe (Europe) (Unl)"
+	comment "Karate Joe (Europe)"
 	releasemonth "3"
 	rom ( crc B8A54E29 )
 )
@@ -3202,7 +3202,7 @@ game (
 )
 
 game (
-	comment "Painter (Europe) (Unl)"
+	comment "Painter (Europe)"
 	releasemonth "2"
 	rom ( crc F4801F21 )
 )
@@ -3262,7 +3262,7 @@ game (
 )
 
 game (
-	comment "Pocket Bowling (Japan) (GB Compatible)"
+	comment "Pocket Bowling (Japan) (En) (GB Compatible)"
 	releasemonth "10"
 	rom ( crc 26589B79 )
 )
@@ -3280,7 +3280,7 @@ game (
 )
 
 game (
-	comment "Pocket Color Block (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible)"
 	releasemonth "12"
 	rom ( crc 389CF56F )
 )
@@ -3406,13 +3406,13 @@ game (
 )
 
 game (
-	comment "Pocket Smash Out & Race Time (Europe) (Unl)"
+	comment "Pocket Smash Out & Race Time (Europe)"
 	releasemonth "3"
 	rom ( crc 0AD5B775 )
 )
 
 game (
-	comment "Pocket Smash Out (Europe) (Unl)"
+	comment "Pocket Smash Out (Europe)"
 	releasemonth "3"
 	rom ( crc CBD14276 )
 )
@@ -3736,7 +3736,7 @@ game (
 )
 
 game (
-	comment "Race Time (Europe) (Unl)"
+	comment "Race Time (Europe)"
 	releasemonth "3"
 	rom ( crc 599C867D )
 )
@@ -3934,7 +3934,7 @@ game (
 )
 
 game (
-	comment "Sakura Taisen GB - Geki Hana Gumi Nyuutai! (Japan)"
+	comment "Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan)"
 	releasemonth "7"
 	rom ( crc EF503D50 )
 )
@@ -4156,7 +4156,7 @@ game (
 )
 
 game (
-	comment "Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)"
 	releasemonth "12"
 	rom ( crc A80EEEAD )
 )
@@ -4174,7 +4174,7 @@ game (
 )
 
 game (
-	comment "Space Invasion (Europe) (Unl)"
+	comment "Space Invasion (Europe)"
 	releasemonth "3"
 	rom ( crc 2B2D9868 )
 )
@@ -4186,13 +4186,13 @@ game (
 )
 
 game (
-	comment "Space Invasion & Karate Joe (Europe) (Unl)"
+	comment "Space Invasion & Karate Joe (Europe)"
 	releasemonth "3"
 	rom ( crc 6A184C55 )
 )
 
 game (
-	comment "Space Invasion & Painter (Europe) (Unl)"
+	comment "Space Invasion & Painter (Europe)"
 	releasemonth "3"
 	rom ( crc BD4C1065 )
 )
@@ -4300,7 +4300,7 @@ game (
 )
 
 game (
-	comment "Super Breakout! (USA) (GB Compatible)"
+	comment "Super Breakout (USA) (GB Compatible)"
 	releasemonth "12"
 	rom ( crc 52F51CB5 )
 )
@@ -4372,7 +4372,7 @@ game (
 )
 
 game (
-	comment "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)"
+	comment "Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)"
 	releasemonth "7"
 	rom ( crc AB8B25D8 )
 )
@@ -4882,19 +4882,19 @@ game (
 )
 
 game (
-	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan)"
+	comment "Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)"
 	releasemonth "2"
 	rom ( crc A99A33DC )
 )
 
 game (
-	comment "Wizardry II - Llylgamyn no Isan (Japan)"
+	comment "Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)"
 	releasemonth "2"
 	rom ( crc DD727F1A )
 )
 
 game (
-	comment "Wizardry III - Diamond no Kishi (Japan)"
+	comment "Wizardry III - Diamond no Kishi (Japan) (En,Ja)"
 	releasemonth "2"
 	rom ( crc D44D3596 )
 )
@@ -5070,7 +5070,7 @@ game (
 game (
 	comment "Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)"
 	releasemonth "6"
-	rom ( crc 2F2B9972 )
+	rom ( crc C2FDE3C4 )
 )
 
 game (
@@ -5102,4 +5102,3 @@ game (
 	releasemonth "6"
 	rom ( crc 530705A1 )
 )
-

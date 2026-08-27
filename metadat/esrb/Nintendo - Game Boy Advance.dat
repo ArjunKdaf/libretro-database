@@ -324,13 +324,13 @@ game (
 game (
 	comment "2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It)"
 	esrb_rating "E"
-	rom ( crc D732E52D )
+	rom ( crc E76DB6EF )
 )
 
 game (
 	comment "2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)"
 	esrb_rating "E"
-	rom ( crc 0AE3637F )
+	rom ( crc 3ABC30BD )
 )
 
 game (
@@ -474,7 +474,7 @@ game (
 game (
 	comment "Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta)"
 	esrb_rating "E"
-	rom ( crc 2FA2C076 )
+	rom ( crc 76DA5C78 )
 )
 
 game (
@@ -616,13 +616,13 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (Europe)"
+	comment "Aero the Acro-Bat (Europe)"
 	esrb_rating "E"
 	rom ( crc A7E98EBE )
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2) (2002-03-27)"
+	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 6F3EA564 )
 )
@@ -634,7 +634,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA)"
+	comment "Aero the Acro-Bat (USA)"
 	esrb_rating "E"
 	rom ( crc B47AC020 )
 )
@@ -682,9 +682,9 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula - Circle of the Moon (China) (Unl)"
+	comment "Akumajou Dracula - Circle of the Moon (China)"
 	esrb_rating "T"
-	rom ( crc D6A83B9D )
+	rom ( crc 5925D9C9 )
 )
 
 game (
@@ -814,7 +814,7 @@ game (
 )
 
 game (
-	comment "Another World (Europe) (En,Fr) (v2.1) (Unl)"
+	comment "Another World (World) (En,Fr) (v2.1)"
 	esrb_rating "E"
 	rom ( crc 86C4F772 )
 )
@@ -823,12 +823,6 @@ game (
 	comment "Ant Bully, The (USA) (En,Fr)"
 	esrb_rating "E"
 	rom ( crc 8D51A101 )
-)
-
-game (
-	comment "Another World (Europe) (Fr) (v1.2) (Unl)"
-	esrb_rating "E"
-	rom ( crc 86C4F772 )
 )
 
 game (
@@ -966,7 +960,7 @@ game (
 game (
 	comment "Atomic Betty (USA, Europe) (Beta)"
 	esrb_rating "E"
-	rom ( crc 622DBECC )
+	rom ( crc B79472B8 )
 )
 
 game (
@@ -1186,9 +1180,9 @@ game (
 )
 
 game (
-	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2) (2004-09-29)"
+	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	esrb_rating "E"
-	rom ( crc 1C5587E6 )
+	rom ( crc 3168A9A4 )
 )
 
 game (
@@ -1380,7 +1374,7 @@ game (
 game (
 	comment "Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It) (Beta)"
 	esrb_rating "E"
-	rom ( crc 94D00A1E )
+	rom ( crc 55CAE46A )
 )
 
 game (
@@ -2172,13 +2166,13 @@ game (
 game (
 	comment "Crash & Spyro Super Pack Volume 3 (Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
-	rom ( crc 0510B70F )
+	rom ( crc C7269E6A )
 )
 
 game (
 	comment "Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA)"
 	esrb_rating "E"
-	rom ( crc 5940906E )
+	rom ( crc 9B76B90B )
 )
 
 game (
@@ -3180,7 +3174,7 @@ game (
 game (
 	comment "Fear Factor - Unleashed (USA)"
 	esrb_rating "T"
-	rom ( crc 1289639C )
+	rom ( crc BF91C27D )
 )
 
 game (
@@ -3394,7 +3388,7 @@ game (
 )
 
 game (
-	comment "Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06)"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc B40D6854 )
 )
@@ -3406,7 +3400,7 @@ game (
 )
 
 game (
-	comment "Leaked from an Intelligent System's FTP"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 8146A270 )
 )
@@ -3954,13 +3948,13 @@ game (
 game (
 	comment "Happy Feet (Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
-	rom ( crc 7A53173C )
+	rom ( crc B8653E59 )
 )
 
 game (
 	comment "Happy Feet (USA) (En,Fr)"
 	esrb_rating "E"
-	rom ( crc 682617CF )
+	rom ( crc 98235433 )
 )
 
 game (
@@ -4195,12 +4189,6 @@ game (
 	comment "Horsez (USA)"
 	esrb_rating "E"
 	rom ( crc 5B2B4452 )
-)
-
-game (
-	comment "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E"
-	rom ( crc BF80F1A1 )
 )
 
 game (
@@ -4444,7 +4432,7 @@ game (
 )
 
 game (
-	comment "Iridion 3D (USA) (Aftermarket) (Unl)"
+	comment "Iridion 3D (World) (Steam, GOG)"
 	esrb_rating "E"
 	rom ( crc 4C7EBE42 )
 )
@@ -4474,7 +4462,7 @@ game (
 )
 
 game (
-	comment "Iridion II (USA) (Aftermarket) (Unl)"
+	comment "Iridion II (World)"
 	esrb_rating "E"
 	rom ( crc B371F070 )
 )
@@ -4534,7 +4522,7 @@ game (
 )
 
 game (
-	comment "Jimmy Neutron vs. Jimmy Negatron (Germany) (Beta)"
+	comment "Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany) (Beta)"
 	esrb_rating "E"
 	rom ( crc 220CCF25 )
 )
@@ -4546,7 +4534,7 @@ game (
 )
 
 game (
-	comment "Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)"
+	comment "Jonny Moseley Mad Trix (USA) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc 96488632 )
 )
@@ -4986,19 +4974,13 @@ game (
 game (
 	comment "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)"
 	esrb_rating "E"
-	rom ( crc BD2751E6 )
+	rom ( crc 8D780224 )
 )
 
 game (
 	comment "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"
 	esrb_rating "E"
-	rom ( crc 93B18353 )
-)
-
-game (
-	comment "Legend of Zelda, The - The Minish Cap (USA) (Demo) (Kiosk)"
-	esrb_rating "E"
-	rom ( crc 023DA338 )
+	rom ( crc A3EED091 )
 )
 
 game (
@@ -5212,9 +5194,9 @@ game (
 )
 
 game (
-	comment "Lord of the Rings, The - The Return of the King (USA) (Unl)"
+	comment "Lord of the Rings, The - The Return of the King (USA)"
 	esrb_rating "T"
-	rom ( crc EB887FBA )
+	rom ( crc 5A5EF8E3 )
 )
 
 game (
@@ -5452,12 +5434,6 @@ game (
 )
 
 game (
-	comment "Mario & Luigi - Superstar Saga (USA) (Demo) (Kiosk)"
-	esrb_rating "E"
-	rom ( crc A94B04B2 )
-)
-
-game (
 	comment "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc 170CC574 )
@@ -5674,18 +5650,6 @@ game (
 )
 
 game (
-	comment "Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E"
-	rom ( crc 25505164 )
-)
-
-game (
-	comment "Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E"
-	rom ( crc B3642431 )
-)
-
-game (
 	comment "Mario vs. Donkey Kong (USA, Australia)"
 	esrb_rating "E"
 	rom ( crc 25C394D1 )
@@ -5758,13 +5722,13 @@ game (
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (USA)"
+	comment "Cross Town Heroes (USA)"
 	esrb_rating "E"
 	rom ( crc 0FFFB458 )
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (Europe)"
+	comment "Cross Town Heroes (Europe)"
 	esrb_rating "E"
 	rom ( crc C9EA02F5 )
 )
@@ -5908,7 +5872,7 @@ game (
 )
 
 game (
-	comment "Retail release"
+	comment "Medarot Ni Core - Kabuto (Japan) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc 3F15FEAA )
 )
@@ -5932,7 +5896,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network (USA) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 1D5D0CB6 )
 )
@@ -5944,7 +5908,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network (USA)"
+	comment "Mega Man - Battle Network (USA)"
 	esrb_rating "E"
 	rom ( crc 1D347971 )
 )
@@ -5956,7 +5920,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA)"
+	comment "Mega Man - Battle Network 2 (USA)"
 	esrb_rating "E"
 	rom ( crc 6D961F82 )
 )
@@ -5968,37 +5932,37 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA) (Debug Version)"
+	comment "Mega Man - Battle Network 2 (USA) (Beta) (Debug)"
 	esrb_rating "E"
-	rom ( crc 2EF5EBDE )
+	rom ( crc C3AABD70 )
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA, Europe) (Virtual Console)"
+	comment "Mega Man - Battle Network 2 (USA, Europe) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 5E88C34B )
 )
 
 game (
-	comment "Megaman & Bass (Europe)"
+	comment "Mega Man & Bass (Europe)"
 	esrb_rating "E"
 	rom ( crc 01B4D95E )
 )
 
 game (
-	comment "Megaman & Bass (USA) (Virtual Console)"
+	comment "Mega Man & Bass (USA) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc B61F99D4 )
 )
 
 game (
-	comment "Megaman & Bass (Europe) (Virtual Console)"
+	comment "Mega Man & Bass (Europe) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 6E140BFA )
 )
 
 game (
-	comment "Megaman & Bass (USA)"
+	comment "Mega Man & Bass (USA)"
 	esrb_rating "E"
 	rom ( crc EEA68C2E )
 )
@@ -6016,13 +5980,13 @@ game (
 )
 
 game (
-	comment "Megaman Zero 4 (USA) (Virtual Console)"
+	comment "Mega Man Zero 4 (USA) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc C4838CFA )
 )
 
 game (
-	comment "Megaman Zero 4 (USA)"
+	comment "Mega Man Zero 4 (USA)"
 	esrb_rating "E"
 	rom ( crc 7EE24793 )
 )
@@ -6094,7 +6058,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-11)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 3ACBD239 )
 )
@@ -6106,7 +6070,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 1605E4F7 )
 )
@@ -6178,7 +6142,7 @@ game (
 )
 
 game (
-	comment "Mobile Suit Gundam Seed - Battle Assault (USA)"
+	comment "Mobile Suit Gundam SEED - Battle Assault (USA)"
 	esrb_rating "T"
 	rom ( crc 180D1491 )
 )
@@ -6346,13 +6310,13 @@ game (
 )
 
 game (
-	comment "Motoracer Advance (USA) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (USA) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc 2FDBE7A8 )
 )
 
 game (
-	comment "Motoracer Advance (Europe) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc 8CB19DA0 )
 )
@@ -6508,12 +6472,6 @@ game (
 )
 
 game (
-	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E10+"
-	rom ( crc BA1F514A )
-)
-
-game (
 	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)"
 	esrb_rating "E10+"
 	rom ( crc B3D75CE1 )
@@ -6529,12 +6487,6 @@ game (
 	comment "NBA Jam 2002 (USA, Europe)"
 	esrb_rating "E"
 	rom ( crc CA428A7A )
-)
-
-game (
-	comment "Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl)"
-	esrb_rating "T"
-	rom ( crc 2EBE32A5 )
 )
 
 game (
@@ -6588,7 +6540,7 @@ game (
 game (
 	comment "Nicktoons Racing (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc 38295D30 )
+	rom ( crc 4ED6E860 )
 )
 
 game (
@@ -6610,7 +6562,7 @@ game (
 )
 
 game (
-	comment "Ninja Five-0 (USA)"
+	comment "Ninja Five-O (USA)"
 	esrb_rating "E"
 	rom ( crc EB3954C6 )
 )
@@ -6814,7 +6766,7 @@ game (
 )
 
 game (
-	comment "Pac-Man World 2 (USA) (Beta) (2005-04-15)"
+	comment "Pac-Man World 2 (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc B645B5EF )
 )
@@ -7170,7 +7122,7 @@ game (
 game (
 	comment "Pokemon - Leaf Green (USA) (Pirate)"
 	esrb_rating "E"
-	rom ( crc 62CDC2D1 )
+	rom ( crc 11870BD9 )
 )
 
 game (
@@ -7345,12 +7297,6 @@ game (
 	comment "Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It)"
 	esrb_rating "E"
 	rom ( crc C1D18FE4 )
-)
-
-game (
-	comment "Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk)"
-	esrb_rating "E"
-	rom ( crc F12F908E )
 )
 
 game (
@@ -7644,7 +7590,7 @@ game (
 game (
 	comment "Racing Gears Advance (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc 6A1CFEA4 )
+	rom ( crc 7A3820B3 )
 )
 
 game (
@@ -7716,7 +7662,7 @@ game (
 game (
 	comment "Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta)"
 	esrb_rating "E10+"
-	rom ( crc 9706208C )
+	rom ( crc 2189021C )
 )
 
 game (
@@ -7864,7 +7810,7 @@ game (
 )
 
 game (
-	comment "Rocket Power - Beach Bandits (USA, Europe) (v0.14) (Beta)"
+	comment "Rocket Power - Beach Bandits (USA, Europe) (Beta)"
 	esrb_rating "E"
 	rom ( crc D3755452 )
 )
@@ -8160,7 +8106,7 @@ game (
 game (
 	comment "SEGA Rally Championship (Europe) (Beta)"
 	esrb_rating "E"
-	rom ( crc 31FB92EA )
+	rom ( crc D9F19D76 )
 )
 
 game (
@@ -8220,7 +8166,7 @@ game (
 game (
 	comment "Shamu's Deep Sea Adventures (USA)"
 	esrb_rating "E"
-	rom ( crc 4E9426EB )
+	rom ( crc 7ECB7529 )
 )
 
 game (
@@ -8232,7 +8178,7 @@ game (
 game (
 	comment "Shamu's Deep Sea Adventures (Europe)"
 	esrb_rating "E"
-	rom ( crc 2D86E9D8 )
+	rom ( crc 5A507F49 )
 )
 
 game (
@@ -8542,9 +8488,9 @@ game (
 )
 
 game (
-	comment "Sonic Advance (USA) (En,Ja) (Beta) (2001-10-31)"
+	comment "Sonic Advance (USA) (En,Ja) (Beta)"
 	esrb_rating "E"
-	rom ( crc 0D5818C7 )
+	rom ( crc A80DE3B2 )
 )
 
 game (
@@ -8698,9 +8644,9 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 (USA) (Unl)"
+	comment "Spider-Man 3 (USA)"
 	esrb_rating "E10+"
-	rom ( crc 93529B55 )
+	rom ( crc 3E1B693A )
 )
 
 game (
@@ -8776,79 +8722,79 @@ game (
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T051624)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 49754EE4 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2000-11-28)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 22F37CFD )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-05)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 4)"
 	esrb_rating "E"
 	rom ( crc DFA0465F )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-15)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 5)"
 	esrb_rating "E"
 	rom ( crc 9DD49688 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T074756)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 3)"
 	esrb_rating "E"
 	rom ( crc B83D7E0D )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-23)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 6)"
 	esrb_rating "E"
 	rom ( crc 78D0D354 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-26)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 7)"
 	esrb_rating "E"
 	rom ( crc D0FB4BD2 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-01)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 8)"
 	esrb_rating "E"
 	rom ( crc 6B458C53 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-12)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 9)"
 	esrb_rating "E"
 	rom ( crc 70456F6E )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-14)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 10)"
 	esrb_rating "E"
 	rom ( crc FFEA9FEC )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113400)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 14)"
 	esrb_rating "E"
 	rom ( crc 40CC2E8A )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-07-31)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 16)"
 	esrb_rating "E"
 	rom ( crc F2F67F40 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113900)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 15)"
 	esrb_rating "E"
 	rom ( crc FF4F1EE7 )
 )
@@ -8866,7 +8812,7 @@ game (
 )
 
 game (
-	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)"
+	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,Nl)"
 	esrb_rating "E"
 	rom ( crc 611CC620 )
 )
@@ -9106,7 +9052,7 @@ game (
 )
 
 game (
-	comment "Starsky & Hutch (USA) (Beta) (2003-02-11)"
+	comment "Starsky & Hutch (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc AB142D2E )
 )
@@ -9174,7 +9120,7 @@ game (
 game (
 	comment "Stuart Little 2 (Europe) (Rev 1)"
 	esrb_rating "E"
-	rom ( crc EE32EEE0 )
+	rom ( crc 34E4F8C5 )
 )
 
 game (
@@ -9346,12 +9292,6 @@ game (
 )
 
 game (
-	comment "Super Mario Advance (USA) (Demo) (Kiosk)"
-	esrb_rating "E"
-	rom ( crc 69924CBD )
-)
-
-game (
 	comment "Super Mario Advance (USA, Europe) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 5251F2BF )
@@ -9508,15 +9448,9 @@ game (
 )
 
 game (
-	comment "Super Mario Ball (Japan) (Demo) (Kiosk, GameCube)"
+	comment "Super Monkey Ball Jr. (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc 65B1D9CB )
-)
-
-game (
-	comment "Super Monkey Ball Jr. (USA) (Beta) (2002-08-06)"
-	esrb_rating "E"
-	rom ( crc FEE7B029 )
+	rom ( crc 0D72F2CC )
 )
 
 game (
@@ -9658,9 +9592,9 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (USA) (Unl)"
+	comment "Teenage Mutant Ninja Turtles 2 (USA)"
 	esrb_rating "E"
-	rom ( crc C9A7FF25 )
+	rom ( crc 8EE6D3D5 )
 )
 
 game (
@@ -10092,13 +10026,7 @@ game (
 game (
 	comment "Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta)"
 	esrb_rating "E10+"
-	rom ( crc 0E4FF9A1 )
-)
-
-game (
-	comment "Tottoko Hamutarou - Hamu-Hamu Sports (Japan) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E"
-	rom ( crc 7CD6839C )
+	rom ( crc 5515C841 )
 )
 
 game (
@@ -10740,19 +10668,19 @@ game (
 game (
 	comment "Yggdra Union (Japan)"
 	esrb_rating "T"
-	rom ( crc A86F844A )
+	rom ( crc BF53A3D2 )
 )
 
 game (
 	comment "Yggdra Union - We'll Never Fight Alone (USA)"
 	esrb_rating "T"
-	rom ( crc 3BFA68F7 )
+	rom ( crc 84B5666C )
 )
 
 game (
 	comment "Yggdra Union - We'll Never Fight Alone (Europe)"
 	esrb_rating "T"
-	rom ( crc 3E0DF130 )
+	rom ( crc 2931D6A8 )
 )
 
 game (
@@ -10914,7 +10842,7 @@ game (
 game (
 	comment "Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It)"
 	esrb_rating "E"
-	rom ( crc 1708BFF7 )
+	rom ( crc 9CED2D3F )
 )
 
 game (
@@ -11002,12 +10930,6 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Fushigi no Boushi (Japan) (Demo) (Kiosk, GameCube)"
-	esrb_rating "E"
-	rom ( crc EA115BC4 )
-)
-
-game (
 	comment "Zen-Nihon GT Senshuken (Japan)"
 	esrb_rating "E"
 	rom ( crc D320A965 )
@@ -11048,4 +10970,3 @@ game (
 	esrb_rating "E"
 	rom ( crc 09A2255F )
 )
-

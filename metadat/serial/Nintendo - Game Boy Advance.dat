@@ -276,7 +276,7 @@ game (
 )
 
 game (
-	comment "2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge (France)"
+	comment "2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge (France) (Fr+En)"
 	serial "AGB-BWLP-EUR"
 	rom (
 		crc B3BB9A45
@@ -612,7 +612,7 @@ game (
 )
 
 game (
-	comment "2 Jeux en 1 - Titeuf - Ze Gagmachine + Titeuf - Mega Compet (France)"
+	comment "2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet (France)"
 	serial "AGB-BT5F-FRA"
 	rom (
 		crc 0A5965F4
@@ -655,7 +655,7 @@ game (
 	comment "2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It)"
 	serial "AGB-BX3P-EUR"
 	rom (
-		crc D732E52D
+		crc E76DB6EF
 	)
 )
 
@@ -663,7 +663,7 @@ game (
 	comment "2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)"
 	serial "AGB-BX3E-USA"
 	rom (
-		crc 0AE3637F
+		crc 3ABC30BD
 	)
 )
 
@@ -908,7 +908,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (Europe)"
+	comment "Aero the Acro-Bat (Europe)"
 	serial "AGB-AAOP-EUR"
 	rom (
 		crc A7E98EBE
@@ -916,7 +916,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA)"
+	comment "Aero the Acro-Bat (USA)"
 	serial "AGB-AAOE-USA"
 	rom (
 		crc B47AC020
@@ -1036,7 +1036,7 @@ game (
 )
 
 game (
-	comment "Alex Ferguson's Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Total Soccer Manager (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-ATFP-EUR"
 	rom (
 		crc 92F99295
@@ -1076,7 +1076,7 @@ game (
 )
 
 game (
-	comment "All-Star Baseball 2004 (USA)"
+	comment "All-Star Baseball 2004 Featuring Derek Jeter (USA)"
 	serial "AGB-AA7E-USA"
 	rom (
 		crc 60E2DB03
@@ -1575,7 +1575,7 @@ game (
 	comment "Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)"
 	serial "AGB-AHEJ-JPN"
 	rom (
-		crc 7F2E0320
+		crc 8A984201
 	)
 )
 
@@ -1700,7 +1700,7 @@ game (
 )
 
 game (
-	comment "Barbie Groovy Games (Europe) (En,Fr,De,Es,It)"
+	comment "Barbie Software - Groovy Games (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AVBP-EUR"
 	rom (
 		crc 749339B2
@@ -1708,7 +1708,7 @@ game (
 )
 
 game (
-	comment "Barbie Groovy Games (USA)"
+	comment "Barbie Software - Groovy Games (USA)"
 	serial "AGB-AVBE-USA"
 	rom (
 		crc AA017567
@@ -1732,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Barbie Superpack (Europe) (En,Fr,De,Es,It)"
+	comment "Barbie Superpack - Secret Agent + Groovy Games (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BBEP-EUR"
 	rom (
 		crc 2C3862C3
@@ -1740,7 +1740,7 @@ game (
 )
 
 game (
-	comment "Barbie Superpack (USA)"
+	comment "Barbie Superpack - Secret Agent + Groovy Games (USA)"
 	serial "AGB-BBEE-USA"
 	rom (
 		crc C99DB2A1
@@ -1764,7 +1764,7 @@ game (
 )
 
 game (
-	comment "Barbie as the Island Princess (USA)"
+	comment "Barbie as The Island Princess (USA)"
 	serial "AGB-BBNE-USA"
 	rom (
 		crc DB6160EB
@@ -1860,7 +1860,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE (Japan)"
+	comment "Battle Network - Rockman EXE (Japan)"
 	serial "AGB-AREJ-JPN"
 	rom (
 		crc D9516E50
@@ -1868,7 +1868,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE 2 (Japan)"
+	comment "Battle Network - Rockman EXE 2 (Japan)"
 	serial "AGB-AE2J-JPN"
 	rom (
 		crc 98E4F096
@@ -1876,7 +1876,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE 2 (Japan) (Rev 1)"
+	comment "Battle Network - Rockman EXE 2 (Japan) (Rev 1)"
 	serial "AGB-AE2J-JPN"
 	rom (
 		crc 41576087
@@ -1884,7 +1884,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE 3 (Japan)"
+	comment "Battle Network - Rockman EXE 3 (Japan)"
 	serial "AGB-A6BJ-JPN"
 	rom (
 		crc 1C57724E
@@ -1892,7 +1892,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE 3 (Japan) (Rev 1)"
+	comment "Battle Network - Rockman EXE 3 (Japan) (Rev 1)"
 	serial "AGB-A6BJ-JPN"
 	rom (
 		crc E48E6BC9
@@ -1900,7 +1900,7 @@ game (
 )
 
 game (
-	comment "Battle Network Rockman EXE 3 - Black (Japan) (Rev 1)"
+	comment "Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1)"
 	serial "AGB-A3XJ-JPN"
 	rom (
 		crc FD57493B
@@ -2172,7 +2172,7 @@ game (
 )
 
 game (
-	comment "Board Game Classics (Europe) (En,Fr,De,Es,It)"
+	comment "Board Game Classics - Backgammon & Chess & Draughts (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-B6EP-EUR"
 	rom (
 		crc E5C745D8
@@ -2276,7 +2276,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Jetters - Densetsu no Bomber Man (Japan)"
+	comment "Bomberman Jetters - Densetsu no Bomberman (Japan)"
 	serial "AGB-AJZJ-JPN"
 	rom (
 		crc 70C423B8
@@ -2284,7 +2284,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Jetters - Game Collection (Japan)"
+	comment "Bomberman Jetters - Game Collection (Japan)"
 	serial "AGB-BOMJ-JPN"
 	rom (
 		crc B9DEA90D
@@ -2292,7 +2292,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Max 2 - Bomber Man Version (Japan)"
+	comment "Bomberman Max 2 - Bomberman Version (Japan)"
 	serial "AGB-AMHJ-JPN"
 	rom (
 		crc 656CF22E
@@ -2300,7 +2300,7 @@ game (
 )
 
 game (
-	comment "Bomber Man Max 2 - Max Version (Japan)"
+	comment "Bomberman Max 2 - Max Version (Japan)"
 	serial "AGB-AMYJ-JPN"
 	rom (
 		crc 290D8810
@@ -2308,10 +2308,10 @@ game (
 )
 
 game (
-	comment "Bomber Man Story (Japan)"
+	comment "Bomberman Story (Japan)"
 	serial "AGB-ABSJ-JPN"
 	rom (
-		crc 38231BC2
+		crc F7F40189
 	)
 )
 
@@ -2732,7 +2732,7 @@ game (
 )
 
 game (
-	comment "CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-BC3P-EUR"
 	rom (
 		crc 7DC40EDA
@@ -2844,7 +2844,7 @@ game (
 )
 
 game (
-	comment "Care Bears - The Care Quests (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)"
+	comment "Care Bears - The Care Quest (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)"
 	serial "AGB-BEAP-EUR"
 	rom (
 		crc 6111ED1E
@@ -2852,7 +2852,7 @@ game (
 )
 
 game (
-	comment "Care Bears - The Care Quests (USA) (En,Fr,Es)"
+	comment "Care Bears - The Care Quest (USA) (En,Fr,Es)"
 	serial "AGB-BEAE-USA"
 	rom (
 		crc F848C327
@@ -3044,7 +3044,7 @@ game (
 )
 
 game (
-	comment "Cat in the Hat by Dr. Seuss, The (USA)"
+	comment "Cat in the Hat, The (USA)"
 	serial "AGB-BCTE-USA"
 	rom (
 		crc 13C2249E
@@ -3236,7 +3236,7 @@ game (
 )
 
 game (
-	comment "Chou Makai Mura R (Japan)"
+	comment "Chou Makaimura R (Japan)"
 	serial "AGB-ACJJ-JPN"
 	rom (
 		crc A4F8B4B4
@@ -3284,7 +3284,7 @@ game (
 )
 
 game (
-	comment "Cinnamon Game Series 2 - Yume no Daibouken (Japan)"
+	comment "Cinnamon - Yume no Daibouken (Japan)"
 	serial "AGB-B2SJ-JPN"
 	rom (
 		crc 5A2CADA1
@@ -3292,7 +3292,7 @@ game (
 )
 
 game (
-	comment "Cinnamon Game Series 3 - Fuwafuwa Daisakusen (Japan)"
+	comment "Cinnamon - Fuwafuwa Daisakusen (Japan)"
 	serial "AGB-B43J-JPN"
 	rom (
 		crc A1CBA145
@@ -3311,7 +3311,7 @@ game (
 	comment "Classic NES Series - Castlevania (USA)"
 	serial "AGB-AAME-USA"
 	rom (
-		crc CFC1F558
+		crc 23E4082C
 	)
 )
 
@@ -3556,7 +3556,7 @@ game (
 )
 
 game (
-	comment "Crash Superpack (USA)"
+	comment "Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart (USA)"
 	serial "AGB-B8AE-USA"
 	rom (
 		crc 2C38BAE2
@@ -3591,7 +3591,7 @@ game (
 	comment "Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan)"
 	serial "AGB-BC2J-JPN"
 	rom (
-		crc 45C84466
+		crc 52F463FE
 	)
 )
 
@@ -4468,7 +4468,7 @@ game (
 )
 
 game (
-	comment "Dokapon (Europe) (En,Fr,De)"
+	comment "Dokapon - Monster Hunter! (Europe) (En,Fr,De)"
 	serial "AGB-ADQP-EUR"
 	rom (
 		crc 654DF50E
@@ -4476,7 +4476,7 @@ game (
 )
 
 game (
-	comment "Dokapon (USA)"
+	comment "Dokapon - Monster Hunter (USA)"
 	serial "AGB-ADOE-USA"
 	rom (
 		crc 5617E407
@@ -4556,7 +4556,7 @@ game (
 )
 
 game (
-	comment "Donchan Puzzle Hanabi de Dohn Advance (Japan)"
+	comment "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)"
 	serial "AGB-BDAJ-JPN"
 	rom (
 		crc 500922E8
@@ -4772,7 +4772,7 @@ game (
 )
 
 game (
-	comment "Dr. Seuss' - The Cat in the Hat (Europe) (En,Fr,De,Es,It)"
+	comment "Cat in the Hat, The (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BCTP-EUR"
 	rom (
 		crc A5DBE5AE
@@ -4780,7 +4780,7 @@ game (
 )
 
 game (
-	comment "Dr. Seuss' - The Cat in the Hat (USA)"
+	comment "Dr. Seuss' The Cat in the Hat (USA)"
 	serial "AGB-BCTE-USA"
 	rom (
 		crc 13ADBF3B
@@ -5103,7 +5103,7 @@ game (
 	comment "Duel Masters (Japan)"
 	serial "AGB-AA9J-JPN"
 	rom (
-		crc 0D32851A
+		crc 0C548021
 	)
 )
 
@@ -5572,7 +5572,7 @@ game (
 )
 
 game (
-	comment "Ever Girl (USA)"
+	comment "everGirl (USA)"
 	serial "AGB-BEVE-USA"
 	rom (
 		crc AFBB1D35
@@ -5628,7 +5628,7 @@ game (
 )
 
 game (
-	comment "Eyeshield 21 Devilbats Devildays (Japan)"
+	comment "Eyeshield 21 - DevilBats DevilDays (Japan)"
 	serial "AGB-BE4J-JPN"
 	rom (
 		crc 620784AF
@@ -5751,7 +5751,7 @@ game (
 	comment "Famicom Mini 01 - Super Mario Bros. (Japan) (En) (Rev 1)"
 	serial "AGB-FSMJ-JPN"
 	rom (
-		crc 5848884C
+		crc CD2604DD
 	)
 )
 
@@ -5759,7 +5759,7 @@ game (
 	comment "Famicom Mini 02 - Donkey Kong (Japan) (En)"
 	serial "AGB-FDKJ-JPN"
 	rom (
-		crc 86D346AF
+		crc 071C3F2B
 	)
 )
 
@@ -5767,7 +5767,7 @@ game (
 	comment "Famicom Mini 03 - Ice Climber (Japan) (En)"
 	serial "AGB-FICJ-JPN"
 	rom (
-		crc 5646F9D1
+		crc D0AEF472
 	)
 )
 
@@ -5775,7 +5775,7 @@ game (
 	comment "Famicom Mini 04 - Excitebike (Japan) (En)"
 	serial "AGB-FEBJ-JPN"
 	rom (
-		crc 319CDF36
+		crc 32604C95
 	)
 )
 
@@ -5783,7 +5783,7 @@ game (
 	comment "Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)"
 	serial "AGB-FZLJ-JPN"
 	rom (
-		crc 114E37A1
+		crc 712D76E8
 	)
 )
 
@@ -5791,7 +5791,7 @@ game (
 	comment "Famicom Mini 06 - Pac-Man (Japan) (En)"
 	serial "AGB-FPMJ-JPN"
 	rom (
-		crc 3FEC1606
+		crc 91ACF642
 	)
 )
 
@@ -5799,7 +5799,7 @@ game (
 	comment "Famicom Mini 07 - Xevious (Japan) (En)"
 	serial "AGB-FXVJ-JPN"
 	rom (
-		crc 1CD1F78C
+		crc F54EEB0E
 	)
 )
 
@@ -5807,15 +5807,15 @@ game (
 	comment "Famicom Mini 08 - Mappy (Japan) (En)"
 	serial "AGB-FMPJ-JPN"
 	rom (
-		crc D4B0779A
+		crc C29E4A08
 	)
 )
 
 game (
-	comment "Famicom Mini 09 - Bomber Man (Japan) (En)"
+	comment "Famicom Mini 09 - Bomberman (Japan) (En)"
 	serial "AGB-FBMJ-JPN"
 	rom (
-		crc 3B92EE60
+		crc C1116E40
 	)
 )
 
@@ -5823,7 +5823,7 @@ game (
 	comment "Famicom Mini 10 - Star Soldier (Japan) (En)"
 	serial "AGB-FSOJ-JPN"
 	rom (
-		crc 0958EE09
+		crc 1E23BAD4
 	)
 )
 
@@ -5831,7 +5831,7 @@ game (
 	comment "Famicom Mini 11 - Mario Bros. (Japan)"
 	serial "AGB-FMBJ-JPN"
 	rom (
-		crc 9CD4D6CF
+		crc 42A027AB
 	)
 )
 
@@ -5839,7 +5839,7 @@ game (
 	comment "Famicom Mini 12 - Clu Clu Land (Japan)"
 	serial "AGB-FCLJ-JPN"
 	rom (
-		crc C4C03AA8
+		crc 8B3219FE
 	)
 )
 
@@ -5847,7 +5847,7 @@ game (
 	comment "Famicom Mini 13 - Balloon Fight (Japan)"
 	serial "AGB-FBFJ-JPN"
 	rom (
-		crc 45D299D7
+		crc A01F014A
 	)
 )
 
@@ -5855,7 +5855,7 @@ game (
 	comment "Famicom Mini 14 - Wrecking Crew (Japan)"
 	serial "AGB-FWRJ-JPN"
 	rom (
-		crc 6C0611F0
+		crc ADAC99BD
 	)
 )
 
@@ -5863,7 +5863,7 @@ game (
 	comment "Famicom Mini 15 - Dr. Mario (Japan)"
 	serial "AGB-FDMJ-JPN"
 	rom (
-		crc E23A7ED0
+		crc C836F2E2
 	)
 )
 
@@ -5871,7 +5871,7 @@ game (
 	comment "Famicom Mini 16 - Dig Dug (Japan)"
 	serial "AGB-FDDJ-JPN"
 	rom (
-		crc 57513B63
+		crc EE4C3504
 	)
 )
 
@@ -5879,15 +5879,15 @@ game (
 	comment "Famicom Mini 17 - Takahashi Meijin no Bouken-jima (Japan)"
 	serial "AGB-FTBJ-JPN"
 	rom (
-		crc 3BEF3B74
+		crc 53286F51
 	)
 )
 
 game (
-	comment "Famicom Mini 18 - Makai Mura (Japan)"
+	comment "Famicom Mini 18 - Makaimura (Japan)"
 	serial "AGB-FMKJ-JPN"
 	rom (
-		crc 85261EC6
+		crc 8A7964CA
 	)
 )
 
@@ -5895,7 +5895,7 @@ game (
 	comment "Famicom Mini 19 - Twin Bee (Japan)"
 	serial "AGB-FTWJ-JPN"
 	rom (
-		crc 26A17681
+		crc 2F390212
 	)
 )
 
@@ -5903,7 +5903,7 @@ game (
 	comment "Famicom Mini 20 - Ganbare Goemon! - Karakuri Douchuu (Japan)"
 	serial "AGB-FGGJ-JPN"
 	rom (
-		crc 10B48DBA
+		crc 33196B58
 	)
 )
 
@@ -5911,7 +5911,7 @@ game (
 	comment "Famicom Mini 21 - Super Mario Bros. 2 (Japan)"
 	serial "AGB-FM2J-JPN"
 	rom (
-		crc F55674A3
+		crc EF18F7B2
 	)
 )
 
@@ -5975,7 +5975,7 @@ game (
 	comment "Famicom Mini 30 - SD Gundam World - Gachapon Senshi Scramble Wars (Japan)"
 	serial "AGB-FSDJ-JPN"
 	rom (
-		crc 9ED2DAEB
+		crc BA78D1EE
 	)
 )
 
@@ -6068,7 +6068,7 @@ game (
 )
 
 game (
-	comment "Fantastic Maerchen - Cake-ya-san Monogatari (Japan)"
+	comment "Fantastic Maerchen - Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai - Kosei Shinri Gaku (Japan)"
 	serial "AGB-AAXJ-JPN"
 	rom (
 		crc EC60D573
@@ -6084,7 +6084,7 @@ game (
 )
 
 game (
-	comment "Fear Factor Unleashed (USA)"
+	comment "Fear Factor - Unleashed (USA)"
 	serial "AGB-BFUE-USA"
 	rom (
 		crc BF91C27D
@@ -6572,7 +6572,7 @@ game (
 )
 
 game (
-	comment "From TV Animation One Piece - Mezase! King of Belly (Japan)"
+	comment "From TV Animation One Piece - Mezase! King of Berry (Japan)"
 	serial "AGB-AUSJ-JPN"
 	rom (
 		crc E6F5BDD5
@@ -6628,7 +6628,7 @@ game (
 )
 
 game (
-	comment "Futari wa PreCure - Arienaai! Yume no Sono wa Daimeikyuu (Japan)"
+	comment "Futari wa Pretty Cure - Arienaai! Yume no Sono wa Daimeikyuu (Japan)"
 	serial "AGB-BFPJ-JPN"
 	rom (
 		crc 6026EECD
@@ -6636,7 +6636,7 @@ game (
 )
 
 game (
-	comment "Futari wa PreCure Max Heart - Maji Maji! Fight de IN Janai (Japan)"
+	comment "Futari wa Pretty Cure Max Heart - Maji Maji! Fight de IN Janai (Japan)"
 	serial "AGB-BFMJ-JPN"
 	rom (
 		crc 541C18F9
@@ -6687,7 +6687,7 @@ game (
 	comment "GT Racers (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BJAP-EUR"
 	rom (
-		crc 362D9F86
+		crc 94484F17
 	)
 )
 
@@ -6824,198 +6824,6 @@ game (
 	serial "AGB-AQWP-EUR"
 	rom (
 		crc 85C837AF
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - All Grown Up! - Volume 1 (USA)"
-	serial "AGB-MGUE-USA"
-	rom (
-		crc FFBD4DA9
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)"
-	serial "AGB-MCNE-USA"
-	rom (
-		crc 5D918B2D
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)"
-	serial "AGB-MDCE-USA"
-	rom (
-		crc 7CC985CB
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Disney Channel Collection - Volume 2 (USA)"
-	serial "AGB-MDSE-USA"
-	rom (
-		crc 60DFD79C
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Dora the Explorer - Volume 1 (USA)"
-	serial "AGB-MDRE-USA"
-	rom (
-		crc DD6A7FCC
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)"
-	serial "AGB-MDBE-USA"
-	rom (
-		crc DA559199
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Nicktoons - Volume 3 (USA)"
-	serial "AGB-MN3E-USA"
-	rom (
-		crc 6FBF5CEB
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA)"
-	serial "AGB-MNCE-USA"
-	rom (
-		crc 5D47676F
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA)"
-	serial "AGB-MN2E-USA"
-	rom (
-		crc 65DEEEB6
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Shark Tale (USA) (Rev 5)"
-	serial "AGB-MSTE-USA"
-	rom (
-		crc 01468820
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Shark Tale (USA) (Rev 6)"
-	serial "AGB-MSTE-USA"
-	rom (
-		crc D2CF417A
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Shrek (USA)"
-	serial "AGB-M2SE-USA"
-	rom (
-		crc 690176E5
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Shrek + Shark Tale (USA)"
-	serial "AGB-MSTE-USA"
-	rom (
-		crc AADB3E3D
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Shrek 2 (USA)"
-	serial "AGB-M2SE-USA"
-	rom (
-		crc 0D353654
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Sonic X - Volume 1 (USA)"
-	serial "AGB-MSHE-USA"
-	rom (
-		crc 363C3EB8
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)"
-	serial "AGB-MSSE-USA"
-	rom (
-		crc D47BF1D4
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1)"
-	serial "AGB-MS2E-USA"
-	rom (
-		crc 7074364A
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA)"
-	serial "AGB-MS3E-USA"
-	rom (
-		crc 9772CA45
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)"
-	serial "AGB-MSBE-USA"
-	rom (
-		crc FF7582EF
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)"
-	serial "AGB-MSRE-USA"
-	rom (
-		crc D743A070
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA)"
-	serial "AGB-MJME-USA"
-	rom (
-		crc 0E556EDF
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA)"
-	serial "AGB-MFOE-USA"
-	rom (
-		crc 7958DF20
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1)"
-	serial "AGB-MF2E-USA"
-	rom (
-		crc BBCBC6FD
-	)
-)
-
-game (
-	comment "Game Boy Advance Video - The Proud Family - Volume 1 (USA)"
-	serial "AGB-MFPE-USA"
-	rom (
-		crc C6A91365
 	)
 )
 
@@ -7252,7 +7060,7 @@ game (
 )
 
 game (
-	comment "Glory Days (Europe) (En,Fr,De,Es,It)"
+	comment "Essence of War, The - Glory Days (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BG6P-EUR"
 	rom (
 		crc 84ADB2C3
@@ -7388,7 +7196,7 @@ game (
 )
 
 game (
-	comment "Grand Theft Auto Advance (Europe) (En,Fr,De,Es,It)"
+	comment "Grand Theft Auto (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BGTP-EUR"
 	rom (
 		crc 4189E07F
@@ -7396,7 +7204,7 @@ game (
 )
 
 game (
-	comment "Grand Theft Auto Advance (USA)"
+	comment "Grand Theft Auto (USA)"
 	serial "AGB-BGTE-USA"
 	rom (
 		crc 1FA131E8
@@ -7532,7 +7340,7 @@ game (
 )
 
 game (
-	comment "Guru Logic Champ (Japan)"
+	comment "Guru Logichamp (Japan)"
 	serial "AGB-AGCJ-JPN"
 	rom (
 		crc 30D04AD9
@@ -7719,7 +7527,7 @@ game (
 	comment "Happy Feet (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BH3P-EUR"
 	rom (
-		crc 7A53173C
+		crc B8653E59
 	)
 )
 
@@ -7727,7 +7535,7 @@ game (
 	comment "Happy Feet (USA) (En,Fr)"
 	serial "AGB-BH3E-USA"
 	rom (
-		crc 682617CF
+		crc 98235433
 	)
 )
 
@@ -7772,7 +7580,7 @@ game (
 )
 
 game (
-	comment "Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	comment "Harry Potter and the Order of the Phoenix (USA, Europe) (En,Fr,De,Es,It,Nl,Da)"
 	serial "AGB-BJXP-EUR"
 	rom (
 		crc 302B8B3D
@@ -8028,7 +7836,7 @@ game (
 )
 
 game (
-	comment "Hobbit, The (Europe) (En,Fr,De,Es,It)"
+	comment "Hobbit, The - The Prelude to the Lord of the Rings (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AH9P-EUR"
 	rom (
 		crc EACDFE0F
@@ -8036,7 +7844,7 @@ game (
 )
 
 game (
-	comment "Hobbit, The (USA)"
+	comment "Hobbit, The - The Prelude to the Lord of the Rings (USA)"
 	serial "AGB-AH9E-USA"
 	rom (
 		crc D3F654B3
@@ -8180,7 +7988,7 @@ game (
 )
 
 game (
-	comment "Hudson Best Collection Vol. 1 - Bomber Man Collection (Japan)"
+	comment "Hudson Best Collection Vol. 1 - Bomberman Collection (Japan)"
 	serial "AGB-B7IJ-JPN"
 	rom (
 		crc 9D22604D
@@ -8236,7 +8044,7 @@ game (
 )
 
 game (
-	comment "Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)"
+	comment "Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)"
 	serial "AGB-AHJP"
 	rom (
 		crc 9E9D5AD7
@@ -8244,7 +8052,7 @@ game (
 )
 
 game (
-	comment "Hugo - The Evil Mirror Advance (USA) (En,Fr,Es)"
+	comment "Hugo - The Evil Mirror (USA) (En,Fr,Es)"
 	serial "AGB-AHJE-USA"
 	rom (
 		crc ED5CA311
@@ -8564,7 +8372,7 @@ game (
 )
 
 game (
-	comment "Jimmy Neutron Boy Genius (Europe) (En,Fr,De,Es)"
+	comment "Jimmy Neutron - Boy Genius (Europe) (En,Fr,De,Es)"
 	serial "AGB-AJNP-EUR"
 	rom (
 		crc A9423234
@@ -8572,7 +8380,7 @@ game (
 )
 
 game (
-	comment "Jimmy Neutron Boy Genius (USA)"
+	comment "Jimmy Neutron - Boy Genius (USA)"
 	serial "AGB-AJNE-USA"
 	rom (
 		crc D3EE0C51
@@ -8740,7 +8548,7 @@ game (
 )
 
 game (
-	comment "Justice League Chronicles (USA)"
+	comment "Justice League - Chronicles (USA)"
 	serial "AGB-BJLE-USA"
 	rom (
 		crc 07090F67
@@ -8812,7 +8620,7 @@ game (
 )
 
 game (
-	comment "Kao the Kangaroo (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "KAO the Kangaroo (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-AKKP"
 	rom (
 		crc 51E7522C
@@ -8820,7 +8628,7 @@ game (
 )
 
 game (
-	comment "Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl)"
+	comment "KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-AKKE-USA"
 	rom (
 		crc F6667B3E
@@ -8940,7 +8748,7 @@ game (
 )
 
 game (
-	comment "Kidou Gekidan Haro Ichiza Haro no Puyo Puyo (Japan)"
+	comment "Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan)"
 	serial "AGB-BH6J-JPN"
 	rom (
 		crc A7825224
@@ -8948,7 +8756,7 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)"
+	comment "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)"
 	serial "AGB-BGNJ-JPN"
 	rom (
 		crc 73BF384B
@@ -8972,7 +8780,7 @@ game (
 )
 
 game (
-	comment "Kikikai-kai Advance (Japan)"
+	comment "Kiki Kaikai Advance (Japan)"
 	serial "AGB-P-AKIJ"
 	rom (
 		crc 1C61225B
@@ -9060,7 +8868,7 @@ game (
 )
 
 game (
-	comment "Kim Possible III - Team Possible (USA) (En,Fr)"
+	comment "Kim Possible 3 - Team Possible (USA) (En,Fr)"
 	serial "AGB-BQPE-USA"
 	rom (
 		crc FDEC60EC
@@ -9108,7 +8916,7 @@ game (
 )
 
 game (
-	comment "King of Fighters EX2, The - Howling Blood (Europe)"
+	comment "King of Fighters EX 2, The - Howling Blood (Europe)"
 	serial "AGB-AEXP-UKV"
 	rom (
 		crc 9E8BAA87
@@ -9116,7 +8924,7 @@ game (
 )
 
 game (
-	comment "King of Fighters EX2, The - Howling Blood (Japan) (Rev 1)"
+	comment "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)"
 	serial "AGB-AEXJ-JPN"
 	rom (
 		crc DC5BEACD
@@ -9124,7 +8932,7 @@ game (
 )
 
 game (
-	comment "King of Fighters EX2, The - Howling Blood (USA)"
+	comment "King of Fighters EX 2, The - Howling Blood (USA)"
 	serial "AGB-AEXE-USA"
 	rom (
 		crc 15F8F9D5
@@ -9159,7 +8967,7 @@ game (
 	comment "Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan)"
 	serial "AGB-AK5J-JPN"
 	rom (
-		crc 40B1DD00
+		crc C81B9701
 	)
 )
 
@@ -9180,7 +8988,7 @@ game (
 )
 
 game (
-	comment "Kirby & the Amazing Mirror (Europe) (En,Fr,De,Es,It)"
+	comment "Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-B8KP"
 	rom (
 		crc 4F07C618
@@ -9188,7 +8996,7 @@ game (
 )
 
 game (
-	comment "Kirby & the Amazing Mirror (USA)"
+	comment "Kirby & The Amazing Mirror (USA)"
 	serial "AGB-B8KE-USA"
 	rom (
 		crc 9F2A3048
@@ -9212,7 +9020,7 @@ game (
 )
 
 game (
-	comment "Kiss x Kiss Seirei Gakuen (Japan)"
+	comment "Kiss x Kiss - Seirei Gakuen (Japan)"
 	serial "AGB-B2KJ-JPN"
 	rom (
 		crc 0C368530
@@ -9356,7 +9164,7 @@ game (
 )
 
 game (
-	comment "Konchuu Monster Battle Master (Japan)"
+	comment "Konchuu Monster - Battle Master (Japan)"
 	serial "AGB-BQBJ-JPN"
 	rom (
 		crc 3AA0CE79
@@ -9364,7 +9172,7 @@ game (
 )
 
 game (
-	comment "Konchuu Monster Battle Stadium (Japan)"
+	comment "Konchuu Monster - Battle Stadium (Japan)"
 	serial "AGB-BQSJ-JPN"
 	rom (
 		crc 5ADB68EF
@@ -9452,7 +9260,7 @@ game (
 )
 
 game (
-	comment "Koro Koro Puzzle - Happy Panechu! (Japan)"
+	comment "Korokoro Puzzle - Happy Panecchu! (Japan)"
 	serial "AGB-KHPJ-JPN"
 	rom (
 		crc 0BFE46E9
@@ -9468,7 +9276,7 @@ game (
 )
 
 game (
-	comment "Kouchu Ouja Mushiking (Japan)"
+	comment "Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan)"
 	serial "AGB-BK6J-JPN"
 	rom (
 		crc 7AC9FFBF
@@ -9500,7 +9308,7 @@ game (
 )
 
 game (
-	comment "Koutetsu Teikoku from HOT-B (Japan)"
+	comment "Koutetsu Teikoku (Japan)"
 	serial "AGB-BKTJ-JPN"
 	rom (
 		crc CDFAC4EE
@@ -9508,7 +9316,7 @@ game (
 )
 
 game (
-	comment "Kunio Kun Nekketsu Collection 1 (Japan)"
+	comment "Kunio-kun Nekketsu Collection 1 (Japan)"
 	serial "AGB-B9AJ-JPN"
 	rom (
 		crc 4B96B600
@@ -9516,7 +9324,7 @@ game (
 )
 
 game (
-	comment "Kunio Kun Nekketsu Collection 2 (Japan)"
+	comment "Kunio-kun Nekketsu Collection 2 (Japan)"
 	serial "AGB-B9BJ-JPN"
 	rom (
 		crc 61F9A9F4
@@ -9524,7 +9332,7 @@ game (
 )
 
 game (
-	comment "Kunio Kun Nekketsu Collection 3 (Japan)"
+	comment "Kunio-kun Nekketsu Collection 3 (Japan)"
 	serial "AGB-B9CJ-JPN"
 	rom (
 		crc 093054FC
@@ -9732,7 +9540,7 @@ game (
 )
 
 game (
-	comment "Legend of Dynamic Goushouden - Houkai no Rondo (Japan)"
+	comment "Legend of Dynamic - Goushouden - Houkai no Rondo (Japan)"
 	serial "AGB-P-AVDJ"
 	rom (
 		crc 67F18F8E
@@ -9759,7 +9567,7 @@ game (
 	comment "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-BU7P-EUR"
 	rom (
-		crc 93B18353
+		crc A3EED091
 	)
 )
 
@@ -9767,7 +9575,7 @@ game (
 	comment "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)"
 	serial "AGB-BU7E-USA"
 	rom (
-		crc BD2751E6
+		crc 8D780224
 	)
 )
 
@@ -10124,7 +9932,7 @@ game (
 )
 
 game (
-	comment "M&M's - Break 'em (USA) (Rev 1)"
+	comment "M&M's - Break' Em (USA) (Rev 1)"
 	serial "AGB-BEME-USA"
 	rom (
 		crc A4EA65C0
@@ -10140,7 +9948,7 @@ game (
 )
 
 game (
-	comment "MLB SlugFest 20-04 (USA)"
+	comment "MLB SlugFest 2004 (USA)"
 	serial "AGB-A5ME-USA"
 	rom (
 		crc A4E12D4B
@@ -10412,7 +10220,7 @@ game (
 )
 
 game (
-	comment "Majesco's Rec Room Challenge (USA)"
+	comment "3 Games in One - Darts + Roll-a-Ball + Shuffle Bowl (USA)"
 	serial "AGB-BRQE-USA"
 	rom (
 		crc AAFC9AFA
@@ -10444,7 +10252,7 @@ game (
 )
 
 game (
-	comment "Manga-ka Debut Monogatari (Japan)"
+	comment "Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan)"
 	serial "AGB-P-ACOJ"
 	rom (
 		crc 61A602D7
@@ -10452,7 +10260,7 @@ game (
 )
 
 game (
-	comment "Manga-ka Debut Monogatari (Japan) (Rev 1)"
+	comment "Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan) (Rev 1)"
 	serial "AGB-P-ACOJ"
 	rom (
 		crc F0C22C62
@@ -10676,7 +10484,7 @@ game (
 )
 
 game (
-	comment "Masters of the Universe He-Man - Power of Grayskull (USA)"
+	comment "Masters of the Universe - He-Man - Power of Grayskull (USA)"
 	serial "AGB-AGUE-USA"
 	rom (
 		crc 75491E30
@@ -10695,12 +10503,12 @@ game (
 	comment "Matantei Loki Ragnarok - Gensou no Labyrinth (Japan)"
 	serial "AGB-BMRJ-JPN"
 	rom (
-		crc 31843E8D
+		crc 4EBDAD86
 	)
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (Europe)"
+	comment "Cross Town Heroes (Europe)"
 	serial "AGB-ARQP-EUR"
 	rom (
 		crc C9EA02F5
@@ -10708,7 +10516,7 @@ game (
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (USA)"
+	comment "Cross Town Heroes (USA)"
 	serial "AGB-ARQE-USA"
 	rom (
 		crc 0FFFB458
@@ -10924,7 +10732,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Chip Challenge (Europe)"
+	comment "Megaman - Battle Chip Challenge (Europe)"
 	serial "AGB-A89P-EUR"
 	rom (
 		crc 5B4631F9
@@ -10932,7 +10740,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Chip Challenge (USA)"
+	comment "Mega Man - Battle Chip Challenge (USA)"
 	serial "AGB-A89E-USA"
 	rom (
 		crc 26BE44FD
@@ -10940,7 +10748,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network (Europe)"
+	comment "Megaman - Battle Network (Europe)"
 	serial "AGB-AREP-EUR"
 	rom (
 		crc 1A7FB4FA
@@ -10948,7 +10756,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network (USA)"
+	comment "Mega Man - Battle Network (USA)"
 	serial "AGB-AREE-USA"
 	rom (
 		crc 1D347971
@@ -10956,7 +10764,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 2 (Europe)"
+	comment "Megaman - Battle Network 2 (Europe)"
 	serial "AGB-AM2P-EUR"
 	rom (
 		crc 66341F3B
@@ -10964,7 +10772,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 2 (USA)"
+	comment "Mega Man - Battle Network 2 (USA)"
 	serial "AGB-AE2E-USA"
 	rom (
 		crc 6D961F82
@@ -10972,7 +10780,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 3 - Blue (Europe)"
+	comment "Megaman - Battle Network 3 - Blue Version (Europe)"
 	serial "AGB-A3XP-EUR"
 	rom (
 		crc 1F036CBA
@@ -10980,7 +10788,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 3 - Blue Version (USA)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA)"
 	serial "AGB-A3XE-USA"
 	rom (
 		crc C0C780F9
@@ -10988,7 +10796,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console)"
 	serial "AGB-A3XE-USA"
 	rom (
 		crc EDD7106E
@@ -10996,7 +10804,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 3 - White (Europe)"
+	comment "Megaman - Battle Network 3 - White Version (Europe)"
 	serial "AGB-A6BP-EUR"
 	rom (
 		crc 23D0A981
@@ -11004,7 +10812,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 3 - White Version (USA)"
+	comment "Mega Man - Battle Network 3 - White Version (USA)"
 	serial "AGB-A6BE-USA"
 	rom (
 		crc 0BE4410A
@@ -11012,7 +10820,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 4 - Blue Moon (Europe)"
+	comment "Megaman - Battle Network 4 - Blue Moon (Europe)"
 	serial "AGB-B4BP-EUR"
 	rom (
 		crc 48758316
@@ -11020,7 +10828,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 4 - Blue Moon (USA)"
+	comment "Mega Man - Battle Network 4 - Blue Moon (USA)"
 	serial "AGB-B4BE-USA"
 	rom (
 		crc 758A46E9
@@ -11028,7 +10836,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 4 - Red Sun (Europe)"
+	comment "Megaman - Battle Network 4 - Red Sun (Europe)"
 	serial "AGB-B4WP-EUR"
 	rom (
 		crc 0CB136C2
@@ -11036,7 +10844,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 4 - Red Sun (USA)"
+	comment "Mega Man - Battle Network 4 - Red Sun (USA)"
 	serial "AGB-B4WE-USA"
 	rom (
 		crc 2120695C
@@ -11044,7 +10852,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 5 - Team Colonel (Europe)"
+	comment "Megaman - Battle Network 5 - Team Colonel (Europe)"
 	serial "AGB-BRKP-EUR"
 	rom (
 		crc 8FC8CF73
@@ -11052,7 +10860,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 5 - Team Colonel (USA)"
+	comment "Mega Man - Battle Network 5 - Team Colonel (USA)"
 	serial "AGB-BRKE-USA"
 	rom (
 		crc A552F683
@@ -11060,7 +10868,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 5 - Team Proto Man (Europe)"
+	comment "Megaman - Battle Network 5 - Team Protoman (Europe)"
 	serial "AGB-BRBP-EUR"
 	rom (
 		crc 79F45ED8
@@ -11068,7 +10876,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 5 - Team Proto Man (USA)"
+	comment "Mega Man - Battle Network 5 - Team Protoman (USA)"
 	serial "AGB-BRBE-USA"
 	rom (
 		crc A73E83A4
@@ -11076,7 +10884,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 6 - Cybeast Falzar (Europe)"
+	comment "Megaman - Battle Network 6 - Cybeast Falzar (Europe)"
 	serial "AGB-BR6P-EUR"
 	rom (
 		crc 13183967
@@ -11084,7 +10892,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 6 - Cybeast Falzar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Falzar (USA)"
 	serial "AGB-BR6E-USA"
 	rom (
 		crc DEE6F2A9
@@ -11092,7 +10900,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 6 - Cybeast Gregar (Europe)"
+	comment "Megaman - Battle Network 6 - Cybeast Gregar (Europe)"
 	serial "AGB-BR5P-EUR"
 	rom (
 		crc 25C29EFB
@@ -11100,7 +10908,7 @@ game (
 )
 
 game (
-	comment "Mega Man Battle Network 6 - Cybeast Gregar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Gregar (USA)"
 	serial "AGB-BR5E-USA"
 	rom (
 		crc 79452182
@@ -11108,7 +10916,7 @@ game (
 )
 
 game (
-	comment "Mega Man Zero 2 (Europe)"
+	comment "Megaman Zero 2 (Europe)"
 	serial "AGB-A62P-EUR"
 	rom (
 		crc 29A14B59
@@ -11124,7 +10932,7 @@ game (
 )
 
 game (
-	comment "Mega Man Zero 3 (Europe)"
+	comment "Megaman Zero 3 (Europe)"
 	serial "AGB-BZ3P-EUR"
 	rom (
 		crc B099577F
@@ -11140,7 +10948,7 @@ game (
 )
 
 game (
-	comment "Mega Man Zero 4 (Europe)"
+	comment "Megaman Zero 4 (Europe)"
 	serial "AGB-B4ZP-EUR"
 	rom (
 		crc B7F022B9
@@ -11292,7 +11100,7 @@ game (
 )
 
 game (
-	comment "Metroid - Zero Mission (USA)"
+	comment "Metroid - Zero Mission (USA, Australia)"
 	serial "AGB-BMXE-USA"
 	rom (
 		crc 5C61A844
@@ -11380,7 +11188,7 @@ game (
 )
 
 game (
-	comment "Mighty Beanz Pocket Puzzles (USA)"
+	comment "Mighty Beanz - Pocket Puzzles (USA)"
 	serial "AGB-BMBE-USA"
 	rom (
 		crc 54DF36DA
@@ -11564,7 +11372,7 @@ game (
 )
 
 game (
-	comment "Mobile Suit Gundam Seed - Battle Assault (USA)"
+	comment "Mobile Suit Gundam SEED - Battle Assault (USA)"
 	serial "AGB-BGNE-USA"
 	rom (
 		crc 180D1491
@@ -11876,7 +11684,7 @@ game (
 )
 
 game (
-	comment "Moto GP (Europe) (En,Fr,De,Es,It)"
+	comment "MotoGP (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AM4P-EUR"
 	rom (
 		crc C6D17D0D
@@ -11884,7 +11692,7 @@ game (
 )
 
 game (
-	comment "Moto GP (Japan) (En)"
+	comment "MotoGP (Japan) (En)"
 	serial "AGB-AM4J-JPN"
 	rom (
 		crc 4F6D7E49
@@ -11892,7 +11700,7 @@ game (
 )
 
 game (
-	comment "Moto GP (USA) (En,Fr,De,Es,It)"
+	comment "MotoGP (USA) (En,Fr,De,Es,It)"
 	serial "AGB-AM4E-USA"
 	rom (
 		crc 8EE93EB8
@@ -11916,7 +11724,7 @@ game (
 )
 
 game (
-	comment "Motoracer Advance (Europe) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-A9MP"
 	rom (
 		crc 8CB19DA0
@@ -11924,7 +11732,7 @@ game (
 )
 
 game (
-	comment "Motoracer Advance (USA) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (USA) (En,Fr,De,Es,It)"
 	serial "AGB-A9ME-USA"
 	rom (
 		crc 2FDBE7A8
@@ -12055,7 +11863,7 @@ game (
 	comment "My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BFRP-EUR"
 	rom (
-		crc 16C0E028
+		crc D4F6C94D
 	)
 )
 
@@ -12079,12 +11887,12 @@ game (
 	comment "NES Classics - Castlevania (Europe)"
 	serial "AGB-AAMP-EUR"
 	rom (
-		crc 2B510046
+		crc 497E3279
 	)
 )
 
 game (
-	comment "NFL Blitz 20-02 (USA)"
+	comment "NFL Blitz 2002 (USA)"
 	serial "AGB-ABZE-USA"
 	rom (
 		crc 8C748DCB
@@ -12092,7 +11900,7 @@ game (
 )
 
 game (
-	comment "NFL Blitz 20-03 (USA)"
+	comment "NFL Blitz 2003 (USA)"
 	serial "AGB-ANKE-USA"
 	rom (
 		crc E0B137E7
@@ -12108,7 +11916,7 @@ game (
 )
 
 game (
-	comment "NHL Hitz 20-03 (USA)"
+	comment "NHL Hitz 2003 (USA)"
 	serial "AGB-AN4E-USA"
 	rom (
 		crc 4F1ADF75
@@ -12156,7 +11964,7 @@ game (
 )
 
 game (
-	comment "Nakayoshi Pet Advance Series 4 - Kawaii Koinu Mini - Wankoto Asobou!! Kogata-ken (Japan)"
+	comment "Nakayoshi Pet Advance Series 4 - Kawaii Koinu Mini - Wanko to Asobou!! Kogata-ken (Japan)"
 	serial "AGB-BKIJ-JPN"
 	rom (
 		crc AE2A69F3
@@ -12412,7 +12220,7 @@ game (
 )
 
 game (
-	comment "Ninja Five-0 (USA)"
+	comment "Ninja Five-O (USA)"
 	serial "AGB-ANXE-USA"
 	rom (
 		crc EB3954C6
@@ -12596,7 +12404,7 @@ game (
 )
 
 game (
-	comment "Onmyou Taisenki Zeroshiki (Japan)"
+	comment "Onmyou Taisenki - Zeroshiki (Japan)"
 	serial "AGB-P-BITJ"
 	rom (
 		crc 66C29472
@@ -12660,7 +12468,7 @@ game (
 )
 
 game (
-	comment "Oshare Princess 2 (Japan)"
+	comment "Oshare Princess 2 + Doubutsu Kyaranabi Uranai (Japan)"
 	serial "AGB-BO5J-JPN"
 	rom (
 		crc 8383FCDA
@@ -13108,7 +12916,7 @@ game (
 )
 
 game (
-	comment "Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It)"
+	comment "Pinky and the Brain - The Master Plan (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-APIP-EUR"
 	rom (
 		crc FF7D5F62
@@ -13292,7 +13100,7 @@ game (
 )
 
 game (
-	comment "Pocket Professor - Kwik Notes - Vol. 1 (USA)"
+	comment "Pocket Professor - Kwik Notes - Volume One (USA)"
 	serial "AGB-BPJE-USA"
 	rom (
 		crc 07B824B1
@@ -13388,7 +13196,7 @@ game (
 )
 
 game (
-	comment "Pokemon - FireRed Version (USA)"
+	comment "Pokemon - FireRed Version (USA, Europe)"
 	serial "AGB-BPRE-USA"
 	rom (
 		crc DD88761C
@@ -13396,7 +13204,7 @@ game (
 )
 
 game (
-	comment "Pokemon - LeafGreen Version (USA)"
+	comment "Pokemon - LeafGreen Version (USA, Europe)"
 	serial "AGB-BPGE-USA"
 	rom (
 		crc D69C96CC
@@ -13428,7 +13236,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Ruby Version (Europe) (Rev 1)"
+	comment "Pokemon - Ruby Version (USA, Europe) (Rev 1)"
 	serial "AGB-AXVP-EUR"
 	rom (
 		crc 61641576
@@ -13436,7 +13244,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Ruby Version (USA)"
+	comment "Pokemon - Ruby Version (USA, Europe)"
 	serial "AGB-AXVE-USA"
 	rom (
 		crc F0815EE7
@@ -13460,7 +13268,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Sapphire Version (Europe) (Rev 1)"
+	comment "Pokemon - Sapphire Version (USA, Europe) (Rev 1)"
 	serial "AGB-AXPP-EUR"
 	rom (
 		crc BAFEDAE5
@@ -13468,7 +13276,7 @@ game (
 )
 
 game (
-	comment "Pokemon - Sapphire Version (USA)"
+	comment "Pokemon - Sapphire Version (USA, Europe)"
 	serial "AGB-AXPE-USA"
 	rom (
 		crc 554DEDC4
@@ -13668,7 +13476,7 @@ game (
 )
 
 game (
-	comment "Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (Destination Software)"
+	comment "Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (DSI)"
 	serial "AGB-B3FP-EUR"
 	rom (
 		crc 13E2A64F
@@ -13684,7 +13492,7 @@ game (
 )
 
 game (
-	comment "Polly Pocket! - Super Splash Island (USA) (Destination Software)"
+	comment "Polly Pocket! - Super Splash Island (USA) (DSI)"
 	serial "AGB-AOTE-USA"
 	rom (
 		crc F120ECA2
@@ -14436,7 +14244,7 @@ game (
 )
 
 game (
-	comment "Road Trip - Shifting Gears (USA)"
+	comment "Shifting Gears - Road Trip (USA)"
 	serial "AGB-AQAE-USA"
 	rom (
 		crc 549BF1C5
@@ -14524,7 +14332,7 @@ game (
 )
 
 game (
-	comment "Rock n' Roll Racing (Europe)"
+	comment "Rock 'N Roll Racing (Europe)"
 	serial "AGB-A4RP-EUR"
 	rom (
 		crc 53D1A142
@@ -14532,7 +14340,7 @@ game (
 )
 
 game (
-	comment "Rock n' Roll Racing (USA)"
+	comment "Rock 'N Roll Racing (USA)"
 	serial "AGB-A4RE-USA"
 	rom (
 		crc 15F2DD16
@@ -14644,7 +14452,7 @@ game (
 )
 
 game (
-	comment "Rockman EXE Battle Chip GP (Japan)"
+	comment "Rockman EXE - Battle Chip GP (Japan)"
 	serial "AGB-P-A89J"
 	rom (
 		crc 9217FB18
@@ -14756,7 +14564,7 @@ game (
 )
 
 game (
-	comment "Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es)"
+	comment "Sabrina the Teenage Witch - Potion Commotion (USA) (En,Fr,Es)"
 	serial "AGB-A3BE-USA"
 	rom (
 		crc A39EDD2F
@@ -14887,7 +14695,7 @@ game (
 	comment "Scan Hunter - Sennen Kaigyo o Oe! (Japan)"
 	serial "AGB-A57J-JPN"
 	rom (
-		crc BCD9AA71
+		crc DCFDDFF7
 	)
 )
 
@@ -15068,7 +14876,7 @@ game (
 )
 
 game (
-	comment "Sega Arcade Gallery (Europe) (En,Fr,De,Es,It)"
+	comment "SEGA Arcade Gallery (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AYPP-EUR"
 	rom (
 		crc F92140C0
@@ -15076,7 +14884,7 @@ game (
 )
 
 game (
-	comment "Sega Arcade Gallery (USA)"
+	comment "SEGA Arcade Gallery (USA)"
 	serial "AGB-AYPE-USA"
 	rom (
 		crc 3B8FFDF4
@@ -15084,7 +14892,7 @@ game (
 )
 
 game (
-	comment "Sega Rally Championship (Europe)"
+	comment "SEGA Rally Championship (Europe)"
 	serial "AGB-AYLP-EUR"
 	rom (
 		crc D125A6BB
@@ -15092,7 +14900,7 @@ game (
 )
 
 game (
-	comment "Sega Rally Championship (Japan) (En)"
+	comment "SEGA Rally Championship (Japan) (En)"
 	serial "AGB-AYLJ-JPN"
 	rom (
 		crc E57C16F7
@@ -15100,7 +14908,7 @@ game (
 )
 
 game (
-	comment "Sega Rally Championship (USA)"
+	comment "SEGA Rally Championship (USA)"
 	serial "AGB-AYLE-USA"
 	rom (
 		crc 1AE3EB16
@@ -15108,7 +14916,7 @@ game (
 )
 
 game (
-	comment "Sega Smash Pack (Europe)"
+	comment "SEGA Smash Pack (Europe)"
 	serial "AGB-A3PP-EUR"
 	rom (
 		crc 09310FEC
@@ -15116,7 +14924,7 @@ game (
 )
 
 game (
-	comment "Sega Smash Pack (USA)"
+	comment "SEGA Smash Pack (USA)"
 	serial "AGB-A3PE-USA"
 	rom (
 		crc 5C2E97BA
@@ -15231,7 +15039,7 @@ game (
 	comment "Shamu's Deep Sea Adventures (Europe)"
 	serial "AGB-BBAP-EUR"
 	rom (
-		crc 6A0F2C8B
+		crc 5A507F49
 	)
 )
 
@@ -15239,7 +15047,7 @@ game (
 	comment "Shamu's Deep Sea Adventures (USA)"
 	serial "AGB-BBAE-USA"
 	rom (
-		crc 4E9426EB
+		crc 7ECB7529
 	)
 )
 
@@ -15332,7 +15140,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Honoo no Sho (Japan)"
+	comment "Shin Megami Tensei - Devil Children - Honoo no Sho (Japan)"
 	serial "AGB-BDYJ-JPN"
 	rom (
 		crc 9A0903BC
@@ -15340,7 +15148,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Koori no Sho (Japan)"
+	comment "Shin Megami Tensei - Devil Children - Koori no Sho (Japan)"
 	serial "AGB-P-BDYJ"
 	rom (
 		crc AD80D5F9
@@ -15348,7 +15156,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Messiah Riser (Japan)"
+	comment "Shin Megami Tensei - Devil Children - Messiah Riser (Japan)"
 	serial "AGB-BDLJ-JPN"
 	rom (
 		crc 0EC98C51
@@ -15356,7 +15164,7 @@ game (
 )
 
 game (
-	comment "Shin Megami Tensei Devil Children - Puzzle de Call! (Japan)"
+	comment "Shin Megami Tensei - Devil Children - Puzzle de Call! (Japan)"
 	serial "AGB-A8ZJ-JPN"
 	rom (
 		crc EA8A185A
@@ -15508,7 +15316,7 @@ game (
 )
 
 game (
-	comment "Shiren Monsters Netsal (Japan)"
+	comment "Shiren Monsters - Netsal (Japan)"
 	serial "AGB-ANVJ-JPN"
 	rom (
 		crc C1F2B5EC
@@ -15836,7 +15644,7 @@ game (
 )
 
 game (
-	comment "Smurfs, The - The Revenge of the Smurfs (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-A7SP-EUR"
 	rom (
 		crc 516CE770
@@ -16076,7 +15884,7 @@ game (
 )
 
 game (
-	comment "Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It)"
+	comment "Speedball 2 (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AS6P-EUR"
 	rom (
 		crc 051F3D0D
@@ -16300,7 +16108,7 @@ game (
 )
 
 game (
-	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)"
+	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,Nl)"
 	serial "AGB-BNUP-EUR"
 	rom (
 		crc 611CC620
@@ -16340,7 +16148,7 @@ game (
 )
 
 game (
-	comment "Sportsman's Pack (USA)"
+	comment "Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing (USA)"
 	serial "AGB-B23E-USA"
 	rom (
 		crc 2E725460
@@ -16636,7 +16444,7 @@ game (
 )
 
 game (
-	comment "Steven Gerrard's Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl)"
+	comment "Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl)"
 	serial "AGB-ATUP-EUR"
 	rom (
 		crc B94DDC93
@@ -16956,7 +16764,7 @@ game (
 )
 
 game (
-	comment "Super Mario Advance (USA) (Virtual Console)"
+	comment "Super Mario Advance (USA, Europe) (Virtual Console)"
 	serial "AGB-AMAE-USA"
 	rom (
 		crc 5251F2BF
@@ -17052,7 +16860,7 @@ game (
 )
 
 game (
-	comment "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Virtual Console)"
+	comment "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)"
 	serial "AGB-AX4E-USA"
 	rom (
 		crc D4C13AC3
@@ -17100,7 +16908,7 @@ game (
 )
 
 game (
-	comment "Super Puzzle Fighter II Turbo (Europe)"
+	comment "Super Puzzle Fighter II (Europe)"
 	serial "AGB-AZ8P-EUR"
 	rom (
 		crc AAC3E9CA
@@ -17108,10 +16916,18 @@ game (
 )
 
 game (
-	comment "Super Puzzle Fighter II Turbo (USA)"
+	comment "Super Puzzle Fighter II (USA)"
 	serial "AGB-AZ8E-USA"
 	rom (
-		crc 9CD25C7E
+		crc 1201243A
+	)
+)
+
+game (
+	comment "Super Puzzle Fighter II (USA) (Rev 1)"
+	serial "AGB-AZ8E-USA"
+	rom (
+		crc 62066FC9
 	)
 )
 
@@ -17884,7 +17700,7 @@ game (
 )
 
 game (
-	comment "Titeuf - Ze Gagmachine (France)"
+	comment "Titeuf - Ze Gag Machine (France)"
 	serial "AGB-AT7P-EUR"
 	rom (
 		crc 47BC61B5
@@ -18268,7 +18084,7 @@ game (
 )
 
 game (
-	comment "Toyrobo Force (Japan)"
+	comment "Toy Robo Force (Japan)"
 	serial "AGB-ATRJ-JPN"
 	rom (
 		crc 227FC16B
@@ -18388,7 +18204,7 @@ game (
 )
 
 game (
-	comment "Turok Evolution (Europe) (En,Fr,De,Es,It)"
+	comment "Turok - Evolution (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AT4P"
 	rom (
 		crc 07A32299
@@ -18396,7 +18212,7 @@ game (
 )
 
 game (
-	comment "Turok Evolution (USA)"
+	comment "Turok - Evolution (USA)"
 	serial "AGB-AT4E-USA"
 	rom (
 		crc 4EDAC27A
@@ -18636,7 +18452,7 @@ game (
 )
 
 game (
-	comment "Uno Free Fall (Europe) (En,Fr,De,Es,It)"
+	comment "Uno - Free Fall (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BUIP-EUR"
 	rom (
 		crc 414EA9F4
@@ -18644,7 +18460,7 @@ game (
 )
 
 game (
-	comment "Uno Free Fall (USA)"
+	comment "Uno - Free Fall (USA)"
 	serial "AGB-BUIE-USA"
 	rom (
 		crc 19FCC78E
@@ -18844,7 +18660,7 @@ game (
 )
 
 game (
-	comment "Wakeboarding Unleashed featuring Shaun Murray (USA)"
+	comment "Wakeboarding Unleashed Featuring Shaun Murray (USA)"
 	serial "AGB-AWDE-USA"
 	rom (
 		crc CAD6376C
@@ -18908,7 +18724,7 @@ game (
 )
 
 game (
-	comment "Wario Land Advance (Japan)"
+	comment "Wario Land Advance - Youki no Otakara (Japan)"
 	serial "AGB-P-AWAJ"
 	rom (
 		crc F56EBB7A
@@ -18916,7 +18732,7 @@ game (
 )
 
 game (
-	comment "WarioWare - Twisted! (USA)"
+	comment "WarioWare - Twisted! (USA, Australia)"
 	serial "AGB-RZWE-USA"
 	rom (
 		crc CB4E844B
@@ -19236,7 +19052,7 @@ game (
 )
 
 game (
-	comment "Worms World Party (Europe) (En,Fr,De,Es,It)"
+	comment "Worms - World Party (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AWYP-EUR"
 	rom (
 		crc 8EE32CBE
@@ -19244,7 +19060,7 @@ game (
 )
 
 game (
-	comment "Worms World Party (USA) (En,Fr,De,Es,It)"
+	comment "Worms - World Party (USA) (En,Fr,De,Es,It)"
 	serial "AGB-AWYE-USA"
 	rom (
 		crc E8789C18
@@ -19311,7 +19127,7 @@ game (
 	comment "Yggdra Union (Japan)"
 	serial "AGB-BYUJ-JPN"
 	rom (
-		crc A86F844A
+		crc BF53A3D2
 	)
 )
 
@@ -19319,7 +19135,7 @@ game (
 	comment "Yggdra Union - We'll Never Fight Alone (Europe)"
 	serial "AGB-BYUP-EUR"
 	rom (
-		crc 3E0DF130
+		crc 2931D6A8
 	)
 )
 
@@ -19327,12 +19143,12 @@ game (
 	comment "Yggdra Union - We'll Never Fight Alone (USA)"
 	serial "AGB-BYUE-USA"
 	rom (
-		crc 3BFA68F7
+		crc 84B5666C
 	)
 )
 
 game (
-	comment "Yoshi - Topsy-Turvy (USA)"
+	comment "Yoshi Topsy-Turvy (USA)"
 	serial "AGB-KYGE-USA"
 	rom (
 		crc E64C265C
@@ -19503,7 +19319,7 @@ game (
 	comment "Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)"
 	serial "AGB-BYWP-EUR"
 	rom (
-		crc 31EDEF1B
+		crc 3C42E84C
 	)
 )
 
@@ -19551,7 +19367,7 @@ game (
 	comment "Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It)"
 	serial "AGB-BYVE-USA"
 	rom (
-		crc 2CB399D0
+		crc 9CED2D3F
 	)
 )
 
@@ -19796,7 +19612,7 @@ game (
 )
 
 game (
-	comment "Zidane Football Generation (Europe) (En,Fr,De,Es,It)"
+	comment "Zidane - Football Generation 2002 (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-AZDP-EUR"
 	rom (
 		crc 59E2635F
@@ -19812,7 +19628,7 @@ game (
 )
 
 game (
-	comment "Zoids Legacy (USA)"
+	comment "Zoids - Legacy (USA)"
 	serial "AGB-AZ2E-USA"
 	rom (
 		crc 302E75F3
@@ -19828,7 +19644,7 @@ game (
 )
 
 game (
-	comment "Zoids Saga Fuzors (Japan)"
+	comment "Zoids Saga - Fuzors (Japan)"
 	serial "AGB-BZFJ-JPN"
 	rom (
 		crc 094E16AD
@@ -19900,7 +19716,7 @@ game (
 )
 
 game (
-	comment "Zooo (Europe) (En,Fr,De,Es,It)"
+	comment "Zooo - Action Puzzle Game (Europe) (En,Fr,De,Es,It)"
 	serial "AGB-BMZP-EUR"
 	rom (
 		crc 897B2893
@@ -19911,7 +19727,7 @@ game (
 	comment "bit Generations - Boundish (Japan) (En)"
 	serial "AGB-BVDJ-JPN"
 	rom (
-		crc 904B55D4
+		crc 262BDA80
 	)
 )
 
@@ -19970,4 +19786,3 @@ game (
 		crc 44A77F71
 	)
 )
-

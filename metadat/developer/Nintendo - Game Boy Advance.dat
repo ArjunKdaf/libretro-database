@@ -468,13 +468,13 @@ game (
 game (
 	comment "2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It)"
 	developer "Digital Eclipse"
-	rom ( crc D732E52D )
+	rom ( crc E76DB6EF )
 )
 
 game (
 	comment "2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)"
 	developer "Digital Eclipse"
-	rom ( crc 0AE3637F )
+	rom ( crc 3ABC30BD )
 )
 
 game (
@@ -618,7 +618,7 @@ game (
 game (
 	comment "Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta)"
 	developer "Human Soft"
-	rom ( crc 2FA2C076 )
+	rom ( crc 76DA5C78 )
 )
 
 game (
@@ -778,13 +778,13 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (Europe)"
+	comment "Aero the Acro-Bat (Europe)"
 	developer "Atomic Planet"
 	rom ( crc A7E98EBE )
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2) (2002-03-27)"
+	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2)"
 	developer "Atomic Planet"
 	rom ( crc 6F3EA564 )
 )
@@ -796,7 +796,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA)"
+	comment "Aero the Acro-Bat (USA)"
 	developer "Atomic Planet"
 	rom ( crc B47AC020 )
 )
@@ -856,9 +856,9 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula - Circle of the Moon (China) (Unl)"
+	comment "Akumajou Dracula - Circle of the Moon (China)"
 	developer "Konami"
-	rom ( crc D6A83B9D )
+	rom ( crc 5925D9C9 )
 )
 
 game (
@@ -1012,7 +1012,7 @@ game (
 )
 
 game (
-	comment "Anguna - Warriors of Virtue (World) (v0.95) (Homebrew)"
+	comment "Anguna - Warriors of Virtue (World) (v0.95)"
 	developer "Nathan Tolbert and Chris Hildenbrand"
 	rom ( crc 3346891F )
 )
@@ -1054,7 +1054,7 @@ game (
 )
 
 game (
-	comment "Another World (Europe) (En,Fr) (v2.1) (Unl)"
+	comment "Another World (World) (En,Fr) (v2.1)"
 	developer "Magic Productions"
 	rom ( crc 86C4F772 )
 )
@@ -1063,12 +1063,6 @@ game (
 	comment "Ant Bully, The (USA) (En,Fr)"
 	developer "Artificial Mind and Movement"
 	rom ( crc 8D51A101 )
-)
-
-game (
-	comment "Another World (Europe) (Fr) (v1.2) (Unl)"
-	developer "Magic Productions"
-	rom ( crc 86C4F772 )
 )
 
 game (
@@ -1230,7 +1224,7 @@ game (
 game (
 	comment "Atomic Betty (USA, Europe) (Beta)"
 	developer "Big Blue Bubble"
-	rom ( crc 622DBECC )
+	rom ( crc B79472B8 )
 )
 
 game (
@@ -1410,7 +1404,7 @@ game (
 game (
 	comment "Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)"
 	developer "AI"
-	rom ( crc 2CB63D09 )
+	rom ( crc 8A984201 )
 )
 
 game (
@@ -1492,9 +1486,9 @@ game (
 )
 
 game (
-	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2) (2004-09-29)"
+	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	developer "Rareware"
-	rom ( crc 1C5587E6 )
+	rom ( crc 3168A9A4 )
 )
 
 game (
@@ -1806,7 +1800,7 @@ game (
 game (
 	comment "Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It) (Beta)"
 	developer "Full Fat Productions"
-	rom ( crc 94D00A1E )
+	rom ( crc 55CAE46A )
 )
 
 game (
@@ -1884,7 +1878,7 @@ game (
 game (
 	comment "bit Generations - Boundish (Japan) (En)"
 	developer "Skip"
-	rom ( crc 7BD20153 )
+	rom ( crc 262BDA80 )
 )
 
 game (
@@ -2008,7 +2002,7 @@ game (
 )
 
 game (
-	comment "Possibly a version given out to press at E3 or an E3 demo"
+	comment "Boktai - The Sun Is in Your Hand (USA) (Sample)"
 	developer "Konami"
 	rom ( crc CF692572 )
 )
@@ -2332,7 +2326,7 @@ game (
 )
 
 game (
-	comment "Broken Circle (World) (En,It) (Aftermarket) (Unl)"
+	comment "Broken Circle (World) (En,It)"
 	developer "7Raven Studios"
 	rom ( crc 3212C09B )
 )
@@ -2340,7 +2334,7 @@ game (
 game (
 	comment "Broken Circle (Europe) (En,It) (Proto)"
 	developer "7Raven Studios"
-	rom ( crc 1E8F8AE0 )
+	rom ( crc E78BC690 )
 )
 
 game (
@@ -3022,7 +3016,7 @@ game (
 )
 
 game (
-	comment "Cinnamon Game Series 3 - Fuwafuwa Daisakusen (Japan)"
+	comment "Cinnamon - Fuwafuwa Daisakusen (Japan)"
 	developer "Rocket Company"
 	rom ( crc A1CBA145 )
 )
@@ -3336,7 +3330,7 @@ game (
 game (
 	comment "Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan)"
 	developer "Inti Creates"
-	rom ( crc 45C84466 )
+	rom ( crc 52F463FE )
 )
 
 game (
@@ -3418,7 +3412,7 @@ game (
 )
 
 game (
-	comment "Crouching Tiger, Hidden Dragon (USA) (Beta)"
+	comment "Crouching Tiger, Hidden Dragon (USA) (Beta 3)"
 	developer "Shanghai UBI Computer Software Co., Ltd."
 	rom ( crc 204FF8D5 )
 )
@@ -4054,12 +4048,6 @@ game (
 )
 
 game (
-	comment "DK - King of Swing (USA) (Demo) (Kiosk)"
-	developer "Nintendo"
-	rom ( crc 049626D1 )
-)
-
-game (
 	comment "Dogz (USA)"
 	developer "Backbone Entertainment"
 	rom ( crc 124F27C0 )
@@ -4198,7 +4186,7 @@ game (
 )
 
 game (
-	comment "Donkey Kong Country 3 (USA) (Beta) (2005-05-06)"
+	comment "Donkey Kong Country 3 (USA) (Beta)"
 	developer "Rareware"
 	rom ( crc 8DD750EF )
 )
@@ -4402,7 +4390,7 @@ game (
 )
 
 game (
-	comment "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta) (2005-02-25)"
+	comment "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta)"
 	developer "Dimps Corporation"
 	rom ( crc 2B136906 )
 )
@@ -4464,7 +4452,7 @@ game (
 game (
 	comment "Dragon Ball Z - Taiketsu (USA) (Beta)"
 	developer "Webfoot"
-	rom ( crc B4F57E66 )
+	rom ( crc 92CABBBE )
 )
 
 game (
@@ -4570,21 +4558,15 @@ game (
 )
 
 game (
-	comment "Driv3r (Europe) (Beta 1) [b]"
-	developer "Velez & Dubail"
-	rom ( crc 0A483C43 )
-)
-
-game (
 	comment "Driv3r (USA)"
 	developer "Velez & Dubail"
 	rom ( crc 6C66CFBE )
 )
 
 game (
-	comment "Driv3r (Europe) (Es) (Beta 2)"
+	comment "Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	developer "Velez & Dubail"
-	rom ( crc BA2DCFED )
+	rom ( crc 58E1F5A6 )
 )
 
 game (
@@ -4596,7 +4578,7 @@ game (
 game (
 	comment "Driv3r (Europe) (Beta 3)"
 	developer "Velez & Dubail"
-	rom ( crc A4243F3F )
+	rom ( crc 3399D79D )
 )
 
 game (
@@ -4612,7 +4594,7 @@ game (
 )
 
 game (
-	comment "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta) (2002-06-06)"
+	comment "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 1)"
 	developer "Sennari Interactive"
 	rom ( crc 2A18850C )
 )
@@ -4624,7 +4606,7 @@ game (
 )
 
 game (
-	comment "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta)"
+	comment "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	developer "Sennari Interactive"
 	rom ( crc B24FA448 )
 )
@@ -4668,7 +4650,7 @@ game (
 game (
 	comment "Duel Masters (Japan)"
 	developer "Amble"
-	rom ( crc 964334B4 )
+	rom ( crc 0C548021 )
 )
 
 game (
@@ -4692,7 +4674,7 @@ game (
 game (
 	comment "Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta)"
 	developer "Mistic Software"
-	rom ( crc C3827890 )
+	rom ( crc AFCB61C9 )
 )
 
 game (
@@ -5538,7 +5520,7 @@ game (
 game (
 	comment "Fear Factor - Unleashed (USA)"
 	developer "DC Studios"
-	rom ( crc 1289639C )
+	rom ( crc BF91C27D )
 )
 
 game (
@@ -5884,7 +5866,7 @@ game (
 )
 
 game (
-	comment "Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06)"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 1)"
 	developer "Intelligent Systems"
 	rom ( crc B40D6854 )
 )
@@ -5896,7 +5878,7 @@ game (
 )
 
 game (
-	comment "Leaked from an Intelligent System's FTP"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 2)"
 	developer "Intelligent Systems"
 	rom ( crc 8146A270 )
 )
@@ -6672,7 +6654,7 @@ game (
 game (
 	comment "GT Racers (Europe) (En,Fr,De,Es,It)"
 	developer "Alten8"
-	rom ( crc DACE7197 )
+	rom ( crc 94484F17 )
 )
 
 game (
@@ -6688,13 +6670,13 @@ game (
 )
 
 game (
-	comment "GT Racers (Europe) (Beta) (2005-07-13)"
+	comment "GT Racers (Europe) (Beta 1)"
 	developer "Alten8"
 	rom ( crc E027657A )
 )
 
 game (
-	comment "GT Racers (Europe) (Beta) (2005-10-14)"
+	comment "GT Racers (Europe) (Beta 2)"
 	developer "Alten8"
 	rom ( crc A0F745A0 )
 )
@@ -6760,7 +6742,7 @@ game (
 )
 
 game (
-	comment "Guru Logic Champ (Japan)"
+	comment "Guru Logichamp (Japan)"
 	developer "Compile"
 	rom ( crc 30D04AD9 )
 )
@@ -6799,12 +6781,6 @@ game (
 	comment "Gyakuten Saiban 2 (Japan)"
 	developer "Capcom"
 	rom ( crc 191AD26A )
-)
-
-game (
-	comment "Gyakuten Saiban 3 (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Capcom"
-	rom ( crc 299A054B )
 )
 
 game (
@@ -6930,13 +6906,13 @@ game (
 game (
 	comment "Happy Feet (Europe) (En,Fr,De,Es,It)"
 	developer "Artificial Mind & Movement"
-	rom ( crc 7A53173C )
+	rom ( crc B8653E59 )
 )
 
 game (
 	comment "Happy Feet (USA) (En,Fr)"
 	developer "Artificial Mind & Movement"
-	rom ( crc 682617CF )
+	rom ( crc 98235433 )
 )
 
 game (
@@ -7020,7 +6996,7 @@ game (
 game (
 	comment "Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
 	developer "Electronic Arts"
-	rom ( crc FFA9F4FB )
+	rom ( crc 4F39C174 )
 )
 
 game (
@@ -7204,12 +7180,6 @@ game (
 )
 
 game (
-	comment "Hikaru no Go - Taikenban (Japan) (Demo)"
-	developer "KCEJ"
-	rom ( crc 4955FA1B )
-)
-
-game (
 	comment "Hikaru no Go 2 (Japan)"
 	developer "KCEJ"
 	rom ( crc 04129A22 )
@@ -7273,12 +7243,6 @@ game (
 	comment "Horsez (USA)"
 	developer "Independent Arts"
 	rom ( crc 5B2B4452 )
-)
-
-game (
-	comment "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Flagship Studios"
-	rom ( crc BF80F1A1 )
 )
 
 game (
@@ -7642,7 +7606,7 @@ game (
 )
 
 game (
-	comment "Iridion 3D (USA) (Aftermarket) (Unl)"
+	comment "Iridion 3D (World) (Steam, GOG)"
 	developer "Shin'en Multimedia"
 	rom ( crc 4C7EBE42 )
 )
@@ -7672,7 +7636,7 @@ game (
 )
 
 game (
-	comment "Iridion II (USA) (Aftermarket) (Unl)"
+	comment "Iridion II (World)"
 	developer "Shin'en Multimedia"
 	rom ( crc B371F070 )
 )
@@ -7810,7 +7774,7 @@ game (
 )
 
 game (
-	comment "Jimmy Neutron vs. Jimmy Negatron (Germany) (Beta)"
+	comment "Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany) (Beta)"
 	developer "Human Soft"
 	rom ( crc 220CCF25 )
 )
@@ -7834,7 +7798,7 @@ game (
 )
 
 game (
-	comment "Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)"
+	comment "Jonny Moseley Mad Trix (USA) (En,Fr,De,Es,It)"
 	developer "GFX Construction"
 	rom ( crc 96488632 )
 )
@@ -8110,7 +8074,7 @@ game (
 )
 
 game (
-	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 2) (2005-07-08)"
+	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 2)"
 	developer "Mistic Software"
 	rom ( crc 44AAD1CB )
 )
@@ -8134,7 +8098,7 @@ game (
 )
 
 game (
-	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 1) (2005-06-28)"
+	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 1)"
 	developer "Mistic Software"
 	rom ( crc 46648F66 )
 )
@@ -8146,13 +8110,13 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam - Seed Destiny (Japan)"
+	comment "Kidou Senshi Gundam SEED Destiny (Japan)"
 	developer "Natsume"
 	rom ( crc AA250CCA )
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)"
+	comment "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)"
 	developer "Bandai"
 	rom ( crc 73BF384B )
 )
@@ -8260,7 +8224,7 @@ game (
 )
 
 game (
-	comment "King of Fighters EX 2, The - Howling Blood (USA) (Beta) (2003-04-03)"
+	comment "King of Fighters EX 2, The - Howling Blood (USA) (Beta)"
 	developer "Marvelous Entertainment"
 	rom ( crc 7704FF39 )
 )
@@ -8772,7 +8736,7 @@ game (
 game (
 	comment "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)"
 	developer "Amaze Entertainment"
-	rom ( crc BD2751E6 )
+	rom ( crc 8D780224 )
 )
 
 game (
@@ -8790,13 +8754,7 @@ game (
 game (
 	comment "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"
 	developer "Amaze Entertainment"
-	rom ( crc 93B18353 )
-)
-
-game (
-	comment "Legend of Zelda, The - The Minish Cap (USA) (Demo) (Kiosk)"
-	developer "Flagship"
-	rom ( crc 023DA338 )
+	rom ( crc A3EED091 )
 )
 
 game (
@@ -9106,9 +9064,9 @@ game (
 )
 
 game (
-	comment "Lord of the Rings, The - The Return of the King (USA) (Unl)"
+	comment "Lord of the Rings, The - The Return of the King (USA)"
 	developer "Griptonite Games"
-	rom ( crc EB887FBA )
+	rom ( crc 5A5EF8E3 )
 )
 
 game (
@@ -9304,12 +9262,6 @@ game (
 )
 
 game (
-	comment "Made in Wario (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Nintendo"
-	rom ( crc 11FF7A67 )
-)
-
-game (
 	comment "Made in Wario (Japan)"
 	developer "Nintendo"
 	rom ( crc 87A0EEA0 )
@@ -9463,12 +9415,6 @@ game (
 	comment "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)"
 	developer "Alpha Dream"
 	rom ( crc 6A5BD4F0 )
-)
-
-game (
-	comment "Mario & Luigi - Superstar Saga (USA) (Demo) (Kiosk)"
-	developer "Alpha Dream"
-	rom ( crc A94B04B2 )
 )
 
 game (
@@ -9688,18 +9634,6 @@ game (
 )
 
 game (
-	comment "Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)"
-	developer "Nintendo"
-	rom ( crc 25505164 )
-)
-
-game (
-	comment "Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Nintendo"
-	rom ( crc B3642431 )
-)
-
-game (
 	comment "Mario vs. Donkey Kong (USA, Australia)"
 	developer "Nintendo"
 	rom ( crc 25C394D1 )
@@ -9772,13 +9706,13 @@ game (
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (USA)"
+	comment "Cross Town Heroes (USA)"
 	developer "Imagine Engine"
 	rom ( crc 0FFFB458 )
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (Europe)"
+	comment "Cross Town Heroes (Europe)"
 	developer "Imagine Engine"
 	rom ( crc C9EA02F5 )
 )
@@ -10030,7 +9964,7 @@ game (
 )
 
 game (
-	comment "Retail release"
+	comment "Medarot Ni Core - Kabuto (Japan) (Rev 1)"
 	developer "Natsume"
 	rom ( crc 3F15FEAA )
 )
@@ -10066,7 +10000,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Chip Challenge (USA) (Virtual Console)"
+	comment "Mega Man - Battle Chip Challenge (USA) (Virtual Console)"
 	developer "Inti Creates"
 	rom ( crc 59FC1EF6 )
 )
@@ -10078,7 +10012,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Chip Challenge (USA)"
+	comment "Mega Man - Battle Chip Challenge (USA)"
 	developer "Inti Creates"
 	rom ( crc 26BE44FD )
 )
@@ -10090,7 +10024,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 1D5D0CB6 )
 )
@@ -10102,7 +10036,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network (USA)"
+	comment "Mega Man - Battle Network (USA)"
 	developer "Capcom"
 	rom ( crc 1D347971 )
 )
@@ -10114,7 +10048,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA)"
+	comment "Mega Man - Battle Network 2 (USA)"
 	developer "Capcom"
 	rom ( crc 6D961F82 )
 )
@@ -10126,19 +10060,19 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA) (Debug Version)"
+	comment "Mega Man - Battle Network 2 (USA) (Beta) (Debug)"
 	developer "Capcom"
-	rom ( crc 2EF5EBDE )
+	rom ( crc C3AABD70 )
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA, Europe) (Virtual Console)"
+	comment "Mega Man - Battle Network 2 (USA, Europe) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 5E88C34B )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc EDD7106E )
 )
@@ -10150,13 +10084,13 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 3 - White Version (USA)"
+	comment "Mega Man - Battle Network 3 - White Version (USA)"
 	developer "Capcom"
 	rom ( crc 0BE4410A )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - Blue Version (USA)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA)"
 	developer "Capcom"
 	rom ( crc C0C780F9 )
 )
@@ -10174,7 +10108,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 3 - White Version (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 3 - White Version (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc F1C5AC80 )
 )
@@ -10186,13 +10120,13 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 4 - Blue Moon (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 739B7EC4 )
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Blue Moon (USA)"
+	comment "Mega Man - Battle Network 4 - Blue Moon (USA)"
 	developer "Capcom"
 	rom ( crc 758A46E9 )
 )
@@ -10204,7 +10138,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Red Sun (USA)"
+	comment "Mega Man - Battle Network 4 - Red Sun (USA)"
 	developer "Capcom"
 	rom ( crc 2120695C )
 )
@@ -10222,7 +10156,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 4 - Red Sun (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 12E7AB52 )
 )
@@ -10234,13 +10168,13 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Colonel (USA)"
+	comment "Mega Man - Battle Network 5 - Team Colonel (USA)"
 	developer "Capcom"
 	rom ( crc A552F683 )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 78DD4EDC )
 )
@@ -10264,19 +10198,19 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Protoman (USA)"
+	comment "Mega Man - Battle Network 5 - Team Protoman (USA)"
 	developer "Capcom"
 	rom ( crc A73E83A4 )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 5 - Team Protoman (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc A0911541 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Falzar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Falzar (USA)"
 	developer "Capcom"
 	rom ( crc DEE6F2A9 )
 )
@@ -10294,7 +10228,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc C2A21BE3 )
 )
@@ -10318,61 +10252,61 @@ game (
 )
 
 game (
-	comment "Megaman & Bass (Europe)"
+	comment "Mega Man & Bass (Europe)"
 	developer "Capcom"
 	rom ( crc 01B4D95E )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Gregar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Gregar (USA)"
 	developer "Capcom"
 	rom ( crc 79452182 )
 )
 
 game (
-	comment "Megaman & Bass (USA) (Virtual Console)"
+	comment "Mega Man & Bass (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc B61F99D4 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc E7E546FE )
 )
 
 game (
-	comment "Megaman & Bass (Europe) (Virtual Console)"
+	comment "Mega Man & Bass (Europe) (Virtual Console)"
 	developer "Capcom"
 	rom ( crc 6E140BFA )
 )
 
 game (
-	comment "Megaman & Bass (USA)"
+	comment "Mega Man & Bass (USA)"
 	developer "Capcom"
 	rom ( crc EEA68C2E )
 )
 
 game (
-	comment "Megaman Zero (USA) (Virtual Console)"
+	comment "Mega Man Zero (USA) (Virtual Console)"
 	developer "Inti Creates"
 	rom ( crc 9C77209C )
 )
 
 game (
-	comment "Megaman Zero 2 (USA) (Virtual Console)"
+	comment "Mega Man Zero 2 (USA) (Virtual Console)"
 	developer "Inti Creates"
 	rom ( crc 30D051FE )
 )
 
 game (
-	comment "Megaman Zero 2 (USA)"
+	comment "Mega Man Zero 2 (USA)"
 	developer "Inti Creates"
 	rom ( crc CE1E37BB )
 )
 
 game (
-	comment "Megaman Zero (USA, Europe)"
+	comment "Mega Man Zero (USA, Europe)"
 	developer "Inti Creates"
 	rom ( crc 9707D2A1 )
 )
@@ -10396,7 +10330,7 @@ game (
 )
 
 game (
-	comment "Megaman Zero 3 (USA) (Virtual Console)"
+	comment "Mega Man Zero 3 (USA) (Virtual Console)"
 	developer "Inti Creates"
 	rom ( crc CBD24AC4 )
 )
@@ -10408,7 +10342,7 @@ game (
 )
 
 game (
-	comment "Megaman Zero 3 (USA)"
+	comment "Mega Man Zero 3 (USA)"
 	developer "Inti Creates"
 	rom ( crc 2784F3F2 )
 )
@@ -10432,13 +10366,13 @@ game (
 )
 
 game (
-	comment "Megaman Zero 4 (USA) (Virtual Console)"
+	comment "Mega Man Zero 4 (USA) (Virtual Console)"
 	developer "Inti Creates"
 	rom ( crc C4838CFA )
 )
 
 game (
-	comment "Megaman Zero 4 (USA)"
+	comment "Mega Man Zero 4 (USA)"
 	developer "Inti Creates"
 	rom ( crc 7EE24793 )
 )
@@ -10522,7 +10456,7 @@ game (
 )
 
 game (
-	comment "Metroid - Zero Mission (USA)"
+	comment "Metroid - Zero Mission (USA, Australia)"
 	developer "Nintendo"
 	rom ( crc 5C61A844 )
 )
@@ -10594,7 +10528,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-11)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 1)"
 	developer "Nintendo"
 	rom ( crc 3ACBD239 )
 )
@@ -10606,7 +10540,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	developer "Nintendo"
 	rom ( crc 1605E4F7 )
 )
@@ -10798,7 +10732,7 @@ game (
 )
 
 game (
-	comment "Mobile Suit Gundam Seed - Battle Assault (USA)"
+	comment "Mobile Suit Gundam SEED - Battle Assault (USA)"
 	developer "Natsume"
 	rom ( crc 180D1491 )
 )
@@ -11086,13 +11020,13 @@ game (
 )
 
 game (
-	comment "Motoracer Advance (USA) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (USA) (En,Fr,De,Es,It)"
 	developer "Adeline Software"
 	rom ( crc 2FDBE7A8 )
 )
 
 game (
-	comment "Motoracer Advance (Europe) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (Europe) (En,Fr,De,Es,It)"
 	developer "Adeline Software"
 	rom ( crc 8CB19DA0 )
 )
@@ -11232,7 +11166,7 @@ game (
 game (
 	comment "My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)"
 	developer "Zeal"
-	rom ( crc 16C0E028 )
+	rom ( crc D4F6C94D )
 )
 
 game (
@@ -11350,12 +11284,6 @@ game (
 )
 
 game (
-	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Tomy"
-	rom ( crc BA1F514A )
-)
-
-game (
 	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)"
 	developer "Tomy"
 	rom ( crc B3D75CE1 )
@@ -11371,12 +11299,6 @@ game (
 	comment "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Rev 1)"
 	developer "TOSE"
 	rom ( crc 2BF6555A )
-)
-
-game (
-	comment "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Demo) (Kiosk, GameCube)"
-	developer "TOSE"
-	rom ( crc 502E4A7D )
 )
 
 game (
@@ -11425,12 +11347,6 @@ game (
 	comment "Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It)"
 	developer "Pocketeers"
 	rom ( crc 9A0C5090 )
-)
-
-game (
-	comment "Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl)"
-	developer "Million"
-	rom ( crc 2EBE32A5 )
 )
 
 game (
@@ -11502,7 +11418,7 @@ game (
 game (
 	comment "Nicktoons Racing (USA) (Beta)"
 	developer "Crawfish Interactive"
-	rom ( crc 38295D30 )
+	rom ( crc 4ED6E860 )
 )
 
 game (
@@ -11530,7 +11446,7 @@ game (
 )
 
 game (
-	comment "Ninja Five-0 (USA)"
+	comment "Ninja Five-O (USA)"
 	developer "Hudson"
 	rom ( crc EB3954C6 )
 )
@@ -11878,7 +11794,7 @@ game (
 )
 
 game (
-	comment "Pac-Man World 2 (USA) (Beta) (2005-04-15)"
+	comment "Pac-Man World 2 (USA) (Beta)"
 	developer "Full Fat"
 	rom ( crc B645B5EF )
 )
@@ -12204,7 +12120,7 @@ game (
 game (
 	comment "Play-Yan (Japan)"
 	developer "Nintendo"
-	rom ( crc C2F72B1C )
+	rom ( crc 27F7B403 )
 )
 
 game (
@@ -12384,7 +12300,7 @@ game (
 game (
 	comment "Pokemon - Leaf Green (USA) (Pirate)"
 	developer "Game Freak"
-	rom ( crc 62CDC2D1 )
+	rom ( crc 11870BD9 )
 )
 
 game (
@@ -12562,12 +12478,6 @@ game (
 )
 
 game (
-	comment "Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk)"
-	developer "Chunsoft"
-	rom ( crc F12F908E )
-)
-
-game (
 	comment "Pokemon Pinball - Ruby & Sapphire (Japan) (Rev 1)"
 	developer "Jupiter Corporation"
 	rom ( crc 925A5684 )
@@ -12703,12 +12613,6 @@ game (
 	comment "Power Pro Kun Pocket 4 (Japan) (Rev 1)"
 	developer "Diamond Head"
 	rom ( crc 89A3A2C7 )
-)
-
-game (
-	comment "Power Pro Kun Pocket 5 (Japan) (Demo) (Kiosk)"
-	developer "Diamond Head"
-	rom ( crc 969AC691 )
 )
 
 game (
@@ -13000,12 +12904,6 @@ game (
 )
 
 game (
-	comment "Qwak (Europe) (Demo) (Unl)"
-	developer "Jamie Woodhouse"
-	rom ( crc 09C59E6B )
-)
-
-game (
 	comment "R-Type III - The Third Lightning (USA)"
 	developer "Raylight Studios"
 	rom ( crc EA863F4D )
@@ -13036,7 +12934,7 @@ game (
 )
 
 game (
-	comment "Qwak (Europe) (En,Fr,De,Es,It) (Unl)"
+	comment "Qwak (Europe) (En,Fr,De,Es,It)"
 	developer "Jamie Woodhouse"
 	rom ( crc 9027917F )
 )
@@ -13074,7 +12972,7 @@ game (
 game (
 	comment "Racing Gears Advance (USA) (Beta)"
 	developer "Orbital Media"
-	rom ( crc 6A1CFEA4 )
+	rom ( crc 7A3820B3 )
 )
 
 game (
@@ -13084,9 +12982,9 @@ game (
 )
 
 game (
-	comment "Ratatouille (Greece) (En)"
+	comment "Ratatouille (Australia, Greece) (En)"
 	developer "Helixe"
-	rom ( crc 4BCAF68F )
+	rom ( crc 3E1711C7 )
 )
 
 game (
@@ -13218,7 +13116,7 @@ game (
 game (
 	comment "Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta)"
 	developer "Codo Games"
-	rom ( crc 9706208C )
+	rom ( crc 2189021C )
 )
 
 game (
@@ -13294,12 +13192,6 @@ game (
 )
 
 game (
-	comment "Revenge of the Smurfs, The (Europe) (Beta) (2002-03-22)"
-	developer "Bit Managers"
-	rom ( crc 516CE770 )
-)
-
-game (
 	comment "Rhythm Tengoku (Japan)"
 	developer "J.P. Room"
 	rom ( crc 349D7025 )
@@ -13315,12 +13207,6 @@ game (
 	comment "Rhythm Tengoku (Japan) (Rev 1)"
 	developer "J.P. Room"
 	rom ( crc A6CD88E1 )
-)
-
-game (
-	comment "Rhythm Tengoku (Japan) (Demo) (Kiosk)"
-	developer "J.P. Room"
-	rom ( crc D6C7DC21 )
 )
 
 game (
@@ -13450,7 +13336,7 @@ game (
 )
 
 game (
-	comment "Rocket Power - Beach Bandits (USA, Europe) (v0.14) (Beta)"
+	comment "Rocket Power - Beach Bandits (USA, Europe) (Beta)"
 	developer "Helixe"
 	rom ( crc D3755452 )
 )
@@ -14028,7 +13914,7 @@ game (
 game (
 	comment "SEGA Rally Championship (Europe) (Beta)"
 	developer "Dice"
-	rom ( crc 31FB92EA )
+	rom ( crc D9F19D76 )
 )
 
 game (
@@ -14124,7 +14010,7 @@ game (
 game (
 	comment "Shamu's Deep Sea Adventures (USA)"
 	developer "Humagade"
-	rom ( crc 4E9426EB )
+	rom ( crc 7ECB7529 )
 )
 
 game (
@@ -14136,7 +14022,7 @@ game (
 game (
 	comment "Shamu's Deep Sea Adventures (Europe)"
 	developer "Humagade"
-	rom ( crc 2D86E9D8 )
+	rom ( crc 5A507F49 )
 )
 
 game (
@@ -14383,12 +14269,6 @@ game (
 	comment "Shinyaku Seiken Densetsu (Japan)"
 	developer "Brownie Brown"
 	rom ( crc 31B220E5 )
-)
-
-game (
-	comment "Shiren Monsters - Netsal (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Chunsoft"
-	rom ( crc 25B0B122 )
 )
 
 game (
@@ -14722,9 +14602,9 @@ game (
 )
 
 game (
-	comment "Sonic Advance (USA) (En,Ja) (Beta) (2001-10-31)"
+	comment "Sonic Advance (USA) (En,Ja) (Beta)"
 	developer "Sonic Team"
-	rom ( crc 0D5818C7 )
+	rom ( crc A80DE3B2 )
 )
 
 game (
@@ -14776,15 +14656,9 @@ game (
 )
 
 game (
-	comment "Sonic Advance 2 (USA) (Beta) (2002-10-25)"
+	comment "Sonic Advance 2 (USA) (Beta)"
 	developer "Dimps Corporation"
-	rom ( crc 8B8921BC )
-)
-
-game (
-	comment "Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Sonic Team"
-	rom ( crc 0594D496 )
+	rom ( crc 95AB3867 )
 )
 
 game (
@@ -14998,9 +14872,9 @@ game (
 )
 
 game (
-	comment "Spider-Man 3 (USA) (Unl)"
+	comment "Spider-Man 3 (USA)"
 	developer "Vicarious Visions"
-	rom ( crc 93529B55 )
+	rom ( crc 3E1B693A )
 )
 
 game (
@@ -15100,79 +14974,79 @@ game (
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T051624)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 2)"
 	developer "Climax Studios"
 	rom ( crc 49754EE4 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2000-11-28)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 1)"
 	developer "Climax Studios"
 	rom ( crc 22F37CFD )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-05)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 4)"
 	developer "Climax Studios"
 	rom ( crc DFA0465F )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-15)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 5)"
 	developer "Climax Studios"
 	rom ( crc 9DD49688 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T074756)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 3)"
 	developer "Climax Studios"
 	rom ( crc B83D7E0D )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-23)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 6)"
 	developer "Climax Studios"
 	rom ( crc 78D0D354 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-26)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 7)"
 	developer "Climax Studios"
 	rom ( crc D0FB4BD2 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-01)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 8)"
 	developer "Climax Studios"
 	rom ( crc 6B458C53 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-12)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 9)"
 	developer "Climax Studios"
 	rom ( crc 70456F6E )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-14)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 10)"
 	developer "Climax Studios"
 	rom ( crc FFEA9FEC )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113400)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 14)"
 	developer "Climax Studios"
 	rom ( crc 40CC2E8A )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-07-31)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 16)"
 	developer "Climax Studios"
 	rom ( crc F2F67F40 )
 )
 
 game (
-	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113900)"
+	comment "SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 15)"
 	developer "Climax Studios"
 	rom ( crc FF4F1EE7 )
 )
@@ -15190,7 +15064,7 @@ game (
 )
 
 game (
-	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)"
+	comment "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,Nl)"
 	developer "Climax Studios"
 	rom ( crc 611CC620 )
 )
@@ -15472,7 +15346,7 @@ game (
 )
 
 game (
-	comment "Starsky & Hutch (USA) (Beta) (2003-02-11)"
+	comment "Starsky & Hutch (USA) (Beta)"
 	developer "Spellbound"
 	rom ( crc AB142D2E )
 )
@@ -15576,7 +15450,7 @@ game (
 game (
 	comment "Stuart Little 2 (Europe) (Rev 1)"
 	developer "Creations"
-	rom ( crc EE32EEE0 )
+	rom ( crc 34E4F8C5 )
 )
 
 game (
@@ -15772,12 +15646,6 @@ game (
 )
 
 game (
-	comment "Super Mario Advance (USA) (Demo) (Kiosk)"
-	developer "Nintendo"
-	rom ( crc 69924CBD )
-)
-
-game (
 	comment "Super Mario Advance (USA, Europe) (Virtual Console)"
 	developer "Nintendo"
 	rom ( crc 5251F2BF )
@@ -15934,21 +15802,15 @@ game (
 )
 
 game (
-	comment "Super Mario Ball (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Fuse Games"
-	rom ( crc 65B1D9CB )
-)
-
-game (
 	comment "Super Mario Bros. (Japan) (Hot Mario Campaign)"
 	developer "Nintendo"
 	rom ( crc E4628D75 )
 )
 
 game (
-	comment "Super Monkey Ball Jr. (USA) (Beta) (2002-08-06)"
+	comment "Super Monkey Ball Jr. (USA) (Beta)"
 	developer "Realism"
-	rom ( crc FEE7B029 )
+	rom ( crc 0D72F2CC )
 )
 
 game (
@@ -16318,9 +16180,9 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles 2 (USA) (Unl)"
+	comment "Teenage Mutant Ninja Turtles 2 (USA)"
 	developer "Konami"
-	rom ( crc C9A7FF25 )
+	rom ( crc 8EE6D3D5 )
 )
 
 game (
@@ -16543,12 +16405,6 @@ game (
 	comment "Tiny Toon Adventures - Wacky Stackers (USA)"
 	developer "Warthog"
 	rom ( crc E03C633E )
-)
-
-game (
-	comment "Tiny Chao Garden (USA) (Ja) (Phantasy Star Online Episode I & II)"
-	developer "Sonic Team"
-	rom ( crc C523504F )
 )
 
 game (
@@ -16914,13 +16770,7 @@ game (
 game (
 	comment "Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta)"
 	developer "Mistic Software"
-	rom ( crc 0E4FF9A1 )
-)
-
-game (
-	comment "Tottoko Hamutarou - Hamu-Hamu Sports (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Alphadream Corporation"
-	rom ( crc 7CD6839C )
+	rom ( crc 5515C841 )
 )
 
 game (
@@ -17329,12 +17179,6 @@ game (
 	comment "Vattroller X (Japan)"
 	developer "Ganbarion"
 	rom ( crc E368A67A )
-)
-
-game (
-	comment "Vattroller X - Taikenban (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Ganbarion"
-	rom ( crc BED622EC )
 )
 
 game (
@@ -17758,7 +17602,7 @@ game (
 )
 
 game (
-	comment "World Reborn (USA) (Aftermarket) (Unl)"
+	comment "World Reborn (USA)"
 	developer "NeoPong Software"
 	rom ( crc EEFB32FF )
 )
@@ -17904,19 +17748,19 @@ game (
 game (
 	comment "Yggdra Union (Japan)"
 	developer "Sting Entertainment"
-	rom ( crc A86F844A )
+	rom ( crc BF53A3D2 )
 )
 
 game (
 	comment "Yggdra Union - We'll Never Fight Alone (USA)"
 	developer "Sting Entertainment"
-	rom ( crc 3BFA68F7 )
+	rom ( crc 84B5666C )
 )
 
 game (
 	comment "Yggdra Union - We'll Never Fight Alone (Europe)"
 	developer "Sting Entertainment"
-	rom ( crc 3E0DF130 )
+	rom ( crc 2931D6A8 )
 )
 
 game (
@@ -18190,12 +18034,6 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Fushigi no Boushi (Japan) (Demo) (Kiosk, GameCube)"
-	developer "Flagship"
-	rom ( crc EA115BC4 )
-)
-
-game (
 	comment "Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi (Japan)"
 	developer "Nintendo"
 	rom ( crc 81E42BEE )
@@ -18356,4 +18194,3 @@ game (
 	developer "PuzzleKings"
 	rom ( crc 09A2255F )
 )
-

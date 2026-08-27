@@ -222,13 +222,13 @@ game (
 game (
 	comment "2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It)"
 	releaseyear "2005"
-	rom ( crc D732E52D )
+	rom ( crc E76DB6EF )
 )
 
 game (
 	comment "2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)"
 	releaseyear "2005"
-	rom ( crc 0AE3637F )
+	rom ( crc 3ABC30BD )
 )
 
 game (
@@ -454,7 +454,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat - Rascal Rival Revenge (USA)"
+	comment "Aero the Acro-Bat (USA)"
 	releaseyear "2002"
 	rom ( crc B47AC020 )
 )
@@ -514,9 +514,9 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula - Circle of the Moon (China) (Unl)"
+	comment "Akumajou Dracula - Circle of the Moon (China)"
 	releaseyear "2001"
-	rom ( crc D6A83B9D )
+	rom ( crc 5925D9C9 )
 )
 
 game (
@@ -894,7 +894,7 @@ game (
 game (
 	comment "Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)"
 	releaseyear "2001"
-	rom ( crc 2CB63D09 )
+	rom ( crc 8A984201 )
 )
 
 game (
@@ -928,9 +928,9 @@ game (
 )
 
 game (
-	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2) (2004-09-29)"
+	comment "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	releaseyear "2005"
-	rom ( crc 1C5587E6 )
+	rom ( crc 3168A9A4 )
 )
 
 game (
@@ -1182,7 +1182,7 @@ game (
 game (
 	comment "bit Generations - Boundish (Japan) (En)"
 	releaseyear "2006"
-	rom ( crc 7BD20153 )
+	rom ( crc 262BDA80 )
 )
 
 game (
@@ -1474,7 +1474,7 @@ game (
 )
 
 game (
-	comment "Possibly a version given out to press at E3 or an E3 demo"
+	comment "Boktai - The Sun Is in Your Hand (USA) (Sample)"
 	releaseyear "2003"
 	rom ( crc CF692572 )
 )
@@ -2074,13 +2074,13 @@ game (
 )
 
 game (
-	comment "Cinnamon Game Series 2 - Yume no Daibouken (Japan)"
+	comment "Cinnamon - Yume no Daibouken (Japan)"
 	releaseyear "2004"
 	rom ( crc 5A2CADA1 )
 )
 
 game (
-	comment "Cinnamon Game Series 3 - Fuwafuwa Daisakusen (Japan)"
+	comment "Cinnamon - Fuwafuwa Daisakusen (Japan)"
 	releaseyear "2005"
 	rom ( crc A1CBA145 )
 )
@@ -2280,13 +2280,13 @@ game (
 game (
 	comment "Crash & Spyro Super Pack Volume 3 (Europe) (En,Fr,De,Es,It)"
 	releaseyear "2005"
-	rom ( crc 0510B70F )
+	rom ( crc C7269E6A )
 )
 
 game (
 	comment "Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA)"
 	releaseyear "2005"
-	rom ( crc 5940906E )
+	rom ( crc 9B76B90B )
 )
 
 game (
@@ -2394,7 +2394,7 @@ game (
 game (
 	comment "Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan)"
 	releaseyear "2006"
-	rom ( crc 45C84466 )
+	rom ( crc 52F463FE )
 )
 
 game (
@@ -2488,7 +2488,7 @@ game (
 )
 
 game (
-	comment "Crouching Tiger, Hidden Dragon (USA) (Beta)"
+	comment "Crouching Tiger, Hidden Dragon (USA) (Beta 3)"
 	releaseyear "2003"
 	rom ( crc 204FF8D5 )
 )
@@ -2956,7 +2956,7 @@ game (
 )
 
 game (
-	comment "Donchan Puzzle - Hanabi de Dohn! Advance (Japan)"
+	comment "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)"
 	releaseyear "2004"
 	rom ( crc 500922E8 )
 )
@@ -2974,7 +2974,7 @@ game (
 )
 
 game (
-	comment "Donkey Kong Country 3 (USA) (Beta) (2005-05-06)"
+	comment "Donkey Kong Country 3 (USA) (Beta)"
 	releaseyear "2005"
 	rom ( crc 8DD750EF )
 )
@@ -3144,7 +3144,7 @@ game (
 game (
 	comment "Dragon Ball Z - Taiketsu (USA) (Beta)"
 	releaseyear "2003"
-	rom ( crc B4F57E66 )
+	rom ( crc 92CABBBE )
 )
 
 game (
@@ -3276,7 +3276,7 @@ game (
 game (
 	comment "Duel Masters (Japan)"
 	releaseyear "2003"
-	rom ( crc 964334B4 )
+	rom ( crc 0C548021 )
 )
 
 game (
@@ -3834,7 +3834,7 @@ game (
 game (
 	comment "Fear Factor - Unleashed (USA)"
 	releaseyear "2004"
-	rom ( crc 1289639C )
+	rom ( crc BF91C27D )
 )
 
 game (
@@ -4006,7 +4006,7 @@ game (
 )
 
 game (
-	comment "Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06)"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 1)"
 	releaseyear "2003"
 	rom ( crc B40D6854 )
 )
@@ -4018,7 +4018,7 @@ game (
 )
 
 game (
-	comment "Leaked from an Intelligent System's FTP"
+	comment "Fire Emblem - Rekka no Ken (Japan) (Beta 2)"
 	releaseyear "2003"
 	rom ( crc 8146A270 )
 )
@@ -4584,17 +4584,17 @@ game (
 game (
 	comment "GT Racers (Europe) (En,Fr,De,Es,It)"
 	releaseyear "2006"
-	rom ( crc DACE7197 )
+	rom ( crc 94484F17 )
 )
 
 game (
-	comment "GT Racers (Europe) (Beta) (2005-07-13)"
+	comment "GT Racers (Europe) (Beta 1)"
 	releaseyear "2006"
 	rom ( crc E027657A )
 )
 
 game (
-	comment "GT Racers (Europe) (Beta) (2005-10-14)"
+	comment "GT Racers (Europe) (Beta 2)"
 	releaseyear "2006"
 	rom ( crc A0F745A0 )
 )
@@ -4648,7 +4648,7 @@ game (
 )
 
 game (
-	comment "Guru Logic Champ (Japan)"
+	comment "Guru Logichamp (Japan)"
 	releaseyear "2001"
 	rom ( crc 30D04AD9 )
 )
@@ -4687,12 +4687,6 @@ game (
 	comment "Gyakuten Saiban 2 (Japan)"
 	releaseyear "2002"
 	rom ( crc 191AD26A )
-)
-
-game (
-	comment "Gyakuten Saiban 3 (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 299A054B )
 )
 
 game (
@@ -4800,7 +4794,7 @@ game (
 game (
 	comment "Happy Feet (USA) (En,Fr)"
 	releaseyear "2006"
-	rom ( crc 682617CF )
+	rom ( crc 98235433 )
 )
 
 game (
@@ -4836,7 +4830,7 @@ game (
 game (
 	comment "Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
 	releaseyear "2007"
-	rom ( crc FFA9F4FB )
+	rom ( crc 4F39C174 )
 )
 
 game (
@@ -4978,12 +4972,6 @@ game (
 )
 
 game (
-	comment "Hikaru no Go - Taikenban (Japan) (Demo)"
-	releaseyear "2001"
-	rom ( crc 4955FA1B )
-)
-
-game (
 	comment "Hikaru no Go 2 (Japan)"
 	releaseyear "2002"
 	rom ( crc 04129A22 )
@@ -5029,12 +5017,6 @@ game (
 	comment "Horsez (USA)"
 	releaseyear "2007"
 	rom ( crc 5B2B4452 )
-)
-
-game (
-	comment "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc BF80F1A1 )
 )
 
 game (
@@ -5602,7 +5584,7 @@ game (
 )
 
 game (
-	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 2) (2005-07-08)"
+	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 2)"
 	releaseyear "2005"
 	rom ( crc 44AAD1CB )
 )
@@ -5626,7 +5608,7 @@ game (
 )
 
 game (
-	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 1) (2005-06-28)"
+	comment "Kid Paddle (Europe) (Fr,Nl) (Beta 1)"
 	releaseyear "2005"
 	rom ( crc 46648F66 )
 )
@@ -5638,13 +5620,13 @@ game (
 )
 
 game (
-	comment "Kidou Senshi Gundam - Seed Destiny (Japan)"
+	comment "Kidou Senshi Gundam SEED Destiny (Japan)"
 	releaseyear "2004"
 	rom ( crc AA250CCA )
 )
 
 game (
-	comment "Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)"
+	comment "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)"
 	releaseyear "2004"
 	rom ( crc 73BF384B )
 )
@@ -5716,7 +5698,7 @@ game (
 )
 
 game (
-	comment "King of Fighters EX 2, The - Howling Blood (USA) (Beta) (2003-04-03)"
+	comment "King of Fighters EX 2, The - Howling Blood (USA) (Beta)"
 	releaseyear "2003"
 	rom ( crc 7704FF39 )
 )
@@ -5982,7 +5964,7 @@ game (
 game (
 	comment "Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan) (Rev 1)"
 	releaseyear "2004"
-	rom ( crc 6F420081 )
+	rom ( crc F40E19A9 )
 )
 
 game (
@@ -6144,19 +6126,13 @@ game (
 game (
 	comment "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)"
 	releaseyear "2007"
-	rom ( crc BD2751E6 )
+	rom ( crc 8D780224 )
 )
 
 game (
 	comment "Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)"
 	releaseyear "2003"
 	rom ( crc 5A164321 )
-)
-
-game (
-	comment "Legend of Zelda, The - The Minish Cap (USA) (Demo) (Kiosk)"
-	releaseyear "2005"
-	rom ( crc 023DA338 )
 )
 
 game (
@@ -6574,12 +6550,6 @@ game (
 )
 
 game (
-	comment "Mario & Luigi - Superstar Saga (USA) (Demo) (Kiosk)"
-	releaseyear "2003"
-	rom ( crc A94B04B2 )
-)
-
-game (
 	comment "Mario & Luigi RPG (Japan)"
 	releaseyear "2003"
 	rom ( crc 4EF93D41 )
@@ -6712,18 +6682,6 @@ game (
 )
 
 game (
-	comment "Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 25505164 )
-)
-
-game (
-	comment "Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc B3642431 )
-)
-
-game (
 	comment "Mario Tennis Advance (Japan) (Virtual Console)"
 	releaseyear "2005"
 	rom ( crc 7244B105 )
@@ -6760,13 +6718,13 @@ game (
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (USA)"
+	comment "Cross Town Heroes (USA)"
 	releaseyear "2002"
 	rom ( crc 0FFFB458 )
 )
 
 game (
-	comment "Matchbox Cross Town Heroes (Europe)"
+	comment "Cross Town Heroes (Europe)"
 	releaseyear "2002"
 	rom ( crc C9EA02F5 )
 )
@@ -6934,7 +6892,7 @@ game (
 )
 
 game (
-	comment "Retail release"
+	comment "Medarot Ni Core - Kabuto (Japan) (Rev 1)"
 	releaseyear "2002"
 	rom ( crc 3F15FEAA )
 )
@@ -6952,19 +6910,19 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Chip Challenge (USA) (Virtual Console)"
+	comment "Mega Man - Battle Chip Challenge (USA) (Virtual Console)"
 	releaseyear "2004"
 	rom ( crc 59FC1EF6 )
 )
 
 game (
-	comment "Megaman - Battle Chip Challenge (USA)"
+	comment "Mega Man - Battle Chip Challenge (USA)"
 	releaseyear "2004"
 	rom ( crc 26BE44FD )
 )
 
 game (
-	comment "Megaman - Battle Network (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network (USA) (Virtual Console)"
 	releaseyear "2001"
 	rom ( crc 1D5D0CB6 )
 )
@@ -6976,7 +6934,7 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network (USA)"
+	comment "Mega Man - Battle Network (USA)"
 	releaseyear "2001"
 	rom ( crc 1D347971 )
 )
@@ -6988,157 +6946,157 @@ game (
 )
 
 game (
-	comment "Megaman - Battle Network 2 (USA)"
+	comment "Mega Man - Battle Network 2 (USA)"
 	releaseyear "2002"
 	rom ( crc 6D961F82 )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console)"
 	releaseyear "2003"
 	rom ( crc EDD7106E )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - White Version (USA)"
+	comment "Mega Man - Battle Network 3 - White Version (USA)"
 	releaseyear "2003"
 	rom ( crc 0BE4410A )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - Blue Version (USA)"
+	comment "Mega Man - Battle Network 3 - Blue Version (USA)"
 	releaseyear "2003"
 	rom ( crc C0C780F9 )
 )
 
 game (
-	comment "Megaman - Battle Network 3 - White Version (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 3 - White Version (USA) (Virtual Console)"
 	releaseyear "2003"
 	rom ( crc F1C5AC80 )
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 4 - Blue Moon (USA) (Virtual Console)"
 	releaseyear "2004"
 	rom ( crc 739B7EC4 )
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Blue Moon (USA)"
+	comment "Mega Man - Battle Network 4 - Blue Moon (USA)"
 	releaseyear "2004"
 	rom ( crc 758A46E9 )
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Red Sun (USA)"
+	comment "Mega Man - Battle Network 4 - Red Sun (USA)"
 	releaseyear "2004"
 	rom ( crc 2120695C )
 )
 
 game (
-	comment "Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 4 - Red Sun (USA) (Virtual Console)"
 	releaseyear "2004"
 	rom ( crc 12E7AB52 )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Colonel (USA)"
+	comment "Mega Man - Battle Network 5 - Team Colonel (USA)"
 	releaseyear "2005"
 	rom ( crc A552F683 )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)"
 	releaseyear "2005"
 	rom ( crc 78DD4EDC )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Protoman (USA)"
+	comment "Mega Man - Battle Network 5 - Team Protoman (USA)"
 	releaseyear "2005"
 	rom ( crc A73E83A4 )
 )
 
 game (
-	comment "Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 5 - Team Protoman (USA) (Virtual Console)"
 	releaseyear "2005"
 	rom ( crc A0911541 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Falzar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Falzar (USA)"
 	releaseyear "2006"
 	rom ( crc DEE6F2A9 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)"
 	releaseyear "2006"
 	rom ( crc C2A21BE3 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Gregar (USA)"
+	comment "Mega Man - Battle Network 6 - Cybeast Gregar (USA)"
 	releaseyear "2006"
 	rom ( crc 79452182 )
 )
 
 game (
-	comment "Megaman & Bass (USA) (Virtual Console)"
+	comment "Mega Man & Bass (USA) (Virtual Console)"
 	releaseyear "2003"
 	rom ( crc B61F99D4 )
 )
 
 game (
-	comment "Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)"
+	comment "Mega Man - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)"
 	releaseyear "2006"
 	rom ( crc E7E546FE )
 )
 
 game (
-	comment "Megaman & Bass (USA)"
+	comment "Mega Man & Bass (USA)"
 	releaseyear "2003"
 	rom ( crc EEA68C2E )
 )
 
 game (
-	comment "Megaman Zero (USA) (Virtual Console)"
+	comment "Mega Man Zero (USA) (Virtual Console)"
 	releaseyear "2002"
 	rom ( crc 9C77209C )
 )
 
 game (
-	comment "Megaman Zero 2 (USA) (Virtual Console)"
+	comment "Mega Man Zero 2 (USA) (Virtual Console)"
 	releaseyear "2003"
 	rom ( crc 30D051FE )
 )
 
 game (
-	comment "Megaman Zero 2 (USA)"
+	comment "Mega Man Zero 2 (USA)"
 	releaseyear "2003"
 	rom ( crc CE1E37BB )
 )
 
 game (
-	comment "Megaman Zero 3 (USA) (Virtual Console)"
+	comment "Mega Man Zero 3 (USA) (Virtual Console)"
 	releaseyear "2004"
 	rom ( crc CBD24AC4 )
 )
 
 game (
-	comment "Megaman Zero 3 (USA)"
+	comment "Mega Man Zero 3 (USA)"
 	releaseyear "2004"
 	rom ( crc 2784F3F2 )
 )
 
 game (
-	comment "Megaman Zero 4 (USA) (Virtual Console)"
+	comment "Mega Man Zero 4 (USA) (Virtual Console)"
 	releaseyear "2005"
 	rom ( crc C4838CFA )
 )
 
 game (
-	comment "Megaman Zero 4 (USA)"
+	comment "Mega Man Zero 4 (USA)"
 	releaseyear "2005"
 	rom ( crc 7EE24793 )
 )
@@ -7216,7 +7174,7 @@ game (
 )
 
 game (
-	comment "Metroid - Zero Mission (USA)"
+	comment "Metroid - Zero Mission (USA, Australia)"
 	releaseyear "2004"
 	rom ( crc 5C61A844 )
 )
@@ -7264,7 +7222,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-11)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 1)"
 	releaseyear "2002"
 	rom ( crc 3ACBD239 )
 )
@@ -7276,7 +7234,7 @@ game (
 )
 
 game (
-	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)"
+	comment "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta 2)"
 	releaseyear "2002"
 	rom ( crc 1605E4F7 )
 )
@@ -7486,7 +7444,7 @@ game (
 )
 
 game (
-	comment "Mobile Suit Gundam Seed - Battle Assault (USA)"
+	comment "Mobile Suit Gundam SEED - Battle Assault (USA)"
 	releaseyear "2004"
 	rom ( crc 180D1491 )
 )
@@ -7702,7 +7660,7 @@ game (
 )
 
 game (
-	comment "Motoracer Advance (USA) (En,Fr,De,Es,It)"
+	comment "Moto Racer Advance (USA) (En,Fr,De,Es,It)"
 	releaseyear "2002"
 	rom ( crc 2FDBE7A8 )
 )
@@ -7818,7 +7776,7 @@ game (
 game (
 	comment "My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)"
 	releaseyear "2006"
-	rom ( crc 16C0E028 )
+	rom ( crc D4F6C94D )
 )
 
 game (
@@ -7960,12 +7918,6 @@ game (
 )
 
 game (
-	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc BA1F514A )
-)
-
-game (
 	comment "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)"
 	releaseyear "2004"
 	rom ( crc B3D75CE1 )
@@ -7981,12 +7933,6 @@ game (
 	comment "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Rev 1)"
 	releaseyear "2004"
 	rom ( crc 2BF6555A )
-)
-
-game (
-	comment "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 502E4A7D )
 )
 
 game (
@@ -8076,7 +8022,7 @@ game (
 game (
 	comment "Nicktoons Racing (USA) (Beta)"
 	releaseyear "2002"
-	rom ( crc 38295D30 )
+	rom ( crc 4ED6E860 )
 )
 
 game (
@@ -8092,7 +8038,7 @@ game (
 )
 
 game (
-	comment "Ninja Five-0 (USA)"
+	comment "Ninja Five-O (USA)"
 	releaseyear "2003"
 	rom ( crc EB3954C6 )
 )
@@ -8362,7 +8308,7 @@ game (
 )
 
 game (
-	comment "Pac-Man World 2 (USA) (Beta) (2005-04-15)"
+	comment "Pac-Man World 2 (USA) (Beta)"
 	releaseyear "2005"
 	rom ( crc B645B5EF )
 )
@@ -8698,12 +8644,6 @@ game (
 )
 
 game (
-	comment "Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk)"
-	releaseyear "2006"
-	rom ( crc F12F908E )
-)
-
-game (
 	comment "Pokemon Pinball - Ruby & Sapphire (Japan) (Rev 1)"
 	releaseyear "2003"
 	rom ( crc 925A5684 )
@@ -8791,12 +8731,6 @@ game (
 	comment "Power Pro Kun Pocket 4 (Japan) (Rev 1)"
 	releaseyear "2002"
 	rom ( crc 89A3A2C7 )
-)
-
-game (
-	comment "Power Pro Kun Pocket 5 (Japan) (Demo) (Kiosk)"
-	releaseyear "2003"
-	rom ( crc 969AC691 )
 )
 
 game (
@@ -9004,12 +8938,6 @@ game (
 )
 
 game (
-	comment "Qwak (Europe) (Demo) (Unl)"
-	releaseyear "2006"
-	rom ( crc 09C59E6B )
-)
-
-game (
 	comment "R-Type III - The Third Lightning (USA)"
 	releaseyear "2003"
 	rom ( crc EA863F4D )
@@ -9034,7 +8962,7 @@ game (
 )
 
 game (
-	comment "Qwak (Europe) (En,Fr,De,Es,It) (Unl)"
+	comment "Qwak (Europe) (En,Fr,De,Es,It)"
 	releaseyear "2006"
 	rom ( crc 9027917F )
 )
@@ -9060,7 +8988,7 @@ game (
 game (
 	comment "Racing Gears Advance (USA) (Beta)"
 	releaseyear "2004"
-	rom ( crc 6A1CFEA4 )
+	rom ( crc 7A3820B3 )
 )
 
 game (
@@ -9196,12 +9124,6 @@ game (
 )
 
 game (
-	comment "Revenge of the Smurfs, The (Europe) (Beta) (2002-03-22)"
-	releaseyear "2002"
-	rom ( crc 516CE770 )
-)
-
-game (
 	comment "Rhythm Tengoku (Japan)"
 	releaseyear "2006"
 	rom ( crc 349D7025 )
@@ -9211,12 +9133,6 @@ game (
 	comment "Rhythm Tengoku (Japan) (Rev 1)"
 	releaseyear "2006"
 	rom ( crc A6CD88E1 )
-)
-
-game (
-	comment "Rhythm Tengoku (Japan) (Demo) (Kiosk)"
-	releaseyear "2006"
-	rom ( crc D6C7DC21 )
 )
 
 game (
@@ -9316,7 +9232,7 @@ game (
 )
 
 game (
-	comment "Rocket Power - Beach Bandits (USA, Europe) (v0.14) (Beta)"
+	comment "Rocket Power - Beach Bandits (USA, Europe) (Beta)"
 	releaseyear "2002"
 	rom ( crc D3755452 )
 )
@@ -9822,7 +9738,7 @@ game (
 game (
 	comment "Shamu's Deep Sea Adventures (USA)"
 	releaseyear "2005"
-	rom ( crc 4E9426EB )
+	rom ( crc 7ECB7529 )
 )
 
 game (
@@ -10033,12 +9949,6 @@ game (
 	comment "Shinyaku Seiken Densetsu (Japan)"
 	releaseyear "2003"
 	rom ( crc 31B220E5 )
-)
-
-game (
-	comment "Shiren Monsters - Netsal (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 25B0B122 )
 )
 
 game (
@@ -10297,12 +10207,6 @@ game (
 	comment "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)"
 	releaseyear "2004"
 	rom ( crc 1F36892F )
-)
-
-game (
-	comment "Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 0594D496 )
 )
 
 game (
@@ -10636,7 +10540,7 @@ game (
 )
 
 game (
-	comment "Starsky & Hutch (USA) (Beta) (2003-02-11)"
+	comment "Starsky & Hutch (USA) (Beta)"
 	releaseyear "2003"
 	rom ( crc AB142D2E )
 )
@@ -10846,12 +10750,6 @@ game (
 )
 
 game (
-	comment "Super Mario Advance (USA) (Demo) (Kiosk)"
-	releaseyear "2001"
-	rom ( crc 69924CBD )
-)
-
-game (
 	comment "Super Mario Advance (USA, Europe)"
 	releaseyear "2001"
 	rom ( crc 1E4C6D6A )
@@ -10978,15 +10876,9 @@ game (
 )
 
 game (
-	comment "Super Mario Ball (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 65B1D9CB )
-)
-
-game (
-	comment "Super Monkey Ball Jr. (USA) (Beta) (2002-08-06)"
+	comment "Super Monkey Ball Jr. (USA) (Beta)"
 	releaseyear "2002"
-	rom ( crc FEE7B029 )
+	rom ( crc 0D72F2CC )
 )
 
 game (
@@ -11662,12 +11554,6 @@ game (
 )
 
 game (
-	comment "Tottoko Hamutarou - Hamu-Hamu Sports (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc 7CD6839C )
-)
-
-game (
 	comment "Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan)"
 	releaseyear "2002"
 	rom ( crc C2945D42 )
@@ -11977,12 +11863,6 @@ game (
 	comment "Vattroller X (Japan)"
 	releaseyear "2004"
 	rom ( crc E368A67A )
-)
-
-game (
-	comment "Vattroller X - Taikenban (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc BED622EC )
 )
 
 game (
@@ -12378,13 +12258,13 @@ game (
 game (
 	comment "Yggdra Union (Japan)"
 	releaseyear "2006"
-	rom ( crc A86F844A )
+	rom ( crc BF53A3D2 )
 )
 
 game (
 	comment "Yggdra Union - We'll Never Fight Alone (USA)"
 	releaseyear "2006"
-	rom ( crc 3BFA68F7 )
+	rom ( crc 84B5666C )
 )
 
 game (
@@ -12628,12 +12508,6 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - Fushigi no Boushi (Japan) (Demo) (Kiosk, GameCube)"
-	releaseyear "2004"
-	rom ( crc EA115BC4 )
-)
-
-game (
 	comment "Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi (Japan)"
 	releaseyear "2003"
 	rom ( crc 81E42BEE )
@@ -12776,4 +12650,3 @@ game (
 	releaseyear "2002"
 	rom ( crc 09A2255F )
 )
-

@@ -4,19 +4,19 @@ clrmamepro (
 )
 
 game (
-	comment "94 Super World Cup Soccer (Korea) (Unl)"
+	comment "94 Super World Cup Soccer (Korea) (En)"
 	releasemonth "6"
 	rom ( crc 060D6A7C )
 )
 
 game (
-	comment "Agigongnyong Dooly (Korea) (Unl)"
+	comment "Agigongnyong Dooly (Korea)"
 	releasemonth "1"
 	rom ( crc 4F1BE9FA )
 )
 
 game (
-	comment "Alex Kidd in Miracle World 2 (World) (Unl)"
+	comment "Alex Kidd in Miracle World 2 (World)"
 	releasemonth "5"
 	rom ( crc 7DE172FF )
 )
@@ -28,105 +28,105 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	releasemonth "10"
 	rom ( crc 4CC11DF9 )
 )
 
 game (
-	comment "Argos no Juujiken (Japan)"
+	comment "Argos no Juujiken (Japan) (En)"
 	releasemonth "3"
 	rom ( crc BAE75805 )
 )
 
 game (
-	comment "Ashura (Japan)"
+	comment "Ashura (Japan) (En)"
 	releasemonth "11"
 	rom ( crc AE705699 )
 )
 
 game (
-	comment "Astro Flash (Japan)"
+	comment "Astro Flash (Japan) (En)"
 	releasemonth "12"
 	rom ( crc C795182D )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 37E27A38 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.75) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 7)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 0B48F7DB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.52) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 6)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 9086E6BB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.51) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 5)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 06388C68 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.50) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 4)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 1647DB26 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.22) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 3)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 4EBBD863 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.21) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 2)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc CDB08905 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.20) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 1)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc B4742656 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.01) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 2)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 70A69913 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 1)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 7A3575D8 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.02) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 3)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc 59FD4F72 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.04) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 4)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc F433E9EB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.05) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 5)"
 	releasemonth "3"
-	rom ( crc 87A17FA9 )
+	rom ( crc CB722A12 )
 )
 
 game (
@@ -160,67 +160,67 @@ game (
 )
 
 game (
-	comment "Circuit, The (Japan)"
+	comment "Circuit, The (Japan) (En)"
 	releasemonth "9"
 	rom ( crc 8FB75994 )
 )
 
 game (
-	comment "Comical Machine Gun Joe (Japan)"
+	comment "Comical Machine Gun Joe (Japan) (En)"
 	releasemonth "4"
 	rom ( crc 9D549E08 )
 )
 
 game (
-	comment "Dinosaur Dooley, The (Korea) (En) (Unl)"
+	comment "Dinosaur Dooley, The (Korea) (En)"
 	releasemonth "1"
 	rom ( crc 32F4B791 )
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta)"
 	releasemonth "8"
 	rom ( crc 56BD2455 )
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)"
 	releasemonth "8"
 	rom ( crc 2BCDB8FA )
 )
 
 game (
-	comment "Double Target - Cynthia no Nemuri (Japan)"
+	comment "Double Target - Cynthia no Nemuri (Japan) (En)"
 	releasemonth "1"
 	rom ( crc 52B83072 )
 )
 
 game (
-	comment "Enduro Racer (Japan)"
+	comment "Enduro Racer (Japan) (En)"
 	releasemonth "5"
 	rom ( crc 5D5C50B3 )
 )
 
 game (
-	comment "F-16 Fighting Falcon (Japan)"
+	comment "F-16 Fighting Falcon (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 7CE06FCE )
 )
 
 game (
-	comment "Family Games (Japan)"
+	comment "Family Games (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 7ABC70E9 )
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	releasemonth "6"
 	rom ( crc 0FFBCAA3 )
 )
 
 game (
-	comment "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	comment "Fantasy Zone II - Opa-Opa no Namida (Japan) (En)"
 	releasemonth "10"
 	rom ( crc C722FB42 )
 )
@@ -232,61 +232,55 @@ game (
 )
 
 game (
-	comment "Fushigi no Oshiro Pit Pot (Japan)"
+	comment "Fushigi no Oshiro Pit Pot (Japan) (En)"
 	releasemonth "12"
 	rom ( crc E6795C53 )
 )
 
 game (
-	comment "Gaegujangi Ggachi (Korea) (Unl)"
+	comment "Gaegujangi Kkachi (Korea)"
 	releasemonth "8"
 	rom ( crc 8B40F6BF )
 )
 
 game (
-	comment "Ghost House (Japan)"
+	comment "Ghost House (Japan) (En)"
 	releasemonth "4"
 	rom ( crc C0F3CE7E )
 )
 
 game (
-	comment "Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)"
-	releasemonth "4"
-	rom ( crc 38418B1C )
-)
-
-game (
-	comment "Gokuaku Doumei Dump Matsumoto (Japan)"
+	comment "Gokuaku Doumei Dump Matsumoto (Japan) (En)"
 	releasemonth "7"
 	rom ( crc A249FA9D )
 )
 
 game (
-	comment "Great Baseball (Japan)"
+	comment "Great Baseball (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 89E98A7C )
 )
 
 game (
-	comment "Great Golf (Japan)"
+	comment "Great Golf (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 6586BD1F )
 )
 
 game (
-	comment "Great Soccer (Japan)"
+	comment "Great Soccer (Japan) (En)"
 	releasemonth "10"
 	rom ( crc 2D7FD7EF )
 )
 
 game (
-	comment "Great Tennis (Japan)"
+	comment "Great Tennis (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 95CBF3DD )
 )
 
 game (
-	comment "Great Volleyball (Japan)"
+	comment "Great Volleyball (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 6819B0C0 )
 )
@@ -298,7 +292,7 @@ game (
 )
 
 game (
-	comment "Hang On (Japan)"
+	comment "Hang On (Japan) (En)"
 	releasemonth "10"
 	rom ( crc 5C01ADF9 )
 )
@@ -322,7 +316,7 @@ game (
 )
 
 game (
-	comment "Jang Pung 3 (Korea) (Unl)"
+	comment "Jang Pung 3 (Korea) (En)"
 	releasemonth "10"
 	rom ( crc 18FB98A3 )
 )
@@ -376,19 +370,19 @@ game (
 )
 
 game (
-	comment "Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja)"
+	comment "Mahjong Sengoku Jidai (Japan)"
 	releasemonth "10"
 	rom ( crc BCFBFC67 )
 )
 
 game (
-	comment "Maze Walker (Japan)"
+	comment "Maze Walker (Japan) (En)"
 	releasemonth "1"
 	rom ( crc 871562B0 )
 )
 
 game (
-	comment "Megumi Rescue (Japan)"
+	comment "Megumi Rescue (Japan) (En)"
 	releasemonth "7"
 	rom ( crc 29BC7FAD )
 )
@@ -412,13 +406,13 @@ game (
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA) (Beta)"
 	releasemonth "6"
 	rom ( crc 575D0FCF )
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA)"
 	releasemonth "6"
 	rom ( crc 82FDA895 )
 )
@@ -436,13 +430,13 @@ game (
 )
 
 game (
-	comment "Opa Opa (Japan)"
+	comment "Opa Opa (Japan) (En)"
 	releasemonth "12"
 	rom ( crc BEA27D5C )
 )
 
 game (
-	comment "Phantasy Star (Brazil) (En)"
+	comment "Phantasy Star (Brazil)"
 	releasemonth "10"
 	rom ( crc 75971BEF )
 )
@@ -454,31 +448,25 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Japan) (Virtual Console)"
-	releasemonth "10"
-	rom ( crc 819EDE3F )
-)
-
-game (
 	comment "Pro Yakyuu, The - Pennant Race (Japan)"
 	releasemonth "8"
 	rom ( crc DA9BE8F0 )
 )
 
 game (
-	comment "Satellite 7 (Japan)"
+	comment "Satellite 7 (Japan) (En)"
 	releasemonth "12"
 	rom ( crc 16249E19 )
 )
 
 game (
-	comment "Seishun Scandal (Japan)"
+	comment "Seishun Scandal (Japan) (En)"
 	releasemonth "1"
 	rom ( crc F0BA2BC6 )
 )
 
 game (
-	comment "Shinobi (Japan, Brazil) (Ja)"
+	comment "Shinobi (Japan, Brazil) (En)"
 	releasemonth "6"
 	rom ( crc E1FFF1BB )
 )
@@ -496,13 +484,13 @@ game (
 )
 
 game (
-	comment "Space Harrier 3D (Japan)"
+	comment "Space Harrier 3D (Japan) (En)"
 	releasemonth "2"
 	rom ( crc 156948F9 )
 )
 
 game (
-	comment "Spy vs Spy (Japan)"
+	comment "Spy vs Spy (Japan) (En)"
 	releasemonth "9"
 	rom ( crc D41B9A08 )
 )
@@ -520,7 +508,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (USA) (Beta)"
+	comment "Super Monaco GP (USA) (Beta 1)"
 	releasemonth "9"
 	rom ( crc DD7ADBCC )
 )
@@ -532,27 +520,21 @@ game (
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	releasemonth "7"
 	rom ( crc C0CE19B1 )
 )
 
 game (
-	comment "Toto World 3 (Korea) (Unl)"
+	comment "Toto World 3 (Korea) (En)"
 	releasemonth "5"
 	rom ( crc 4F8D75EC )
 )
 
 game (
-	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan)"
+	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan) (En)"
 	releasemonth "3"
 	rom ( crc 315917D4 )
-)
-
-game (
-	comment "World Cup Italia '90 (USA) (Demo)"
-	releasemonth "12"
-	rom ( crc A0CF8B15 )
 )
 
 game (
@@ -566,4 +548,3 @@ game (
 	releasemonth "10"
 	rom ( crc 32759751 )
 )
-

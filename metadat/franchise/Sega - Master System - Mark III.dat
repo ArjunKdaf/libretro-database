@@ -22,7 +22,7 @@ game (
 )
 
 game (
-	comment "Aleste (Japan)"
+	comment "Aleste (Japan) (En)"
 	franchise "Aleste"
 	rom ( crc D8C4165B )
 )
@@ -46,45 +46,45 @@ game (
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (En) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1)"
 	franchise "Alex Kidd"
 	rom ( crc 4C405D68 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Fr) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1)"
 	franchise "Alex Kidd"
 	rom ( crc D7EED482 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2)"
 	franchise "Alex Kidd"
 	rom ( crc 42472435 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Pt) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Pt) (v1.1)"
 	franchise "Alex Kidd"
 	rom ( crc 7369853E )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (It) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (It)"
 	franchise "Alex Kidd"
-	rom ( crc 35B498A4 )
+	rom ( crc 9CBCF08E )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Es) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1)"
 	franchise "Alex Kidd"
 	rom ( crc 97D77051 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.1)"
 	franchise "Alex Kidd"
-	rom ( crc 35B498A4 )
+	rom ( crc 08B85755 )
 )
 
 game (
@@ -106,7 +106,7 @@ game (
 )
 
 game (
-	comment "Alex Kidd in Miracle World (World) (Sega Ages)"
+	comment "Alex Kidd in Miracle World (World) (En) (Sega Ages)"
 	franchise "Alex Kidd"
 	rom ( crc 50A8E8A7 )
 )
@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Alex Kidd in Miracle World 2 (World) (Unl)"
+	comment "Alex Kidd in Miracle World 2 (World)"
 	franchise "Alex Kidd"
 	rom ( crc 7DE172FF )
 )
@@ -130,7 +130,7 @@ game (
 )
 
 game (
-	comment "Alex Kido (Taiwan) (En) (Unl)"
+	comment "Alex Kido (Taiwan) (Ja)"
 	franchise "Alex Kidd"
 	rom ( crc 6F8E46CF )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Ashura (Japan)"
+	comment "Ashura (Japan) (En)"
 	franchise "Rambo"
 	rom ( crc AE705699 )
 )
@@ -208,87 +208,87 @@ game (
 )
 
 game (
-	comment "BMX Trial - Alex Kidd (Japan)"
+	comment "BMX Trial - Alex Kidd (Japan) (En)"
 	franchise "Alex Kidd"
 	rom ( crc F9DBB533 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 37E27A38 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.75) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 7)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 0B48F7DB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.52) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 6)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 9086E6BB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.51) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 5)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 06388C68 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.50) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 4)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 1647DB26 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.22) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 3)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 4EBBD863 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.21) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 2)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc CDB08905 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.20) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 1)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc B4742656 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.01) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 2)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 70A69913 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 1)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 7A3575D8 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.02) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 3)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc 59FD4F72 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.04) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 4)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc F433E9EB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.05) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 5)"
 	franchise "Bruce Lee"
-	rom ( crc 87A17FA9 )
+	rom ( crc CB722A12 )
 )
 
 game (
@@ -298,15 +298,9 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Taiwan) (En) (Unl)"
+	comment "Bubble Bobble (Taiwan) (En)"
 	franchise "Bubble Bobble"
 	rom ( crc B948752E )
-)
-
-game (
-	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)"
-	franchise "Mickey Mouse"
-	rom ( crc EE0F98CA )
 )
 
 game (
@@ -334,7 +328,7 @@ game (
 )
 
 game (
-	comment "Choplifter (Japan) (Proto)"
+	comment "Choplifter (Japan) (En) (Proto)"
 	franchise "Choplifter"
 	rom ( crc 16EC3575 )
 )
@@ -382,7 +376,7 @@ game (
 )
 
 game (
-	comment "Cyber Shinobi, The (Taiwan) (En) (Unl)"
+	comment "Cyber Shinobi, The (Taiwan) (En)"
 	franchise "Shinobi"
 	rom ( crc AD9FF469 )
 )
@@ -400,7 +394,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (Taiwan) (En) (Unl)"
+	comment "Double Dragon (Taiwan) (En)"
 	franchise "Double Dragon"
 	rom ( crc F4F848C2 )
 )
@@ -424,7 +418,7 @@ game (
 )
 
 game (
-	comment "Ecco The Dolphin (Europe, Brazil) (En)"
+	comment "Ecco the Dolphin (Europe, Brazil) (En)"
 	franchise "Ecco the Dolphin"
 	rom ( crc 6687FAB9 )
 )
@@ -436,7 +430,7 @@ game (
 )
 
 game (
-	comment "FA Tetris (Korea) (Unl)"
+	comment "FA Tetris (Korea) (En)"
 	franchise "Tetris"
 	rom ( crc 17AB6883 )
 )
@@ -460,7 +454,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	comment "Fantasy Zone II - Opa-Opa no Namida (Japan) (En)"
 	franchise "Fantasy Zone"
 	rom ( crc C722FB42 )
 )
@@ -484,7 +478,7 @@ game (
 )
 
 game (
-	comment "Galaxian (Korea) (Unl)"
+	comment "Galaxian (Korea) (En)"
 	franchise "Galaxian"
 	rom ( crc 577EC227 )
 )
@@ -502,7 +496,7 @@ game (
 )
 
 game (
-	comment "Gangcheol RoboCop (Korea) (En) (Unl)"
+	comment "Gangcheol RoboCop (Korea) (En)"
 	franchise "RoboCop"
 	rom ( crc AD522EFD )
 )
@@ -511,12 +505,6 @@ game (
 	comment "Gauntlet (Europe, Brazil) (En)"
 	franchise "Gauntlet"
 	rom ( crc D9190956 )
-)
-
-game (
-	comment "Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)"
-	franchise "Ghost'n Goblins"
-	rom ( crc 38418B1C )
 )
 
 game (
@@ -529,12 +517,6 @@ game (
 	comment "Golden Axe (USA, Europe, Brazil) (En)"
 	franchise "Golden Axe"
 	rom ( crc C08132FB )
-)
-
-game (
-	comment "Golden Axe (USA, Europe, Brazil) (En) (Demo)"
-	franchise "Golden Axe"
-	rom ( crc A471F450 )
 )
 
 game (
@@ -604,7 +586,7 @@ game (
 )
 
 game (
-	comment "King's Quest - Quest for the Crown (USA) (Beta)"
+	comment "King's Quest - Quest for the Crown (USA) (Beta 2)"
 	franchise "King's Quest"
 	rom ( crc B7FE0A9D )
 )
@@ -628,7 +610,7 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta)"
+	comment "Lemmings (Europe, Brazil) (En) (Beta)"
 	franchise "Lemmings"
 	rom ( crc 2C61ED88 )
 )
@@ -640,7 +622,7 @@ game (
 )
 
 game (
-	comment "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)"
+	comment "Lemmings 2 - The Tribes (Europe) (Proto)"
 	franchise "Lemmings"
 	rom ( crc CF5AECCA )
 )
@@ -688,7 +670,7 @@ game (
 )
 
 game (
-	comment "Monopoly (USA) (Beta)"
+	comment "Monopoly (USA, Europe) (Beta 1)"
 	franchise "Monopoly"
 	rom ( crc 7E9D87FC )
 )
@@ -700,7 +682,7 @@ game (
 )
 
 game (
-	comment "Monopoly (Europe) (Rev A)"
+	comment "Monopoly (USA, Europe) (Rev A)"
 	franchise "Monopoly"
 	rom ( crc 026D94A4 )
 )
@@ -748,7 +730,7 @@ game (
 )
 
 game (
-	comment "Opa Opa (Japan)"
+	comment "Opa Opa (Japan) (En)"
 	franchise "Fantasy Zone"
 	rom ( crc BEA27D5C )
 )
@@ -784,7 +766,7 @@ game (
 )
 
 game (
-	comment "Paper Boy (Taiwan) (En) (Unl)"
+	comment "Paper Boy (Taiwan) (En)"
 	franchise "Paperboy"
 	rom ( crc 354BEE78 )
 )
@@ -814,7 +796,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Brazil) (En)"
+	comment "Phantasy Star (Brazil)"
 	franchise "Phantasy Star"
 	rom ( crc 75971BEF )
 )
@@ -832,19 +814,13 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Korea) (Unl)"
+	comment "Phantasy Star (Korea)"
 	franchise "Phantasy Star"
 	rom ( crc 747E83B5 )
 )
 
 game (
-	comment "Phantasy Star (Japan) (Virtual Console)"
-	franchise "Phantasy Star"
-	rom ( crc 819EDE3F )
-)
-
-game (
-	comment "Phantasy Star (World) (Sega Ages)"
+	comment "Phantasy Star (World) (En) (Sega Ages)"
 	franchise "Phantasy Star"
 	rom ( crc A1E090B9 )
 )
@@ -892,7 +868,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Taiwan) (En) (Unl)"
+	comment "Prince of Persia (Taiwan) (En)"
 	franchise "Prince of Persia"
 	rom ( crc CAFD2D83 )
 )
@@ -910,7 +886,7 @@ game (
 )
 
 game (
-	comment "R-Type (Taiwan) (En) (Unl)"
+	comment "R-Type (Taiwan) (En)"
 	franchise "R-Type"
 	rom ( crc E532716F )
 )
@@ -964,19 +940,19 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe, Brazil) (En)"
+	comment "RoboCop Versus The Terminator (Europe, Brazil) (En)"
 	franchise "RoboCop"
 	rom ( crc 8212B754 )
 )
 
 game (
-	comment "Samgukji 3 (Korea) (Unl)"
+	comment "Samgukji III - Cheonha Jaengpae (Korea)"
 	franchise "Romance of the Three Kingdoms"
 	rom ( crc 97D03541 )
 )
 
 game (
-	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)"
+	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)"
 	franchise "Les Schtroumpfs"
 	rom ( crc 7982AE67 )
 )
@@ -1000,7 +976,7 @@ game (
 )
 
 game (
-	comment "Shadow Dancer (Taiwan) (En) (Unl)"
+	comment "Shadow Dancer (Taiwan) (En)"
 	franchise "Shinobi"
 	rom ( crc AB67C6BD )
 )
@@ -1018,7 +994,7 @@ game (
 )
 
 game (
-	comment "Shadow of the Beast (Taiwan) (En) (Unl)"
+	comment "Shadow of the Beast (Taiwan) (En)"
 	franchise "Shadow of the Beast"
 	rom ( crc AC2EA669 )
 )
@@ -1036,7 +1012,7 @@ game (
 )
 
 game (
-	comment "Shangwei Mingling (Taiwan) (En) (Unl)"
+	comment "Secret Command (Taiwan) (En)"
 	franchise "Rambo"
 	rom ( crc 89EFCC22 )
 )
@@ -1048,7 +1024,7 @@ game (
 )
 
 game (
-	comment "Shinobi (Japan, Brazil) (Ja)"
+	comment "Shinobi (Japan, Brazil) (En)"
 	franchise "Shinobi"
 	rom ( crc E1FFF1BB )
 )
@@ -1090,13 +1066,13 @@ game (
 )
 
 game (
-	comment "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13)"
+	comment "Sonic Chaos (Europe, Brazil) (En) (Beta 2)"
 	franchise "Sonic"
 	rom ( crc 765234D8 )
 )
 
 game (
-	comment "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30)"
+	comment "Sonic Chaos (Europe, Brazil) (En) (Beta 1)"
 	franchise "Sonic"
 	rom ( crc D3AD67FA )
 )
@@ -1114,7 +1090,7 @@ game (
 )
 
 game (
-	comment "Sonic's Edusoft (Unknown) (Proto)"
+	comment "Sonic's Edusoft (Europe) (Proto)"
 	franchise "Sonic"
 	rom ( crc D9096263 )
 )
@@ -1144,7 +1120,7 @@ game (
 )
 
 game (
-	comment "Space Harrier 3D (Japan)"
+	comment "Space Harrier 3D (Japan) (En)"
 	franchise "Space Harrier"
 	rom ( crc 156948F9 )
 )
@@ -1198,12 +1174,6 @@ game (
 )
 
 game (
-	comment "Strider (USA, Europe, Brazil) (En) (Demo)"
-	franchise "Strider"
-	rom ( crc B990269A )
-)
-
-game (
 	comment "Strider (USA, Europe, Brazil) (En)"
 	franchise "Strider"
 	rom ( crc 9802ED31 )
@@ -1216,13 +1186,13 @@ game (
 )
 
 game (
-	comment "Strider, The (Taiwan) (En) (Unl)"
+	comment "Strider, The (Taiwan) (En)"
 	franchise "Strider"
 	rom ( crc 63A7F906 )
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (En) (Unl)"
+	comment "Super Bubble Bobble (Korea) (En)"
 	franchise "Bubble Bobble"
 	rom ( crc 22C09CFD )
 )
@@ -1246,7 +1216,7 @@ game (
 )
 
 game (
-	comment "Super Tetris (Korea) (Unl)"
+	comment "Super Tetris (Taiwan) (En)"
 	franchise "Tetris"
 	rom ( crc BD1CC7DF )
 )
@@ -1300,7 +1270,7 @@ game (
 )
 
 game (
-	comment "Turma da Monica em O Resgate (Brazil)"
+	comment "Turma da Monica em - O Resgate (Brazil)"
 	franchise "Turma da Mônica"
 	rom ( crc 22CCA9BB )
 )
@@ -1318,7 +1288,7 @@ game (
 )
 
 game (
-	comment "Where in the World is Carmen Sandiego (Brazil) (En)"
+	comment "Where in the World is Carmen Sandiego (Brazil)"
 	franchise "Carmen Sandiego"
 	rom ( crc 88AA8CA6 )
 )
@@ -1354,7 +1324,7 @@ game (
 )
 
 game (
-	comment "Wonder Boy III - The Dragon's Trap (USA, Europe) (Aftermarket) (Unl)"
+	comment "Wonder Boy III - The Dragon's Trap (World) (Digital)"
 	franchise "Wonder Boy"
 	rom ( crc 525F4F3D )
 )
@@ -1420,12 +1390,6 @@ game (
 )
 
 game (
-	comment "Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)"
-	franchise "Ys"
-	rom ( crc E8B82066 )
-)
-
-game (
 	comment "Zaxxon 3-D (World) (Beta)"
 	franchise "Zaxxon"
 	rom ( crc BBA74147 )
@@ -1438,7 +1402,7 @@ game (
 )
 
 game (
-	comment "Zillion (Japan, Europe) (En,Ja)"
+	comment "Zillion (Japan, Europe) (En)"
 	franchise "Zillion"
 	rom ( crc 60C19645 )
 )
@@ -1472,4 +1436,3 @@ game (
 	franchise "Zillion"
 	rom ( crc 5B1CF392 )
 )
-

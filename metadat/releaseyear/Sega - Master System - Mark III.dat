@@ -10,13 +10,13 @@ game (
 )
 
 game (
-	comment "4 PAK All Action (Australia) (Unl)"
+	comment "4 PAK All Action (Australia)"
 	releaseyear "1995"
 	rom ( crc A67F2A5C )
 )
 
 game (
-	comment "94 Super World Cup Soccer (Korea) (Unl)"
+	comment "94 Super World Cup Soccer (Korea) (En)"
 	releaseyear "1994"
 	rom ( crc 060D6A7C )
 )
@@ -28,13 +28,13 @@ game (
 )
 
 game (
-	comment "Aerial Assault (USA)"
+	comment "Aerial Assault (USA, Brazil) (En)"
 	releaseyear "1990"
 	rom ( crc 15576613 )
 )
 
 game (
-	comment "Agigongnyong Dooly (Korea) (Unl)"
+	comment "Agigongnyong Dooly (Korea)"
 	releaseyear "1991"
 	rom ( crc 4F1BE9FA )
 )
@@ -58,13 +58,13 @@ game (
 )
 
 game (
-	comment "Alex Kidd in Miracle World (World) (Sega Ages)"
+	comment "Alex Kidd in Miracle World (World) (En) (Sega Ages)"
 	releaseyear "1986"
 	rom ( crc 50A8E8A7 )
 )
 
 game (
-	comment "Alex Kidd in Miracle World 2 (World) (Unl)"
+	comment "Alex Kidd in Miracle World 2 (World)"
 	releaseyear "2017"
 	rom ( crc 7DE172FF )
 )
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Alibaba and 40 Thieves (Korea) (En) (Unl)"
+	comment "Alibaba and 40 Thieves (Korea) (En)"
 	releaseyear "1989"
 	rom ( crc 08BF3DE3 )
 )
@@ -88,7 +88,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 4CC11DF9 )
 )
@@ -100,7 +100,7 @@ game (
 )
 
 game (
-	comment "Argos no Juujiken (Japan)"
+	comment "Argos no Juujiken (Japan) (En)"
 	releaseyear "1988"
 	rom ( crc BAE75805 )
 )
@@ -112,7 +112,7 @@ game (
 )
 
 game (
-	comment "Ashura (Japan)"
+	comment "Ashura (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc AE705699 )
 )
@@ -130,7 +130,7 @@ game (
 )
 
 game (
-	comment "Astro Flash (Japan)"
+	comment "Astro Flash (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc C795182D )
 )
@@ -154,7 +154,7 @@ game (
 )
 
 game (
-	comment "Battle Wings (World) (Beta) (1988-09-07)"
+	comment "Battle Wings (World) (Beta)"
 	releaseyear "1988"
 	rom ( crc FAE0ADE7 )
 )
@@ -166,93 +166,93 @@ game (
 )
 
 game (
-	comment "Blade Eagle (World) (Beta)"
+	comment "Blade Eagle (World) (Beta 1)"
 	releaseyear "1988"
 	rom ( crc 58D5FC48 )
 )
 
 game (
-	comment "Bobble Bobble (Korea) (En) (Unl)"
+	comment "Bobble Bobble (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 25EB9F80 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 37E27A38 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.75) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 7)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 0B48F7DB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.52) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 6)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 9086E6BB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.51) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 5)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 06388C68 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.50) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 4)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 1647DB26 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.22) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 3)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 4EBBD863 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.21) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 2)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc CDB08905 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.20) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 1)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc B4742656 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.01) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 2)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 70A69913 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 1)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 7A3575D8 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.02) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 3)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc 59FD4F72 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.04) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 4)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc F433E9EB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.05) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 5)"
 	releaseyear "2015"
-	rom ( crc 87A17FA9 )
+	rom ( crc CB722A12 )
 )
 
 game (
@@ -298,7 +298,7 @@ game (
 )
 
 game (
-	comment "Choplifter (Japan) (Proto)"
+	comment "Choplifter (Japan) (En) (Proto)"
 	releaseyear "1985"
 	rom ( crc 16EC3575 )
 )
@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "Circuit, The (Japan)"
+	comment "Circuit, The (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc 8FB75994 )
 )
@@ -328,7 +328,7 @@ game (
 )
 
 game (
-	comment "Comical Machine Gun Joe (Japan)"
+	comment "Comical Machine Gun Joe (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc 9D549E08 )
 )
@@ -340,25 +340,25 @@ game (
 )
 
 game (
-	comment "Cyborg Z (Korea) (Unl)"
+	comment "Cyborg Z (Korea) (En)"
 	releaseyear "1991"
 	rom ( crc 77EFE84A )
 )
 
 game (
-	comment "Dallyeora Pigu-Wang (Korea) (Unl)"
+	comment "Dallyeora Pigu-Wang (Korea)"
 	releaseyear "1995"
 	rom ( crc 89B79E77 )
 )
 
 game (
-	comment "Dinosaur Dooley, The (Korea) (En) (Unl)"
+	comment "Dinosaur Dooley, The (Korea) (En)"
 	releaseyear "1991"
 	rom ( crc 32F4B791 )
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta)"
 	releaseyear "1987"
 	rom ( crc 56BD2455 )
 )
@@ -370,19 +370,19 @@ game (
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 2BCDB8FA )
 )
 
 game (
-	comment "Double Target - Cynthia no Nemuri (Japan)"
+	comment "Double Target - Cynthia no Nemuri (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 52B83072 )
 )
 
 game (
-	comment "Dr. HELLO (Korea) (En) (Unl)"
+	comment "Dr. HELLO (Korea) (En)"
 	releaseyear "1991"
 	rom ( crc 16537865 )
 )
@@ -394,7 +394,7 @@ game (
 )
 
 game (
-	comment "Eagles 5 (Korea) (Unl)"
+	comment "Eagles 5 (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc F06F2CCB )
 )
@@ -412,25 +412,25 @@ game (
 )
 
 game (
-	comment "Enduro Racer (Japan)"
+	comment "Enduro Racer (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 5D5C50B3 )
 )
 
 game (
-	comment "F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl)"
+	comment "F-1 Spirit - The Way to Formula-1 (Korea) (En)"
 	releaseyear "1987"
 	rom ( crc 06965ED9 )
 )
 
 game (
-	comment "F-16 Fighting Falcon (Japan)"
+	comment "F-16 Fighting Falcon (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 7CE06FCE )
 )
 
 game (
-	comment "FA Tetris (Korea) (Unl)"
+	comment "FA Tetris (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 17AB6883 )
 )
@@ -442,7 +442,7 @@ game (
 )
 
 game (
-	comment "Family Games (Japan)"
+	comment "Family Games (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 7ABC70E9 )
 )
@@ -454,7 +454,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc 0FFBCAA3 )
 )
@@ -478,7 +478,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	comment "Fantasy Zone II - Opa-Opa no Namida (Japan) (En)"
 	releaseyear "1997"
 	rom ( crc C722FB42 )
 )
@@ -508,19 +508,19 @@ game (
 )
 
 game (
-	comment "Flashpoint (Korea) (Unl)"
+	comment "Flashpoint (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 61E8806F )
 )
 
 game (
-	comment "Fushigi no Oshiro Pit Pot (Japan)"
+	comment "Fushigi no Oshiro Pit Pot (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc E6795C53 )
 )
 
 game (
-	comment "Gaegujangi Ggachi (Korea) (Unl)"
+	comment "Gaegujangi Kkachi (Korea)"
 	releaseyear "1993"
 	rom ( crc 8B40F6BF )
 )
@@ -538,7 +538,7 @@ game (
 )
 
 game (
-	comment "Gangcheol RoboCop (Korea) (En) (Unl)"
+	comment "Gangcheol RoboCop (Korea) (En)"
 	releaseyear "1992"
 	rom ( crc AD522EFD )
 )
@@ -550,19 +550,13 @@ game (
 )
 
 game (
-	comment "Ghost House (Japan)"
+	comment "Ghost House (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc C0F3CE7E )
 )
 
 game (
-	comment "Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)"
-	releaseyear "1991"
-	rom ( crc 38418B1C )
-)
-
-game (
-	comment "Gokuaku Doumei Dump Matsumoto (Japan)"
+	comment "Gokuaku Doumei Dump Matsumoto (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc A249FA9D )
 )
@@ -580,7 +574,7 @@ game (
 )
 
 game (
-	comment "Great Baseball (Japan)"
+	comment "Great Baseball (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 89E98A7C )
 )
@@ -598,7 +592,7 @@ game (
 )
 
 game (
-	comment "Great Golf (Japan)"
+	comment "Great Golf (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc 6586BD1F )
 )
@@ -610,25 +604,25 @@ game (
 )
 
 game (
-	comment "Great Soccer (Japan)"
+	comment "Great Soccer (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 2D7FD7EF )
 )
 
 game (
-	comment "Great Tennis (Japan)"
+	comment "Great Tennis (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 95CBF3DD )
 )
 
 game (
-	comment "Great Volleyball (Japan)"
+	comment "Great Volleyball (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 6819B0C0 )
 )
 
 game (
-	comment "Gun.Smoke (Korea) (En) (Unl)"
+	comment "Gun.Smoke (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 3AF7CCAD )
 )
@@ -640,7 +634,7 @@ game (
 )
 
 game (
-	comment "Hang On (Japan)"
+	comment "Hang On (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 5C01ADF9 )
 )
@@ -676,7 +670,7 @@ game (
 )
 
 game (
-	comment "Hong Kil Dong (Korea) (Unl)"
+	comment "Hong Kil Dong (Korea)"
 	releaseyear "1991"
 	rom ( crc 8040B2FA )
 )
@@ -706,13 +700,13 @@ game (
 )
 
 game (
-	comment "Jang Pung 3 (Korea) (Unl)"
+	comment "Jang Pung 3 (Korea) (En)"
 	releaseyear "1994"
 	rom ( crc 18FB98A3 )
 )
 
 game (
-	comment "Janggun-ui Adeul (Korea) (Unl)"
+	comment "Janggun-ui Adeul (Korea)"
 	releaseyear "1992"
 	rom ( crc 192949D5 )
 )
@@ -724,7 +718,7 @@ game (
 )
 
 game (
-	comment "King's Quest - Quest for the Crown (USA) (Beta)"
+	comment "King's Quest - Quest for the Crown (USA) (Beta 2)"
 	releaseyear "1989"
 	rom ( crc B7FE0A9D )
 )
@@ -790,7 +784,7 @@ game (
 )
 
 game (
-	comment "Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja)"
+	comment "Mahjong Sengoku Jidai (Japan)"
 	releaseyear "1987"
 	rom ( crc BCFBFC67 )
 )
@@ -802,13 +796,13 @@ game (
 )
 
 game (
-	comment "Maze Walker (Japan)"
+	comment "Maze Walker (Japan) (En)"
 	releaseyear "1988"
 	rom ( crc 871562B0 )
 )
 
 game (
-	comment "Megumi Rescue (Japan)"
+	comment "Megumi Rescue (Japan) (En)"
 	releaseyear "1988"
 	rom ( crc 29BC7FAD )
 )
@@ -832,19 +826,19 @@ game (
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA) (Beta)"
 	releaseyear "1989"
 	rom ( crc 575D0FCF )
 )
 
 game (
-	comment "Monopoly (Europe) (Rev A)"
+	comment "Monopoly (USA, Europe) (Rev A)"
 	releaseyear "1988"
 	rom ( crc 026D94A4 )
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA)"
 	releaseyear "1989"
 	rom ( crc 82FDA895 )
 )
@@ -856,19 +850,19 @@ game (
 )
 
 game (
-	comment "Nemesis (Korea) (Unl)"
+	comment "Nemesis (Korea) (En)"
 	releaseyear "1987"
 	rom ( crc E316C06D )
 )
 
 game (
-	comment "Nemesis 2 (Korea) (En) (Unl)"
+	comment "Nemesis 2 (Korea) (En)"
 	releaseyear "1987"
 	rom ( crc 0A77FA5E )
 )
 
 game (
-	comment "New Boggle Boggle 2 (Korea) (En) (Unl)"
+	comment "New Boggle Boggle 2 (Korea) (En)"
 	releaseyear "1989"
 	rom ( crc DBBF4DD1 )
 )
@@ -904,7 +898,7 @@ game (
 )
 
 game (
-	comment "Opa Opa (Japan)"
+	comment "Opa Opa (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc BEA27D5C )
 )
@@ -922,7 +916,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Brazil) (En)"
+	comment "Phantasy Star (Brazil)"
 	releaseyear "1991"
 	rom ( crc 75971BEF )
 )
@@ -934,13 +928,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Japan) (Virtual Console)"
-	releaseyear "1991"
-	rom ( crc 819EDE3F )
-)
-
-game (
-	comment "Phantasy Star (World) (Sega Ages)"
+	comment "Phantasy Star (World) (En) (Sega Ages)"
 	releaseyear "1988"
 	rom ( crc A1E090B9 )
 )
@@ -994,7 +982,7 @@ game (
 )
 
 game (
-	comment "Puzzle Game (Korea) (En) (Unl)"
+	comment "Puzzle Game (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 76E8265F )
 )
@@ -1030,13 +1018,13 @@ game (
 )
 
 game (
-	comment "Samgukji 3 (Korea) (Unl)"
+	comment "Samgukji III - Cheonha Jaengpae (Korea)"
 	releaseyear "1994"
 	rom ( crc 97D03541 )
 )
 
 game (
-	comment "Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt)"
+	comment "Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (En)"
 	releaseyear "1995"
 	rom ( crc 7AB2946A )
 )
@@ -1048,7 +1036,7 @@ game (
 )
 
 game (
-	comment "Satellite 7 (Japan)"
+	comment "Satellite 7 (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 16249E19 )
 )
@@ -1066,13 +1054,13 @@ game (
 )
 
 game (
-	comment "Seishun Scandal (Japan)"
+	comment "Seishun Scandal (Japan) (En)"
 	releaseyear "1986"
 	rom ( crc F0BA2BC6 )
 )
 
 game (
-	comment "Shinobi (Japan, Brazil) (Ja)"
+	comment "Shinobi (Japan, Brazil) (En)"
 	releaseyear "1988"
 	rom ( crc E1FFF1BB )
 )
@@ -1090,19 +1078,19 @@ game (
 )
 
 game (
-	comment "Sky Fighter (Korea) (En) (Unl)"
+	comment "Sky Fighter (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc 77BA2667 )
 )
 
 game (
-	comment "Sky Jaguar (Korea) (Unl)"
+	comment "Sky Jaguar (Korea) (En) (Samsung)"
 	releaseyear "1984"
 	rom ( crc 5B8E65E4 )
 )
 
 game (
-	comment "Sky Jaguar (Korea) (Clover) (Unl)"
+	comment "Sky Jaguar (Korea) (En) (HiCom)"
 	releaseyear "1984"
 	rom ( crc E3F260CA )
 )
@@ -1150,19 +1138,19 @@ game (
 )
 
 game (
-	comment "Space Harrier 3D (Japan)"
+	comment "Space Harrier 3D (Japan) (En)"
 	releaseyear "1988"
 	rom ( crc 156948F9 )
 )
 
 game (
-	comment "Sports Pad Soccer (Japan)"
+	comment "Sports Pad Soccer (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 41C948BF )
 )
 
 game (
-	comment "Spy vs Spy (Japan)"
+	comment "Spy vs Spy (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc D41B9A08 )
 )
@@ -1174,7 +1162,7 @@ game (
 )
 
 game (
-	comment "Street Master (Korea) (Unl)"
+	comment "Street Master (Korea) (En)"
 	releaseyear "1992"
 	rom ( crc 83F0EEDE )
 )
@@ -1192,7 +1180,7 @@ game (
 )
 
 game (
-	comment "Suho Jeonsa (Korea) (Unl)"
+	comment "Suho Jeonsa (Korea)"
 	releaseyear "1994"
 	rom ( crc 01686D67 )
 )
@@ -1204,25 +1192,25 @@ game (
 )
 
 game (
-	comment "Super Arkanoid (Korea) (Unl)"
+	comment "Super Arkanoid (Korea) (En)"
 	releaseyear "1990"
 	rom ( crc C9DD4E5F )
 )
 
 game (
-	comment "Super Boy 4 (Korea) (Unl)"
+	comment "Super Boy 4 (Korea) (En)"
 	releaseyear "1992"
 	rom ( crc B995B4F0 )
 )
 
 game (
-	comment "Super Boy II (Korea) (En) (Unl)"
+	comment "Super Boy II (Korea) (En)"
 	releaseyear "1989"
 	rom ( crc 67C2F0FF )
 )
 
 game (
-	comment "Super Boy III (Korea) (En) (Unl)"
+	comment "Super Boy III (Korea) (En)"
 	releaseyear "1991"
 	rom ( crc 9195C34C )
 )
@@ -1234,7 +1222,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (USA) (Beta)"
+	comment "Super Monaco GP (USA) (Beta 1)"
 	releaseyear "1990"
 	rom ( crc DD7ADBCC )
 )
@@ -1276,13 +1264,13 @@ game (
 )
 
 game (
-	comment "Teddy Boy Blues (Japan) (Proto) (Ep-MyCard)"
+	comment "Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard)"
 	releaseyear "1985"
 	rom ( crc D7508041 )
 )
 
 game (
-	comment "Teddy Boy Blues (Japan)"
+	comment "Teddy Boy Blues (Japan) (En)"
 	releaseyear "1985"
 	rom ( crc 316727DD )
 )
@@ -1300,31 +1288,31 @@ game (
 )
 
 game (
-	comment "Three Dragon Story, The (Korea) (Unl)"
+	comment "Three Dragon Story, The (Korea) (En)"
 	releaseyear "1989"
 	rom ( crc 8640E7E8 )
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	releaseyear "1988"
 	rom ( crc C0CE19B1 )
 )
 
 game (
-	comment "Toto World 3 (Korea) (Unl)"
+	comment "Toto World 3 (Korea) (En)"
 	releaseyear "1995"
 	rom ( crc 4F8D75EC )
 )
 
 game (
-	comment "Turma da Monica em O Resgate (Brazil)"
+	comment "Turma da Monica em - O Resgate (Brazil)"
 	releaseyear "1993"
 	rom ( crc 22CCA9BB )
 )
 
 game (
-	comment "Ttoriui Moheom (Korea) (En) (Unl)"
+	comment "Ttoriui Moheom (Korea) (En)"
 	releaseyear "1986"
 	rom ( crc 178801D2 )
 )
@@ -1360,21 +1348,15 @@ game (
 )
 
 game (
-	comment "Wonsiin (Korea) (Unl)"
+	comment "Wonsiin (Korea) (En)"
 	releaseyear "1991"
 	rom ( crc A05258F5 )
 )
 
 game (
-	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan)"
+	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan) (En)"
 	releaseyear "1987"
 	rom ( crc 315917D4 )
-)
-
-game (
-	comment "World Cup Italia '90 (USA) (Demo)"
-	releaseyear "1990"
-	rom ( crc A0CF8B15 )
 )
 
 game (
@@ -1400,4 +1382,3 @@ game (
 	releaseyear "1987"
 	rom ( crc 5B1CF392 )
 )
-

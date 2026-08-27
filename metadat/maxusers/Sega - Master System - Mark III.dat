@@ -16,19 +16,19 @@ game (
 )
 
 game (
-	comment "4 PAK All Action (Australia) (Unl)"
+	comment "4 PAK All Action (Australia)"
 	users 2
 	rom ( crc A67F2A5C )
 )
 
 game (
-	comment "94 Super World Cup Soccer (Korea) (Unl)"
+	comment "94 Super World Cup Soccer (Korea) (En)"
 	users 2
 	rom ( crc 060D6A7C )
 )
 
 game (
-	comment "94-Nen Super Basketball (Taiwan) (En) (Unl)"
+	comment "94-Nen Super Basketball (Taiwan) (En)"
 	users 2
 	rom ( crc 6FE448A5 )
 )
@@ -40,7 +40,7 @@ game (
 )
 
 game (
-	comment "Action Boy (Taiwan) (En) (Unl)"
+	comment "Action Boy (Taiwan) (En)"
 	users 2
 	rom ( crc D0263024 )
 )
@@ -70,7 +70,7 @@ game (
 )
 
 game (
-	comment "Action Fighter (Taiwan) (Unl)"
+	comment "Action Fighter (Taiwan) (En)"
 	users 2
 	rom ( crc 8418F438 )
 )
@@ -82,13 +82,13 @@ game (
 )
 
 game (
-	comment "Aerial Assault (USA)"
+	comment "Aerial Assault (USA, Brazil) (En)"
 	users 1
 	rom ( crc 15576613 )
 )
 
 game (
-	comment "Aerial Assault (Taiwan) (En) (Unl)"
+	comment "Aerial Assault (Taiwan) (En)"
 	users 1
 	rom ( crc 6630E5FD )
 )
@@ -100,7 +100,7 @@ game (
 )
 
 game (
-	comment "Agigongnyong Dooly (Korea) (Unl)"
+	comment "Agigongnyong Dooly (Korea)"
 	users 1
 	rom ( crc 4F1BE9FA )
 )
@@ -118,7 +118,7 @@ game (
 )
 
 game (
-	comment "Aleste (Japan)"
+	comment "Aleste (Japan) (En)"
 	users 1
 	rom ( crc D8C4165B )
 )
@@ -142,45 +142,45 @@ game (
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (En) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1)"
 	users 1
 	rom ( crc 4C405D68 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Fr) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1)"
 	users 1
 	rom ( crc D7EED482 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2)"
 	users 1
 	rom ( crc 42472435 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Pt) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Pt) (v1.1)"
 	users 1
 	rom ( crc 7369853E )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (It) (v1.0) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (It)"
 	users 1
-	rom ( crc 35B498A4 )
+	rom ( crc 9CBCF08E )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (Es) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1)"
 	users 1
 	rom ( crc 97D77051 )
 )
 
 game (
-	comment "Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.1)"
 	users 1
-	rom ( crc 35B498A4 )
+	rom ( crc 08B85755 )
 )
 
 game (
@@ -202,7 +202,7 @@ game (
 )
 
 game (
-	comment "Alex Kidd in Miracle World (World) (Sega Ages)"
+	comment "Alex Kidd in Miracle World (World) (En) (Sega Ages)"
 	users 1
 	rom ( crc 50A8E8A7 )
 )
@@ -214,7 +214,7 @@ game (
 )
 
 game (
-	comment "Alex Kidd in Miracle World 2 (World) (Unl)"
+	comment "Alex Kidd in Miracle World 2 (World)"
 	users 1
 	rom ( crc 7DE172FF )
 )
@@ -226,7 +226,7 @@ game (
 )
 
 game (
-	comment "Alex Kido (Taiwan) (En) (Unl)"
+	comment "Alex Kido (Taiwan) (Ja)"
 	users 1
 	rom ( crc 6F8E46CF )
 )
@@ -238,7 +238,7 @@ game (
 )
 
 game (
-	comment "Alibaba and 40 Thieves (Korea) (En) (Unl)"
+	comment "Alibaba and 40 Thieves (Korea) (En)"
 	users 1
 	rom ( crc 08BF3DE3 )
 )
@@ -268,7 +268,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	users 2
 	rom ( crc 4CC11DF9 )
 )
@@ -310,7 +310,7 @@ game (
 )
 
 game (
-	comment "Argos no Juujiken (Japan)"
+	comment "Argos no Juujiken (Japan) (En)"
 	users 2
 	rom ( crc BAE75805 )
 )
@@ -322,13 +322,13 @@ game (
 )
 
 game (
-	comment "Ashura (Japan)"
+	comment "Ashura (Japan) (En)"
 	users 2
 	rom ( crc AE705699 )
 )
 
 game (
-	comment "Assault City (USA, Europe, Brazil) (En) (Light Phaser)"
+	comment "Assault City (Europe, Brazil) (En) (Light Phaser)"
 	users 1
 	rom ( crc 861B6E79 )
 )
@@ -364,13 +364,13 @@ game (
 )
 
 game (
-	comment "Astro Adventure (Taiwan) (En) (Unl)"
+	comment "Astro Adventure (Taiwan) (En)"
 	users 1
 	rom ( crc FB163003 )
 )
 
 game (
-	comment "Astro Flash (Japan)"
+	comment "Astro Flash (Japan) (En)"
 	users 2
 	rom ( crc C795182D )
 )
@@ -466,7 +466,7 @@ game (
 )
 
 game (
-	comment "Battle Wings (World) (Beta) (1988-09-07)"
+	comment "Battle Wings (World) (Beta)"
 	users 1
 	rom ( crc FAE0ADE7 )
 )
@@ -484,13 +484,13 @@ game (
 )
 
 game (
-	comment "Blade Eagle (World) (Beta)"
+	comment "Blade Eagle (World) (Beta 1)"
 	users 1
 	rom ( crc 58D5FC48 )
 )
 
 game (
-	comment "Black Belt (Taiwan) (En) (Unl)"
+	comment "Black Belt (Taiwan) (En)"
 	users 2
 	rom ( crc 98F64975 )
 )
@@ -502,13 +502,13 @@ game (
 )
 
 game (
-	comment "BMX Trial - Alex Kidd (Japan)"
+	comment "BMX Trial - Alex Kidd (Japan) (En)"
 	users 1
 	rom ( crc F9DBB533 )
 )
 
 game (
-	comment "Bobble Bobble (Korea) (En) (Unl)"
+	comment "Bobble Bobble (Korea) (En)"
 	users 1
 	rom ( crc 25EB9F80 )
 )
@@ -538,81 +538,81 @@ game (
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 37E27A38 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.75) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 7)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 0B48F7DB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.52) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 6)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 9086E6BB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.51) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 5)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 06388C68 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.50) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 4)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 1647DB26 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.22) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 3)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 4EBBD863 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.21) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 2)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc CDB08905 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v0.20) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Beta 1)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc B4742656 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.01) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 2)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 70A69913 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.00) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 1)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 7A3575D8 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.02) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 3)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc 59FD4F72 )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.04) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 4)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc F433E9EB )
 )
 
 game (
-	comment "Bruce Lee (Unknown) (v1.05) (Tech Demo) (Aftermarket) (Homebrew)"
+	comment "Bruce Lee (World) (Demo 5)"
 	users 2
-	rom ( crc 87A17FA9 )
+	rom ( crc CB722A12 )
 )
 
 game (
@@ -628,7 +628,7 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Taiwan) (En) (Unl)"
+	comment "Bubble Bobble (Taiwan) (En)"
 	users 2
 	rom ( crc B948752E )
 )
@@ -673,12 +673,6 @@ game (
 	comment "Captain Silver (Japan, Europe, Brazil) (En)"
 	users 1
 	rom ( crc A4852757 )
-)
-
-game (
-	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)"
-	users 1
-	rom ( crc EE0F98CA )
 )
 
 game (
@@ -730,7 +724,7 @@ game (
 )
 
 game (
-	comment "Choplifter (Japan) (Proto)"
+	comment "Choplifter (Japan) (En) (Proto)"
 	users 2
 	rom ( crc 16EC3575 )
 )
@@ -766,7 +760,7 @@ game (
 )
 
 game (
-	comment "Circuit, The (Japan)"
+	comment "Circuit, The (Japan) (En)"
 	users 1
 	rom ( crc 8FB75994 )
 )
@@ -784,7 +778,7 @@ game (
 )
 
 game (
-	comment "Comical Machine Gun Joe (Taiwan) (Unl)"
+	comment "Comical Machine Gun Joe (Taiwan) (En)"
 	users 1
 	rom ( crc 84AD5AE4 )
 )
@@ -796,7 +790,7 @@ game (
 )
 
 game (
-	comment "Comical Machine Gun Joe (Japan)"
+	comment "Comical Machine Gun Joe (Japan) (En)"
 	users 1
 	rom ( crc 9D549E08 )
 )
@@ -808,7 +802,7 @@ game (
 )
 
 game (
-	comment "Comical Machine Gun Joe (Korea) (Unl)"
+	comment "Comical Machine Gun Joe (Korea) (En)"
 	users 1
 	rom ( crc 643F6BFC )
 )
@@ -832,7 +826,7 @@ game (
 )
 
 game (
-	comment "Cyber Shinobi, The (Taiwan) (En) (Unl)"
+	comment "Cyber Shinobi, The (Taiwan) (En)"
 	users 1
 	rom ( crc AD9FF469 )
 )
@@ -844,7 +838,7 @@ game (
 )
 
 game (
-	comment "Cyborg Hunter (USA, Europe, Brazil) (En) (Sample) (1988-09-12)"
+	comment "Cyborg Hunter (USA, Europe, Brazil) (En) (Beta)"
 	users 1
 	rom ( crc 691211A1 )
 )
@@ -862,7 +856,7 @@ game (
 )
 
 game (
-	comment "Dallyeora Pigu-Wang (Korea) (Unl)"
+	comment "Dallyeora Pigu-Wang (Korea)"
 	users 2
 	rom ( crc 89B79E77 )
 )
@@ -904,13 +898,13 @@ game (
 )
 
 game (
-	comment "Dinosaur Dooley, The (Korea) (En) (Unl)"
+	comment "Dinosaur Dooley, The (Korea) (En)"
 	users 1
 	rom ( crc 32F4B791 )
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta)"
 	users 1
 	rom ( crc 56BD2455 )
 )
@@ -922,13 +916,13 @@ game (
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)"
 	users 1
 	rom ( crc 2BCDB8FA )
 )
 
 game (
-	comment "Double Dragon (Taiwan) (En) (Unl)"
+	comment "Double Dragon (Taiwan) (En)"
 	users 2
 	rom ( crc F4F848C2 )
 )
@@ -946,13 +940,13 @@ game (
 )
 
 game (
-	comment "Double Target - Cynthia no Nemuri (Japan)"
+	comment "Double Target - Cynthia no Nemuri (Japan) (En)"
 	users 2
 	rom ( crc 52B83072 )
 )
 
 game (
-	comment "Dr. HELLO (Korea) (En) (Unl)"
+	comment "Dr. HELLO (Korea) (En)"
 	users 2
 	rom ( crc 16537865 )
 )
@@ -1042,13 +1036,13 @@ game (
 )
 
 game (
-	comment "Ecco The Dolphin (Europe, Brazil) (En)"
+	comment "Ecco the Dolphin (Europe, Brazil) (En)"
 	users 1
 	rom ( crc 6687FAB9 )
 )
 
 game (
-	comment "Enduro Racer (Japan)"
+	comment "Enduro Racer (Japan) (En)"
 	users 1
 	rom ( crc 5D5C50B3 )
 )
@@ -1066,13 +1060,13 @@ game (
 )
 
 game (
-	comment "F-16 Fighting Falcon (Japan)"
+	comment "F-16 Fighting Falcon (Japan) (En)"
 	users 1
 	rom ( crc 7CE06FCE )
 )
 
 game (
-	comment "F-16 Fighting Falcon (Taiwan) (Unl)"
+	comment "F-16 Fighting Falcon (Taiwan) (En)"
 	users 1
 	rom ( crc C4C53226 )
 )
@@ -1090,7 +1084,7 @@ game (
 )
 
 game (
-	comment "Family Games (Japan)"
+	comment "Family Games (Japan) (En)"
 	users 4
 	rom ( crc 7ABC70E9 )
 )
@@ -1102,7 +1096,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	users 2
 	rom ( crc 0FFBCAA3 )
 )
@@ -1120,7 +1114,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (Taiwan) (Unl)"
+	comment "Fantasy Zone (Taiwan) (En)"
 	users 2
 	rom ( crc 5FD48352 )
 )
@@ -1138,7 +1132,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	comment "Fantasy Zone II - Opa-Opa no Namida (Japan) (En)"
 	users 1
 	rom ( crc C722FB42 )
 )
@@ -1192,19 +1186,19 @@ game (
 )
 
 game (
-	comment "Forgotten Worlds (Taiwan) (En) (Unl)"
+	comment "Forgotten Worlds (Taiwan) (En)"
 	users 1
 	rom ( crc 44136A72 )
 )
 
 game (
-	comment "Fushigi no Oshiro Pit Pot (Japan)"
+	comment "Fushigi no Oshiro Pit Pot (Japan) (En)"
 	users 1
 	rom ( crc E6795C53 )
 )
 
 game (
-	comment "G-LOC Air Battle (Europe, Brazil) (En)"
+	comment "G-LOC - Air Battle (Europe, Brazil) (En)"
 	users 1
 	rom ( crc 05CDC24E )
 )
@@ -1222,13 +1216,13 @@ game (
 )
 
 game (
-	comment "Galactic Protector (Japan)"
+	comment "Galactic Protector (Japan) (En)"
 	users 2
 	rom ( crc A6FA42D0 )
 )
 
 game (
-	comment "Galaxian (Korea) (Unl)"
+	comment "Galaxian (Korea) (En)"
 	users 1
 	rom ( crc 577EC227 )
 )
@@ -1252,7 +1246,7 @@ game (
 )
 
 game (
-	comment "Gangcheol RoboCop (Korea) (En) (Unl)"
+	comment "Gangcheol RoboCop (Korea) (En)"
 	users 1
 	rom ( crc AD522EFD )
 )
@@ -1288,7 +1282,7 @@ game (
 )
 
 game (
-	comment "Ghost House (Japan)"
+	comment "Ghost House (Japan) (En)"
 	users 2
 	rom ( crc C0F3CE7E )
 )
@@ -1303,12 +1297,6 @@ game (
 	comment "Ghost House (USA, Europe, Brazil) (En) (Beta)"
 	users 2
 	rom ( crc C3E7C1ED )
-)
-
-game (
-	comment "Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)"
-	users 1
-	rom ( crc 38418B1C )
 )
 
 game (
@@ -1330,7 +1318,7 @@ game (
 )
 
 game (
-	comment "Gokuaku Doumei Dump Matsumoto (Japan)"
+	comment "Gokuaku Doumei Dump Matsumoto (Japan) (En)"
 	users 2
 	rom ( crc A249FA9D )
 )
@@ -1348,13 +1336,7 @@ game (
 )
 
 game (
-	comment "Golden Axe (USA, Europe, Brazil) (En) (Demo)"
-	users 1
-	rom ( crc A471F450 )
-)
-
-game (
-	comment "Golfamania (Europe) (Beta)"
+	comment "Golfamania (Europe, Brazil) (En) (Beta)"
 	users 4
 	rom ( crc 5DABFDC3 )
 )
@@ -1390,7 +1372,7 @@ game (
 )
 
 game (
-	comment "Great Baseball (Japan)"
+	comment "Great Baseball (Japan) (En)"
 	users 2
 	rom ( crc 89E98A7C )
 )
@@ -1426,7 +1408,7 @@ game (
 )
 
 game (
-	comment "Great Golf (Japan)"
+	comment "Great Golf (Japan) (En)"
 	users 2
 	rom ( crc 6586BD1F )
 )
@@ -1438,37 +1420,37 @@ game (
 )
 
 game (
-	comment "Great Soccer (Japan)"
+	comment "Great Soccer (Japan) (En)"
 	users 2
 	rom ( crc 2D7FD7EF )
 )
 
 game (
-	comment "Great Golf (Korea) (En) (Unl)"
+	comment "Great Golf (Korea) (En)"
 	users 2
 	rom ( crc 5DEF1BF5 )
 )
 
 game (
-	comment "Great Soccer (Taiwan) (Unl)"
+	comment "Great Soccer (Taiwan) (En)"
 	users 2
 	rom ( crc 84665648 )
 )
 
 game (
-	comment "Great Tennis (Japan)"
+	comment "Great Tennis (Japan) (En)"
 	users 2
 	rom ( crc 95CBF3DD )
 )
 
 game (
-	comment "Great Volleyball (Japan)"
+	comment "Great Volleyball (Japan) (En)"
 	users 2
 	rom ( crc 6819B0C0 )
 )
 
 game (
-	comment "Gun.Smoke (Korea) (En) (Unl)"
+	comment "Gun.Smoke (Korea) (En)"
 	users 1
 	rom ( crc 3AF7CCAD )
 )
@@ -1492,7 +1474,7 @@ game (
 )
 
 game (
-	comment "Hang On (Japan)"
+	comment "Hang On (Japan) (En)"
 	users 1
 	rom ( crc 5C01ADF9 )
 )
@@ -1558,13 +1540,13 @@ game (
 )
 
 game (
-	comment "Hokuto no Ken (Taiwan) (Unl)"
+	comment "Hokuto no Ken (Taiwan) (Ja)"
 	users 2
 	rom ( crc C4AB363D )
 )
 
 game (
-	comment "Hong Kil Dong (Korea) (Unl)"
+	comment "Hong Kil Dong (Korea)"
 	users 1
 	rom ( crc 8040B2FA )
 )
@@ -1582,7 +1564,7 @@ game (
 )
 
 game (
-	comment "Hwarang-ui Geom (Korea) (Unl)"
+	comment "Hwarang-ui Geom (Korea)"
 	users 1
 	rom ( crc E4B7C56A )
 )
@@ -1654,7 +1636,7 @@ game (
 )
 
 game (
-	comment "Jang Pung 3 (Korea) (Unl)"
+	comment "Jang Pung 3 (Korea) (En)"
 	users 2
 	rom ( crc 18FB98A3 )
 )
@@ -1696,7 +1678,7 @@ game (
 )
 
 game (
-	comment "King's Quest - Quest for the Crown (USA) (Beta)"
+	comment "King's Quest - Quest for the Crown (USA) (Beta 2)"
 	users 1
 	rom ( crc B7FE0A9D )
 )
@@ -1708,7 +1690,7 @@ game (
 )
 
 game (
-	comment "Knightmare II - The Maze of Galious (Korea) (Unl)"
+	comment "Knightmare II (Korea) (En)"
 	users 1
 	rom ( crc F89AF3CC )
 )
@@ -1750,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Kung Fu Kid (Taiwan) (En) (Unl)"
+	comment "Kung Fu Kid (Taiwan) (En)"
 	users 2
 	rom ( crc 4762E022 )
 )
@@ -1762,7 +1744,7 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe) (Beta)"
+	comment "Lemmings (Europe, Brazil) (En) (Beta)"
 	users 1
 	rom ( crc 2C61ED88 )
 )
@@ -1774,7 +1756,7 @@ game (
 )
 
 game (
-	comment "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)"
+	comment "Lemmings 2 - The Tribes (Europe) (Proto)"
 	users 1
 	rom ( crc CF5AECCA )
 )
@@ -1798,7 +1780,7 @@ game (
 )
 
 game (
-	comment "Lord of Sword (Taiwan) (Ja) (Unl)"
+	comment "Lord of Sword (Taiwan) (Ja)"
 	users 1
 	rom ( crc 7EAED675 )
 )
@@ -1852,7 +1834,7 @@ game (
 )
 
 game (
-	comment "Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja)"
+	comment "Mahjong Sengoku Jidai (Japan)"
 	users 1
 	rom ( crc BCFBFC67 )
 )
@@ -1894,13 +1876,13 @@ game (
 )
 
 game (
-	comment "Maze Walker (Japan)"
+	comment "Maze Walker (Japan) (En)"
 	users 1
 	rom ( crc 871562B0 )
 )
 
 game (
-	comment "Megumi Rescue (Japan)"
+	comment "Megumi Rescue (Japan) (En)"
 	users 1
 	rom ( crc 29BC7FAD )
 )
@@ -1936,7 +1918,7 @@ game (
 )
 
 game (
-	comment "Micro Xevious, The (Korea) (Unl)"
+	comment "Micro Xevious, The (Korea) (En)"
 	users 1
 	rom ( crc 41CC2ADE )
 )
@@ -1972,7 +1954,7 @@ game (
 )
 
 game (
-	comment "Monopoly (USA) (Beta)"
+	comment "Monopoly (USA, Europe) (Beta 1)"
 	users 10
 	rom ( crc 7E9D87FC )
 )
@@ -1984,25 +1966,25 @@ game (
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA) (Beta)"
 	users 1
 	rom ( crc 575D0FCF )
 )
 
 game (
-	comment "Monopoly (Europe) (Rev A)"
+	comment "Monopoly (USA, Europe) (Rev A)"
 	users 10
 	rom ( crc 026D94A4 )
 )
 
 game (
-	comment "Montezuma's Revenge - Featuring PANAMA JOE (USA)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA)"
 	users 1
 	rom ( crc 82FDA895 )
 )
 
 game (
-	comment "Mopiranger (Korea) (En) (Unl)"
+	comment "Mopiranger (Korea) (En)"
 	users 1
 	rom ( crc B49AA6FC )
 )
@@ -2092,7 +2074,7 @@ game (
 )
 
 game (
-	comment "Opa Opa (Japan)"
+	comment "Opa Opa (Japan) (En)"
 	users 2
 	rom ( crc BEA27D5C )
 )
@@ -2140,7 +2122,7 @@ game (
 )
 
 game (
-	comment "Paper Boy (Taiwan) (En) (Unl)"
+	comment "Paper Boy (Taiwan) (En)"
 	users 1
 	rom ( crc 354BEE78 )
 )
@@ -2170,7 +2152,7 @@ game (
 )
 
 game (
-	comment "Penguin Adventure (Korea) (En) (Unl)"
+	comment "Penguin Adventure (Korea) (En)"
 	users 1
 	rom ( crc 445525E2 )
 )
@@ -2194,7 +2176,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Brazil) (En)"
+	comment "Phantasy Star (Brazil)"
 	users 1
 	rom ( crc 75971BEF )
 )
@@ -2212,19 +2194,13 @@ game (
 )
 
 game (
-	comment "Phantasy Star (Korea) (Unl)"
+	comment "Phantasy Star (Korea)"
 	users 1
 	rom ( crc 747E83B5 )
 )
 
 game (
-	comment "Phantasy Star (Japan) (Virtual Console)"
-	users 1
-	rom ( crc 819EDE3F )
-)
-
-game (
-	comment "Phantasy Star (World) (Sega Ages)"
+	comment "Phantasy Star (World) (En) (Sega Ages)"
 	users 1
 	rom ( crc A1E090B9 )
 )
@@ -2260,7 +2236,7 @@ game (
 )
 
 game (
-	comment "Power Boggle Boggle (Korea) (En) (Unl)"
+	comment "Power Boggle Boggle (Korea) (En)"
 	users 1
 	rom ( crc 6D309AC5 )
 )
@@ -2296,7 +2272,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Taiwan) (En) (Unl)"
+	comment "Prince of Persia (Taiwan) (En)"
 	users 1
 	rom ( crc CAFD2D83 )
 )
@@ -2305,12 +2281,6 @@ game (
 	comment "Pro Wrestling (USA, Europe, Brazil) (En)"
 	users 2
 	rom ( crc FBDE42D3 )
-)
-
-game (
-	comment "Promocao Especial M. System III Compact (Brazil) (Sample)"
-	users 1
-	rom ( crc 30AF0233 )
 )
 
 game (
@@ -2344,7 +2314,7 @@ game (
 )
 
 game (
-	comment "Puzzle Game (Korea) (En) (Unl)"
+	comment "Puzzle Game (Korea) (En)"
 	users 1
 	rom ( crc 76E8265F )
 )
@@ -2356,7 +2326,7 @@ game (
 )
 
 game (
-	comment "Quartet (Taiwan) (En) (Unl)"
+	comment "Quartet (Taiwan) (En)"
 	users 2
 	rom ( crc CACDF759 )
 )
@@ -2374,7 +2344,7 @@ game (
 )
 
 game (
-	comment "R-Type (Taiwan) (En) (Unl)"
+	comment "R-Type (Taiwan) (En)"
 	users 1
 	rom ( crc E532716F )
 )
@@ -2482,7 +2452,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe, Brazil) (En)"
+	comment "RoboCop Versus The Terminator (Europe, Brazil) (En)"
 	users 1
 	rom ( crc 8212B754 )
 )
@@ -2500,7 +2470,7 @@ game (
 )
 
 game (
-	comment "Sagak-ui Bimil (Korea) (En) (Unl)"
+	comment "Sagak-ui Bimil (Korea) (En)"
 	users 2
 	rom ( crc 643B6B76 )
 )
@@ -2512,19 +2482,19 @@ game (
 )
 
 game (
-	comment "Samgukji 3 (Korea) (Unl)"
+	comment "Samgukji III - Cheonha Jaengpae (Korea)"
 	users 2
 	rom ( crc 97D03541 )
 )
 
 game (
-	comment "Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt)"
+	comment "Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (En)"
 	users 2
 	rom ( crc 7AB2946A )
 )
 
 game (
-	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)"
+	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)"
 	users 1
 	rom ( crc 7982AE67 )
 )
@@ -2542,7 +2512,7 @@ game (
 )
 
 game (
-	comment "Satellite 7 (Japan)"
+	comment "Satellite 7 (Japan) (En)"
 	users 2
 	rom ( crc 16249E19 )
 )
@@ -2560,7 +2530,7 @@ game (
 )
 
 game (
-	comment "Scramble Spirits (Taiwan) (En) (Unl)"
+	comment "Scramble Spirits (Taiwan) (En)"
 	users 2
 	rom ( crc 7D59283B )
 )
@@ -2572,7 +2542,7 @@ game (
 )
 
 game (
-	comment "SDI (Japan)"
+	comment "SDI (Japan) (En)"
 	users 1
 	rom ( crc 1DE2C2D0 )
 )
@@ -2590,7 +2560,7 @@ game (
 )
 
 game (
-	comment "Seishun Scandal (Japan)"
+	comment "Seishun Scandal (Japan) (En)"
 	users 2
 	rom ( crc F0BA2BC6 )
 )
@@ -2602,7 +2572,7 @@ game (
 )
 
 game (
-	comment "Shadow Dancer (Taiwan) (En) (Unl)"
+	comment "Shadow Dancer (Taiwan) (En)"
 	users 1
 	rom ( crc AB67C6BD )
 )
@@ -2620,7 +2590,7 @@ game (
 )
 
 game (
-	comment "Shadow of the Beast (Taiwan) (En) (Unl)"
+	comment "Shadow of the Beast (Taiwan) (En)"
 	users 1
 	rom ( crc AC2EA669 )
 )
@@ -2638,7 +2608,7 @@ game (
 )
 
 game (
-	comment "Shangwei Mingling (Taiwan) (En) (Unl)"
+	comment "Secret Command (Taiwan) (En)"
 	users 2
 	rom ( crc 89EFCC22 )
 )
@@ -2650,7 +2620,7 @@ game (
 )
 
 game (
-	comment "Shinobi (Japan, Brazil) (Ja)"
+	comment "Shinobi (Japan, Brazil) (En)"
 	users 1
 	rom ( crc E1FFF1BB )
 )
@@ -2740,13 +2710,13 @@ game (
 )
 
 game (
-	comment "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13)"
+	comment "Sonic Chaos (Europe, Brazil) (En) (Beta 2)"
 	users 1
 	rom ( crc 765234D8 )
 )
 
 game (
-	comment "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30)"
+	comment "Sonic Chaos (Europe, Brazil) (En) (Beta 1)"
 	users 1
 	rom ( crc D3AD67FA )
 )
@@ -2764,7 +2734,7 @@ game (
 )
 
 game (
-	comment "Sonic's Edusoft (Unknown) (Proto)"
+	comment "Sonic's Edusoft (Europe) (Proto)"
 	users 2
 	rom ( crc D9096263 )
 )
@@ -2800,7 +2770,7 @@ game (
 )
 
 game (
-	comment "Space Harrier 3D (Japan)"
+	comment "Space Harrier 3D (Japan) (En)"
 	users 1
 	rom ( crc 156948F9 )
 )
@@ -2860,13 +2830,13 @@ game (
 )
 
 game (
-	comment "Sports Pad Soccer (Japan)"
+	comment "Sports Pad Soccer (Japan) (En)"
 	users 2
 	rom ( crc 41C948BF )
 )
 
 game (
-	comment "Spy vs Spy (Japan)"
+	comment "Spy vs Spy (Japan) (En)"
 	users 2
 	rom ( crc D41B9A08 )
 )
@@ -2878,13 +2848,13 @@ game (
 )
 
 game (
-	comment "Spy vs Spy (Taiwan) (Unl)"
+	comment "Spy vs Spy (Taiwan) (En)"
 	users 2
 	rom ( crc 689F58A2 )
 )
 
 game (
-	comment "Street Master (Korea) (Unl)"
+	comment "Street Master (Korea) (En)"
 	users 2
 	rom ( crc 83F0EEDE )
 )
@@ -2914,12 +2884,6 @@ game (
 )
 
 game (
-	comment "Strider (USA, Europe, Brazil) (En) (Demo)"
-	users 1
-	rom ( crc B990269A )
-)
-
-game (
 	comment "Strider (USA, Europe, Brazil) (En)"
 	users 1
 	rom ( crc 9802ED31 )
@@ -2938,13 +2902,13 @@ game (
 )
 
 game (
-	comment "Strider, The (Taiwan) (En) (Unl)"
+	comment "Strider, The (Taiwan) (En)"
 	users 1
 	rom ( crc 63A7F906 )
 )
 
 game (
-	comment "Submarine Attack (Taiwan) (En) (Unl)"
+	comment "Submarine Attack (Taiwan) (En)"
 	users 1
 	rom ( crc D282EF71 )
 )
@@ -2974,13 +2938,13 @@ game (
 )
 
 game (
-	comment "Super Arkanoid (Korea) (Unl)"
+	comment "Super Arkanoid (Korea) (En)"
 	users 1
 	rom ( crc C9DD4E5F )
 )
 
 game (
-	comment "Super Bubble Bobble (Korea) (En) (Unl)"
+	comment "Super Bubble Bobble (Korea) (En)"
 	users 2
 	rom ( crc 22C09CFD )
 )
@@ -3016,7 +2980,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (USA) (Beta)"
+	comment "Super Monaco GP (USA) (Beta 1)"
 	users 2
 	rom ( crc DD7ADBCC )
 )
@@ -3034,7 +2998,7 @@ game (
 )
 
 game (
-	comment "Super Racing (Japan)"
+	comment "Super Racing (Japan) (En)"
 	users 1
 	rom ( crc 7E0EF8CB )
 )
@@ -3070,7 +3034,7 @@ game (
 )
 
 game (
-	comment "Super Tetris (Korea) (Unl)"
+	comment "Super Tetris (Taiwan) (En)"
 	users 1
 	rom ( crc BD1CC7DF )
 )
@@ -3136,13 +3100,13 @@ game (
 )
 
 game (
-	comment "Teddy Boy Blues (Japan) (Proto) (Ep-MyCard)"
+	comment "Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard)"
 	users 2
 	rom ( crc D7508041 )
 )
 
 game (
-	comment "Teddy Boy Blues (Japan)"
+	comment "Teddy Boy Blues (Japan) (En)"
 	users 2
 	rom ( crc 316727DD )
 )
@@ -3172,7 +3136,7 @@ game (
 )
 
 game (
-	comment "Three Dragon Story, The (Korea) (Unl)"
+	comment "Three Dragon Story, The (Korea) (En)"
 	users 1
 	rom ( crc 8640E7E8 )
 )
@@ -3190,13 +3154,13 @@ game (
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	users 1
 	rom ( crc C0CE19B1 )
 )
 
 game (
-	comment "Thunder Blade (Taiwan) (En) (Unl)"
+	comment "Thunder Blade (Taiwan) (En)"
 	users 1
 	rom ( crc 98CF1254 )
 )
@@ -3226,7 +3190,7 @@ game (
 )
 
 game (
-	comment "Toto World 3 (Korea) (Unl)"
+	comment "Toto World 3 (Korea) (En)"
 	users 1
 	rom ( crc 4F8D75EC )
 )
@@ -3244,7 +3208,7 @@ game (
 )
 
 game (
-	comment "Turma da Monica em O Resgate (Brazil)"
+	comment "Turma da Monica em - O Resgate (Brazil)"
 	users 1
 	rom ( crc 22CCA9BB )
 )
@@ -3262,7 +3226,7 @@ game (
 )
 
 game (
-	comment "Ttoriui Moheom (Korea) (En) (Unl)"
+	comment "Ttoriui Moheom (Korea) (En)"
 	users 2
 	rom ( crc 178801D2 )
 )
@@ -3280,7 +3244,7 @@ game (
 )
 
 game (
-	comment "Vampire (Europe) (Beta)"
+	comment "Vampire (Europe, Brazil) (En) (Beta)"
 	users 1
 	rom ( crc 20F40CAE )
 )
@@ -3316,7 +3280,7 @@ game (
 )
 
 game (
-	comment "Where in the World is Carmen Sandiego (Brazil) (En)"
+	comment "Where in the World is Carmen Sandiego (Brazil)"
 	users 1
 	rom ( crc 88AA8CA6 )
 )
@@ -3376,7 +3340,7 @@ game (
 )
 
 game (
-	comment "Wonder Boy III - The Dragon's Trap (USA, Europe) (Aftermarket) (Unl)"
+	comment "Wonder Boy III - The Dragon's Trap (World) (Digital)"
 	users 1
 	rom ( crc 525F4F3D )
 )
@@ -3406,7 +3370,7 @@ game (
 )
 
 game (
-	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan)"
+	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan) (En)"
 	users 1
 	rom ( crc 315917D4 )
 )
@@ -3415,12 +3379,6 @@ game (
 	comment "World Class Leaderboard (Europe, Brazil) (En)"
 	users 4
 	rom ( crc C9A449B7 )
-)
-
-game (
-	comment "World Cup Italia '90 (USA) (Demo)"
-	users 2
-	rom ( crc A0CF8B15 )
 )
 
 game (
@@ -3508,13 +3466,7 @@ game (
 )
 
 game (
-	comment "Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)"
-	users 1
-	rom ( crc E8B82066 )
-)
-
-game (
-	comment "Yuyryeong-ui Jip (Korea) (Unl)"
+	comment "Yuyryeong-ui Jip (Korea) (En)"
 	users 2
 	rom ( crc 1203AFC9 )
 )
@@ -3532,7 +3484,7 @@ game (
 )
 
 game (
-	comment "Zillion (Japan, Europe) (En,Ja)"
+	comment "Zillion (Japan, Europe) (En)"
 	users 1
 	rom ( crc 60C19645 )
 )
@@ -3566,4 +3518,3 @@ game (
 	users 1
 	rom ( crc 5B1CF392 )
 )
-

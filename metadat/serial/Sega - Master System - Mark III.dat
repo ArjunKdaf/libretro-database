@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "Ace of Aces (Europe)"
+	comment "Ace of Aces (Europe, Brazil) (En)"
 	serial "8635"
 	rom (
 		crc 887D9F6B
@@ -20,7 +20,7 @@ game (
 )
 
 game (
-	comment "Aerial Assault (Europe)"
+	comment "Aerial Assault (Europe, Brazil) (En)"
 	serial "7041"
 	rom (
 		crc ECF491CF
@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Aerial Assault (USA)"
+	comment "Aerial Assault (USA, Brazil) (En)"
 	serial "7041"
 	rom (
 		crc 15576613
@@ -44,7 +44,7 @@ game (
 )
 
 game (
-	comment "Air Rescue (Europe)"
+	comment "Air Rescue (Europe, Brazil) (En)"
 	serial "7102"
 	rom (
 		crc 8B43D21D
@@ -52,7 +52,7 @@ game (
 )
 
 game (
-	comment "Aleste (Japan)"
+	comment "Aleste (Japan) (En)"
 	serial "G-1352"
 	rom (
 		crc D8C4165B
@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Alien 3 (Europe)"
+	comment "Alien 3 (Europe, Brazil) (En)"
 	serial "MK-27043-50"
 	rom (
 		crc B618B144
@@ -92,7 +92,7 @@ game (
 )
 
 game (
-	comment "Alien Storm (Europe)"
+	comment "Alien Storm (Europe, Brazil) (En)"
 	serial "7075"
 	rom (
 		crc 7F30F793
@@ -100,7 +100,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	serial "G-1339"
 	rom (
 		crc 4CC11DF9
@@ -108,7 +108,7 @@ game (
 )
 
 game (
-	comment "American Baseball (Europe)"
+	comment "American Baseball (Europe, Brazil) (En)"
 	serial "7019"
 	rom (
 		crc 7B27202F
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Andre Agassi Tennis (Europe)"
+	comment "Andre Agassi Tennis (Europe, Brazil) (En)"
 	serial "MK-27051"
 	rom (
 		crc F499034D
@@ -148,7 +148,7 @@ game (
 )
 
 game (
-	comment "Argos no Juujiken (Japan)"
+	comment "Argos no Juujiken (Japan) (En)"
 	serial "001"
 	rom (
 		crc BAE75805
@@ -156,7 +156,7 @@ game (
 )
 
 game (
-	comment "Ashura (Japan)"
+	comment "Ashura (Japan) (En)"
 	serial "G-1307"
 	rom (
 		crc AE705699
@@ -164,7 +164,7 @@ game (
 )
 
 game (
-	comment "Assault City (Europe)"
+	comment "Assault City (Europe) (Joypad)"
 	serial "7034"
 	rom (
 		crc 0BD8DA96
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Assault City (Europe) (Light Phaser)"
+	comment "Assault City (Europe, Brazil) (En) (Light Phaser)"
 	serial "7034"
 	rom (
 		crc 861B6E79
@@ -180,7 +180,7 @@ game (
 )
 
 game (
-	comment "Asterix (Europe) (En,Fr)"
+	comment "Asterix (Europe, Brazil) (En,Fr)"
 	serial "9008"
 	rom (
 		crc 147E02FA
@@ -188,7 +188,7 @@ game (
 )
 
 game (
-	comment "Asterix (Europe) (En,Fr) (Rev 1)"
+	comment "Asterix (Europe, Brazil) (En,Fr) (Rev 1)"
 	serial "9008"
 	rom (
 		crc 8C9D5BE8
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
+	comment "Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)"
 	serial "9032"
 	rom (
 		crc F9B7D26B
@@ -204,7 +204,7 @@ game (
 )
 
 game (
-	comment "Asterix and the Secret Mission (Europe) (En,Fr,De)"
+	comment "Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De)"
 	serial "9023"
 	rom (
 		crc DEF9B14E
@@ -212,7 +212,7 @@ game (
 )
 
 game (
-	comment "Astro Flash (Japan)"
+	comment "Astro Flash (Japan) (En)"
 	serial "C-503"
 	rom (
 		crc C795182D
@@ -228,7 +228,7 @@ game (
 )
 
 game (
-	comment "Ayrton Senna's Super Monaco GP II (Europe)"
+	comment "Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)"
 	serial "9011"
 	rom (
 		crc E890331D
@@ -236,7 +236,7 @@ game (
 )
 
 game (
-	comment "Aztec Adventure - The Golden Road to Paradise (World)"
+	comment "Aztec Adventure (World)"
 	serial "5100"
 	rom (
 		crc FF614EB3
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Back to the Future Part II (Europe)"
+	comment "Back to the Future Part II (Europe, Brazil) (En)"
 	serial "MK-27010"
 	rom (
 		crc E5FF50D8
@@ -260,7 +260,7 @@ game (
 )
 
 game (
-	comment "Baku Baku Animal (Brazil)"
+	comment "Baku Baku (Brazil) (En)"
 	serial "025470"
 	rom (
 		crc 35D84DC2
@@ -268,7 +268,7 @@ game (
 )
 
 game (
-	comment "Bank Panic (Europe)"
+	comment "Bank Panic (Europe, Brazil) (En)"
 	serial "4584"
 	rom (
 		crc 655FB1F4
@@ -276,7 +276,7 @@ game (
 )
 
 game (
-	comment "Basket Ball Nightmare (Europe)"
+	comment "Basketball Nightmare (Europe, Brazil) (En)"
 	serial "7025"
 	rom (
 		crc 0DF8597F
@@ -284,7 +284,7 @@ game (
 )
 
 game (
-	comment "Batman Returns (Europe)"
+	comment "Batman Returns (Europe, Brazil) (En)"
 	serial "7112"
 	rom (
 		crc B154EC38
@@ -292,7 +292,7 @@ game (
 )
 
 game (
-	comment "Battle Out Run (Europe)"
+	comment "Battle Out Run (Europe, Brazil) (En)"
 	serial "7033"
 	rom (
 		crc C19430CE
@@ -300,7 +300,7 @@ game (
 )
 
 game (
-	comment "Battlemaniacs (Brazil)"
+	comment "Battlemaniacs (Brazil) (En)"
 	serial "027370"
 	rom (
 		crc 1CBB7BF1
@@ -308,7 +308,7 @@ game (
 )
 
 game (
-	comment "Blade Eagle (World)"
+	comment "Blade Eagle 3-D (World)"
 	serial "8005"
 	rom (
 		crc 8ECD201C
@@ -324,7 +324,7 @@ game (
 )
 
 game (
-	comment "Bonanza Bros. (Europe)"
+	comment "Bonanza Bros. (Europe, Brazil) (En)"
 	serial "7073"
 	rom (
 		crc CAEA8002
@@ -340,7 +340,7 @@ game (
 )
 
 game (
-	comment "Bubble Bobble (Europe)"
+	comment "Bubble Bobble (Europe, Brazil) (En)"
 	serial "7077"
 	rom (
 		crc E843BA7E
@@ -348,7 +348,7 @@ game (
 )
 
 game (
-	comment "Buggy Run (Europe)"
+	comment "Buggy Run (Europe, Brazil) (En)"
 	serial "9025"
 	rom (
 		crc B0FC4577
@@ -372,7 +372,7 @@ game (
 )
 
 game (
-	comment "Castle of Illusion Starring Mickey Mouse (Europe)"
+	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)"
 	serial "7053"
 	rom (
 		crc 953F42E1
@@ -380,7 +380,7 @@ game (
 )
 
 game (
-	comment "Castle of Illusion Starring Mickey Mouse (USA)"
+	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)"
 	serial "7053"
 	rom (
 		crc B9DB4282
@@ -388,7 +388,7 @@ game (
 )
 
 game (
-	comment "Champions of Europe (Europe)"
+	comment "Champions of Europe (Europe, Brazil) (En)"
 	serial "MK-27034"
 	rom (
 		crc 23163A12
@@ -412,7 +412,7 @@ game (
 )
 
 game (
-	comment "Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)"
+	comment "Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es)"
 	serial "9033"
 	rom (
 		crc 46340C41
@@ -428,7 +428,7 @@ game (
 )
 
 game (
-	comment "Chuck Rock (Europe)"
+	comment "Chuck Rock (Europe, Brazil) (En)"
 	serial "29004"
 	rom (
 		crc DD0E2927
@@ -436,7 +436,7 @@ game (
 )
 
 game (
-	comment "Chuck Rock II - Son of Chuck (Brazil)"
+	comment "Chuck Rock II - Son of Chuck (Brazil) (En)"
 	serial "028440"
 	rom (
 		crc 87783C04
@@ -452,7 +452,7 @@ game (
 )
 
 game (
-	comment "Circuit, The (Japan)"
+	comment "Circuit, The (Japan) (En)"
 	serial "G-1304"
 	rom (
 		crc 8FB75994
@@ -460,7 +460,7 @@ game (
 )
 
 game (
-	comment "Comical Machine Gun Joe (Japan)"
+	comment "Comical Machine Gun Joe (Japan) (En)"
 	serial "C-511"
 	rom (
 		crc 9D549E08
@@ -484,7 +484,7 @@ game (
 )
 
 game (
-	comment "Cyber Shinobi, The (Europe)"
+	comment "Cyber Shinobi, The (Europe, Brazil) (En)"
 	serial "7050"
 	rom (
 		crc 1350E4F8
@@ -492,7 +492,7 @@ game (
 )
 
 game (
-	comment "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)"
+	comment "Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)"
 	serial "9031"
 	rom (
 		crc 71ABEF27
@@ -500,7 +500,7 @@ game (
 )
 
 game (
-	comment "Danan - The Jungle Fighter (Europe)"
+	comment "Danan - The Jungle Fighter (Europe, Brazil) (En)"
 	serial "7049"
 	rom (
 		crc AE4A28D7
@@ -508,7 +508,7 @@ game (
 )
 
 game (
-	comment "Deep Duck Trouble Starring Donald Duck (Europe)"
+	comment "Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)"
 	serial "7122"
 	rom (
 		crc 42FC3A6E
@@ -516,7 +516,7 @@ game (
 )
 
 game (
-	comment "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
+	comment "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It)"
 	serial "9022"
 	rom (
 		crc B137007A
@@ -532,7 +532,7 @@ game (
 )
 
 game (
-	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan)"
+	comment "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)"
 	serial "G-1334"
 	rom (
 		crc 2BCDB8FA
@@ -556,7 +556,7 @@ game (
 )
 
 game (
-	comment "Double Target - Cynthia no Nemuri (Japan)"
+	comment "Double Target - Cynthia no Nemuri (Japan) (En)"
 	serial "G-1314"
 	rom (
 		crc 52B83072
@@ -564,7 +564,7 @@ game (
 )
 
 game (
-	comment "Dr. Robotnik's Mean Bean Machine (Europe)"
+	comment "Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)"
 	serial "7123"
 	rom (
 		crc 6C696221
@@ -580,7 +580,7 @@ game (
 )
 
 game (
-	comment "Dragon Crystal (Europe)"
+	comment "Dragon Crystal (Europe, Brazil) (En)"
 	serial "5123"
 	rom (
 		crc 9549FCE4
@@ -588,7 +588,7 @@ game (
 )
 
 game (
-	comment "Dynamite Duke (Europe)"
+	comment "Dynamite Duke (Europe, Brazil) (En)"
 	serial "7067"
 	rom (
 		crc 07306947
@@ -596,7 +596,7 @@ game (
 )
 
 game (
-	comment "Dynamite Dux (Europe)"
+	comment "Dynamite Dux (Europe, Brazil) (En)"
 	serial "7029"
 	rom (
 		crc 0E1CC1E0
@@ -604,7 +604,7 @@ game (
 )
 
 game (
-	comment "Dynamite Headdy (Brazil)"
+	comment "Dynamite Headdy (Brazil) (En)"
 	serial "028570"
 	rom (
 		crc 7DB5B0FA
@@ -620,7 +620,7 @@ game (
 )
 
 game (
-	comment "Ecco the Dolphin (Europe)"
+	comment "Ecco the Dolphin (Europe, Brazil) (En)"
 	serial "9029"
 	rom (
 		crc 6687FAB9
@@ -628,7 +628,7 @@ game (
 )
 
 game (
-	comment "Enduro Racer (Japan)"
+	comment "Enduro Racer (Japan) (En)"
 	serial "G-1322"
 	rom (
 		crc 5D5C50B3
@@ -636,7 +636,7 @@ game (
 )
 
 game (
-	comment "F-16 Fighting Falcon (Japan)"
+	comment "F-16 Fighting Falcon (Japan) (En)"
 	serial "C-508"
 	rom (
 		crc 7CE06FCE
@@ -652,7 +652,7 @@ game (
 )
 
 game (
-	comment "F1 (Europe)"
+	comment "F1 (Europe, Brazil) (En)"
 	serial "MK-27072-50"
 	rom (
 		crc EC788661
@@ -660,7 +660,7 @@ game (
 )
 
 game (
-	comment "Family Games (Japan)"
+	comment "Family Games (Japan) (En)"
 	serial "G-1342"
 	rom (
 		crc 7ABC70E9
@@ -676,7 +676,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (Japan)"
+	comment "Fantasy Zone (Japan) (En)"
 	serial "G-1301"
 	rom (
 		crc 0FFBCAA3
@@ -684,7 +684,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone (World) (Rev 2)"
+	comment "Fantasy Zone (World) (Rev 1)"
 	serial "5052"
 	rom (
 		crc 65D7E4E0
@@ -692,7 +692,7 @@ game (
 )
 
 game (
-	comment "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	comment "Fantasy Zone II - Opa-Opa no Namida (Japan) (En)"
 	serial "G-1329"
 	rom (
 		crc C722FB42
@@ -716,7 +716,7 @@ game (
 )
 
 game (
-	comment "Flash, The (Europe)"
+	comment "Flash, The (Europe, Brazil) (En)"
 	serial "7506"
 	rom (
 		crc BE31D63F
@@ -724,7 +724,7 @@ game (
 )
 
 game (
-	comment "Flintstones, The (Europe)"
+	comment "Flintstones, The (Europe, Brazil) (En)"
 	serial "MK-27013"
 	rom (
 		crc CA5C78A5
@@ -732,7 +732,7 @@ game (
 )
 
 game (
-	comment "Forgotten Worlds (Europe)"
+	comment "Forgotten Worlds (Europe, Brazil) (En)"
 	serial "7056"
 	rom (
 		crc 38C53916
@@ -740,7 +740,7 @@ game (
 )
 
 game (
-	comment "Fushigi no Oshiro Pit Pot (Japan)"
+	comment "Fushigi no Oshiro Pit Pot (Japan) (En)"
 	serial "C-507"
 	rom (
 		crc E6795C53
@@ -748,7 +748,7 @@ game (
 )
 
 game (
-	comment "G-LOC Air Battle (Europe)"
+	comment "G-LOC - Air Battle (Europe, Brazil) (En)"
 	serial "7071"
 	rom (
 		crc 05CDC24E
@@ -756,7 +756,7 @@ game (
 )
 
 game (
-	comment "GP Rider (Europe)"
+	comment "GP Rider (Europe, Brazil) (En)"
 	serial "9013"
 	rom (
 		crc EC2DA554
@@ -764,7 +764,7 @@ game (
 )
 
 game (
-	comment "Gain Ground (Europe)"
+	comment "Gain Ground (Europe, Brazil) (En)"
 	serial "7045"
 	rom (
 		crc 3EC5E627
@@ -772,7 +772,7 @@ game (
 )
 
 game (
-	comment "Galactic Protector (Japan)"
+	comment "Galactic Protector (Japan) (En)"
 	serial "G-1348"
 	rom (
 		crc A6FA42D0
@@ -780,7 +780,7 @@ game (
 )
 
 game (
-	comment "Galaxy Force (Europe)"
+	comment "Galaxy Force (Europe, Brazil) (En)"
 	serial "5004"
 	rom (
 		crc A4AC35D8
@@ -796,7 +796,7 @@ game (
 )
 
 game (
-	comment "Gauntlet (Europe)"
+	comment "Gauntlet (Europe, Brazil) (En)"
 	serial "25006"
 	rom (
 		crc D9190956
@@ -804,7 +804,7 @@ game (
 )
 
 game (
-	comment "George Foreman's KO Boxing (Europe)"
+	comment "George Foreman's KO Boxing (Europe, Brazil) (En)"
 	serial "MK-27041-50"
 	rom (
 		crc A64898CE
@@ -812,7 +812,7 @@ game (
 )
 
 game (
-	comment "Geraldinho (Brazil)"
+	comment "Geraldinho (Brazil) (En)"
 	serial "021080"
 	rom (
 		crc 956C416B
@@ -820,7 +820,7 @@ game (
 )
 
 game (
-	comment "Ghost House (Japan)"
+	comment "Ghost House (Japan) (En)"
 	serial "C-512"
 	rom (
 		crc C0F3CE7E
@@ -828,7 +828,7 @@ game (
 )
 
 game (
-	comment "Gokuaku Doumei Dump Matsumoto (Japan)"
+	comment "Gokuaku Doumei Dump Matsumoto (Japan) (En)"
 	serial "G-1302"
 	rom (
 		crc A249FA9D
@@ -836,7 +836,7 @@ game (
 )
 
 game (
-	comment "Golfamania (Europe)"
+	comment "Golfamania (Europe, Brazil) (En)"
 	serial "7502"
 	rom (
 		crc 48651325
@@ -844,7 +844,7 @@ game (
 )
 
 game (
-	comment "Great Baseball (Japan)"
+	comment "Great Baseball (Japan) (En)"
 	serial "G-1323"
 	rom (
 		crc 89E98A7C
@@ -868,7 +868,7 @@ game (
 )
 
 game (
-	comment "Great Golf (Japan)"
+	comment "Great Golf (Japan) (En)"
 	serial "G-1332"
 	rom (
 		crc 6586BD1F
@@ -892,7 +892,7 @@ game (
 )
 
 game (
-	comment "Great Soccer (Japan)"
+	comment "Great Soccer (Japan) (En)"
 	serial "C-504"
 	rom (
 		crc 2D7FD7EF
@@ -900,7 +900,7 @@ game (
 )
 
 game (
-	comment "Great Volleyball (Japan)"
+	comment "Great Volleyball (Japan) (En)"
 	serial "G-1317"
 	rom (
 		crc 6819B0C0
@@ -916,7 +916,7 @@ game (
 )
 
 game (
-	comment "Hang-On & Astro Warrior (USA)"
+	comment "Hang On & Astro Warrior (USA)"
 	serial "6001"
 	rom (
 		crc 1C5059F0
@@ -924,7 +924,7 @@ game (
 )
 
 game (
-	comment "Hang-On & Safari Hunt (USA)"
+	comment "Hang On & Safari Hunt (USA)"
 	serial "6002"
 	rom (
 		crc E167A561
@@ -932,7 +932,7 @@ game (
 )
 
 game (
-	comment "Hang-On (Europe)"
+	comment "Hang On (Europe)"
 	serial "4580"
 	rom (
 		crc 071B045E
@@ -940,7 +940,7 @@ game (
 )
 
 game (
-	comment "Hang-On (Japan)"
+	comment "Hang On (Japan) (En)"
 	serial "C-502"
 	rom (
 		crc 5C01ADF9
@@ -948,7 +948,7 @@ game (
 )
 
 game (
-	comment "Heavyweight Champ (Europe)"
+	comment "Heavyweight Champ (Europe, Brazil) (En)"
 	serial "MK-27041-50"
 	rom (
 		crc FDAB876A
@@ -956,7 +956,7 @@ game (
 )
 
 game (
-	comment "Heroes of the Lance (Europe)"
+	comment "Heroes of the Lance (Europe, Brazil) (En)"
 	serial "29003"
 	rom (
 		crc CDE13FFB
@@ -988,7 +988,7 @@ game (
 )
 
 game (
-	comment "Hoshi wo Sagasite... (Japan)"
+	comment "Hoshi wo Sagashite... (Japan)"
 	serial "G-1354"
 	rom (
 		crc 955A009E
@@ -996,7 +996,7 @@ game (
 )
 
 game (
-	comment "Hwarang Ui Geom (Korea)"
+	comment "Hwarang-ui Geom (Korea)"
 	serial "GB-2358"
 	rom (
 		crc E4B7C56A
@@ -1004,7 +1004,7 @@ game (
 )
 
 game (
-	comment "Impossible Mission (Europe)"
+	comment "Impossible Mission (Europe, Brazil) (En)"
 	serial "25007"
 	rom (
 		crc 64D6AF3B
@@ -1012,7 +1012,7 @@ game (
 )
 
 game (
-	comment "Incredible Crash Dummies, The (Europe)"
+	comment "Incredible Crash Dummies, The (Europe, Brazil) (En)"
 	serial "MK-27057"
 	rom (
 		crc B4584DDE
@@ -1020,7 +1020,7 @@ game (
 )
 
 game (
-	comment "Incredible Hulk, The (Europe)"
+	comment "Incredible Hulk, The (Europe, Brazil) (En)"
 	serial "29016"
 	rom (
 		crc BE9A7071
@@ -1028,31 +1028,7 @@ game (
 )
 
 game (
-	comment "Incredible Hulk, The (Europe)"
-	serial "29016-50"
-	rom (
-		crc BE9A7071
-	)
-)
-
-game (
-	comment "Incredible Hulk, The (Europe)"
-	serial "29016"
-	rom (
-		crc BE9A7071
-	)
-)
-
-game (
-	comment "Incredible Hulk, The (Europe)"
-	serial "29016-50"
-	rom (
-		crc BE9A7071
-	)
-)
-
-game (
-	comment "Indiana Jones and the Last Crusade (Europe)"
+	comment "Indiana Jones and the Last Crusade (Europe, Brazil) (En)"
 	serial "27008"
 	rom (
 		crc 8AEB574B
@@ -1068,7 +1044,7 @@ game (
 )
 
 game (
-	comment "James Pond 2 - Codename RoboCod (Europe)"
+	comment "James Pond 2 - Codename RoboCod (Europe, Brazil) (En)"
 	serial "29013"
 	rom (
 		crc 102D5FEA
@@ -1076,31 +1052,7 @@ game (
 )
 
 game (
-	comment "James Pond 2 - Codename RoboCod (Europe)"
-	serial "29013-50"
-	rom (
-		crc 102D5FEA
-	)
-)
-
-game (
-	comment "James Pond 2 - Codename RoboCod (Europe)"
-	serial "29013"
-	rom (
-		crc 102D5FEA
-	)
-)
-
-game (
-	comment "James Pond 2 - Codename RoboCod (Europe)"
-	serial "29013-50"
-	rom (
-		crc 102D5FEA
-	)
-)
-
-game (
-	comment "Jungle Book, The (Europe)"
+	comment "Jungle Book, The (Europe, Brazil) (En)"
 	serial "MK-27069"
 	rom (
 		crc 695A9A15
@@ -1108,7 +1060,7 @@ game (
 )
 
 game (
-	comment "Jurassic Park (Europe)"
+	comment "Jurassic Park (Europe, Brazil) (En)"
 	serial "9030"
 	rom (
 		crc 0667ED9F
@@ -1132,7 +1084,7 @@ game (
 )
 
 game (
-	comment "Klax (Europe)"
+	comment "KLAX (Europe)"
 	serial "301040"
 	rom (
 		crc 2B435FD6
@@ -1140,7 +1092,7 @@ game (
 )
 
 game (
-	comment "Krusty's Fun House (Europe)"
+	comment "Krusty's Fun House (Europe, Brazil) (En)"
 	serial "MK-27056"
 	rom (
 		crc 64A585EB
@@ -1156,7 +1108,7 @@ game (
 )
 
 game (
-	comment "Land of Illusion Starring Mickey Mouse (Europe)"
+	comment "Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)"
 	serial "9014"
 	rom (
 		crc 24E97200
@@ -1172,7 +1124,7 @@ game (
 )
 
 game (
-	comment "Lemmings (Europe)"
+	comment "Lemmings (Europe, Brazil) (En)"
 	serial "7108"
 	rom (
 		crc F369B2D8
@@ -1180,7 +1132,7 @@ game (
 )
 
 game (
-	comment "Line of Fire (Europe)"
+	comment "Line of Fire (Europe, Brazil) (En)"
 	serial "9006"
 	rom (
 		crc CB09F355
@@ -1188,7 +1140,7 @@ game (
 )
 
 game (
-	comment "Lion King, The (Europe)"
+	comment "Lion King, The (Europe, Brazil) (En)"
 	serial "MK-27081"
 	rom (
 		crc C352C7EB
@@ -1204,7 +1156,7 @@ game (
 )
 
 game (
-	comment "Loretta no Shouzou (Japan)"
+	comment "Loretta no Shouzou - Sherlock Holmes (Japan)"
 	serial "G-1315"
 	rom (
 		crc 323F357F
@@ -1212,7 +1164,7 @@ game (
 )
 
 game (
-	comment "Lucky Dime Caper Starring Donald Duck, The (Europe)"
+	comment "Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)"
 	serial "7072"
 	rom (
 		crc A1710F13
@@ -1260,7 +1212,7 @@ game (
 )
 
 game (
-	comment "Marksman Shooting & Trap Shooting (USA)"
+	comment "Marksman Shooting & Trap Shooting (USA, Brazil) (En)"
 	serial "6003"
 	rom (
 		crc E8EA842C
@@ -1268,7 +1220,7 @@ game (
 )
 
 game (
-	comment "Master of Darkness (Europe)"
+	comment "Master of Darkness (Europe, Brazil) (En)"
 	serial "7107"
 	rom (
 		crc 96FB4D4B
@@ -1276,7 +1228,7 @@ game (
 )
 
 game (
-	comment "Masters of Combat (Europe)"
+	comment "Masters of Combat (Europe, Brazil) (En)"
 	serial "7124"
 	rom (
 		crc 93141463
@@ -1284,7 +1236,7 @@ game (
 )
 
 game (
-	comment "Maze Walker (Japan)"
+	comment "Maze Walker (Japan) (En)"
 	serial "G-1345"
 	rom (
 		crc 871562B0
@@ -1292,7 +1244,7 @@ game (
 )
 
 game (
-	comment "Megumi Rescue (Japan)"
+	comment "Megumi Rescue (Japan) (En)"
 	serial "G-1359"
 	rom (
 		crc 29BC7FAD
@@ -1300,7 +1252,7 @@ game (
 )
 
 game (
-	comment "Mercs (Europe)"
+	comment "Mercs (Europe, Brazil) (En)"
 	serial "9007"
 	rom (
 		crc D7416B83
@@ -1308,7 +1260,7 @@ game (
 )
 
 game (
-	comment "Mick & Mack as the Global Gladiators (Europe)"
+	comment "Global Gladiators (Europe, Brazil) (En)"
 	serial "MK-27062"
 	rom (
 		crc B67CEB76
@@ -1316,10 +1268,10 @@ game (
 )
 
 game (
-	comment "Mickey's Ultimate Challenge (Brazil)"
+	comment "Mickey's Ultimate Challenge (Brazil) (En)"
 	serial "028700"
 	rom (
-		crc 25051DD5
+		crc 2B86BCD7
 	)
 )
 
@@ -1332,7 +1284,7 @@ game (
 )
 
 game (
-	comment "Monopoly (Europe)"
+	comment "Monopoly (USA, Europe) (Rev A)"
 	serial "5500"
 	rom (
 		crc 026D94A4
@@ -1340,7 +1292,7 @@ game (
 )
 
 game (
-	comment "Monopoly (USA)"
+	comment "Monopoly (USA, Europe)"
 	serial "5500"
 	rom (
 		crc 69538469
@@ -1348,7 +1300,7 @@ game (
 )
 
 game (
-	comment "Montezuma's Revenge featuring Panama Joe (USA)"
+	comment "Montezuma's Revenge Featuring Panama Joe (USA)"
 	serial "4370"
 	rom (
 		crc 82FDA895
@@ -1356,7 +1308,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat (Europe)"
+	comment "Mortal Kombat (Europe, Brazil) (En)"
 	serial "MK-29021"
 	rom (
 		crc 302DC686
@@ -1364,7 +1316,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat II (Europe)"
+	comment "Mortal Kombat II (Europe, Brazil) (En)"
 	serial "MK-29029"
 	rom (
 		crc 2663BF18
@@ -1372,7 +1324,7 @@ game (
 )
 
 game (
-	comment "Ms. Pac-Man (Europe)"
+	comment "Ms. Pac-Man (Europe, Brazil) (En)"
 	serial "301030"
 	rom (
 		crc 3CD816C6
@@ -1388,7 +1340,7 @@ game (
 )
 
 game (
-	comment "New Zealand Story, The (Europe)"
+	comment "NewZealand Story, The (Europe)"
 	serial "27035"
 	rom (
 		crc C660FF34
@@ -1404,7 +1356,7 @@ game (
 )
 
 game (
-	comment "Ninja Gaiden (Europe)"
+	comment "Ninja Gaiden (Europe, Brazil) (En)"
 	serial "670-2262-50"
 	rom (
 		crc 1B1D8CC2
@@ -1420,7 +1372,7 @@ game (
 )
 
 game (
-	comment "Opa Opa (Japan)"
+	comment "Opa Opa (Japan) (En)"
 	serial "G-1343"
 	rom (
 		crc BEA27D5C
@@ -1428,7 +1380,7 @@ game (
 )
 
 game (
-	comment "Operation Wolf (Europe)"
+	comment "Operation Wolf (Europe, Brazil) (En)"
 	serial "7039"
 	rom (
 		crc 205CAAE8
@@ -1436,7 +1388,7 @@ game (
 )
 
 game (
-	comment "Ottifants, The (Europe) (En,Fr,De,Es,It)"
+	comment "Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)"
 	serial "7120"
 	rom (
 		crc 82EF2A7D
@@ -1444,7 +1396,7 @@ game (
 )
 
 game (
-	comment "Out Run (World)"
+	comment "OutRun (World)"
 	serial "7003"
 	rom (
 		crc 5589D8D2
@@ -1452,7 +1404,7 @@ game (
 )
 
 game (
-	comment "Out Run 3-D (Europe)"
+	comment "OutRun 3-D (Europe, Brazil) (En)"
 	serial "8007"
 	rom (
 		crc D6F43DDA
@@ -1460,7 +1412,7 @@ game (
 )
 
 game (
-	comment "Out Run Europa (Europe)"
+	comment "OutRun Europa (Europe, Brazil) (En)"
 	serial "27016"
 	rom (
 		crc 3932ADBC
@@ -1492,7 +1444,7 @@ game (
 )
 
 game (
-	comment "Paperboy (USA)"
+	comment "Paperboy (USA, Brazil) (En)"
 	serial "5121"
 	rom (
 		crc 327A0B4C
@@ -1508,7 +1460,7 @@ game (
 )
 
 game (
-	comment "Pit Fighter (Europe)"
+	comment "Pit-Fighter (Europe)"
 	serial "MK-29009"
 	rom (
 		crc B840A446
@@ -1516,7 +1468,7 @@ game (
 )
 
 game (
-	comment "Populous (Europe)"
+	comment "Populous (Europe, Brazil) (En)"
 	serial "27014"
 	rom (
 		crc C7A1FDEF
@@ -1524,7 +1476,7 @@ game (
 )
 
 game (
-	comment "Power Strike II (Europe)"
+	comment "Power Strike II (Europe, Brazil) (En)"
 	serial "9024"
 	rom (
 		crc A109A6FE
@@ -1540,7 +1492,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Europe)"
+	comment "Prince of Persia (Europe, Brazil) (En)"
 	serial "MK-27022"
 	rom (
 		crc 7704287D
@@ -1548,7 +1500,7 @@ game (
 )
 
 game (
-	comment "Pro Yakyuu Pennant Race, The (Japan)"
+	comment "Pro Yakyuu, The - Pennant Race (Japan)"
 	serial "G-1323"
 	rom (
 		crc DA9BE8F0
@@ -1556,7 +1508,7 @@ game (
 )
 
 game (
-	comment "Psychic World (Europe)"
+	comment "Psychic World (Europe, Brazil) (En)"
 	serial "7066"
 	rom (
 		crc 5C0B1F0F
@@ -1564,7 +1516,7 @@ game (
 )
 
 game (
-	comment "Putt & Putter (Europe)"
+	comment "Putt & Putter (Europe, Brazil) (En)"
 	serial "5122"
 	rom (
 		crc 357D4F78
@@ -1580,7 +1532,7 @@ game (
 )
 
 game (
-	comment "Rainbow Islands - Story of the Bubble Bobble 2 (Europe)"
+	comment "Rainbow Islands (Europe)"
 	serial "7117"
 	rom (
 		crc C172A22C
@@ -1612,7 +1564,7 @@ game (
 )
 
 game (
-	comment "Renegade (Europe)"
+	comment "Renegade (Europe, Brazil) (En)"
 	serial "7116"
 	rom (
 		crc 3BE7F641
@@ -1620,7 +1572,7 @@ game (
 )
 
 game (
-	comment "Road Rash (Europe)"
+	comment "Road Rash (Europe, Brazil) (En)"
 	serial "29012-50"
 	rom (
 		crc B876FC74
@@ -1628,7 +1580,7 @@ game (
 )
 
 game (
-	comment "RoboCop 3 (Europe)"
+	comment "RoboCop 3 (Europe, Brazil) (En)"
 	serial "MK-27064"
 	rom (
 		crc 9F951756
@@ -1636,7 +1588,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe, Brazil) (En)"
 	serial "MK-29022-50"
 	rom (
 		crc 8212B754
@@ -1652,7 +1604,7 @@ game (
 )
 
 game (
-	comment "Running Battle (Europe)"
+	comment "Running Battle (Europe, Brazil) (En)"
 	serial "7037"
 	rom (
 		crc 1FDAE719
@@ -1660,7 +1612,7 @@ game (
 )
 
 game (
-	comment "SDI (Japan)"
+	comment "SDI (Japan) (En)"
 	serial "G-1338"
 	rom (
 		crc 1DE2C2D0
@@ -1668,7 +1620,7 @@ game (
 )
 
 game (
-	comment "Sagaia (Europe)"
+	comment "Sagaia (Europe, Brazil) (En)"
 	serial "7078"
 	rom (
 		crc 66388128
@@ -1676,7 +1628,7 @@ game (
 )
 
 game (
-	comment "Sapo Xule - S.O.S Lagoa Poluida (Brazil)"
+	comment "Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (En)"
 	serial "023.510"
 	rom (
 		crc 7AB2946A
@@ -1692,7 +1644,7 @@ game (
 )
 
 game (
-	comment "Satellite 7 (Japan)"
+	comment "Satellite 7 (Japan) (En)"
 	serial "C-506"
 	rom (
 		crc 16249E19
@@ -1708,7 +1660,7 @@ game (
 )
 
 game (
-	comment "Scramble Spirits (Europe)"
+	comment "Scramble Spirits (Europe, Brazil) (En)"
 	serial "7031"
 	rom (
 		crc 9A8B28EC
@@ -1724,7 +1676,7 @@ game (
 )
 
 game (
-	comment "Sega Chess (Europe)"
+	comment "Sega Chess (Europe, Brazil) (En)"
 	serial "7069"
 	rom (
 		crc A8061AEF
@@ -1732,7 +1684,7 @@ game (
 )
 
 game (
-	comment "Sega World Tournament Golf (Europe)"
+	comment "Sega World Tournament Golf (Europe, Brazil) (En)"
 	serial "7103"
 	rom (
 		crc 296879DD
@@ -1740,7 +1692,7 @@ game (
 )
 
 game (
-	comment "Seishun Scandal (Japan)"
+	comment "Seishun Scandal (Japan) (En)"
 	serial "C-510"
 	rom (
 		crc F0BA2BC6
@@ -1756,7 +1708,7 @@ game (
 )
 
 game (
-	comment "Shadow Dancer (Europe)"
+	comment "Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En)"
 	serial "9009"
 	rom (
 		crc 3793C01A
@@ -1764,7 +1716,7 @@ game (
 )
 
 game (
-	comment "Shadow of the Beast (Europe)"
+	comment "Shadow of the Beast (Europe, Brazil) (En)"
 	serial "7019"
 	rom (
 		crc 1575581D
@@ -1772,7 +1724,7 @@ game (
 )
 
 game (
-	comment "Shinobi (Japan)"
+	comment "Shinobi (Japan, Brazil) (En)"
 	serial "G-1353"
 	rom (
 		crc E1FFF1BB
@@ -1780,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart vs. the Space Mutants (Europe)"
+	comment "Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En)"
 	serial "MK-27031"
 	rom (
 		crc D1CC08EE
@@ -1788,7 +1740,7 @@ game (
 )
 
 game (
-	comment "Simpsons, The - Bart vs. the World (Europe)"
+	comment "Simpsons, The - Bart vs. The World (Europe, Brazil) (En)"
 	serial "MK-27053"
 	rom (
 		crc F6B2370A
@@ -1804,7 +1756,7 @@ game (
 )
 
 game (
-	comment "Slap Shot (Europe) (Rev 1)"
+	comment "Slap Shot (Europe) (Sample)"
 	serial "7035"
 	rom (
 		crc D33B296A
@@ -1812,7 +1764,7 @@ game (
 )
 
 game (
-	comment "Slap Shot (USA)"
+	comment "Slap Shot (USA, Europe, Brazil) (En)"
 	serial "7035"
 	rom (
 		crc 702C3E98
@@ -1820,7 +1772,7 @@ game (
 )
 
 game (
-	comment "Smurfs, The (Europe) (En,Fr,De,Es)"
+	comment "Smurfs, The (Europe, Brazil) (En,Fr,De,Es)"
 	serial "MK-27082"
 	rom (
 		crc 3E63768A
@@ -1836,7 +1788,7 @@ game (
 )
 
 game (
-	comment "Sonic Blast (Brazil)"
+	comment "Sonic Blast (Brazil) (En)"
 	serial "030.030"
 	rom (
 		crc 96B3F29E
@@ -1844,7 +1796,7 @@ game (
 )
 
 game (
-	comment "Sonic Chaos (Europe)"
+	comment "Sonic Chaos (Europe, Brazil) (En)"
 	serial "9021"
 	rom (
 		crc AEDF3BDF
@@ -1852,7 +1804,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (Europe)"
+	comment "Sonic The Hedgehog 2 (Europe, Brazil) (En)"
 	serial "9015"
 	rom (
 		crc 5B3B922C
@@ -1860,7 +1812,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (Europe) (Rev 1)"
+	comment "Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)"
 	serial "9015"
 	rom (
 		crc D6F2BFCA
@@ -1868,7 +1820,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog Spinball (Europe)"
+	comment "Sonic Spinball (Europe, Brazil) (En)"
 	serial "9034"
 	rom (
 		crc 11C1BC8A
@@ -1892,7 +1844,7 @@ game (
 )
 
 game (
-	comment "Space Harrier 3D (Japan)"
+	comment "Space Harrier 3D (Japan) (En)"
 	serial "G-1349"
 	rom (
 		crc 156948F9
@@ -1908,7 +1860,7 @@ game (
 )
 
 game (
-	comment "Speedball (Europe) (Image Works)"
+	comment "Speedball (Europe)"
 	serial "25009"
 	rom (
 		crc A57CAD18
@@ -1916,56 +1868,8 @@ game (
 )
 
 game (
-	comment "Speedball (Europe) (Image Works)"
-	serial "25013"
-	rom (
-		crc A57CAD18
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Image Works)"
+	comment "Speedball (Europe) (Rev 1)"
 	serial "25009"
-	rom (
-		crc A57CAD18
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Image Works)"
-	serial "25013"
-	rom (
-		crc A57CAD18
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Virgin)"
-	serial "25009"
-	rom (
-		crc 5CCC1A65
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Virgin)"
-	serial "25013"
-	rom (
-		crc 5CCC1A65
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Virgin)"
-	serial "25009"
-	rom (
-		crc 5CCC1A65
-	)
-)
-
-game (
-	comment "Speedball (Europe) (Virgin)"
-	serial "25013"
 	rom (
 		crc 5CCC1A65
 	)
@@ -1980,7 +1884,7 @@ game (
 )
 
 game (
-	comment "Spider-Man - Return of the Sinister Six (Europe)"
+	comment "Spider-Man - Return of the Sinister Six (Europe, Brazil) (En)"
 	serial "MK 27055-50"
 	rom (
 		crc EBE45388
@@ -1996,7 +1900,7 @@ game (
 )
 
 game (
-	comment "Sports Pad Soccer (Japan)"
+	comment "Sports Pad Soccer (Japan) (En)"
 	serial "G-1365"
 	rom (
 		crc 41C948BF
@@ -2004,7 +1908,7 @@ game (
 )
 
 game (
-	comment "Spy vs Spy (Japan)"
+	comment "Spy vs Spy (Japan) (En)"
 	serial "C-514"
 	rom (
 		crc D41B9A08
@@ -2012,7 +1916,7 @@ game (
 )
 
 game (
-	comment "Star Wars (Europe)"
+	comment "Star Wars (Europe, Brazil) (En)"
 	serial "29014-50"
 	rom (
 		crc D4B8F66D
@@ -2020,7 +1924,7 @@ game (
 )
 
 game (
-	comment "Street Fighter II (Brazil)"
+	comment "Street Fighter II' (Brazil) (En)"
 	serial "030.010"
 	rom (
 		crc 0F8287EC
@@ -2028,7 +1932,7 @@ game (
 )
 
 game (
-	comment "Streets of Rage (Europe)"
+	comment "Streets of Rage (Europe, Brazil) (En)"
 	serial "9019"
 	rom (
 		crc 4AB3790F
@@ -2036,7 +1940,7 @@ game (
 )
 
 game (
-	comment "Streets of Rage II (Europe)"
+	comment "Streets of Rage II (Europe, Brazil) (En)"
 	serial "9026 670-3528-50"
 	rom (
 		crc 04E9C089
@@ -2044,7 +1948,7 @@ game (
 )
 
 game (
-	comment "Strider II (Europe)"
+	comment "Strider II (Europe, Brazil) (En)"
 	serial "29005"
 	rom (
 		crc B8F0915A
@@ -2052,7 +1956,7 @@ game (
 )
 
 game (
-	comment "Submarine Attack (Europe)"
+	comment "Submarine Attack (Europe, Brazil) (En)"
 	serial "7048"
 	rom (
 		crc D8F2F1B9
@@ -2068,7 +1972,7 @@ game (
 )
 
 game (
-	comment "Summer Games (Europe)"
+	comment "Summer Games (Europe, Brazil) (En)"
 	serial "5119"
 	rom (
 		crc 8DA5C93F
@@ -2076,7 +1980,7 @@ game (
 )
 
 game (
-	comment "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+	comment "Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)"
 	serial "27017"
 	rom (
 		crc 406AA0C2
@@ -2084,7 +1988,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (Europe)"
+	comment "Super Monaco GP (Europe, Brazil) (En)"
 	serial "7043"
 	rom (
 		crc 55BF81A0
@@ -2108,7 +2012,7 @@ game (
 )
 
 game (
-	comment "Super Racing (Japan)"
+	comment "Super Racing (Japan) (En)"
 	serial "G-1357"
 	rom (
 		crc 7E0EF8CB
@@ -2140,7 +2044,7 @@ game (
 )
 
 game (
-	comment "Superman - The Man of Steel (Europe)"
+	comment "Superman - The Man of Steel (Europe, Brazil) (En)"
 	serial "7050"
 	rom (
 		crc 6F9AC98F
@@ -2164,7 +2068,7 @@ game (
 )
 
 game (
-	comment "Taz in Escape from Mars (Brazil)"
+	comment "Taz in Escape from Mars (Brazil) (En)"
 	serial "028620"
 	rom (
 		crc 11CE074C
@@ -2172,7 +2076,7 @@ game (
 )
 
 game (
-	comment "Taz-Mania (Europe)"
+	comment "Taz-Mania (Europe, Brazil) (En)"
 	serial "7111"
 	rom (
 		crc 7CC3E837
@@ -2188,7 +2092,7 @@ game (
 )
 
 game (
-	comment "Teddy Boy Blues (Japan)"
+	comment "Teddy Boy Blues (Japan) (En)"
 	serial "C-501"
 	rom (
 		crc 316727DD
@@ -2196,7 +2100,7 @@ game (
 )
 
 game (
-	comment "Tennis Ace (Europe)"
+	comment "Tennis Ace (Europe, Brazil) (En)"
 	serial "7028"
 	rom (
 		crc 1A390B93
@@ -2228,7 +2132,7 @@ game (
 )
 
 game (
-	comment "Thunder Blade (Japan)"
+	comment "Thunder Blade (Japan) (En)"
 	serial "G-1360"
 	rom (
 		crc C0CE19B1
@@ -2236,7 +2140,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - The Movie (Europe)"
+	comment "Tom and Jerry - The Movie (Europe, Brazil) (En)"
 	serial "7070"
 	rom (
 		crc BF7B7285
@@ -2252,7 +2156,7 @@ game (
 )
 
 game (
-	comment "Turma da Monica em O Resgate (Brazil)"
+	comment "Turma da Monica em - O Resgate (Brazil)"
 	serial "026260"
 	rom (
 		crc 22CCA9BB
@@ -2260,7 +2164,7 @@ game (
 )
 
 game (
-	comment "Ultima IV - Quest of the Avatar (Europe)"
+	comment "Ultima IV - Quest of the Avatar (Europe, Brazil) (En)"
 	serial "9501"
 	rom (
 		crc B52D60C8
@@ -2268,7 +2172,7 @@ game (
 )
 
 game (
-	comment "Ultimate Soccer (Europe) (En,Fr,De,Es,It)"
+	comment "Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It)"
 	serial "7119"
 	rom (
 		crc 15668CA4
@@ -2276,7 +2180,7 @@ game (
 )
 
 game (
-	comment "WWF Wrestlemania - Steel Cage Challenge (Europe)"
+	comment "WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil) (En)"
 	serial "MK-27054"
 	rom (
 		crc 2DB21448
@@ -2316,7 +2220,7 @@ game (
 )
 
 game (
-	comment "Wimbledon II (Europe)"
+	comment "Wimbledon II (Europe, Brazil) (En)"
 	serial "7115"
 	rom (
 		crc 7F3AFE58
@@ -2324,7 +2228,7 @@ game (
 )
 
 game (
-	comment "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
+	comment "Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
 	serial "29015"
 	rom (
 		crc A20290B6
@@ -2332,31 +2236,7 @@ game (
 )
 
 game (
-	comment "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
-	serial "29015-50"
-	rom (
-		crc A20290B6
-	)
-)
-
-game (
-	comment "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
-	serial "29015"
-	rom (
-		crc A20290B6
-	)
-)
-
-game (
-	comment "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
-	serial "29015-50"
-	rom (
-		crc A20290B6
-	)
-)
-
-game (
-	comment "Wolfchild (Europe)"
+	comment "Wolfchild (Europe, Brazil) (En)"
 	serial "MK-27060"
 	rom (
 		crc 1F8EFA1D
@@ -2372,7 +2252,7 @@ game (
 )
 
 game (
-	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan)"
+	comment "Woody Pop - Shinjinrui no Block Kuzushi (Japan) (En)"
 	serial "C-519"
 	rom (
 		crc 315917D4
@@ -2380,7 +2260,7 @@ game (
 )
 
 game (
-	comment "World Class Leader Board (Europe)"
+	comment "World Class Leaderboard (Europe, Brazil) (En)"
 	serial "27015"
 	rom (
 		crc C9A449B7
@@ -2388,7 +2268,7 @@ game (
 )
 
 game (
-	comment "World Cup Italia '90 (Europe)"
+	comment "World Cup Italia '90 (Europe, Brazil) (En)"
 	serial "5084"
 	rom (
 		crc 6E1AD6FD
@@ -2396,7 +2276,7 @@ game (
 )
 
 game (
-	comment "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+	comment "World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)"
 	serial "29028"
 	rom (
 		crc A6BF8F9E
@@ -2404,7 +2284,7 @@ game (
 )
 
 game (
-	comment "World Games (Europe)"
+	comment "World Games (Europe, Brazil) (En)"
 	serial "5114"
 	rom (
 		crc A2A60BC8
@@ -2420,7 +2300,7 @@ game (
 )
 
 game (
-	comment "World Grand Prix (USA)"
+	comment "World Grand Prix (USA, Brazil) (En)"
 	serial "5053"
 	rom (
 		crc 7B369892
@@ -2436,7 +2316,7 @@ game (
 )
 
 game (
-	comment "X-Men - Mojo World (Brazil)"
+	comment "X-Men - Mojo World (Brazil) (En)"
 	serial "028.740"
 	rom (
 		crc 3E1387F6
@@ -2444,7 +2324,7 @@ game (
 )
 
 game (
-	comment "Xenon 2 - Megablast (Europe) (Image Works)"
+	comment "Xenon 2 - Megablast (Europe)"
 	serial "27012"
 	rom (
 		crc 5C205EE1
@@ -2452,56 +2332,8 @@ game (
 )
 
 game (
-	comment "Xenon 2 - Megablast (Europe) (Image Works)"
-	serial "27038-50"
-	rom (
-		crc 5C205EE1
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Image Works)"
+	comment "Xenon 2 - Megablast (Europe) (Rev 1)"
 	serial "27012"
-	rom (
-		crc 5C205EE1
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Image Works)"
-	serial "27038-50"
-	rom (
-		crc 5C205EE1
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Virgin)"
-	serial "27012"
-	rom (
-		crc EC726C0D
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Virgin)"
-	serial "27038-50"
-	rom (
-		crc EC726C0D
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Virgin)"
-	serial "27012"
-	rom (
-		crc EC726C0D
-	)
-)
-
-game (
-	comment "Xenon 2 - Megablast (Europe) (Virgin)"
-	serial "27038-50"
 	rom (
 		crc EC726C0D
 	)
@@ -2524,7 +2356,7 @@ game (
 )
 
 game (
-	comment "Zillion (Europe) (Rev 2)"
+	comment "Zillion (Europe, Brazil) (En) (Rev 2)"
 	serial "5075"
 	rom (
 		crc 7BA54510
@@ -2532,7 +2364,7 @@ game (
 )
 
 game (
-	comment "Zillion (USA) (Rev 1)"
+	comment "Zillion (USA, Europe) (Rev 1)"
 	serial "5075"
 	rom (
 		crc 5718762C

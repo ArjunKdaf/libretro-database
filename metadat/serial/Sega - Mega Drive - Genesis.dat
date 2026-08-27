@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "007 Shitou - The Duel (Japan)"
+	comment "007 Shitou - The Duel (Japan) (En)"
 	serial "T-48073"
 	rom (
 		crc AEB4B262
@@ -92,7 +92,7 @@ game (
 )
 
 game (
-	comment "Advanced Busterhawk Gleylancer (Japan)"
+	comment "Advanced Busterhawk Gley Lancer (Japan)"
 	serial "T-25123"
 	rom (
 		crc 42CF9B5B
@@ -124,7 +124,7 @@ game (
 )
 
 game (
-	comment "Aero Blasters (Japan)"
+	comment "Aero Blasters (Japan) (En)"
 	serial "T-33013"
 	rom (
 		crc A00DA987
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "After Burner II (Japan)"
+	comment "After Burner II (Japan) (En)"
 	serial "T-17013"
 	rom (
 		crc 4FF37E66
@@ -188,7 +188,7 @@ game (
 )
 
 game (
-	comment "Air Diver (Japan)"
+	comment "Air Diver (Japan) (En)"
 	serial "T-20023"
 	rom (
 		crc 9E2D5B91
@@ -237,14 +237,6 @@ game (
 
 game (
 	comment "Alex Kidd in the Enchanted Castle (Europe)"
-	serial "1005-50"
-	rom (
-		crc C3A52529
-	)
-)
-
-game (
-	comment "Alex Kidd in the Enchanted Castle (Europe) (Rev A)"
 	serial "1005-50"
 	rom (
 		crc 778A0F00
@@ -460,7 +452,7 @@ game (
 )
 
 game (
-	comment "Awesome Possum... ...Kicks Dr. Machino's Butt (Japan) (En)"
+	comment "Awesome Possum (Japan) (En,Ja)"
 	serial "T-48153"
 	rom (
 		crc 8C64445E
@@ -468,7 +460,7 @@ game (
 )
 
 game (
-	comment "Awesome Possum... ...Kicks Dr. Machino's Butt (USA)"
+	comment "Awesome Possum Kicks Dr. Machino's Butt (USA)"
 	serial "T-48226"
 	rom (
 		crc 1F07577F
@@ -564,7 +556,7 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	serial "T-15043"
 	rom (
 		crc D7B4FEBF
@@ -591,7 +583,7 @@ game (
 	comment "Batman Forever (World)"
 	serial "T-81336"
 	rom (
-		crc 8B723D01
+		crc DB41F2D5
 	)
 )
 
@@ -620,7 +612,7 @@ game (
 )
 
 game (
-	comment "BattleTech - A Game of Armored Combat (USA)"
+	comment "Battletech - A Game of Armored Combat (USA)"
 	serial "T-22066"
 	rom (
 		crc 409E5D14
@@ -764,7 +756,7 @@ game (
 )
 
 game (
-	comment "Bonanza Bros. (World) (Rev B)"
+	comment "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)"
 	serial "1124"
 	rom (
 		crc 20D1AD4C
@@ -820,7 +812,7 @@ game (
 )
 
 game (
-	comment "Brett Hull Hockey '95 (USA)"
+	comment "Brett Hull Hockey 95 (USA)"
 	serial "3409"
 	rom (
 		crc F7775A09
@@ -828,7 +820,7 @@ game (
 )
 
 game (
-	comment "Brian Lara Cricket (Europe) (June 1995)"
+	comment "Brian Lara Cricket (Australia)"
 	serial "T-120106-50"
 	rom (
 		crc 408CF5C3
@@ -836,7 +828,7 @@ game (
 )
 
 game (
-	comment "Brian Lara Cricket (Europe) (March 1995)"
+	comment "Brian Lara Cricket (Europe)"
 	serial "T-120106-50"
 	rom (
 		crc 90F5C2B7
@@ -844,7 +836,7 @@ game (
 )
 
 game (
-	comment "Brian Lara Cricket 96 (Europe) (April 1996)"
+	comment "Brian Lara Cricket 96 (Europe) (Rev 1)"
 	serial "T-120146"
 	rom (
 		crc FE52F7E1
@@ -852,7 +844,7 @@ game (
 )
 
 game (
-	comment "Brian Lara Cricket 96 (Europe) (March 1996)"
+	comment "Brian Lara Cricket 96 (Europe)"
 	serial "T-120146"
 	rom (
 		crc FA3024AF
@@ -932,7 +924,7 @@ game (
 )
 
 game (
-	comment "Burning Force (Japan)"
+	comment "Burning Force (Japan) (En)"
 	serial "T-14023"
 	rom (
 		crc 0C1DEB47
@@ -983,7 +975,7 @@ game (
 	comment "Cannon Fodder (Europe)"
 	serial "T-70366-50"
 	rom (
-		crc AD217654
+		crc 3F440D3F
 	)
 )
 
@@ -1020,7 +1012,7 @@ game (
 )
 
 game (
-	comment "Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)"
+	comment "I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)"
 	serial "G-4042"
 	rom (
 		crc CE8333C6
@@ -1044,7 +1036,7 @@ game (
 )
 
 game (
-	comment "Chameleon Kid (Japan)"
+	comment "Chameleon Kid (Japan) (En)"
 	serial "G-4070"
 	rom (
 		crc 50217C80
@@ -1071,7 +1063,7 @@ game (
 	comment "Chaos Engine, The (Europe)"
 	serial "T-104066-50"
 	rom (
-		crc BD9EECF4
+		crc A6E1D401
 	)
 )
 
@@ -1084,7 +1076,7 @@ game (
 )
 
 game (
-	comment "Chavez II (USA)"
+	comment "Chavez II (Mexico)"
 	serial "T-137036"
 	rom (
 		crc 5BC0DBB8
@@ -1132,7 +1124,7 @@ game (
 )
 
 game (
-	comment "Chou Touryuu Retsuden Dino Land (Japan)"
+	comment "Chou Touryuu Retsuden - Dino Land (Japan) (En)"
 	serial "T-32043"
 	rom (
 		crc 81F939DE
@@ -1156,7 +1148,7 @@ game (
 )
 
 game (
-	comment "Chuck Rock II (Japan)"
+	comment "Chuck Rock II (Japan) (En)"
 	serial "T-70063"
 	rom (
 		crc BFD24BE8
@@ -1188,7 +1180,7 @@ game (
 )
 
 game (
-	comment "Clay Fighter (Europe)"
+	comment "ClayFighter (Europe)"
 	serial "T-125036-50"
 	rom (
 		crc 1AAF7707
@@ -1196,7 +1188,7 @@ game (
 )
 
 game (
-	comment "Clay Fighter (USA)"
+	comment "ClayFighter (USA)"
 	serial "T-125036"
 	rom (
 		crc B12C1BC1
@@ -1207,7 +1199,7 @@ game (
 	comment "Cliffhanger (Europe)"
 	serial "T-93036-50"
 	rom (
-		crc 35BFF1FD
+		crc EB5E0B28
 	)
 )
 
@@ -1276,7 +1268,7 @@ game (
 )
 
 game (
-	comment "Columns (World)"
+	comment "Columns (Japan) (En)"
 	serial "1701"
 	rom (
 		crc 03163D7A
@@ -1284,7 +1276,7 @@ game (
 )
 
 game (
-	comment "Columns (World) (v1.1)"
+	comment "Columns (USA, Europe)"
 	serial "1701"
 	rom (
 		crc D783C244
@@ -1308,7 +1300,7 @@ game (
 )
 
 game (
-	comment "Comix Zone (Japan)"
+	comment "Comix Zone (Japan) (En,Ja)"
 	serial "G-4132"
 	rom (
 		crc 7A6027B8
@@ -1324,7 +1316,7 @@ game (
 )
 
 game (
-	comment "Comix Zone (USA) (Sega Smash Pack)"
+	comment "Comix Zone (USA) (Sega Smash Pack 2)"
 	serial "1569"
 	rom (
 		crc 2BB02A7D
@@ -1380,7 +1372,7 @@ game (
 )
 
 game (
-	comment "Cross Fire (USA)"
+	comment "CrossFire (USA)"
 	serial "20916"
 	rom (
 		crc CC73F3A9
@@ -1388,7 +1380,7 @@ game (
 )
 
 game (
-	comment "Crude Buster (Japan)"
+	comment "Crude Buster (Japan) (En)"
 	serial "T-13063"
 	rom (
 		crc AFFB4B00
@@ -1396,7 +1388,7 @@ game (
 )
 
 game (
-	comment "Crue Ball (Japan)"
+	comment "Crue Ball (Japan) (En)"
 	serial "EM20005"
 	rom (
 		crc 514C53E2
@@ -1412,7 +1404,7 @@ game (
 )
 
 game (
-	comment "Crying - Aseimei Sensou (Japan)"
+	comment "Crying - Aseimei Sensou (Japan) (En)"
 	serial "G-4087"
 	rom (
 		crc 4ABA1D6A
@@ -1428,7 +1420,7 @@ game (
 )
 
 game (
-	comment "Curse (Japan)"
+	comment "Curse (Japan) (En)"
 	serial "T-22013"
 	rom (
 		crc A4FBF9A9
@@ -1444,7 +1436,7 @@ game (
 )
 
 game (
-	comment "Cyber Police ESWAT (Japan)"
+	comment "Cyber Police - ESWAT (Japan) (En)"
 	serial "G-4029"
 	rom (
 		crc 87B636A2
@@ -1476,7 +1468,7 @@ game (
 )
 
 game (
-	comment "DJ Boy (Japan)"
+	comment "DJ Boy (Japan) (En)"
 	serial "G-4032"
 	rom (
 		crc 202ABAA8
@@ -1500,7 +1492,7 @@ game (
 )
 
 game (
-	comment "Dahna (Korea)"
+	comment "Daana (Korea)"
 	serial "GM8031JT"
 	rom (
 		crc 10829EA1
@@ -1508,7 +1500,7 @@ game (
 )
 
 game (
-	comment "Dahna Megami Tanjou (Japan)"
+	comment "Dahna - Megami Tanjou (Japan)"
 	serial "T-64013"
 	rom (
 		crc 4602584F
@@ -1532,7 +1524,7 @@ game (
 )
 
 game (
-	comment "Daimakai Mura (Japan)"
+	comment "Daimakaimura (Japan)"
 	serial "G-4013"
 	rom (
 		crc 5659F379
@@ -1540,7 +1532,7 @@ game (
 )
 
 game (
-	comment "Dangerous Seed (Japan)"
+	comment "Dangerous Seed (Japan) (En)"
 	serial "T-14033"
 	rom (
 		crc A2990031
@@ -1572,7 +1564,7 @@ game (
 )
 
 game (
-	comment "David Robinson Basketball (Japan)"
+	comment "David Robinson Basketball (Japan) (En)"
 	serial "G-4071"
 	rom (
 		crc 56164B00
@@ -1620,7 +1612,7 @@ game (
 )
 
 game (
-	comment "Devil Crash MD (Japan)"
+	comment "Devil Crash MD (Japan) (En)"
 	serial "T-18053"
 	rom (
 		crc 4C4CAAD8
@@ -1652,7 +1644,7 @@ game (
 )
 
 game (
-	comment "Dino Dini's Soccer (Europe)"
+	comment "Dino Dini's Soccer (Europe) (En,Fr,De)"
 	serial "T-70276-50"
 	rom (
 		crc 4608F53A
@@ -1676,15 +1668,15 @@ game (
 )
 
 game (
-	comment "Donald in Maui Mallard (Europe)"
+	comment "Donald in Maui Mallard (Europe) (Rev A)"
 	serial "1192"
 	rom (
-		crc B2DD857F
+		crc FA5A79F7
 	)
 )
 
 game (
-	comment "Dong Gu Ri Te Chi Jak Jeon (Korea)"
+	comment "Dongguri Techi Jakjeon (Korea)"
 	serial "GM93040JG"
 	rom (
 		crc E32F0B1C
@@ -1716,7 +1708,7 @@ game (
 )
 
 game (
-	comment "Double Dragon II - The Revenge (Japan)"
+	comment "Double Dragon II - The Revenge (Japan) (En)"
 	serial "T-74023"
 	rom (
 		crc A8BFDBD6
@@ -1828,7 +1820,7 @@ game (
 )
 
 game (
-	comment "Duke Nukem 3D (Brazil)"
+	comment "Duke Nukem 3D (Brazil) (En)"
 	serial "052050"
 	rom (
 		crc 6BD2ACCB
@@ -1876,7 +1868,7 @@ game (
 )
 
 game (
-	comment "Dyna Brothers 2 - Sega Channel Special (Japan) (Sega Channel)"
+	comment "Dyna Brothers 2 Special (Japan) (Virtual Console)"
 	serial "T-68063"
 	rom (
 		crc BA3554BC
@@ -1908,7 +1900,7 @@ game (
 )
 
 game (
-	comment "EA Hockey (Japan)"
+	comment "EA Hockey (Japan) (En)"
 	serial "EM20002"
 	rom (
 		crc 9DCDC894
@@ -1935,7 +1927,7 @@ game (
 	comment "ESPN National Hockey Night (USA)"
 	serial "T-93176"
 	rom (
-		crc 1D08828C
+		crc 401DC618
 	)
 )
 
@@ -1988,7 +1980,7 @@ game (
 )
 
 game (
-	comment "Ecco - The Tides of Time (Europe)"
+	comment "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)"
 	serial "670-5201-50"
 	rom (
 		crc 7B1BF89C
@@ -2020,7 +2012,7 @@ game (
 )
 
 game (
-	comment "El. Viento (Japan)"
+	comment "El.Viento (Japan)"
 	serial "T-32063"
 	rom (
 		crc 6091C36E
@@ -2036,7 +2028,7 @@ game (
 )
 
 game (
-	comment "Eliminate Down (Japan)"
+	comment "Eliminate Down (Japan) (En)"
 	serial "T-73033"
 	rom (
 		crc 48467542
@@ -2076,7 +2068,7 @@ game (
 )
 
 game (
-	comment "Ex-Ranza (Japan)"
+	comment "Ex-Ranza (Japan) (En)"
 	serial "G-4097"
 	rom (
 		crc 349BB68D
@@ -2116,7 +2108,7 @@ game (
 )
 
 game (
-	comment "F-22 Interceptor (Japan)"
+	comment "F-22 Interceptor - Advanced Tactical Fighter (Japan)"
 	serial "EM20007"
 	rom (
 		crc FB55C785
@@ -2172,7 +2164,7 @@ game (
 )
 
 game (
-	comment "Fastest 1 (Japan)"
+	comment "Fastest 1 (Japan) (En)"
 	serial "T-43023"
 	rom (
 		crc BB43F0DE
@@ -2180,10 +2172,10 @@ game (
 )
 
 game (
-	comment "Fatal Fury (Europe)"
+	comment "Fatal Fury (Europe, Korea) (En)"
 	serial "670-3091"
 	rom (
-		crc 2E730A91
+		crc 71AA889E
 	)
 )
 
@@ -2196,7 +2188,7 @@ game (
 )
 
 game (
-	comment "Fatman (Japan)"
+	comment "Fatman (Japan) (En)"
 	serial "T-44013"
 	rom (
 		crc 7867DA3A
@@ -2228,7 +2220,7 @@ game (
 )
 
 game (
-	comment "Final Blow (Japan)"
+	comment "Final Blow (Japan) (En)"
 	serial "T-11033"
 	rom (
 		crc 48AD505D
@@ -2255,15 +2247,15 @@ game (
 	comment "Fire Shark (USA)"
 	serial "34016"
 	rom (
-		crc 570B5024
+		crc 9C175146
 	)
 )
 
 game (
-	comment "Flashback (Europe) (Rev A)"
+	comment "Flashback (Europe) (En,Fr)"
 	serial "79066"
 	rom (
-		crc 6F311C83
+		crc EDE60E88
 	)
 )
 
@@ -2271,28 +2263,20 @@ game (
 	comment "Flashback (Japan)"
 	serial "T-15083"
 	rom (
-		crc B790E3B4
+		crc 02FB0747
 	)
 )
 
 game (
-	comment "Flashback - The Quest for Identity (USA)"
+	comment "Flashback - The Quest for Identity (USA) (En,Fr)"
 	serial "T-79066"
 	rom (
-		crc 23A9616D
+		crc 9FEFB1AB
 	)
 )
 
 game (
-	comment "Flashback - The Quest for Identity (USA) (Alt 1)"
-	serial "T-79066"
-	rom (
-		crc 33CD2B65
-	)
-)
-
-game (
-	comment "Flink (Europe)"
+	comment "Flink (Europe) (En,Fr,De)"
 	serial "670-5710"
 	rom (
 		crc BEF9A4F4
@@ -2319,7 +2303,7 @@ game (
 	comment "Foreman for Real (World)"
 	serial "80021"
 	rom (
-		crc 36248F90
+		crc BA6EAECA
 	)
 )
 
@@ -2356,7 +2340,7 @@ game (
 )
 
 game (
-	comment "G-LOC Air Battle (World)"
+	comment "G-LOC - Air Battle (World)"
 	serial "670-2831"
 	rom (
 		crc F2AF886E
@@ -2364,7 +2348,7 @@ game (
 )
 
 game (
-	comment "GO-NET (Japan)"
+	comment "Go Net (Japan)"
 	serial "G-4533"
 	rom (
 		crc DB30F773
@@ -2380,7 +2364,7 @@ game (
 )
 
 game (
-	comment "Galaxy Force II (World)"
+	comment "Galaxy Force II (Japan) (En)"
 	serial "670-1625"
 	rom (
 		crc CAE883C5
@@ -2388,7 +2372,7 @@ game (
 )
 
 game (
-	comment "Galaxy Force II (World) (Rev B)"
+	comment "Galaxy Force II (USA, Europe) (Rev B)"
 	serial "670-1625"
 	rom (
 		crc D15F5C3C
@@ -2415,7 +2399,7 @@ game (
 	comment "Garou Densetsu - Shukumei no Tatakai (Japan)"
 	serial "G-4100"
 	rom (
-		crc BF3E3FA4
+		crc 7C594E1A
 	)
 )
 
@@ -2492,7 +2476,7 @@ game (
 )
 
 game (
-	comment "Golden Axe III (Japan)"
+	comment "Golden Axe III (Japan) (En)"
 	serial "G-4093"
 	rom (
 		crc C7862EA3
@@ -2564,7 +2548,7 @@ game (
 )
 
 game (
-	comment "Greatest Heavyweights (Japan)"
+	comment "Greatest Heavyweights (Japan) (En)"
 	serial "G-5539"
 	rom (
 		crc 7EF8B162
@@ -2628,7 +2612,7 @@ game (
 )
 
 game (
-	comment "Gynoug (Japan)"
+	comment "Gynoug (Japan) (En)"
 	serial "T-25093"
 	rom (
 		crc 1B69241F
@@ -2652,7 +2636,7 @@ game (
 )
 
 game (
-	comment "Heavy Unit - Mega Drive Special (Japan)"
+	comment "Heavy Unit - Mega Drive Special (Japan) (En)"
 	serial "T-27013"
 	rom (
 		crc 1ACBE608
@@ -2668,7 +2652,7 @@ game (
 )
 
 game (
-	comment "Hellfire (Japan)"
+	comment "Hellfire (Japan) (En)"
 	serial "9/28/90"
 	rom (
 		crc 8E5E13BA
@@ -2780,7 +2764,7 @@ game (
 )
 
 game (
-	comment "Hyper Dunk - The Playoff Edition (Japan)"
+	comment "Hyper Dunk - The Playoff Edition (Japan) (En)"
 	serial "T-95083"
 	rom (
 		crc 5BAF53D7
@@ -2820,7 +2804,7 @@ game (
 )
 
 game (
-	comment "J. League Pro Striker (Japan) (v1.0)"
+	comment "J. League Pro Striker (Japan)"
 	serial "G-5540"
 	rom (
 		crc EC229156
@@ -2828,7 +2812,7 @@ game (
 )
 
 game (
-	comment "J. League Pro Striker (Japan) (v1.3)"
+	comment "J. League Pro Striker (Japan) (Rev A)"
 	serial "G-5540"
 	rom (
 		crc 2D5B7A11
@@ -2852,7 +2836,7 @@ game (
 )
 
 game (
-	comment "James Bond 007 - The Duel (Europe) (Rev A)"
+	comment "James Bond 007 - The Duel (Europe)"
 	serial "T-88016-50"
 	rom (
 		crc 291A3E4B
@@ -2908,7 +2892,7 @@ game (
 )
 
 game (
-	comment "Jewel Master (Japan)"
+	comment "Jewel Master (Japan) (En)"
 	serial "G-4047"
 	rom (
 		crc 2CF6926C
@@ -2932,7 +2916,7 @@ game (
 )
 
 game (
-	comment "JuJu Densetsu ~ Toki - Going Ape Spit (World)"
+	comment "JuJu Densetsu (Japan) (En)"
 	serial "670-2135"
 	rom (
 		crc D09B1EF1
@@ -2940,7 +2924,7 @@ game (
 )
 
 game (
-	comment "JuJu Densetsu ~ Toki - Going Ape Spit (World) (Rev A)"
+	comment "Toki - Going Ape Spit (USA, Europe)"
 	serial "670-2135"
 	rom (
 		crc 7362C3F4
@@ -2988,7 +2972,7 @@ game (
 )
 
 game (
-	comment "Jurassic Park (Japan)"
+	comment "Jurassic Park (Japan) (En)"
 	serial "G-6038"
 	rom (
 		crc EC8E5783
@@ -3004,7 +2988,7 @@ game (
 )
 
 game (
-	comment "Juuouki (Japan)"
+	comment "Juuouki (Japan) (En)"
 	serial "G-4001"
 	rom (
 		crc 1B7C96C0
@@ -3012,7 +2996,7 @@ game (
 )
 
 game (
-	comment "Juuouki (Japan) (v1.1)"
+	comment "Altered Beast (Japan, USA) (En) (Rev 1)"
 	serial "G-4001"
 	rom (
 		crc B2233E87
@@ -3036,7 +3020,7 @@ game (
 )
 
 game (
-	comment "Kick Off 3 - European Challenge (Europe)"
+	comment "Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It)"
 	serial "T-28036"
 	rom (
 		crc BC37401A
@@ -3052,7 +3036,7 @@ game (
 )
 
 game (
-	comment "Killing Game Show, The (Japan)"
+	comment "Killing Game Show, The (Japan) (En)"
 	serial "EM20021"
 	rom (
 		crc B8E7668A
@@ -3108,7 +3092,7 @@ game (
 )
 
 game (
-	comment "Klax (Japan)"
+	comment "Klax (Japan) (Namco)"
 	serial "T-14063"
 	rom (
 		crc 1AFCC1DA
@@ -3148,7 +3132,7 @@ game (
 )
 
 game (
-	comment "Kyuukyoku Tiger (Japan)"
+	comment "Kyuukyoku Tiger (Japan) (En)"
 	serial "T-24033"
 	rom (
 		crc 61276D21
@@ -3164,7 +3148,7 @@ game (
 )
 
 game (
-	comment "Lakers versus Celtics and the NBA Playoffs (USA)"
+	comment "Lakers versus Celtics and the NBA Playoffs (USA, Europe)"
 	serial "7004"
 	rom (
 		crc 0E33FC75
@@ -3228,7 +3212,7 @@ game (
 )
 
 game (
-	comment "Langrisser II (Japan) (v1.1)"
+	comment "Langrisser II (Japan) (Rev A)"
 	serial "T-25143"
 	rom (
 		crc 0CAA0593
@@ -3236,7 +3220,7 @@ game (
 )
 
 game (
-	comment "Langrisser II (Japan) (v1.2)"
+	comment "Langrisser II (Japan) (Rev B)"
 	serial "T-25143"
 	rom (
 		crc 4967C9F9
@@ -3268,7 +3252,7 @@ game (
 )
 
 game (
-	comment "Lethal Enforcers (Japan)"
+	comment "Lethal Enforcers (Japan) (En)"
 	serial "T-95073"
 	rom (
 		crc F25F1E49
@@ -3292,7 +3276,7 @@ game (
 )
 
 game (
-	comment "Light Crusader (Japan)"
+	comment "Light Crusader (Japan) (En,Ja)"
 	serial "G-5545"
 	rom (
 		crc 237076A4
@@ -3332,7 +3316,7 @@ game (
 )
 
 game (
-	comment "Lost Vikings, The (Europe)"
+	comment "Lost Vikings, The (Europe) (En,Fr,De)"
 	serial "T-70226-50"
 	rom (
 		crc 1F14EFC6
@@ -3342,30 +3326,6 @@ game (
 game (
 	comment "Lost Vikings, The (USA)"
 	serial "T-119216"
-	rom (
-		crc 7BA49EDB
-	)
-)
-
-game (
-	comment "Lost Vikings, The (USA)"
-	serial "T-125016"
-	rom (
-		crc 7BA49EDB
-	)
-)
-
-game (
-	comment "Lost Vikings, The (USA)"
-	serial "T-119216"
-	rom (
-		crc 7BA49EDB
-	)
-)
-
-game (
-	comment "Lost Vikings, The (USA)"
-	serial "T-125016"
 	rom (
 		crc 7BA49EDB
 	)
@@ -3388,7 +3348,7 @@ game (
 )
 
 game (
-	comment "Magic School Bus, The (USA)"
+	comment "Magic School Bus, The - Space Exploration Game (USA)"
 	serial "1558"
 	rom (
 		crc 1A5D4412
@@ -3444,7 +3404,7 @@ game (
 )
 
 game (
-	comment "Marble Madness (Japan)"
+	comment "Marble Madness (Japan) (En)"
 	serial "T-48113"
 	rom (
 		crc 775BC464
@@ -3500,7 +3460,7 @@ game (
 )
 
 game (
-	comment "Master of Weapon (Japan)"
+	comment "Master of Weapon (Japan) (En)"
 	serial "T-11063"
 	rom (
 		crc 12AD6178
@@ -3540,7 +3500,7 @@ game (
 )
 
 game (
-	comment "Mega Bomberman (Europe)"
+	comment "Mega Bomberman (Europe, Korea) (En)"
 	serial "670-5821"
 	rom (
 		crc 54AB3BEB
@@ -3556,7 +3516,7 @@ game (
 )
 
 game (
-	comment "Mega Games I (Europe)"
+	comment "Mega Games I (USA, Europe)"
 	serial "670-2498"
 	rom (
 		crc DB753224
@@ -3564,7 +3524,7 @@ game (
 )
 
 game (
-	comment "Mega Lo Mania (Japan)"
+	comment "Mega lo Mania (Japan)"
 	serial "T-68053"
 	rom (
 		crc A60D8619
@@ -3588,7 +3548,7 @@ game (
 )
 
 game (
-	comment "Mega-Lo-Mania (Europe)"
+	comment "Mega-lo-Mania (Europe)"
 	serial "T-70056-50"
 	rom (
 		crc 2148D56D
@@ -3596,7 +3556,7 @@ game (
 )
 
 game (
-	comment "Mega-Lo-Mania (Europe) (v1.1)"
+	comment "Mega-lo-Mania (Europe) (Beta)"
 	serial "T-70056-50"
 	rom (
 		crc AB9FED30
@@ -3604,7 +3564,7 @@ game (
 )
 
 game (
-	comment "Mega-Lo-Mania (France)"
+	comment "Mega-lo-Mania (France)"
 	serial "T-70056-50"
 	rom (
 		crc 3B3231ED
@@ -3620,7 +3580,7 @@ game (
 )
 
 game (
-	comment "MegaTrax (Japan)"
+	comment "MegaTrax (Japan) (En)"
 	serial "T-14113"
 	rom (
 		crc A0837741
@@ -3644,7 +3604,7 @@ game (
 )
 
 game (
-	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (Europe)"
+	comment "Mickey Mania (Europe)"
 	serial "T-93216-50"
 	rom (
 		crc CB5A8B85
@@ -3676,7 +3636,7 @@ game (
 )
 
 game (
-	comment "Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)"
+	comment "Micro Machines 2 - Turbo Tournament (Europe)"
 	serial "T-120096"
 	rom (
 		crc 42BFB7EB
@@ -3684,7 +3644,7 @@ game (
 )
 
 game (
-	comment "Micro Machines 2 - Turbo Tournament (Europe) (J-Cart) (Alt 1)"
+	comment "Micro Machines 2 - Turbo Tournament (Europe) (Beta 1)"
 	serial "T-120096"
 	rom (
 		crc 01C22A5D
@@ -3692,7 +3652,7 @@ game (
 )
 
 game (
-	comment "Micro Machines Military (Europe) (J-Cart)"
+	comment "Micro Machines - Military (Europe) (J-Cart)"
 	serial "T-1201166-50"
 	rom (
 		crc B3ABB15E
@@ -3700,7 +3660,7 @@ game (
 )
 
 game (
-	comment "Micro Machines Turbo Tournament 96 (Europe) (J-Cart)"
+	comment "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)"
 	serial "T-120126-50"
 	rom (
 		crc 7492B1DE
@@ -3708,7 +3668,7 @@ game (
 )
 
 game (
-	comment "Micro Machines Turbo Tournament 96 (Europe) (v1.1) (J-Cart)"
+	comment "Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)"
 	serial "T-120126-50"
 	rom (
 		crc 23319D0D
@@ -3788,7 +3748,7 @@ game (
 )
 
 game (
-	comment "Mortal Kombat (World) (v1.1)"
+	comment "Mortal Kombat (USA, Europe) (Rev A) (Beta)"
 	serial "T-81186"
 	rom (
 		crc 33F19AB6
@@ -3828,7 +3788,7 @@ game (
 )
 
 game (
-	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan)"
+	comment "Musha Aleste (Japan)"
 	serial "T-35013"
 	rom (
 		crc 8FDE18AB
@@ -3852,7 +3812,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (Japan)"
+	comment "NBA Jam (Japan) (En)"
 	serial "T-81033"
 	rom (
 		crc A6C6305A
@@ -3868,7 +3828,7 @@ game (
 )
 
 game (
-	comment "NBA Live 95 (Korea)"
+	comment "NBA Live Nong-gu 95 (Korea)"
 	serial "GM 95002 JT"
 	rom (
 		crc 779C1244
@@ -3900,7 +3860,7 @@ game (
 )
 
 game (
-	comment "NBA Pro Basketball - Bulls vs Lakers (Japan)"
+	comment "NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan)"
 	serial "EM20012"
 	rom (
 		crc 4416CE39
@@ -3911,7 +3871,7 @@ game (
 	comment "NCAA Final Four Basketball (USA)"
 	serial "T-158016"
 	rom (
-		crc ED0C1303
+		crc 48FB7E7C
 	)
 )
 
@@ -3932,7 +3892,7 @@ game (
 )
 
 game (
-	comment "NFL Football '94 (Japan)"
+	comment "NFL Football '94 (Japan) (En)"
 	serial "G-5535"
 	rom (
 		crc E490DC4A
@@ -3964,7 +3924,7 @@ game (
 )
 
 game (
-	comment "NHL All-Star Hockey '95 (USA)"
+	comment "NHL All-Star Hockey 95 (USA)"
 	serial "1230"
 	rom (
 		crc E6C0218B
@@ -3972,7 +3932,7 @@ game (
 )
 
 game (
-	comment "Nakajima Satoru Kanshuu - F-1 Grand Prix (Japan)"
+	comment "Nakajima Satoru Kanshuu - F1 Grand Prix (Japan)"
 	serial "T-72013"
 	rom (
 		crc 93BE47CF
@@ -3988,7 +3948,7 @@ game (
 )
 
 game (
-	comment "Nakajima Satoru Kanshuu - F-1 Super License (Japan)"
+	comment "Nakajima Satoru Kanshuu - F1 Super License (Japan)"
 	serial "T-72033"
 	rom (
 		crc 8774BC79
@@ -4036,7 +3996,7 @@ game (
 )
 
 game (
-	comment "New Zealand Story, The (Japan)"
+	comment "NewZealand Story, The (Japan) (En)"
 	serial "T-11013"
 	rom (
 		crc 1C77AD21
@@ -4044,7 +4004,7 @@ game (
 )
 
 game (
-	comment "Nightmare Circus (Brazil)"
+	comment "Nightmare Circus (Brazil) (En)"
 	serial "051070"
 	rom (
 		crc 06DA3217
@@ -4052,7 +4012,7 @@ game (
 )
 
 game (
-	comment "Nikkan Sports Pro Yakyuu Van (Japan)"
+	comment "Nikkan Sports Pro Yakyuu VAN (Japan)"
 	serial "G-4522"
 	rom (
 		crc C3655A59
@@ -4116,7 +4076,7 @@ game (
 )
 
 game (
-	comment "Ottifants, The (Europe)"
+	comment "Ottifants, The (Europe) (En,Fr,De,Es,It)"
 	serial "670-3509"
 	rom (
 		crc 41AC8003
@@ -4124,7 +4084,7 @@ game (
 )
 
 game (
-	comment "Out of this World (USA)"
+	comment "Out of This World (USA)"
 	serial "T-70106"
 	rom (
 		crc 2DA36E01
@@ -4132,7 +4092,7 @@ game (
 )
 
 game (
-	comment "OutRun (Japan)"
+	comment "OutRun (Japan) (En)"
 	serial "G-4052"
 	rom (
 		crc EE7D9F4A
@@ -4140,7 +4100,7 @@ game (
 )
 
 game (
-	comment "OutRun 2019 (Japan)"
+	comment "OutRun 2019 (Japan) (En)"
 	serial "T-44033"
 	rom (
 		crc 0EAC7440
@@ -4148,7 +4108,7 @@ game (
 )
 
 game (
-	comment "OutRunners (Japan)"
+	comment "OutRunners (Japan) (En)"
 	serial "G-4119"
 	rom (
 		crc E164A09F
@@ -4156,7 +4116,7 @@ game (
 )
 
 game (
-	comment "Outlander (USA)"
+	comment "Outlander (USA) (Beta)"
 	serial "T-87036"
 	rom (
 		crc C5BA7BBF
@@ -4183,7 +4143,7 @@ game (
 	comment "Pac-Attack (USA)"
 	serial "T-14116-00"
 	rom (
-		crc 5DF382F7
+		crc 79587507
 	)
 )
 
@@ -4212,7 +4172,7 @@ game (
 )
 
 game (
-	comment "Paperboy (Japan)"
+	comment "Paperboy (Japan) (En,Ja)"
 	serial "T-48043"
 	rom (
 		crc E14250AE
@@ -4236,7 +4196,7 @@ game (
 )
 
 game (
-	comment "Pepenga Pengo (Japan)"
+	comment "Pepenga Pengo (Japan) (En)"
 	serial "G-4133"
 	rom (
 		crc D1E2324B
@@ -4252,7 +4212,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Amia's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc A3A724AA
@@ -4260,7 +4220,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Anne's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc FAFA5B6F
@@ -4268,7 +4228,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Huey's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc 1A076F83
@@ -4284,7 +4244,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc C334F308
@@ -4292,7 +4252,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Nei's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc 3D9AD465
@@ -4300,7 +4260,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc 6B5916D2
@@ -4308,7 +4268,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc 1F83BEB2
@@ -4316,7 +4276,7 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan)"
 	serial "G-5501"
 	rom (
 		crc D40C76D6
@@ -4340,7 +4300,7 @@ game (
 )
 
 game (
-	comment "Phelios (Japan)"
+	comment "Phelios (Japan) (En)"
 	serial "T-14013"
 	rom (
 		crc 94596174
@@ -4372,7 +4332,7 @@ game (
 )
 
 game (
-	comment "Pit-Fighter (World)"
+	comment "Pit-Fighter (World) (En,Ja) (Beta)"
 	serial "301027"
 	rom (
 		crc 1E0E0831
@@ -4380,7 +4340,7 @@ game (
 )
 
 game (
-	comment "Pit-Fighter (World) (Rev A)"
+	comment "Pit-Fighter (World) (En,Ja)"
 	serial "301027"
 	rom (
 		crc D48A8B02
@@ -4404,7 +4364,7 @@ game (
 )
 
 game (
-	comment "Populous (Japan)"
+	comment "Populous (Japan) (En)"
 	serial "G-4057"
 	rom (
 		crc 97C26818
@@ -4452,7 +4412,7 @@ game (
 )
 
 game (
-	comment "Pro Striker Final Stage (Japan)"
+	comment "Pro Striker - Final Stage (Japan)"
 	serial "G-5547"
 	rom (
 		crc E35E25FB
@@ -4484,18 +4444,18 @@ game (
 )
 
 game (
-	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (October 1994)"
+	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (Rev 1)"
 	serial "T-120086"
 	rom (
-		crc D704784B
+		crc 32DD8351
 	)
 )
 
 game (
-	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (September 1994)"
+	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It)"
 	serial "T-120086"
 	rom (
-		crc 11E9C3F2
+		crc 1AB8F1A1
 	)
 )
 
@@ -4524,7 +4484,7 @@ game (
 )
 
 game (
-	comment "Puyo Puyo 2 (Japan)"
+	comment "Puyo Puyo Tsuu (Japan)"
 	serial "T-66013"
 	rom (
 		crc 51AD7797
@@ -4532,7 +4492,7 @@ game (
 )
 
 game (
-	comment "Puyo Puyo 2 (Japan) (v1.1)"
+	comment "Puyo Puyo Tsuu (Japan) (Rev A)"
 	serial "T-66013"
 	rom (
 		crc 25B7B2AA
@@ -4556,7 +4516,7 @@ game (
 )
 
 game (
-	comment "QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World)"
+	comment "QuackShot Starring Donald Duck (World) (En,Ja)"
 	serial "670-1710-01"
 	rom (
 		crc 88C8DD94
@@ -4564,10 +4524,10 @@ game (
 )
 
 game (
-	comment "QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (v1.1)"
+	comment "QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)"
 	serial "670-1710-01"
 	rom (
-		crc 1801098B
+		crc 5DD28DD7
 	)
 )
 
@@ -4580,7 +4540,7 @@ game (
 )
 
 game (
-	comment "R.B.I. Baseball 4 (Japan)"
+	comment "R.B.I. Baseball 4 (Japan) (En,Ja)"
 	serial "T-48063"
 	rom (
 		crc 8F4E1005
@@ -4596,7 +4556,7 @@ game (
 )
 
 game (
-	comment "Rainbow Islands Extra (Japan)"
+	comment "Rainbow Islands Extra (Japan) (En)"
 	serial "T-11073"
 	rom (
 		crc C74DCB35
@@ -4628,7 +4588,7 @@ game (
 )
 
 game (
-	comment "Rastan Saga II (Japan)"
+	comment "Rastan Saga II (Japan) (En)"
 	serial "T-11043"
 	rom (
 		crc EBACFB5A
@@ -4684,7 +4644,7 @@ game (
 )
 
 game (
-	comment "Road Rash 3 (USA) (Alpha)"
+	comment "Road Rash 3 (USA, Europe) (Beta)"
 	serial "734701"
 	rom (
 		crc B6626083
@@ -4700,7 +4660,7 @@ game (
 )
 
 game (
-	comment "RoadBlasters (Japan)"
+	comment "RoadBlasters (Japan) (En)"
 	serial "T-48023"
 	rom (
 		crc A0015440
@@ -4708,7 +4668,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (Europe)"
+	comment "RoboCop Versus The Terminator (Europe)"
 	serial "T-70166"
 	rom (
 		crc 85A93F8D
@@ -4716,7 +4676,7 @@ game (
 )
 
 game (
-	comment "RoboCop versus The Terminator (USA)"
+	comment "RoboCop Versus The Terminator (USA)"
 	serial "T-70166"
 	rom (
 		crc BBAD77A4
@@ -4732,7 +4692,7 @@ game (
 )
 
 game (
-	comment "Rocket Knight Adventures (Japan)"
+	comment "Rocket Knight Adventures (Japan) (En)"
 	serial "T-95063"
 	rom (
 		crc D1C8C1C5
@@ -4751,14 +4711,6 @@ game (
 	comment "Rockman - Mega World (Japan)"
 	serial "T-12053"
 	rom (
-		crc 4D87235E
-	)
-)
-
-game (
-	comment "Rockman - Mega World (Japan) (Alt 1)"
-	serial "T-12053"
-	rom (
 		crc 85C956EF
 	)
 )
@@ -4772,7 +4724,7 @@ game (
 )
 
 game (
-	comment "Rolling Thunder 2 (Japan)"
+	comment "Rolling Thunder 2 (Japan) (En)"
 	serial "T-14133"
 	rom (
 		crc 965B2628
@@ -4820,7 +4772,7 @@ game (
 )
 
 game (
-	comment "Saint Sword (Japan)"
+	comment "Saint Sword (Japan) (En)"
 	serial "T-11133"
 	rom (
 		crc 3960A00F
@@ -4828,7 +4780,7 @@ game (
 )
 
 game (
-	comment "Same! Same! Same! (Japan)"
+	comment "Same! Same! Same! (Japan) (En)"
 	serial "T-40013"
 	rom (
 		crc 77BBD841
@@ -4924,7 +4876,7 @@ game (
 )
 
 game (
-	comment "Shadow of the Beast - Mashou no Okite (Japan)"
+	comment "Shadow of the Beast - Mashou no Okite (Japan) (En)"
 	serial "T-60023"
 	rom (
 		crc 0CD09D31
@@ -4975,7 +4927,7 @@ game (
 	comment "Shining Force (USA)"
 	serial "1312"
 	rom (
-		crc E0594ABE
+		crc E82ACDFC
 	)
 )
 
@@ -5068,7 +5020,7 @@ game (
 )
 
 game (
-	comment "Side Pocket (Japan)"
+	comment "Side Pocket (Japan, Korea) (En)"
 	serial "T-13083"
 	rom (
 		crc 336BBF3E
@@ -5084,7 +5036,7 @@ game (
 )
 
 game (
-	comment "Slap Fight MD (Japan)"
+	comment "Slap Fight MD (Japan) (En)"
 	serial "T-48093"
 	rom (
 		crc D6695695
@@ -5095,12 +5047,12 @@ game (
 	comment "Slaughter Sport (USA)"
 	serial "T-56046"
 	rom (
-		crc AF9F9D9C
+		crc AAB2C6C4
 	)
 )
 
 game (
-	comment "Slime World (Japan)"
+	comment "Slime World (Japan) (En)"
 	serial "T-49123"
 	rom (
 		crc 7FF5529F
@@ -5108,7 +5060,7 @@ game (
 )
 
 game (
-	comment "Smurfs, The (Europe) (En,Fr,De,Es,It) (Rev A)"
+	comment "Smurfs, The (Europe) (En,Fr,De,Es,It)"
 	serial "T-151016"
 	rom (
 		crc 88B30EFF
@@ -5124,7 +5076,7 @@ game (
 )
 
 game (
-	comment "Snow Bros. - Nick & Tom (Japan)"
+	comment "Snow Bros. - Nick & Tom (Japan) (En)"
 	serial "T-48083"
 	rom (
 		crc 11B56228
@@ -5191,12 +5143,12 @@ game (
 	comment "Sonic & Knuckles (World)"
 	serial "1563"
 	rom (
-		crc 0658F691
+		crc 4DCFD55C
 	)
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog (World)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)"
 	serial "1563"
 	rom (
 		crc E01F6ED5
@@ -5204,7 +5156,7 @@ game (
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 2 (World)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-On)"
 	serial "1563"
 	rom (
 		crc 2AC1E7C6
@@ -5212,7 +5164,7 @@ game (
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (World)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On)"
 	serial "1563"
 	rom (
 		crc 63522553
@@ -5236,7 +5188,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog (World) (GameCube Edition)"
+	comment "Sonic The Hedgehog (World) (Sonic Mega Collection)"
 	serial "670-1470"
 	rom (
 		crc 6382B2C5
@@ -5260,7 +5212,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 3 (Europe)"
+	comment "Sonic 3 (Europe)"
 	serial "670-3655"
 	rom (
 		crc 6A632503
@@ -5276,7 +5228,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog Spinball (Europe)"
+	comment "Sonic Spinball (Europe)"
 	serial "670-3621-50"
 	rom (
 		crc AEA0786D
@@ -5284,7 +5236,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog Spinball (USA)"
+	comment "Sonic Spinball (USA)"
 	serial "1537"
 	rom (
 		crc 677206CB
@@ -5292,7 +5244,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog Spinball (USA) (Alt 1)"
+	comment "Sonic Spinball (USA) (Beta 2)"
 	serial "1537"
 	rom (
 		crc E9960371
@@ -5308,7 +5260,7 @@ game (
 )
 
 game (
-	comment "Sorcerer's Kingdom (USA)"
+	comment "Sorcerer's Kingdom (USA) (Beta)"
 	serial "T-28076"
 	rom (
 		crc CBE6C1EA
@@ -5316,7 +5268,7 @@ game (
 )
 
 game (
-	comment "Sorcerer's Kingdom (USA) (v1.1)"
+	comment "Sorcerer's Kingdom (USA)"
 	serial "T-28076"
 	rom (
 		crc BB1FC9CE
@@ -5340,7 +5292,7 @@ game (
 )
 
 game (
-	comment "Space Harrier II (Japan) (Launch Cart)"
+	comment "Space Harrier II (Japan) (En) (Launch Cart)"
 	serial "G-4002"
 	rom (
 		crc EDC0FB28
@@ -5348,7 +5300,7 @@ game (
 )
 
 game (
-	comment "Space Invaders 90 (Japan)"
+	comment "Space Invaders 90 (Japan) (En)"
 	serial "T-11053"
 	rom (
 		crc 22ADBD66
@@ -5372,7 +5324,7 @@ game (
 )
 
 game (
-	comment "Sparkster - Rocket Knight Adventures 2 (Japan)"
+	comment "Sparkster - Rocket Knight Adventures 2 (Japan) (En)"
 	serial "T-95103"
 	rom (
 		crc 914EC662
@@ -5388,7 +5340,7 @@ game (
 )
 
 game (
-	comment "Speedball 2 (Japan)"
+	comment "Speedball 2 (Japan) (En)"
 	serial "T-68023"
 	rom (
 		crc F5442334
@@ -5396,7 +5348,7 @@ game (
 )
 
 game (
-	comment "Spider-Man . Venom - Maximum Carnage (World)"
+	comment "Spider-Man - Venom - Maximum Carnage (World)"
 	serial "T-81256"
 	rom (
 		crc 8FA0B6E6
@@ -5476,7 +5428,7 @@ game (
 )
 
 game (
-	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (v1.1)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A)"
 	serial "1313"
 	rom (
 		crc EF840EF2
@@ -5492,7 +5444,7 @@ game (
 )
 
 game (
-	comment "Stormlord (Japan)"
+	comment "Stormlord (Japan) (En)"
 	serial "T-49113"
 	rom (
 		crc 0B440FED
@@ -5588,7 +5540,7 @@ game (
 )
 
 game (
-	comment "Striker (Europe)"
+	comment "Striker (Europe) (En,Fr,De,Es,It)"
 	serial "670-6248-50"
 	rom (
 		crc CC5D7AB2
@@ -5620,7 +5572,7 @@ game (
 )
 
 game (
-	comment "Super Airwolf (Japan)"
+	comment "Super Airwolf (Japan) (En)"
 	serial "T-29013"
 	rom (
 		crc FA451982
@@ -5628,7 +5580,7 @@ game (
 )
 
 game (
-	comment "Super Battleship (USA)"
+	comment "Super Battleship - The Classic Naval Combat Game (USA)"
 	serial "T-87066"
 	rom (
 		crc 99CA1BFB
@@ -5660,7 +5612,7 @@ game (
 )
 
 game (
-	comment "Super Fantasy Zone (Japan)"
+	comment "Super Fantasy Zone (Japan) (En,Ja)"
 	serial "T-15023"
 	rom (
 		crc 767780D7
@@ -5724,7 +5676,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (Japan) (En,Ja)"
+	comment "Super Monaco GP (Japan, USA) (En,Ja)"
 	serial "G-4026"
 	rom (
 		crc 90F9BAB3
@@ -5732,7 +5684,7 @@ game (
 )
 
 game (
-	comment "Super Shinobi, The (Japan)"
+	comment "Revenge of Shinobi, The (Japan, USA) (En)"
 	serial "G-4019"
 	rom (
 		crc 5C7E5EA6
@@ -5772,7 +5724,7 @@ game (
 )
 
 game (
-	comment "Super Thunder Blade (Japan) (Launch Cart)"
+	comment "Super Thunder Blade (Japan) (En) (Launch Cart)"
 	serial "G-4003"
 	rom (
 		crc 8BD77836
@@ -5804,7 +5756,7 @@ game (
 )
 
 game (
-	comment "Sword of Sodan (Japan)"
+	comment "Sword of Sodan (Japan) (En)"
 	serial "G-4056"
 	rom (
 		crc 58EDB3F3
@@ -5812,7 +5764,7 @@ game (
 )
 
 game (
-	comment "Sylvester & Tweety in Cagey Capers (Europe)"
+	comment "Sylvester & Tweety in Cagey Capers (USA, Europe)"
 	serial "T-48346-50"
 	rom (
 		crc 89FC54CE
@@ -5820,7 +5772,7 @@ game (
 )
 
 game (
-	comment "Sylvester and Tweety in Cagey Capers (USA)"
+	comment "Sylvester & Tweety in Cagey Capers (USA, Europe) (Beta 1)"
 	serial "T-48346"
 	rom (
 		crc 9D9C786B
@@ -5828,7 +5780,7 @@ game (
 )
 
 game (
-	comment "T2 - The Arcade Game (Japan)"
+	comment "T2 - The Arcade Game (Japan) (En)"
 	serial "T-81023"
 	rom (
 		crc 5E6FE52C
@@ -5836,7 +5788,7 @@ game (
 )
 
 game (
-	comment "TNN Bass Tournament of Champions (USA)"
+	comment "TNN Bass Tournament of Champions (USA) (Rev 1)"
 	serial "T-137056"
 	rom (
 		crc C83FFA1B
@@ -5868,7 +5820,7 @@ game (
 )
 
 game (
-	comment "Task Force Harrier EX (Japan)"
+	comment "Task Force Harrier EX (Japan) (En)"
 	serial "T-24053"
 	rom (
 		crc E9A54EED
@@ -5916,7 +5868,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl (Japan)"
+	comment "Tecmo Super Bowl (Japan) (En)"
 	serial "T-36023"
 	rom (
 		crc 90C6E20C
@@ -5924,7 +5876,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl II - Special Edition (Japan)"
+	comment "Tecmo Super Bowl II - Special Edition (Japan) (En)"
 	serial "T-36043"
 	rom (
 		crc 32FB633D
@@ -5948,7 +5900,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super NBA Basketball (Japan)"
+	comment "Tecmo Super NBA Basketball (Japan) (En)"
 	serial "T-36033"
 	rom (
 		crc 79F33EB6
@@ -5964,7 +5916,7 @@ game (
 )
 
 game (
-	comment "Tecmo World Cup '92 (Japan)"
+	comment "Tecmo World Cup '92 (Japan) (En)"
 	serial "T-44023"
 	rom (
 		crc 5E93C8B0
@@ -6052,7 +6004,7 @@ game (
 )
 
 game (
-	comment "Thunder Force II MD (Japan)"
+	comment "Thunder Force II MD (Japan) (En)"
 	serial "T-18013"
 	rom (
 		crc E75EC3E0
@@ -6068,7 +6020,7 @@ game (
 )
 
 game (
-	comment "Thunder Force IV (Japan)"
+	comment "Thunder Force IV (Japan) (En)"
 	serial "T-18063"
 	rom (
 		crc 8D606480
@@ -6108,7 +6060,7 @@ game (
 )
 
 game (
-	comment "TinHead (USA)"
+	comment "Tinhead (USA)"
 	serial "T-119236"
 	rom (
 		crc D6724B84
@@ -6116,7 +6068,7 @@ game (
 )
 
 game (
-	comment "Tintin au Tibet (Europe) (En,Fr,De,Es,Nl,Sv)"
+	comment "Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)"
 	serial "T-151036-05"
 	rom (
 		crc 4243CAF3
@@ -6140,7 +6092,7 @@ game (
 )
 
 game (
-	comment "ToeJam & Earl in Panic auf Funkotron (Germany)"
+	comment "ToeJam & Earl in Panik auf Funkotron (Germany)"
 	serial "670-2197-18"
 	rom (
 		crc 4081B9F2
@@ -6180,7 +6132,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - Frantic Antics (USA) (1993)"
+	comment "Tom and Jerry - Frantic Antics! (USA) (Beta)"
 	serial "T-112016"
 	rom (
 		crc B9992E1C
@@ -6188,7 +6140,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - Frantic Antics (USA) (1994)"
+	comment "Tom and Jerry - Frantic Antics! (USA)"
 	serial "T-112016"
 	rom (
 		crc 3044460C
@@ -6204,7 +6156,7 @@ game (
 )
 
 game (
-	comment "Top Pro Golf (Japan)"
+	comment "Top Pro Golf (Japan) (En)"
 	serial "T-73023"
 	rom (
 		crc 62BAD606
@@ -6212,7 +6164,7 @@ game (
 )
 
 game (
-	comment "Top Pro Golf 2 (Japan)"
+	comment "Top Pro Golf 2 (Japan) (En)"
 	serial "T-73043"
 	rom (
 		crc B8CE98B3
@@ -6228,7 +6180,7 @@ game (
 )
 
 game (
-	comment "Tougiou King Colossus (Japan)"
+	comment "Tougi Ou - King Colossus (Japan)"
 	serial "G-5513"
 	rom (
 		crc FFE7B3C7
@@ -6279,7 +6231,7 @@ game (
 	comment "Triple Play - Gold Edition (USA)"
 	serial "7735"
 	rom (
-		crc A89638A0
+		crc 5396796F
 	)
 )
 
@@ -6287,7 +6239,7 @@ game (
 	comment "Triple Play 96 (USA)"
 	serial "7386"
 	rom (
-		crc F1748E91
+		crc 9E5BE31B
 	)
 )
 
@@ -6340,7 +6292,7 @@ game (
 )
 
 game (
-	comment "Tyrants - Fight through Time (USA)"
+	comment "Tyrants - Fight Through Time (USA)"
 	serial "T-70056"
 	rom (
 		crc A744921E
@@ -6348,7 +6300,7 @@ game (
 )
 
 game (
-	comment "Uchuu Senkan Gomora (Japan)"
+	comment "Uchuu Senkan Gomora (Japan) (En)"
 	serial "T-42023"
 	rom (
 		crc C511E8D2
@@ -6412,7 +6364,7 @@ game (
 )
 
 game (
-	comment "V-V (Japan)"
+	comment "V-V (Japan) (En)"
 	serial "T-48173"
 	rom (
 		crc AD9D0EC0
@@ -6428,7 +6380,7 @@ game (
 )
 
 game (
-	comment "Valis III (Japan) (Rev A)"
+	comment "Valis III (Japan)"
 	serial "T-49023"
 	rom (
 		crc 4D49A166
@@ -6444,7 +6396,7 @@ game (
 )
 
 game (
-	comment "Vampire Killer (Japan)"
+	comment "Vampire Killer (Japan) (En)"
 	serial "T-95043"
 	rom (
 		crc 91B57D2B
@@ -6500,7 +6452,7 @@ game (
 )
 
 game (
-	comment "Virtua Racing (Japan)"
+	comment "Virtua Racing (Japan) (En)"
 	serial "G-7001"
 	rom (
 		crc 53A293B5
@@ -6516,7 +6468,7 @@ game (
 )
 
 game (
-	comment "Volfied (Japan)"
+	comment "Volfied (Japan) (En)"
 	serial "T-11103"
 	rom (
 		crc B0C5E3F7
@@ -6532,7 +6484,7 @@ game (
 )
 
 game (
-	comment "Wani Wani World (Japan)"
+	comment "Wani Wani World (Japan) (En)"
 	serial "T-33023"
 	rom (
 		crc 56F0DBB2
@@ -6588,7 +6540,7 @@ game (
 )
 
 game (
-	comment "Wimbledon Championship Tennis (Japan)"
+	comment "Wimbledon Championship Tennis (Japan) (En)"
 	serial "G-4110"
 	rom (
 		crc 3E0C9DAF
@@ -6612,7 +6564,7 @@ game (
 )
 
 game (
-	comment "Wiz'n'Liz (USA)"
+	comment "Wiz 'N' Liz (USA)"
 	serial "T-113026"
 	rom (
 		crc DF036B62
@@ -6620,7 +6572,7 @@ game (
 )
 
 game (
-	comment "Wiz'n'Liz - The Frantic Wabbit Wescue (Europe)"
+	comment "Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)"
 	serial "T-113026-50"
 	rom (
 		crc F09353B4
@@ -6692,7 +6644,7 @@ game (
 )
 
 game (
-	comment "World of Illusion - Fushigi na Magic Box (Japan)"
+	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan)"
 	serial "G-4080"
 	rom (
 		crc CB9EE238
@@ -6716,7 +6668,7 @@ game (
 )
 
 game (
-	comment "Wrestleball (Japan)"
+	comment "Wrestleball (Japan) (En)"
 	serial "T-14043"
 	rom (
 		crc D563E07F
@@ -6748,7 +6700,7 @@ game (
 )
 
 game (
-	comment "XDR - X-Dazedly-Ray (Japan)"
+	comment "XDR - X-Dazedly-Ray (Japan) (En)"
 	serial "8/21/90"
 	rom (
 		crc AB22D002
@@ -6812,7 +6764,7 @@ game (
 )
 
 game (
-	comment "Zan Yasha Enbukyoku (Japan)"
+	comment "Zan - Yasha Enbukyoku (Japan)"
 	serial "T-32033"
 	rom (
 		crc 637FE8F3
@@ -6839,15 +6791,14 @@ game (
 	comment "Zoop (Europe)"
 	serial "T-139086"
 	rom (
-		crc 2FDAC6AB
+		crc 0764139F
 	)
 )
 
 game (
-	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan)"
+	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)"
 	serial "EM20008"
 	rom (
 		crc 1A761E67
 	)
 )
-

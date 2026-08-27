@@ -4,7 +4,7 @@ clrmamepro (
 )
 
 game (
-	comment "007 Shitou - The Duel (Japan)"
+	comment "007 Shitou - The Duel (Japan) (En)"
 	users 1
 	rom ( crc AEB4B262 )
 )
@@ -16,27 +16,15 @@ game (
 )
 
 game (
-	comment "16 Zhang Mahjong (Taiwan) (Unl)"
+	comment "Shiliu Zhang Mahjong - Xiangyan Meiren Pian (Taiwan)"
 	users 1
 	rom ( crc 36407C82 )
 )
 
 game (
-	comment "16 Zhang Mahjong II (Taiwan) (Unl)"
+	comment "Shiliu Zhang Mahjong II (Taiwan)"
 	users 1
 	rom ( crc B4F4249F )
-)
-
-game (
-	comment "16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 67271302 )
-)
-
-game (
-	comment "16t (Japan) (Game no Kanzume Vol. 2)"
-	users 1
-	rom ( crc 0FFFE8E4 )
 )
 
 game (
@@ -46,7 +34,7 @@ game (
 )
 
 game (
-	comment "16t (Japan) (SegaNet)"
+	comment "16t (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 537F04B6 )
 )
@@ -100,19 +88,19 @@ game (
 )
 
 game (
-	comment "Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)"
+	comment "Aaahh!!! Real Monsters (USA) (Beta)"
 	users 1
 	rom ( crc F4B44B82 )
 )
 
 game (
-	comment "Abbaye des Morts, L' (World) (Aftermarket) (Homebrew)"
+	comment "Abbaye des Morts, L' (World) (Beta)"
 	users 1
 	rom ( crc 8865EE24 )
 )
 
 game (
-	comment "Action 52 (USA) (Unl)"
+	comment "Action 52 (USA)"
 	users 2
 	rom ( crc 29FF58AE )
 )
@@ -124,7 +112,7 @@ game (
 )
 
 game (
-	comment "Addams Family Values (USA) (En,Fr,De) (Proto)"
+	comment "Addams Family Values (USA) (Proto)"
 	users 1
 	rom ( crc B360704B )
 )
@@ -148,7 +136,7 @@ game (
 )
 
 game (
-	comment "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Beta) (1991-03-07)"
+	comment "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Beta)"
 	users 4
 	rom ( crc 6CE17E36 )
 )
@@ -166,67 +154,67 @@ game (
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-10)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 2)"
 	users 2
 	rom ( crc D4F3A070 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-06)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 1)"
 	users 2
 	rom ( crc F05CF389 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-11)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 3)"
 	users 2
 	rom ( crc B5B5A290 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-18)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 4)"
 	users 2
 	rom ( crc 6874142B )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-21)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 6)"
 	users 2
 	rom ( crc 61F02F13 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-19)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 5)"
 	users 2
 	rom ( crc 7002DA56 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-22)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 7)"
 	users 2
 	rom ( crc EB8236B2 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-24)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 8)"
 	users 2
 	rom ( crc 253947F8 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-26)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 9)"
 	users 2
 	rom ( crc BC79F7EE )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-27)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 10)"
 	users 2
 	rom ( crc FDAC8190 )
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-04-28)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 11)"
 	users 2
 	rom ( crc 27A1524B )
 )
@@ -238,7 +226,7 @@ game (
 )
 
 game (
-	comment "Adventures of Batman & Robin, The (USA) (Beta) (1995-05-01)"
+	comment "Adventures of Batman & Robin, The (USA) (Beta 12)"
 	users 2
 	rom ( crc 589AA203 )
 )
@@ -250,7 +238,7 @@ game (
 )
 
 game (
-	comment "Adventurous Boy - Mao Xian Xiao Zi (Taiwan) (Unl)"
+	comment "Adventurous Boy - Maoxian Xiaozi (Taiwan) (En)"
 	users 1
 	rom ( crc D4403913 )
 )
@@ -262,7 +250,7 @@ game (
 )
 
 game (
-	comment "Aero Blasters (Japan)"
+	comment "Aero Blasters (Japan) (En)"
 	users 2
 	rom ( crc A00DA987 )
 )
@@ -280,7 +268,7 @@ game (
 )
 
 game (
-	comment "Aero the Acro-Bat (Europe) (Beta)"
+	comment "Aero the Acro-Bat (Europe) (Sample)"
 	users 1
 	rom ( crc DCD14B10 )
 )
@@ -310,7 +298,7 @@ game (
 )
 
 game (
-	comment "After Burner II (Japan)"
+	comment "After Burner II (Japan) (En)"
 	users 1
 	rom ( crc 4FF37E66 )
 )
@@ -328,7 +316,7 @@ game (
 )
 
 game (
-	comment "Air Diver (Japan)"
+	comment "Air Diver (Japan) (En)"
 	users 1
 	rom ( crc 9E2D5B91 )
 )
@@ -358,7 +346,7 @@ game (
 )
 
 game (
-	comment "Al Michaels Announces HardBall III (USA, Europe) (Unl)"
+	comment "Al Michaels Announces HardBall III (USA, Europe)"
 	users 2
 	rom ( crc A4F2F011 )
 )
@@ -382,19 +370,19 @@ game (
 )
 
 game (
-	comment "Aladdin (USA) (Beta) (July, 1993)"
+	comment "Aladdin (USA) (Beta 2)"
 	users 1
 	rom ( crc 8C60EF73 )
 )
 
 game (
-	comment "Aladdin (Japan) (En) (Beta) (1993-07-31)"
+	comment "Aladdin (USA) (Beta 3)"
 	users 1
 	rom ( crc C4491714 )
 )
 
 game (
-	comment "Aladdin (USA) (Beta) (1993-06-27)"
+	comment "Aladdin (USA) (Beta 1)"
 	users 1
 	rom ( crc 78110310 )
 )
@@ -406,7 +394,7 @@ game (
 )
 
 game (
-	comment "Aladdin (World) (Disney Classic Games)"
+	comment "Aladdin (World) (En) (Disney Classic Games)"
 	users 1
 	rom ( crc E4A7AA54 )
 )
@@ -418,7 +406,7 @@ game (
 )
 
 game (
-	comment "Aladdin II (Taiwan) (En) (Unl)"
+	comment "Aladdin II (Taiwan) (En)"
 	users 1
 	rom ( crc BE5F9397 )
 )
@@ -502,13 +490,13 @@ game (
 )
 
 game (
-	comment "Alisia Dragoon (USA) (Genesis Mini)"
+	comment "Alisia Dragoon (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 4BFDFE9C )
 )
 
 game (
-	comment "Alisia Dragoon (Japan) (Mega Drive Mini)"
+	comment "Alisia Dragoon (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 3A6BF605 )
 )
@@ -532,7 +520,7 @@ game (
 )
 
 game (
-	comment "Altered Beast (USA, Europe)"
+	comment "Altered Beast (USA, Europe) (Rev 2)"
 	users 2
 	rom ( crc 154D59BB )
 )
@@ -550,7 +538,7 @@ game (
 )
 
 game (
-	comment "Andre Agassi Tennis (USA) (Beta) (August, 1992)"
+	comment "Andre Agassi Tennis (USA) (Beta)"
 	users 2
 	rom ( crc 3BBF700D )
 )
@@ -586,7 +574,7 @@ game (
 )
 
 game (
-	comment "Aq Renkan Awa (Taiwan) (Unl)"
+	comment "Ah Q Lianhuan Pao (Taiwan)"
 	users 1
 	rom ( crc 2C6CBD77 )
 )
@@ -604,7 +592,7 @@ game (
 )
 
 game (
-	comment "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3 (World)"
+	comment "Arcade Legends Street Fighter II' - Special Champion Edition (World) (Radica)"
 	users 2
 	rom ( crc 12CAA444 )
 )
@@ -628,61 +616,61 @@ game (
 )
 
 game (
-	comment "Ariel the Little Mermaid (USA, Europe)"
+	comment "Ariel - The Little Mermaid (USA, Europe)"
 	users 1
 	rom ( crc 58E297DF )
 )
 
 game (
-	comment "Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)"
+	comment "Ariel - The Little Mermaid (USA) (Sega Channel)"
 	users 1
 	rom ( crc 2B3F375E )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Fr,Es) (Aftermarket) (Unl)"
+	comment "Arkagis Revolution (World) (En,Fr,Es) (Digital)"
 	users 1
-	rom ( crc A9BDC71B )
+	rom ( crc E3A71431 )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Es) (Beta) (2019-07-29) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Es) (Beta 2)"
 	users 1
 	rom ( crc 8B33E732 )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Es) (Beta) (2019-09-02) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Es) (Beta 3)"
 	users 1
 	rom ( crc E4E7F232 )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Es) (Beta) (2019-09-16) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Es) (Beta 4)"
 	users 1
 	rom ( crc 53D271FD )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta) (2019-11-28) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta 5)"
 	users 1
 	rom ( crc 980E247E )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-03-04) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta 6)"
 	users 1
 	rom ( crc C839231E )
 )
 
 game (
-	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-02-21) (Aftermarket) (Homebrew)"
+	comment "Arkagis Revolution (World) (En,Fr,Es) (Beta 1)"
 	users 1
 	rom ( crc 662C4A59 )
 )
 
 game (
-	comment "Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (1990-03-22) (Sega Channel)"
+	comment "Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (Sega Channel)"
 	users 2
 	rom ( crc 09B67C70 )
 )
@@ -712,13 +700,13 @@ game (
 )
 
 game (
-	comment "Art Alive (World) (Beta) (1991-09-20)"
+	comment "Art Alive (World) (Sega Channel)"
 	users 1
 	rom ( crc 952C0375 )
 )
 
 game (
-	comment "Art of Fighting (USA) (Beta) (1994-07-11)"
+	comment "Art of Fighting (USA) (Beta)"
 	users 2
 	rom ( crc 19CE567D )
 )
@@ -748,7 +736,7 @@ game (
 )
 
 game (
-	comment "Asterix and the Power of the Gods (Europe) (En,Fr,De,Es,It) (Beta) (February, 1994)"
+	comment "Asterix and the Power of the Gods (Europe) (Beta)"
 	users 1
 	rom ( crc 45C8B5B7 )
 )
@@ -796,43 +784,43 @@ game (
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-05-09)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 1)"
 	users 4
 	rom ( crc B17A8DBC )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-07-19)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 2)"
 	users 4
 	rom ( crc CB927488 )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-07-23)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 3)"
 	users 4
 	rom ( crc A15D5051 )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-08-02)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 4)"
 	users 4
 	rom ( crc 686A9FA1 )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-08-08)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 6)"
 	users 4
 	rom ( crc E6398864 )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-08-05)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 5)"
 	users 4
 	rom ( crc A1FEF967 )
 )
 
 game (
-	comment "ATP Tour Championship Tennis (USA) (Beta) (1994-09-08)"
+	comment "ATP Tour Championship Tennis (USA) (Beta 7)"
 	users 4
 	rom ( crc B83F4CA4 )
 )
@@ -850,37 +838,37 @@ game (
 )
 
 game (
-	comment "Awesome Possum (Japan) (En)"
+	comment "Awesome Possum (Japan) (En,Ja)"
 	users 1
 	rom ( crc 8C64445E )
 )
 
 game (
-	comment "Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 1)"
+	comment "Awesome Possum Kicks Dr. Machino's Butt! (USA) (Beta 1)"
 	users 1
 	rom ( crc 0158DC53 )
 )
 
 game (
-	comment "Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 3)"
+	comment "Awesome Possum Kicks Dr. Machino's Butt! (USA) (Beta 3)"
 	users 1
 	rom ( crc 65526763 )
 )
 
 game (
-	comment "Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 2) (1993-07-12)"
+	comment "Awesome Possum Kicks Dr. Machino's Butt! (USA) (Beta 2)"
 	users 1
 	rom ( crc A541AC1C )
 )
 
 game (
-	comment "Awesome Possum... ...Kicks Dr. Machino's Butt (USA)"
+	comment "Awesome Possum Kicks Dr. Machino's Butt (USA)"
 	users 1
 	rom ( crc 1F07577F )
 )
 
 game (
-	comment "Aworg (Japan) (SegaNet)"
+	comment "Aworg - Hero in the Sky (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 069C27C1 )
 )
@@ -910,19 +898,19 @@ game (
 )
 
 game (
-	comment "Baby Boom (USA) (Proto) (1994-08-11)"
+	comment "Baby Boom (USA) (Proto 3)"
 	users 1
 	rom ( crc BD697054 )
 )
 
 game (
-	comment "Baby Boom (USA) (Proto) (1994-06-06)"
+	comment "Baby Boom (USA) (Proto 2)"
 	users 1
 	rom ( crc 6E0CF48D )
 )
 
 game (
-	comment "Baby Boom (USA) (Proto) (1994-06-03)"
+	comment "Baby Boom (USA) (Proto 1)"
 	users 1
 	rom ( crc C0D97F6F )
 )
@@ -976,25 +964,25 @@ game (
 )
 
 game (
-	comment "Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 1)"
+	comment "Ballz 3D - Fighting at its Ballziest (USA, Europe) (Beta 1)"
 	users 2
 	rom ( crc C89AD87E )
 )
 
 game (
-	comment "Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 2)"
+	comment "Ballz 3D - Fighting at its Ballziest (USA, Europe) (Beta 2)"
 	users 2
 	rom ( crc D349AB90 )
 )
 
 game (
-	comment "Bao Xiao San Guo (Taiwan) (Unl) (Alt)"
+	comment "Baoxiao Sanguo (Taiwan) (Alt)"
 	users 1
 	rom ( crc DF107B54 )
 )
 
 game (
-	comment "Bao Xiao San Guo (Taiwan) (Unl)"
+	comment "Baoxiao Sanguo (Taiwan)"
 	users 1
 	rom ( crc 496EB1D1 )
 )
@@ -1006,7 +994,7 @@ game (
 )
 
 game (
-	comment "Barbie Super Model (USA) (Beta) (1993-06-30)"
+	comment "Barbie Super Model (USA) (Beta)"
 	users 2
 	rom ( crc D4823175 )
 )
@@ -1018,7 +1006,7 @@ game (
 )
 
 game (
-	comment "Bare Knuckle II (Japan) (Beta)"
+	comment "Bare Knuckle II (Japan) (En) (Beta)"
 	users 2
 	rom ( crc 0CF2ACBE )
 )
@@ -1060,7 +1048,7 @@ game (
 )
 
 game (
-	comment "Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)"
+	comment "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga) (Taiwan)"
 	users 1
 	rom ( crc D37A37C6 )
 )
@@ -1072,7 +1060,7 @@ game (
 )
 
 game (
-	comment "Barney's Hide & Seek Game (USA) (Beta) (1993-09-18)"
+	comment "Barney's Hide & Seek Game (USA) (Sega Channel)"
 	users 1
 	rom ( crc 19D9DC81 )
 )
@@ -1090,7 +1078,7 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	users 1
 	rom ( crc D7B4FEBF )
 )
@@ -1132,7 +1120,7 @@ game (
 )
 
 game (
-	comment "Battle Mania (Japan) (Beta) (1991-05-28)"
+	comment "Battle Mania (Japan) (Beta)"
 	users 1
 	rom ( crc BF0A017F )
 )
@@ -1144,7 +1132,7 @@ game (
 )
 
 game (
-	comment "Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)"
+	comment "Battle Squadron (USA, Europe) (Rev 1) (Beta) (Sega Channel)"
 	users 2
 	rom ( crc 43A76B45 )
 )
@@ -1186,7 +1174,7 @@ game (
 )
 
 game (
-	comment "Beast Wrestler (Japan) (Beta) (1991-09-13)"
+	comment "Beast Wrestler (USA) (Beta)"
 	users 2
 	rom ( crc E8734E9C )
 )
@@ -1228,7 +1216,7 @@ game (
 )
 
 game (
-	comment "The hash data is from the first printing of this game"
+	comment "Beggar Prince (USA, Europe) (Super Fighter Team)"
 	users 1
 	rom ( crc F3AF46CD )
 )
@@ -1240,7 +1228,7 @@ game (
 )
 
 game (
-	comment "Beggar Prince (World) (Rev 1) (Aftermarket) (Unl)"
+	comment "Beggar Prince (USA, Europe) (Rev 1) (Super Fighter Team)"
 	users 1
 	rom ( crc 6332EDCC )
 )
@@ -1252,121 +1240,121 @@ game (
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-04-28)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 2)"
 	users 2
 	rom ( crc F222E946 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-03-23)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 1)"
 	users 2
 	rom ( crc BFBCD7CC )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-04-29)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 3)"
 	users 2
 	rom ( crc E21493B4 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-06)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 4)"
 	users 2
 	rom ( crc 713C14D8 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-11)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 5)"
 	users 2
 	rom ( crc F7B81C6A )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-19)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 7)"
 	users 2
 	rom ( crc 07C9F71F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-17)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 6)"
 	users 2
 	rom ( crc E1855ADE )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-26)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 9)"
 	users 2
 	rom ( crc D33C0FA4 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-23)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 8)"
 	users 2
 	rom ( crc 913887B7 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-02)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 11)"
 	users 2
 	rom ( crc 83CF19E4 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-30)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 10)"
 	users 2
 	rom ( crc 9C3BF429 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-10)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 12)"
 	users 2
 	rom ( crc A748E2CF )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-09)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 13)"
 	users 2
 	rom ( crc BF6AA405 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-16)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 14)"
 	users 2
 	rom ( crc C84AAD8E )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 16)"
 	users 2
 	rom ( crc B7CD465C )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-20)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 15)"
 	users 2
 	rom ( crc ABEE4C5E )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-02)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 17)"
 	users 2
 	rom ( crc 383AD564 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-03)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 18)"
 	users 2
 	rom ( crc 18F268A6 )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-05)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 19)"
 	users 2
 	rom ( crc 24159B6F )
 )
 
 game (
-	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-08)"
+	comment "Berenstain Bears' Camping Adventure, The (USA) (Beta 20)"
 	users 2
 	rom ( crc 58B6B0FC )
 )
@@ -1384,7 +1372,7 @@ game (
 )
 
 game (
-	comment "Beyond Zero Tolerance (USA) (Proto) (1995-06-23)"
+	comment "Beyond Zero Tolerance (USA) (Proto 1)"
 	users 1
 	rom ( crc C61ED2ED )
 )
@@ -1396,13 +1384,13 @@ game (
 )
 
 game (
-	comment "Bible Adventures (USA) (Unl)"
+	comment "Bible Adventures (USA)"
 	users 1
 	rom ( crc 64446B77 )
 )
 
 game (
-	comment "Beyond Oasis (USA) (Beta) (1994-11-01)"
+	comment "Beyond Oasis (USA) (Beta)"
 	users 1
 	rom ( crc FA59F847 )
 )
@@ -1438,7 +1426,7 @@ game (
 )
 
 game (
-	comment "Bio Hazard Battle (USA, Europe) (Beta 2) (August, 1992)"
+	comment "Bio Hazard Battle (USA, Europe) (Beta 2)"
 	users 2
 	rom ( crc DD10DD1A )
 )
@@ -1474,7 +1462,7 @@ game (
 )
 
 game (
-	comment "Blaster Master 2 (USA) (Beta)"
+	comment "Blaster Master 2 (USA) (Beta 2)"
 	users 1
 	rom ( crc 08F78C70 )
 )
@@ -1483,12 +1471,6 @@ game (
 	comment "Blockout (World)"
 	users 2
 	rom ( crc 5E2966F1 )
-)
-
-game (
-	comment "Blow'em Out (USA) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc F00D5999 )
 )
 
 game (
@@ -1522,43 +1504,43 @@ game (
 )
 
 game (
-	comment "Body Count (Brazil) (En) (Beta) (1994-01-27)"
+	comment "Body Count (USA) (Beta 1)"
 	users 2
 	rom ( crc 66CA4E71 )
 )
 
 game (
-	comment "Body Count (Brazil) (En) (Beta) (1994-02-08)"
+	comment "Body Count (USA) (Beta 2)"
 	users 2
 	rom ( crc C5FED897 )
 )
 
 game (
-	comment "Body Count (Brazil) (En) (Beta) (1994-03-08)"
+	comment "Body Count (USA) (Beta 4)"
 	users 2
 	rom ( crc 8965213F )
 )
 
 game (
-	comment "Body Count (Brazil) (En) (Beta) (1994-03-03)"
+	comment "Body Count (USA) (Beta 3)"
 	users 2
 	rom ( crc 6ABC6E77 )
 )
 
 game (
-	comment "Bomb on Basic City - Special Edition + Papi Commando Tennis Demo (World) (En,Fr) (Aftermarket) (Homebrew)"
+	comment "Bomb on Basic City - Special Edition + Papi Commando Tennis Demo (World) (En,Fr)"
 	users 2
 	rom ( crc 076232FD )
 )
 
 game (
-	comment "Bomber (Brazil) (En) (Unl)"
+	comment "Bomber (USA) (Sega Gopher)"
 	users 2
 	rom ( crc 6389A658 )
 )
 
 game (
-	comment "Bomboy (Taiwan) (En) (Unl)"
+	comment "Hongzha Xiaozi - Bomboy (Taiwan) (En)"
 	users 1
 	rom ( crc 065D2019 )
 )
@@ -1570,43 +1552,43 @@ game (
 )
 
 game (
-	comment "Bonanza Bros. (Japan, Europe) (En)"
+	comment "Bonanza Bros. (Japan, Europe) (En,Ja)"
 	users 2
 	rom ( crc ADF6476C )
 )
 
 game (
-	comment "Bonanza Bros. (Japan, Europe) (En) (Rev A)"
+	comment "Bonanza Bros. (Japan, Europe) (En,Ja) (Rev A)"
 	users 2
 	rom ( crc C6AAC589 )
 )
 
 game (
-	comment "Bonkers (USA, Europe) (Beta) (1994-05-03)"
+	comment "Bonkers (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc E4CD0D61 )
 )
 
 game (
-	comment "Bonkers (USA, Europe) (Beta) (1994-03-28)"
+	comment "Bonkers (USA, Europe) (Beta 1)"
 	users 1
 	rom ( crc CD67C588 )
 )
 
 game (
-	comment "Bonkers (USA, Europe) (Beta) (1994-08-04)"
+	comment "Bonkers (USA, Europe) (Beta 3)"
 	users 1
 	rom ( crc 913CC834 )
 )
 
 game (
-	comment "Bonkers (USA, Europe) (Beta) (1994-08-25)"
+	comment "Bonkers (USA, Europe) (Beta 4)"
 	users 1
 	rom ( crc 3E5EDC4F )
 )
 
 game (
-	comment "Bonkers (USA, Europe) (Beta) (1994-08-29)"
+	comment "Bonkers (USA, Europe) (Beta 5)"
 	users 1
 	rom ( crc 7B84793E )
 )
@@ -1750,19 +1732,19 @@ game (
 )
 
 game (
-	comment "Budokan - The Martial Spirit (USA) (Unl)"
+	comment "Budokan - The Martial Spirit (USA)"
 	users 2
 	rom ( crc ACD9F5FC )
 )
 
 game (
-	comment "Budokan - The Martial Spirit (USA) (Rev 1) (Beta) (1990-09-25)"
+	comment "Budokan - The Martial Spirit (USA) (Rev 1) (Beta)"
 	users 2
 	rom ( crc 43532E3D )
 )
 
 game (
-	comment "Bug's Life, A (Taiwan) (En) (Unl)"
+	comment "Bug's Life, A - Chong Chong Weiji (Taiwan) (En)"
 	users 1
 	rom ( crc 10458E09 )
 )
@@ -1798,7 +1780,7 @@ game (
 )
 
 game (
-	comment "Burning Force (Japan)"
+	comment "Burning Force (Japan) (En)"
 	users 1
 	rom ( crc 0C1DEB47 )
 )
@@ -1858,7 +1840,7 @@ game (
 )
 
 game (
-	comment "Canon - The Legend of the New Gods (USA) (Aftermarket) (Unl)"
+	comment "Canon - The Legend of the New Gods (USA) (Piko Interactive)"
 	users 1
 	rom ( crc F85DD66D )
 )
@@ -1900,7 +1882,7 @@ game (
 )
 
 game (
-	comment "Cascade (World) (Aftermarket) (Unl)"
+	comment "Cascade (World)"
 	users 2
 	rom ( crc E7B287FE )
 )
@@ -1924,7 +1906,7 @@ game (
 )
 
 game (
-	comment "Castlevania - Bloodlines (USA) (Beta) (1993-10-07)"
+	comment "Castlevania - Bloodlines (USA) (Beta 2)"
 	users 1
 	rom ( crc 64D46357 )
 )
@@ -1936,7 +1918,7 @@ game (
 )
 
 game (
-	comment "Castlevania - Bloodlines (USA) (Beta) (1993-08-04)"
+	comment "Castlevania - Bloodlines (USA) (Beta 1)"
 	users 1
 	rom ( crc CA0DF45B )
 )
@@ -1954,7 +1936,7 @@ game (
 )
 
 game (
-	comment "Castlevania - The New Generation (Europe) (Mega Drive Mini)"
+	comment "Castlevania - The New Generation (Europe) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 6A5E58CD )
 )
@@ -1978,7 +1960,7 @@ game (
 )
 
 game (
-	comment "Chakan (USA, Europe) (1992-10-06) (Sega Channel)"
+	comment "Chakan (USA, Europe) (Sega Channel)"
 	users 1
 	rom ( crc 77B7E85F )
 )
@@ -1996,7 +1978,7 @@ game (
 )
 
 game (
-	comment "Champions World Class Soccer (World) (Beta) (1994-03-18)"
+	comment "Champions World Class Soccer (World) (Beta)"
 	users 2
 	rom ( crc 7B3EB69D )
 )
@@ -2020,19 +2002,19 @@ game (
 )
 
 game (
-	comment "Chao Ji Da Fu Weng (Taiwan) (Unl)"
+	comment "Chaoji Dafuweng (Taiwan)"
 	users 1
 	rom ( crc 2E2EA687 )
 )
 
 game (
-	comment "Chao Ji Mahjong Club (Taiwan) (Unl)"
+	comment "Chaoji Mahjong Club (Taiwan)"
 	users 1
 	rom ( crc 2B4B40E3 )
 )
 
 game (
-	comment "Chao Ji Poker (Taiwan) (En) (Unl)"
+	comment "Chaoji Poker (Taiwan) (En)"
 	users 1
 	rom ( crc C37E6858 )
 )
@@ -2074,7 +2056,7 @@ game (
 )
 
 game (
-	comment "Chess (Russia) (En) (Unl)"
+	comment "Chess (Russia) (En)"
 	users 2
 	rom ( crc 47380EDD )
 )
@@ -2122,7 +2104,7 @@ game (
 )
 
 game (
-	comment "Chou Touryuu Retsuden - Dino Land (Japan)"
+	comment "Chou Touryuu Retsuden - Dino Land (Japan) (En)"
 	users 2
 	rom ( crc 81F939DE )
 )
@@ -2140,7 +2122,7 @@ game (
 )
 
 game (
-	comment "Chuck Rock II (Japan)"
+	comment "Chuck Rock II (Japan) (En)"
 	users 1
 	rom ( crc BFD24BE8 )
 )
@@ -2206,25 +2188,7 @@ game (
 )
 
 game (
-	comment "Coffee Crisis (World) (Aftermarket) (Unl) (Alt)"
-	users 2
-	rom ( crc 5F6F343D )
-)
-
-game (
-	comment "Coffee Crisis (World) (Demo) (Aftermarket) (Unl)"
-	users 2
-	rom ( crc 85E45420 )
-)
-
-game (
-	comment "Coffee Crisis (World) (Aftermarket) (Unl)"
-	users 2
-	rom ( crc 870DFCE7 )
-)
-
-game (
-	comment "College Football USA 96 (USA) (Beta) (1995-06-21)"
+	comment "College Football USA 96 (USA) (Beta)"
 	users 4
 	rom ( crc E70BD01D )
 )
@@ -2248,115 +2212,115 @@ game (
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-04-13)"
+	comment "College Football's National Championship (USA) (Beta 1)"
 	users 4
 	rom ( crc D9772DEF )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-04-18)"
+	comment "College Football's National Championship (USA) (Beta 2)"
 	users 4
 	rom ( crc E0A1705F )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-04-19)"
+	comment "College Football's National Championship (USA) (Beta 3)"
 	users 4
 	rom ( crc D5FE66C3 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-04-29)"
+	comment "College Football's National Championship (USA) (Beta 4)"
 	users 4
 	rom ( crc 99DA1973 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-03)"
+	comment "College Football's National Championship (USA) (Beta 5)"
 	users 4
 	rom ( crc DB1A3F66 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-06)"
+	comment "College Football's National Championship (USA) (Beta 6)"
 	users 4
 	rom ( crc 0A538E75 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-11)"
+	comment "College Football's National Championship (USA) (Beta 7)"
 	users 4
 	rom ( crc CE65B294 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-17)"
+	comment "College Football's National Championship (USA) (Beta 8)"
 	users 4
 	rom ( crc 8CFD4C86 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-20)"
+	comment "College Football's National Championship (USA) (Beta 9)"
 	users 4
 	rom ( crc F285385E )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-25)"
+	comment "College Football's National Championship (USA) (Beta 10)"
 	users 4
 	rom ( crc 482E334A )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-05-31)"
+	comment "College Football's National Championship (USA) (Beta 11)"
 	users 4
 	rom ( crc C6766745 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-01)"
+	comment "College Football's National Championship (USA) (Beta 12)"
 	users 4
 	rom ( crc 994DBC8F )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-03)"
+	comment "College Football's National Championship (USA) (Beta 13)"
 	users 4
 	rom ( crc 9CA29321 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-07)"
+	comment "College Football's National Championship (USA) (Beta 14)"
 	users 4
 	rom ( crc B40B791E )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-08)"
+	comment "College Football's National Championship (USA) (Beta 15)"
 	users 4
 	rom ( crc D008DEBC )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-14)"
+	comment "College Football's National Championship (USA) (Beta 16)"
 	users 4
 	rom ( crc ECEF7DE7 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-15)"
+	comment "College Football's National Championship (USA) (Beta 17)"
 	users 4
 	rom ( crc C7E5A998 )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-18)"
+	comment "College Football's National Championship (USA) (Beta 18)"
 	users 4
 	rom ( crc 74988A9D )
 )
 
 game (
-	comment "College Football's National Championship (USA) (Beta) (1994-06-20)"
+	comment "College Football's National Championship (USA) (Beta 19)"
 	users 4
 	rom ( crc 898C17FA )
 )
@@ -2392,7 +2356,7 @@ game (
 )
 
 game (
-	comment "Columns (USA, Europe) (1990-06-21) (Sega Channel)"
+	comment "Columns (USA, Europe) (Sega Channel)"
 	users 2
 	rom ( crc 7EEC1A45 )
 )
@@ -2404,7 +2368,7 @@ game (
 )
 
 game (
-	comment "Combat Aces (USA) (Proto) (Unl)"
+	comment "Combat Aces (USA) (Proto)"
 	users 2
 	rom ( crc 84560D5A )
 )
@@ -2434,7 +2398,7 @@ game (
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-04-04)"
+	comment "Comix Zone (USA) (Beta 1)"
 	users 1
 	rom ( crc 2EFCB6EE )
 )
@@ -2452,37 +2416,37 @@ game (
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-05-26)"
+	comment "Comix Zone (USA) (Beta 2)"
 	users 1
 	rom ( crc 36029A1F )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-05-30)"
+	comment "Comix Zone (USA) (Beta 3)"
 	users 1
 	rom ( crc A72ECA2C )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-01)"
+	comment "Comix Zone (USA) (Beta 4)"
 	users 1
 	rom ( crc BA506835 )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-02)"
+	comment "Comix Zone (USA) (Beta 9)"
 	users 1
 	rom ( crc B5F0DAE5 )
 )
 
 game (
-	comment "Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel)"
+	comment "Comix Zone (USA) (Demo 3) (Sega Channel)"
 	users 1
 	rom ( crc C77DB9E1 )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-03)"
+	comment "Comix Zone (USA) (Beta 10)"
 	users 1
 	rom ( crc AFF32614 )
 )
@@ -2494,31 +2458,31 @@ game (
 )
 
 game (
-	comment "Comix Zone (Europe) (Beta) (1995-06-28)"
+	comment "Comix Zone (Europe) (Beta 1)"
 	users 1
 	rom ( crc 939EFD4C )
 )
 
 game (
-	comment "Comix Zone (Europe) (Beta) (1995-07-12)"
+	comment "Comix Zone (Europe) (Beta 2)"
 	users 1
 	rom ( crc E28C89C1 )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-02) (Alt)"
+	comment "Comix Zone (USA) (Beta 8)"
 	users 1
 	rom ( crc 1A4ABCF3 )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-01) (Alt)"
+	comment "Comix Zone (USA) (Beta 5)"
 	users 1
 	rom ( crc BBE03CB6 )
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-01) (Alt 2)"
+	comment "Comix Zone (USA) (Beta 6)"
 	users 1
 	rom ( crc 413B9A94 )
 )
@@ -2530,7 +2494,7 @@ game (
 )
 
 game (
-	comment "Comix Zone (USA) (Beta) (1995-06-01) (Alt 3)"
+	comment "Comix Zone (USA) (Beta 7)"
 	users 1
 	rom ( crc 9AE93C9D )
 )
@@ -2542,25 +2506,25 @@ game (
 )
 
 game (
-	comment "Contra - Hard Corps (USA) (Genesis Mini)"
+	comment "Contra - Hard Corps (USA) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc 042A81B0 )
 )
 
 game (
-	comment "Contra - Hard Corps (World) (Contra Anniversary Collection)"
+	comment "Contra - Hard Corps (USA) (Contra Anniversary Collection)"
 	users 2
 	rom ( crc 74DDED00 )
 )
 
 game (
-	comment "Contra - The Hard Corps (Japan) (Mega Drive Mini)"
+	comment "Contra - The Hard Corps (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc 76C211CB )
 )
 
 game (
-	comment "Contra - The Hard Corps (World) (Ja) (Contra Anniversary Collection)"
+	comment "Contra - The Hard Corps (Japan) (Contra Anniversary Collection)"
 	users 2
 	rom ( crc F1F4B361 )
 )
@@ -2590,7 +2554,7 @@ game (
 )
 
 game (
-	comment "Cool Spot (Japan, Korea) (Ja)"
+	comment "Cool Spot (Japan, Korea) (En)"
 	users 1
 	rom ( crc E869EFB1 )
 )
@@ -2650,13 +2614,13 @@ game (
 )
 
 game (
-	comment "Crude Buster (Japan)"
+	comment "Crude Buster (Japan) (En)"
 	users 2
 	rom ( crc AFFB4B00 )
 )
 
 game (
-	comment "Crue Ball (Japan)"
+	comment "Crue Ball (Japan) (En)"
 	users 4
 	rom ( crc 514C53E2 )
 )
@@ -2668,7 +2632,7 @@ game (
 )
 
 game (
-	comment "Crying - Aseimei Sensou (Japan)"
+	comment "Crying - Aseimei Sensou (Japan) (En)"
 	users 2
 	rom ( crc 4ABA1D6A )
 )
@@ -2686,177 +2650,153 @@ game (
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-05-11)"
+	comment "Crystal's Pony Tale (USA) (Beta 1)"
 	users 1
 	rom ( crc EAC9D74B )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-05-19)"
+	comment "Crystal's Pony Tale (USA) (Beta 2)"
 	users 1
 	rom ( crc DC50B741 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-05-26)"
+	comment "Crystal's Pony Tale (USA) (Beta 3)"
 	users 1
 	rom ( crc A2EABA55 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-01)"
+	comment "Crystal's Pony Tale (USA) (Beta 4)"
 	users 1
 	rom ( crc 14C6347C )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-06)"
+	comment "Crystal's Pony Tale (USA) (Beta 5)"
 	users 1
 	rom ( crc 83E8CAC9 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-10)"
+	comment "Crystal's Pony Tale (USA) (Beta 6)"
 	users 1
 	rom ( crc 9E1DD267 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-23)"
+	comment "Crystal's Pony Tale (USA) (Beta 7)"
 	users 1
 	rom ( crc 4CCC19AF )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-28)"
+	comment "Crystal's Pony Tale (USA) (Beta 8)"
 	users 1
 	rom ( crc 03BE7F66 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-01)"
+	comment "Crystal's Pony Tale (USA) (Beta 10)"
 	users 1
 	rom ( crc 16AC2E4F )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-06-30)"
+	comment "Crystal's Pony Tale (USA) (Beta 9)"
 	users 1
 	rom ( crc DD8C73FB )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-02)"
+	comment "Crystal's Pony Tale (USA) (Beta 11)"
 	users 1
 	rom ( crc 24BC4354 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-03)"
+	comment "Crystal's Pony Tale (USA) (Beta 12)"
 	users 1
 	rom ( crc 6D67A87C )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-12)"
+	comment "Crystal's Pony Tale (USA) (Beta 14)"
 	users 1
 	rom ( crc 3577DC72 )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-13)"
+	comment "Crystal's Pony Tale (USA) (Beta 15)"
 	users 1
 	rom ( crc C67B6DBA )
 )
 
 game (
-	comment "Curse (USA) (Proto) (1990-06-26) (Sega Channel)"
+	comment "Curse (USA) (Proto) (Sega Channel)"
 	users 1
 	rom ( crc DEE8876D )
 )
 
 game (
-	comment "Crystal's Pony Tale (USA) (Beta) (1994-07-12) (Alt)"
+	comment "Crystal's Pony Tale (USA) (Beta 13)"
 	users 1
 	rom ( crc 2BFC0A53 )
 )
 
 game (
-	comment "Curse (Japan)"
+	comment "Curse (Japan) (En)"
 	users 1
 	rom ( crc A4FBF9A9 )
 )
 
 game (
-	comment "Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl)"
+	comment "Curse of Illmoore Bay, The (World) (Demo 3)"
 	users 2
 	rom ( crc 615818E5 )
 )
 
 game (
-	comment "Curse of Illmoore Bay, The (World) (Demo 2) (Aftermarket) (Unl)"
+	comment "Curse of Illmoore Bay, The (World) (Demo 2)"
 	users 2
 	rom ( crc FB825096 )
 )
 
 game (
-	comment "Curse of Illmoore Bay, The (World) (Demo 1) (Aftermarket) (Unl)"
+	comment "Curse of Illmoore Bay, The (World) (Demo 1)"
 	users 2
 	rom ( crc 0FD997F5 )
 )
 
 game (
-	comment "Curse of Illmoore Bay, The (World) (Aftermarket) (Unl)"
-	users 2
-	rom ( crc 7AD106C0 )
-)
-
-game (
-	comment "Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Homebrew)"
+	comment "Cursed Knight, The (World) (Demo 3)"
 	users 1
 	rom ( crc B08237CB )
 )
 
 game (
-	comment "Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Homebrew)"
+	comment "Cursed Knight, The (World) (En,Fr) (Demo 4)"
 	users 1
 	rom ( crc 6F31E5B4 )
 )
 
 game (
-	comment "Curse of Illmoore Bay, The (World) (Steam) (Aftermarket) (Unl)"
-	users 2
-	rom ( crc 615818E5 )
-)
-
-game (
-	comment "Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Homebrew)"
+	comment "Cursed Knight, The (World) (Demo 2)"
 	users 1
 	rom ( crc B276840F )
 )
 
 game (
-	comment "Cursed Knight, The (World) (v3.0) (Demo) (Aftermarket) (Homebrew)"
+	comment "Cursed Knight, The (World) (Demo 5)"
 	users 1
 	rom ( crc 974FADDC )
 )
 
 game (
-	comment "Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket) (Homebrew)"
+	comment "Cursed Knight, The (World) (Demo 1)"
 	users 1
 	rom ( crc 744CD246 )
-)
-
-game (
-	comment "Custodian (USA) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 3245E60C )
-)
-
-game (
-	comment "Cursed Knight, The (World) (En,Fr) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 6F31E5B4 )
 )
 
 game (
@@ -2878,7 +2818,7 @@ game (
 )
 
 game (
-	comment "Cyber Police - ESWAT (Japan)"
+	comment "Cyber Police - ESWAT (Japan) (En)"
 	users 1
 	rom ( crc 87B636A2 )
 )
@@ -2908,7 +2848,7 @@ game (
 )
 
 game (
-	comment "Daffy Duck in Hollywood (Europe) (Beta) (August, 1994)"
+	comment "Daffy Duck in Hollywood (Europe) (Beta)"
 	users 1
 	rom ( crc 0EAA4740 )
 )
@@ -2920,7 +2860,7 @@ game (
 )
 
 game (
-	comment "Dahna (Korea)"
+	comment "Daana (Korea)"
 	users 1
 	rom ( crc 10829EA1 )
 )
@@ -2944,7 +2884,7 @@ game (
 )
 
 game (
-	comment "Daimakaimura ~ Ghouls'n Ghosts (Japan, USA) (En)"
+	comment "Ghouls'n Ghosts (Japan, USA) (En,Ja)"
 	users 1
 	rom ( crc D31BD910 )
 )
@@ -2956,37 +2896,37 @@ game (
 )
 
 game (
-	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)"
+	comment "Ghouls'n Ghosts (World) (En,Ja) (Rev A)"
 	users 1
 	rom ( crc 4F2561D5 )
 )
 
 game (
-	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A) (Sega Channel)"
+	comment "Ghouls'n Ghosts (World) (En,Ja) (Rev A) (Sega Channel)"
 	users 1
 	rom ( crc 4552A3DE )
 )
 
 game (
-	comment "Daisenpuu ~ Twin Hawk (Japan, Europe) (En) (Beta) (1990-04-06)"
+	comment "Twin Hawk (Japan, Europe) (En) (Beta)"
 	users 1
 	rom ( crc DDE94356 )
 )
 
 game (
-	comment "Dangerous Seed (Japan)"
+	comment "Dangerous Seed (Japan) (En)"
 	users 1
 	rom ( crc A2990031 )
 )
 
 game (
-	comment "Daisenpuu ~ Twin Hawk (Japan, Europe) (En)"
+	comment "Twin Hawk (Japan, Europe) (En)"
 	users 1
 	rom ( crc A2EC8C67 )
 )
 
 game (
-	comment "Darius (World) (Genesis Mini, Mega Drive Mini)"
+	comment "Darius (World) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 26CA4234 )
 )
@@ -2998,19 +2938,19 @@ game (
 )
 
 game (
-	comment "Darius - Extra Version (USA, Europe) (Strictly Limited) (Aftermarket) (Unl)"
+	comment "Darius - Extra Version (USA, Europe) (Strictly Limited Games)"
 	users 1
-	rom ( crc F1E17A96 )
+	rom ( crc 7FDC6236 )
 )
 
 game (
-	comment "Darius - Extra Version (Japan) (En) (Columbus Circle) (Aftermarket) (Unl)"
+	comment "Darius - Extra Version (Japan) (En) (Columbus Circle)"
 	users 1
-	rom ( crc F1E17A96 )
+	rom ( crc 0A885405 )
 )
 
 game (
-	comment "Darius II (World) (Darius Cozmic Collection)"
+	comment "Darius II (World) (Ja) (Darius Cozmic Collection)"
 	users 1
 	rom ( crc E8E29BE2 )
 )
@@ -3028,7 +2968,7 @@ game (
 )
 
 game (
-	comment "Darwin 4081 (Japan, Korea) (En) (Beta) (1990-02-21)"
+	comment "Darwin 4081 (Japan, Korea) (En) (Beta)"
 	users 1
 	rom ( crc DB68D1AC )
 )
@@ -3064,13 +3004,13 @@ game (
 )
 
 game (
-	comment "David Robinson Basketball (Japan)"
+	comment "David Robinson Basketball (Japan) (En)"
 	users 2
 	rom ( crc 56164B00 )
 )
 
 game (
-	comment "David Robinson Basketball (Japan) (En) (Beta) (1992-04-15)"
+	comment "David Robinson Basketball (Japan) (En) (Beta)"
 	users 2
 	rom ( crc 875BB1A0 )
 )
@@ -3082,13 +3022,13 @@ game (
 )
 
 game (
-	comment "Davis Cup II (USA) (Proto) (1994-07-28)"
+	comment "Davis Cup II (USA) (Proto 2)"
 	users 4
 	rom ( crc 76F2BED8 )
 )
 
 game (
-	comment "Davis Cup II (Europe) (Proto) (1994-07-10)"
+	comment "Davis Cup II (Europe) (Proto 1)"
 	users 4
 	rom ( crc 6F4183C0 )
 )
@@ -3100,13 +3040,13 @@ game (
 )
 
 game (
-	comment "Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)"
+	comment "Davis Cup World Tour (USA, Europe)"
 	users 2
 	rom ( crc 894686F0 )
 )
 
 game (
-	comment "Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe) (Beta) (June, 1993)"
+	comment "Davis Cup World Tour (USA, Europe) (Beta)"
 	users 2
 	rom ( crc 7C6B0646 )
 )
@@ -3148,7 +3088,7 @@ game (
 )
 
 game (
-	comment "Death Duel (USA) (Beta) (1992-05-06)"
+	comment "Death Duel (USA) (Beta)"
 	users 1
 	rom ( crc 2F979365 )
 )
@@ -3172,103 +3112,97 @@ game (
 )
 
 game (
-	comment "Demons of Asteborg (World) (Demo 2) (2020-07-21) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (Demo 2)"
 	users 1
 	rom ( crc 8163415E )
 )
 
 game (
-	comment "Demons of Asteborg (World) (v0.1) (Demo 1) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (En) (Demo 1)"
 	users 1
 	rom ( crc C7CDD236 )
 )
 
 game (
-	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.11) (Evercade)"
 	users 1
-	rom ( crc 67283FBE )
+	rom ( crc 2D7CF52D )
 )
 
 game (
-	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.1) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc AACB216E )
-)
-
-game (
-	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 3) (2021-09-01) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 1)"
 	users 1
 	rom ( crc DDA1A052 )
 )
 
 game (
-	comment "Demons of Asteborg (World) (Fr) (v0.1) (Demo 1) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (Fr) (Demo 1)"
 	users 1
-	rom ( crc 67283FBE )
+	rom ( crc 51ACEBAA )
 )
 
 game (
-	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 4) (2021-09-03) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 2)"
 	users 1
-	rom ( crc 67283FBE )
+	rom ( crc B9A8F84A )
 )
 
 game (
-	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 5) (2021-09-14) (Aftermarket) (Unl)"
+	comment "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 3)"
 	users 1
-	rom ( crc 67283FBE )
+	rom ( crc 98C8962A )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-06)"
+	comment "Desert Demolition (USA, Europe) (Beta 1)"
 	users 1
 	rom ( crc D27FE9E5 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-08)"
+	comment "Desert Demolition (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc 69AAEAB6 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-12)"
+	comment "Desert Demolition (USA, Europe) (Beta 4)"
 	users 1
 	rom ( crc 16F19283 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-12) (Alt)"
+	comment "Desert Demolition (USA, Europe) (Beta 3)"
 	users 1
 	rom ( crc 5DAD49D7 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-13)"
+	comment "Desert Demolition (USA, Europe) (Beta 5)"
 	users 1
 	rom ( crc 375DEE15 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-14)"
+	comment "Desert Demolition (USA, Europe) (Beta 6)"
 	users 1
 	rom ( crc 39F9F304 )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-15)"
+	comment "Desert Demolition (USA, Europe) (Beta 7)"
 	users 1
 	rom ( crc 5109736A )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-16)"
+	comment "Desert Demolition (USA, Europe) (Beta 8)"
 	users 1
 	rom ( crc 573FABFB )
 )
 
 game (
-	comment "Desert Demolition (USA, Europe) (Beta) (1994-12-19)"
+	comment "Desert Demolition (USA, Europe) (Beta 9)"
 	users 1
 	rom ( crc B0ECE758 )
 )
@@ -3286,19 +3220,19 @@ game (
 )
 
 game (
-	comment "Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja)"
+	comment "Desert Strike - Wangan Sakusen (Japan, Korea) (Ja)"
 	users 1
 	rom ( crc 1E740145 )
 )
 
 game (
-	comment "Devilish (USA) (Beta) (1992-01-16)"
+	comment "Devilish (USA) (Beta)"
 	users 2
 	rom ( crc 6C8EB5A2 )
 )
 
 game (
-	comment "Devil Crash MD (Japan)"
+	comment "Devil Crash MD (Japan) (En)"
 	users 2
 	rom ( crc 4C4CAAD8 )
 )
@@ -3310,55 +3244,43 @@ game (
 )
 
 game (
-	comment "Devwill Too (World) (Aftermarket) (Unl) (Alt)"
-	users 1
-	rom ( crc 34031793 )
-)
-
-game (
-	comment "Devwill Too (World) (Demo 1) (Aftermarket) (Unl)"
+	comment "Devwill Too MD (World) (Demo 1)"
 	users 1
 	rom ( crc C53C9CEE )
 )
 
 game (
-	comment "Devwill Too (World) (Pt-BR) (Aftermarket) (Unl)"
+	comment "Devwill Too MD (World) (Evercade)"
 	users 1
-	rom ( crc C14FC0D4 )
+	rom ( crc 039F9700 )
 )
 
 game (
-	comment "Devwill Too (World) (Aftermarket) (Unl)"
+	comment "Devwill Too MD (World) (v1.1) (Evercade)"
 	users 1
-	rom ( crc 25736E4F )
+	rom ( crc E0D61258 )
 )
 
 game (
-	comment "Devwill Too (World) (Pt-BR) (Aftermarket) (Unl) (Alt)"
-	users 1
-	rom ( crc 7748C2DF )
-)
-
-game (
-	comment "Dexstar (USA, Europe) (Beta) (1994-08-12)"
+	comment "Dexstar (USA, Europe) (Beta 1)"
 	users 1
 	rom ( crc 4371F046 )
 )
 
 game (
-	comment "Devwill Too (World) (Demo 2) (Aftermarket) (Unl)"
+	comment "Devwill Too MD (World) (Demo 2)"
 	users 1
-	rom ( crc 25736E4F )
+	rom ( crc 7E1F260C )
 )
 
 game (
-	comment "Dexstar (USA, Europe) (Beta) (1994-08-26)"
+	comment "Dexstar (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc D0C74FDD )
 )
 
 game (
-	comment "Dial Q o Mawase! (Japan) (Unl)"
+	comment "Dial Q o Mawase! (Japan)"
 	users 1
 	rom ( crc C632E5AF )
 )
@@ -3400,7 +3322,7 @@ game (
 )
 
 game (
-	comment "Divine Sealing (Japan) (Unl)"
+	comment "Divine Sealing (Japan)"
 	users 1
 	rom ( crc CA72973C )
 )
@@ -3412,13 +3334,13 @@ game (
 )
 
 game (
-	comment "DJ Boy (Japan)"
+	comment "DJ Boy (Japan) (En)"
 	users 1
 	rom ( crc 202ABAA8 )
 )
 
 game (
-	comment "Domine o Territorio (Brazil) (Aftermarket) (Unl)"
+	comment "Domine o Territorio (Brazil) (Mega Drive 4)"
 	users 2
 	rom ( crc AEA8B9B0 )
 )
@@ -3436,7 +3358,7 @@ game (
 )
 
 game (
-	comment "Dominus (USA) (Proto)"
+	comment "Dominus (USA) (Proto) (Alt)"
 	users 1
 	rom ( crc 30006EBD )
 )
@@ -3448,7 +3370,7 @@ game (
 )
 
 game (
-	comment "Dong Gu Ri Te Chi Jak Jeon (Korea)"
+	comment "Dongguri Techi Jakjeon (Korea)"
 	users 2
 	rom ( crc E32F0B1C )
 )
@@ -3472,7 +3394,7 @@ game (
 )
 
 game (
-	comment "Double Dragon (USA, Europe) (Unl)"
+	comment "Double Dragon (USA, Europe)"
 	users 2
 	rom ( crc 054F5D53 )
 )
@@ -3490,7 +3412,7 @@ game (
 )
 
 game (
-	comment "Double Dragon II - The Revenge (Japan) (En) (Beta) (1991-10-18)"
+	comment "Double Dragon II - The Revenge (Japan) (En) (Beta)"
 	users 2
 	rom ( crc E11F8543 )
 )
@@ -3550,7 +3472,7 @@ game (
 )
 
 game (
-	comment "Dragon Ball - Final Bout (Taiwan) (Unl)"
+	comment "Dragon Ball - Final Bout (Taiwan) (En)"
 	users 2
 	rom ( crc 63847005 )
 )
@@ -3592,7 +3514,7 @@ game (
 )
 
 game (
-	comment "Dragon's Lair (USA) (Proto) (June, 1994)"
+	comment "Dragon's Lair (USA) (Proto)"
 	users 1
 	rom ( crc A33EB522 )
 )
@@ -3616,7 +3538,7 @@ game (
 )
 
 game (
-	comment "Du Shen Zhi Meng Huan Poker (Taiwan) (Unl)"
+	comment "Du Shen Zhi - Menghuan Poker (Taiwan)"
 	users 1
 	rom ( crc 1D81A67C )
 )
@@ -3628,7 +3550,7 @@ game (
 )
 
 game (
-	comment "Duke Nukem 3D (USA) (Aftermarket) (Unl)"
+	comment "Duke Nukem 3D (USA) (Piko Interactive)"
 	users 1
 	rom ( crc 7A851B5A )
 )
@@ -3658,7 +3580,7 @@ game (
 )
 
 game (
-	comment "Dune II - The Battle for Arrakis (Europe) (Beta) (1994-01-11)"
+	comment "Dune II - The Battle for Arrakis (Europe) (Beta)"
 	users 1
 	rom ( crc 781CB285 )
 )
@@ -3700,25 +3622,19 @@ game (
 )
 
 game (
-	comment "Dynamite Duke (World) (Beta) (1990-06-21)"
+	comment "Dynamite Duke (World) (Beta)"
 	users 1
 	rom ( crc 7D2CD95C )
 )
 
 game (
-	comment "Dynamite Headdy (Japan) (Sample)"
-	users 1
-	rom ( crc 6A3289C9 )
-)
-
-game (
-	comment "Dynamite Headdy (Japan) (Beta) (1994-06-14)"
+	comment "Dynamite Headdy (Japan) (En) (Beta 2)"
 	users 1
 	rom ( crc 971EF24C )
 )
 
 game (
-	comment "Dynamite Headdy (Japan) (Beta) (1994-06-16)"
+	comment "Dynamite Headdy (Japan) (En) (Beta 3)"
 	users 1
 	rom ( crc F8A96719 )
 )
@@ -3730,19 +3646,19 @@ game (
 )
 
 game (
-	comment "Dynamite Headdy (USA, Europe) (Beta) (1994-06-22)"
+	comment "Dynamite Headdy (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 61001EC8 )
 )
 
 game (
-	comment "Dynamite Headdy (Japan) (Beta) (April, 1994)"
+	comment "Dynamite Headdy (Japan) (En) (Beta 1)"
 	users 1
 	rom ( crc 5C25E934 )
 )
 
 game (
-	comment "DynoBlaze (USA) (Proto) (1994-05-24)"
+	comment "DynoBlaze (USA) (Proto)"
 	users 1
 	rom ( crc D625E584 )
 )
@@ -3760,7 +3676,7 @@ game (
 )
 
 game (
-	comment "EA Hockey (Japan)"
+	comment "EA Hockey (Japan) (En)"
 	users 2
 	rom ( crc 9DCDC894 )
 )
@@ -3784,7 +3700,7 @@ game (
 )
 
 game (
-	comment "Earth Defense ~ Earth Defend, The (USA, Taiwan) (En) (Unl)"
+	comment "Earth Defense (USA, Taiwan) (En)"
 	users 2
 	rom ( crc 3519C422 )
 )
@@ -3802,13 +3718,13 @@ game (
 )
 
 game (
-	comment "Earthworm Jim (USA) (Beta) (1994-07-28)"
+	comment "Earthworm Jim (USA) (Beta)"
 	users 1
 	rom ( crc 24AA391B )
 )
 
 game (
-	comment "Earthworm Jim 2 (Europe) (Beta) (1995-08-24)"
+	comment "Earthworm Jim 2 (Europe) (Beta)"
 	users 1
 	rom ( crc F92A931D )
 )
@@ -3838,19 +3754,19 @@ game (
 )
 
 game (
-	comment "Ecco - The Tides of Time (USA) (Beta) (March, 1994)"
+	comment "Ecco - The Tides of Time (USA) (Beta 1)"
 	users 1
 	rom ( crc 8DB60749 )
 )
 
 game (
-	comment "Ecco - The Tides of Time (USA) (Beta) (1994-04-13)"
+	comment "Ecco - The Tides of Time (USA) (Beta 2)"
 	users 1
 	rom ( crc B5D64817 )
 )
 
 game (
-	comment "Ecco - The Tides of Time (USA) (Beta) (1994-04-29)"
+	comment "Ecco - The Tides of Time (USA) (Beta 3)"
 	users 1
 	rom ( crc 5AF83ECB )
 )
@@ -3880,13 +3796,13 @@ game (
 )
 
 game (
-	comment "Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta) (1993-06-29)"
+	comment "Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta)"
 	users 1
 	rom ( crc 6FB62649 )
 )
 
 game (
-	comment "Ecco the Dolphin (Japan) (Beta) (1993-04-21)"
+	comment "Ecco the Dolphin (Japan) (Beta)"
 	users 1
 	rom ( crc 17E24509 )
 )
@@ -3922,7 +3838,7 @@ game (
 )
 
 game (
-	comment "Eliminate Down (Japan)"
+	comment "Eliminate Down (Japan) (En)"
 	users 1
 	rom ( crc 48467542 )
 )
@@ -3940,85 +3856,73 @@ game (
 )
 
 game (
-	comment "Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 0D81511C )
-)
-
-game (
 	comment "Empire of Steel (Europe)"
 	users 1
 	rom ( crc E5517B77 )
 )
 
 game (
-	comment "Escape 2042 - The Truth Defenders (Europe) (En,Ja,Fr,Es) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc C51380E8 )
-)
-
-game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-03-09)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 1)"
 	users 1
 	rom ( crc E3C2271E )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-05-09)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 3)"
 	users 1
 	rom ( crc 11727086 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-05-18)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 4)"
 	users 1
 	rom ( crc 6E2666DE )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-04-18)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 2)"
 	users 1
 	rom ( crc BFA776EC )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-05-23)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 5)"
 	users 1
 	rom ( crc EA344FD2 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-10)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 8)"
 	users 1
 	rom ( crc 832F4CB4 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-07)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 7)"
 	users 1
 	rom ( crc 3481E709 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-02)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 6)"
 	users 1
 	rom ( crc 39F345C2 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-20)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 11)"
 	users 1
 	rom ( crc F00F4203 )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-18)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 10)"
 	users 1
 	rom ( crc 3C4B1E9C )
 )
 
 game (
-	comment "Escape from Mars Starring Taz (USA) (Beta) (1994-06-14)"
+	comment "Escape from Mars Starring Taz (USA) (Beta 9)"
 	users 1
 	rom ( crc 2BADB65B )
 )
@@ -4026,7 +3930,7 @@ game (
 game (
 	comment "ESPN National Hockey Night (USA)"
 	users 4
-	rom ( crc 1D08828C )
+	rom ( crc 401DC618 )
 )
 
 game (
@@ -4102,7 +4006,7 @@ game (
 )
 
 game (
-	comment "Eternal Champions (Japan, Korea) (En) (Beta) (1993-11-17)"
+	comment "Eternal Champions (Japan, Korea) (En) (Beta)"
 	users 2
 	rom ( crc C486B439 )
 )
@@ -4114,7 +4018,7 @@ game (
 )
 
 game (
-	comment "European Club Soccer (Europe) (Beta) (1991-10-25)"
+	comment "European Club Soccer (Europe) (Beta)"
 	users 2
 	rom ( crc 4E63F90A )
 )
@@ -4138,13 +4042,13 @@ game (
 )
 
 game (
-	comment "Ex-Ranza (Japan)"
+	comment "Ex-Ranza (Japan) (En)"
 	users 1
 	rom ( crc 349BB68D )
 )
 
 game (
-	comment "Ex-Ranza (Japan) (Beta)"
+	comment "Ex-Ranza (Japan) (En) (Beta)"
 	users 1
 	rom ( crc C642FDF4 )
 )
@@ -4186,21 +4090,9 @@ game (
 )
 
 game (
-	comment "Exodus - Journey to the Promised Land (USA) (Unl)"
+	comment "Exodus - Journey to the Promised Land (USA)"
 	users 2
 	rom ( crc 22E6FC04 )
-)
-
-game (
-	comment "Eyra - The Crow Maiden (World) (Demo) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc E7891DB4 )
-)
-
-game (
-	comment "Eyra - The Crow Maiden (World) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 336871E3 )
 )
 
 game (
@@ -4222,7 +4114,7 @@ game (
 )
 
 game (
-	comment "F-15 Strike Eagle II (USA) (Beta) (1992-07-13)"
+	comment "F-15 Strike Eagle II (USA) (Beta)"
 	users 1
 	rom ( crc FD4F5A01 )
 )
@@ -4240,7 +4132,7 @@ game (
 )
 
 game (
-	comment "F-22 Interceptor (USA) (1991-09-17) (Sega Channel)"
+	comment "F-22 Interceptor (USA) (Sega Channel)"
 	users 1
 	rom ( crc BD468C42 )
 )
@@ -4264,7 +4156,7 @@ game (
 )
 
 game (
-	comment "F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205)"
+	comment "F-22 Interceptor - Advanced Tactical Fighter (USA) (Rev 1)"
 	users 1
 	rom ( crc 98FAE0E1 )
 )
@@ -4300,13 +4192,13 @@ game (
 )
 
 game (
-	comment "F1 Circus MD (USA) (Proto) (1991-12-28) (Sega Channel)"
+	comment "F1 Circus MD (USA) (Proto) (Sega Channel)"
 	users 1
 	rom ( crc CD1A1AD8 )
 )
 
 game (
-	comment "F1 Circus MD (Japan) (En)"
+	comment "F1 Circus MD (Japan)"
 	users 1
 	rom ( crc 5D30BEFB )
 )
@@ -4336,7 +4228,7 @@ game (
 )
 
 game (
-	comment "Fantasia (World) (1991-06-17) (Sega Channel)"
+	comment "Fantasia (USA, Europe) (Sega Channel)"
 	users 1
 	rom ( crc 34E04627 )
 )
@@ -4354,7 +4246,7 @@ game (
 )
 
 game (
-	comment "Fastest 1 (Japan)"
+	comment "Fastest 1 (Japan) (En)"
 	users 2
 	rom ( crc BB43F0DE )
 )
@@ -4378,7 +4270,7 @@ game (
 )
 
 game (
-	comment "Fatal Labyrinth (USA, Europe)"
+	comment "Fatal Labyrinth (USA, Europe) (En,Ja)"
 	users 1
 	rom ( crc 5F0BD984 )
 )
@@ -4390,7 +4282,7 @@ game (
 )
 
 game (
-	comment "Fatman (Japan)"
+	comment "Fatman (Japan) (En)"
 	users 2
 	rom ( crc 7867DA3A )
 )
@@ -4402,13 +4294,13 @@ game (
 )
 
 game (
-	comment "Feng Kuang Tao Hua Yuan (Taiwan) (Unl)"
+	comment "Fengkuang Taohuayuan (Taiwan)"
 	users 1
 	rom ( crc 2F15BB22 )
 )
 
 game (
-	comment "Feng Shen Ying Jie Chuan (Taiwan) (Unl)"
+	comment "Feng Shen Yingjie Chuan (Taiwan)"
 	users 1
 	rom ( crc 6A382B60 )
 )
@@ -4444,7 +4336,7 @@ game (
 )
 
 game (
-	comment "FIFA 2003 (Unknown) (Es) (Pirate)"
+	comment "FIFA 2003 (Argentina) (Pirate)"
 	users 4
 	rom ( crc 419BCB02 )
 )
@@ -4474,7 +4366,7 @@ game (
 )
 
 game (
-	comment "FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Pirate)"
+	comment "FIFA Soccer 2000 (China) (En,Fr,De,Es,It,Sv) (Pirate)"
 	users 4
 	rom ( crc 647DF504 )
 )
@@ -4498,7 +4390,7 @@ game (
 )
 
 game (
-	comment "FIFA Soccer 99 (Unknown) (Pirate)"
+	comment "FIFA Soccer 99 (China) (En,Fr,De,Es,It,Sv) (Pirate)"
 	users 4
 	rom ( crc C5C5A4B0 )
 )
@@ -4528,7 +4420,7 @@ game (
 )
 
 game (
-	comment "Final Blow (Japan) (En) (Beta) (1990-01-16)"
+	comment "Final Blow (Japan) (En) (Beta)"
 	users 2
 	rom ( crc A26E957D )
 )
@@ -4554,11 +4446,11 @@ game (
 game (
 	comment "Flashback (Japan)"
 	users 1
-	rom ( crc B790E3B4 )
+	rom ( crc 02FB0747 )
 )
 
 game (
-	comment "Flashback (Europe) (En,Fr) (Beta) (1992-09-18)"
+	comment "Flashback (Europe) (En,Fr) (Beta)"
 	users 1
 	rom ( crc 82095CB6 )
 )
@@ -4588,25 +4480,25 @@ game (
 )
 
 game (
-	comment "Flintstones, The (USA) (Beta) (1992-11-05) (Taito)"
+	comment "Flintstones, The (USA) (Beta)"
 	users 1
 	rom ( crc 41A2A7EE )
 )
 
 game (
-	comment "Flintstones, The (Japan) (Taito)"
+	comment "Flintstones, The (Japan)"
 	users 1
 	rom ( crc 920A3031 )
 )
 
 game (
-	comment "Flintstones, The (Europe) (Taito)"
+	comment "Flintstones, The (Europe)"
 	users 1
 	rom ( crc 21845D61 )
 )
 
 game (
-	comment "Flintstones, The (USA) (Taito)"
+	comment "Flintstones, The (USA)"
 	users 1
 	rom ( crc 7C982C59 )
 )
@@ -4618,7 +4510,7 @@ game (
 )
 
 game (
-	comment "Forgotten Worlds (World)"
+	comment "Forgotten Worlds (World) (En,Ja)"
 	users 2
 	rom ( crc D0EE6434 )
 )
@@ -4630,7 +4522,7 @@ game (
 )
 
 game (
-	comment "Forgotten Worlds (World) (Rev A)"
+	comment "Forgotten Worlds (World) (En,Ja) (Rev A)"
 	users 2
 	rom ( crc 95513985 )
 )
@@ -4672,7 +4564,7 @@ game (
 )
 
 game (
-	comment "Funny World & Balloon Boy (USA) (Unl)"
+	comment "Funny World & Balloon Boy (USA)"
 	users 1
 	rom ( crc A82F05F0 )
 )
@@ -4690,7 +4582,7 @@ game (
 )
 
 game (
-	comment "Futbol Argentino (Argentina) (Pirate)"
+	comment "Argentina Soccer 2006 (Argentina) (Pirate)"
 	users 4
 	rom ( crc A35C2B2F )
 )
@@ -4702,13 +4594,7 @@ game (
 )
 
 game (
-	comment "FX Unit Yuki - The Henshin Engine (World) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 2906876B )
-)
-
-game (
-	comment "FZ Senki Axis ~ Final Zone (Japan, USA) (En)"
+	comment "Final Zone (Japan, USA) (En)"
 	users 1
 	rom ( crc 731FA4A1 )
 )
@@ -4720,7 +4606,7 @@ game (
 )
 
 game (
-	comment "G-LOC - Air Battle (World) (1992-11-23) (Sega Channel)"
+	comment "G-LOC - Air Battle (USA) (Sega Channel)"
 	users 1
 	rom ( crc C6BC06FD )
 )
@@ -4744,7 +4630,7 @@ game (
 )
 
 game (
-	comment "Gain Ground (USA) (Beta) (1990-07-27)"
+	comment "Gain Ground (USA) (Beta)"
 	users 2
 	rom ( crc F5C0B45F )
 )
@@ -4774,7 +4660,7 @@ game (
 )
 
 game (
-	comment "Galaxy Force II (World) (Rev B)"
+	comment "Galaxy Force II (USA, Europe) (Rev B)"
 	users 1
 	rom ( crc D15F5C3C )
 )
@@ -4786,7 +4672,7 @@ game (
 )
 
 game (
-	comment "Galaxy Force II (USA, Europe) (PC Rerelease)"
+	comment "Galaxy Force II (USA, Europe) (SEGA Classic Collection)"
 	users 1
 	rom ( crc E4D84E4A )
 )
@@ -4810,15 +4696,21 @@ game (
 )
 
 game (
-	comment "Garfield - Caught in the Act (USA, Europe) (Beta) (1995-09-11)"
+	comment "Garfield - Caught in the Act (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 4A633F40 )
 )
 
 game (
-	comment "Gargoyles (USA) (Beta) (1995-10-02)"
+	comment "Gargoyles (USA) (Beta 1)"
 	users 1
-	rom ( crc 7F1C5F84 )
+	rom ( crc BAF965D0 )
+)
+
+game (
+	comment "Gargoyles (USA) (Beta 2)"
+	users 1
+	rom ( crc 2FD5E801 )
 )
 
 game (
@@ -4830,7 +4722,7 @@ game (
 game (
 	comment "Garou Densetsu - Shukumei no Tatakai (Japan)"
 	users 2
-	rom ( crc BF3E3FA4 )
+	rom ( crc 7C594E1A )
 )
 
 game (
@@ -4888,7 +4780,7 @@ game (
 )
 
 game (
-	comment "Generals of the Yang Family - Clan of Heroes (USA) (Aftermarket) (Unl)"
+	comment "Generals of the Yang Family - Clan of Heroes (USA) (Piko Interactive)"
 	users 1
 	rom ( crc AEB3C10C )
 )
@@ -4924,33 +4816,33 @@ game (
 )
 
 game (
-	comment "Ghostbusters (Japan)"
+	comment "Ghostbusters (Japan) (En,Ja)"
 	users 1
 	rom ( crc 00419DA3 )
 )
 
 game (
-	comment "Ghostbusters (USA, Europe)"
+	comment "Ghostbusters (USA, Europe) (En,Ja)"
 	users 1
 	rom ( crc 792DF93B )
 )
 
 game (
-	comment "Ghostbusters (USA, Europe) (Beta) (1990-05-01)"
+	comment "Ghostbusters (USA, Europe) (En,Ja) (Beta)"
 	users 1
 	rom ( crc 4FC33173 )
 )
 
 game (
-	comment "Gleylancer (Japan)"
+	comment "Advanced Busterhawk Gley Lancer (Japan)"
 	users 1
 	rom ( crc 42CF9B5B )
 )
 
 game (
-	comment "Gleylancer (Japan) (Aftermarket) (Unl)"
+	comment "Advanced Busterhawk Gley Lancer (Japan) (Columbus Circle)"
 	users 1
-	rom ( crc 9D925536 )
+	rom ( crc 79CE299F )
 )
 
 game (
@@ -4966,7 +4858,7 @@ game (
 )
 
 game (
-	comment "Gluf (World) (Aftermarket) (Unl)"
+	comment "Gluf (World) (Evercade)"
 	users 1
 	rom ( crc F8FE1043 )
 )
@@ -4996,13 +4888,13 @@ game (
 )
 
 game (
-	comment "Golden Axe (World) (Beta) (1989-11-22)"
+	comment "Golden Axe (World) (Rev A) (Beta)"
 	users 2
 	rom ( crc 3E640C09 )
 )
 
 game (
-	comment "Golden Axe (World) (Beta) (1989-10-14)"
+	comment "Golden Axe (World) (Beta)"
 	users 2
 	rom ( crc B01B26FF )
 )
@@ -5020,7 +4912,7 @@ game (
 )
 
 game (
-	comment "Golden Axe (World) (Rev B) (Sega Smash Pack)"
+	comment "Golden Axe (USA) (Rev B) (Sega Smash Pack)"
 	users 2
 	rom ( crc 31227079 )
 )
@@ -5110,7 +5002,7 @@ game (
 )
 
 game (
-	comment "Greatest Heavyweights (Japan)"
+	comment "Greatest Heavyweights (Japan) (En)"
 	users 2
 	rom ( crc 7EF8B162 )
 )
@@ -5146,13 +5038,13 @@ game (
 )
 
 game (
-	comment "Growl (USA) (Beta) (1991-08-26)"
+	comment "Growl (USA) (Beta)"
 	users 1
 	rom ( crc AA973DE7 )
 )
 
 game (
-	comment "Gunfight 3 in 1 (Taiwan) (En) (Unl)"
+	comment "Gunfight 3 in 1 (Taiwan) (En)"
 	users 2
 	rom ( crc E5785D45 )
 )
@@ -5176,7 +5068,7 @@ game (
 )
 
 game (
-	comment "Gunstar Heroes (Japan) (Sample) (April, 1993)"
+	comment "Gunstar Heroes (Japan) (Beta)"
 	users 2
 	rom ( crc 6F90B502 )
 )
@@ -5194,7 +5086,7 @@ game (
 )
 
 game (
-	comment "Gynoug (Japan)"
+	comment "Gynoug (Japan) (En)"
 	users 1
 	rom ( crc 1B69241F )
 )
@@ -5218,7 +5110,7 @@ game (
 )
 
 game (
-	comment "HardBall! (USA, Europe) (Unl)"
+	comment "HardBall! (USA, Europe)"
 	users 2
 	rom ( crc BD1B9A04 )
 )
@@ -5254,13 +5146,13 @@ game (
 )
 
 game (
-	comment "Heavy Unit - Mega Drive Special (Japan)"
+	comment "Heavy Unit - Mega Drive Special (Japan) (En)"
 	users 1
 	rom ( crc 1ACBE608 )
 )
 
 game (
-	comment "Hellfire (Japan)"
+	comment "Hellfire (Japan) (En)"
 	users 1
 	rom ( crc 8E5E13BA )
 )
@@ -5272,7 +5164,7 @@ game (
 )
 
 game (
-	comment "Hercules 2 (Taiwan) (En) (Unl)"
+	comment "Hercules 2 (Taiwan) (En)"
 	users 1
 	rom ( crc 292623DB )
 )
@@ -5296,13 +5188,13 @@ game (
 )
 
 game (
-	comment "High Seas Havoc (USA)"
+	comment "High Seas Havoc (USA) (En,Ja)"
 	users 1
 	rom ( crc 17BE551C )
 )
 
 game (
-	comment "High Seas Havoc (USA) (Beta)"
+	comment "High Seas Havoc (USA) (En,Ja) (Beta)"
 	users 1
 	rom ( crc 89418D48 )
 )
@@ -5326,7 +5218,7 @@ game (
 )
 
 game (
-	comment "Home Alone (USA, Europe) (Beta) (July, 1992)"
+	comment "Home Alone (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 3A235FB9 )
 )
@@ -5338,7 +5230,7 @@ game (
 )
 
 game (
-	comment "Home Alone 2 - Lost in New York (USA) (1993-09-29) (Sega Channel)"
+	comment "Home Alone 2 - Lost in New York (USA) (Sega Channel)"
 	users 1
 	rom ( crc C2F37AE2 )
 )
@@ -5392,7 +5284,7 @@ game (
 )
 
 game (
-	comment "Hyper Dunk - The Playoff Edition (Japan)"
+	comment "Hyper Dunk - The Playoff Edition (Japan) (En)"
 	users 8
 	rom ( crc 5BAF53D7 )
 )
@@ -5404,13 +5296,13 @@ game (
 )
 
 game (
-	comment "Hyper Dunk - The Playoff Edition (Japan) (Beta) (February, 1994)"
+	comment "Hyper Dunk - The Playoff Edition (Japan) (En) (Beta)"
 	users 8
 	rom ( crc DB124BBB )
 )
 
 game (
-	comment "Hyper Marbles (Japan) (SegaNet)"
+	comment "Hyper Marbles (Japan) (Sega Game Toshokan)"
 	users 2
 	rom ( crc 83BB2799 )
 )
@@ -5425,12 +5317,6 @@ game (
 	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1)"
 	users 2
 	rom ( crc 277BDB4C )
-)
-
-game (
-	comment "Hyper Marbles (Japan) (Game no Kanzume Vol. 1)"
-	users 2
-	rom ( crc C4704467 )
 )
 
 game (
@@ -5452,7 +5338,7 @@ game (
 )
 
 game (
-	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (SegaNet)"
+	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 0053BFD6 )
 )
@@ -5500,7 +5386,7 @@ game (
 )
 
 game (
-	comment "Insector X (Japan, Korea) (Ja)"
+	comment "Insector X (Japan, Korea) (En)"
 	users 1
 	rom ( crc 9625C434 )
 )
@@ -5518,55 +5404,55 @@ game (
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (July, 1992)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 1)"
 	users 1
 	rom ( crc AD6C2050 )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-09-23)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 2)"
 	users 1
 	rom ( crc 14443A29 )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-28) (Alt)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 3)"
 	users 1
 	rom ( crc F285AD46 )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-28)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 4)"
 	users 1
 	rom ( crc 51CA641C )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-29)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 5)"
 	users 1
 	rom ( crc 94B02351 )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-01)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 6)"
 	users 1
 	rom ( crc 263F1A4C )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-03)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 7)"
 	users 1
 	rom ( crc 3C46D83D )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-26)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 8)"
 	users 1
 	rom ( crc F3498542 )
 )
 
 game (
-	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-27)"
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA) (Beta 9)"
 	users 1
 	rom ( crc F43112C3 )
 )
@@ -5596,7 +5482,7 @@ game (
 )
 
 game (
-	comment "Ishido - The Way of Stones (USA) (Unl)"
+	comment "Ishido - The Way of Stones (USA)"
 	users 1
 	rom ( crc B1DE7D5E )
 )
@@ -5698,7 +5584,7 @@ game (
 )
 
 game (
-	comment "Jashin Draxos (Japan, Korea) (Ja)"
+	comment "Jashin Draxos (Japan, Korea) (En)"
 	users 1
 	rom ( crc 1EA07AF2 )
 )
@@ -5740,13 +5626,13 @@ game (
 )
 
 game (
-	comment "Jesse 'The Body' Ventura - Wrestling Superstars (USA) (Proto) (1992-03-02)"
+	comment "Jesse 'The Body' Ventura - Wrestling Superstars (USA) (Proto)"
 	users 2
 	rom ( crc 65242680 )
 )
 
 game (
-	comment "Jewel Master (Japan)"
+	comment "Jewel Master (Japan) (En)"
 	users 1
 	rom ( crc 2CF6926C )
 )
@@ -5764,7 +5650,7 @@ game (
 )
 
 game (
-	comment "Jim Power - The Lost Dimension (World) (Aftermarket) (Unl)"
+	comment "Jim Power - The Lost Dimension in 3D (World)"
 	users 1
 	rom ( crc F9CD7079 )
 )
@@ -5794,7 +5680,7 @@ game (
 )
 
 game (
-	comment "Joe Montana II Sports Talk Football (World)"
+	comment "Joe Montana II - Sports Talk Football (World)"
 	users 2
 	rom ( crc F2363A4A )
 )
@@ -5806,7 +5692,7 @@ game (
 )
 
 game (
-	comment "John Madden Football (USA, Europe) (1990-11-07) (Sega Channel)"
+	comment "John Madden Football (USA, Europe) (Sega Channel)"
 	users 2
 	rom ( crc E361DB13 )
 )
@@ -5818,7 +5704,7 @@ game (
 )
 
 game (
-	comment "John Madden Football - Pro Football (Japan)"
+	comment "John Madden Football - Pro Football (Japan) (En)"
 	users 2
 	rom ( crc 0460611C )
 )
@@ -5842,7 +5728,7 @@ game (
 )
 
 game (
-	comment "Jordan vs Bird (USA, Europe) (Rev A)"
+	comment "Jordan vs Bird (USA, Europe) (Rev 1)"
 	users 2
 	rom ( crc 4D3DDD7C )
 )
@@ -5854,7 +5740,7 @@ game (
 )
 
 game (
-	comment "Joshua & the Battle of Jericho (USA) (Unl)"
+	comment "Joshua & the Battle of Jericho (USA)"
 	users 2
 	rom ( crc DA9E25AA )
 )
@@ -5956,79 +5842,79 @@ game (
 )
 
 game (
-	comment "Jurassic Park (Japan)"
+	comment "Jurassic Park (Japan) (En)"
 	users 1
 	rom ( crc EC8E5783 )
 )
 
 game (
-	comment "Jurassic Park (USA) (Beta) (June, 1993)"
+	comment "Jurassic Park (USA) (Beta)"
 	users 1
 	rom ( crc CF890EED )
 )
 
 game (
-	comment "Jurassic Park (Europe) (1993-06-14) (Sega Channel)"
+	comment "Jurassic Park (Europe) (Sega Channel)"
 	users 1
 	rom ( crc 64B8BEB5 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-20)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 1)"
 	users 1
 	rom ( crc 1280FA5C )
 )
 
 game (
-	comment "Jurassic Park (USA) (1993-05-26) (Sega Channel)"
+	comment "Jurassic Park (USA) (Sega Channel)"
 	users 1
 	rom ( crc B44968E7 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-22)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc 53582F2B )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-30)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 3)"
 	users 1
 	rom ( crc BFF4B396 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-08)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 4)"
 	users 1
 	rom ( crc F4C78BD0 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-13)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 5)"
 	users 1
 	rom ( crc 8475A105 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-14)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 6)"
 	users 1
 	rom ( crc 9BF0E28D )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-15)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 7)"
 	users 1
 	rom ( crc D2202BE5 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-17)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 8)"
 	users 1
 	rom ( crc 2EAE6140 )
 )
 
 game (
-	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-18)"
+	comment "Jurassic Park - Rampage Edition (USA, Europe) (Beta 9)"
 	users 1
 	rom ( crc 1A62B826 )
 )
@@ -6046,13 +5932,13 @@ game (
 )
 
 game (
-	comment "Juuouki (Japan)"
+	comment "Juuouki (Japan) (En)"
 	users 2
 	rom ( crc 1B7C96C0 )
 )
 
 game (
-	comment "Juuouki (Japan) (Rev A)"
+	comment "Altered Beast (Japan, USA) (En) (Rev 1)"
 	users 2
 	rom ( crc B2233E87 )
 )
@@ -6112,13 +5998,13 @@ game (
 )
 
 game (
-	comment "Kick Off 3 - European Challenge (Europe) (Beta)"
+	comment "Kick Off 3 - European Challenge (Europe) (Beta 2)"
 	users 2
 	rom ( crc B69A43B8 )
 )
 
 game (
-	comment "Kid Chameleon (USA, Europe) (Beta) (1991-12-19)"
+	comment "Kid Chameleon (USA, Europe) (Beta)"
 	users 2
 	rom ( crc 2E1F3AA9 )
 )
@@ -6130,27 +6016,27 @@ game (
 )
 
 game (
-	comment "Killing Game Show, The (Japan)"
+	comment "Killing Game Show, The (Japan) (En)"
 	users 2
 	rom ( crc B8E7668A )
 )
 
 game (
-	comment "King of Fighters '99, The (Taiwan) (Unl)"
+	comment "King of Fighters '99, The (Taiwan) (En)"
 	users 2
 	rom ( crc AB82AFBE )
 )
 
 game (
-	comment "King of Fighters 2000, The (Taiwan) (Unl)"
+	comment "King of Fighters 2000, The (Taiwan) (En)"
 	users 2
 	rom ( crc 34CBAC5D )
 )
 
 game (
-	comment "King of Fighters 98', The (Taiwan) (Unl)"
+	comment "King of Fighters 98', The (Taiwan) (En)"
 	users 2
-	rom ( crc CBC38EEA )
+	rom ( crc C79E1074 )
 )
 
 game (
@@ -6196,7 +6082,7 @@ game (
 )
 
 game (
-	comment "Kiss Shot (Japan) (SegaNet)"
+	comment "Kiss Shot (Japan) (Sega Game Toshokan)"
 	users 4
 	rom ( crc E487088C )
 )
@@ -6214,7 +6100,7 @@ game (
 )
 
 game (
-	comment "Klax (USA, Europe) (Tengen) (Beta) (1990-06-21)"
+	comment "Klax (USA, Europe) (Tengen) (Beta)"
 	users 1
 	rom ( crc B6B9C758 )
 )
@@ -6262,7 +6148,7 @@ game (
 )
 
 game (
-	comment "Kyuukyoku Tiger (Japan)"
+	comment "Kyuukyoku Tiger (Japan) (En)"
 	users 1
 	rom ( crc 61276D21 )
 )
@@ -6280,7 +6166,7 @@ game (
 )
 
 game (
-	comment "Landstalker (USA) (Genesis Mini)"
+	comment "Landstalker (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc F2D14A6A )
 )
@@ -6292,7 +6178,7 @@ game (
 )
 
 game (
-	comment "Landstalker (USA) (1993-07-13) (Sega Channel)"
+	comment "Landstalker (USA) (Sega Channel)"
 	users 1
 	rom ( crc 8866FB16 )
 )
@@ -6304,7 +6190,7 @@ game (
 )
 
 game (
-	comment "Landstalker (USA) (Beta) (1993-02-24)"
+	comment "Landstalker (USA) (Beta)"
 	users 1
 	rom ( crc 70483D03 )
 )
@@ -6316,7 +6202,7 @@ game (
 )
 
 game (
-	comment "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)"
+	comment "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc FC64BB8C )
 )
@@ -6328,7 +6214,7 @@ game (
 )
 
 game (
-	comment "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)"
+	comment "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc B0AFA45A )
 )
@@ -6340,13 +6226,13 @@ game (
 )
 
 game (
-	comment "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)"
+	comment "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 365D282A )
 )
 
 game (
-	comment "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)"
+	comment "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 1EC0EC97 )
 )
@@ -6400,13 +6286,13 @@ game (
 )
 
 game (
-	comment "Legend of Wukong (World) (Aftermarket) (Unl)"
+	comment "Legend of Wukong (USA, Europe) (Super Fighter Team)"
 	users 1
 	rom ( crc 72F11771 )
 )
 
 game (
-	comment "Legend of Galahad, The ~ Galahad (USA, Europe)"
+	comment "Legend of Galahad, The (USA, Europe)"
 	users 1
 	rom ( crc 679557BC )
 )
@@ -6418,7 +6304,7 @@ game (
 )
 
 game (
-	comment "Legende de Thor, La (France) (Mega Drive Mini)"
+	comment "Legende de Thor, La (France) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc A9359029 )
 )
@@ -6466,13 +6352,13 @@ game (
 )
 
 game (
-	comment "Lethal Enforcers (Japan)"
+	comment "Lethal Enforcers (Japan) (En)"
 	users 2
 	rom ( crc F25F1E49 )
 )
 
 game (
-	comment "Lethal Enforcers (USA) (Beta) (1993-08-13)"
+	comment "Lethal Enforcers (USA) (Beta)"
 	users 2
 	rom ( crc F4010503 )
 )
@@ -6514,7 +6400,7 @@ game (
 )
 
 game (
-	comment "Light Crusader (Japan)"
+	comment "Light Crusader (Japan) (En,Ja)"
 	users 1
 	rom ( crc 237076A4 )
 )
@@ -6526,7 +6412,7 @@ game (
 )
 
 game (
-	comment "Light Crusader (USA) (Beta) (1995-06-08)"
+	comment "Light Crusader (USA) (Beta 2)"
 	users 1
 	rom ( crc E350CCFA )
 )
@@ -6538,25 +6424,25 @@ game (
 )
 
 game (
-	comment "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)"
+	comment "Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 600E5709 )
 )
 
 game (
-	comment "Light Crusader (USA) (Genesis Mini)"
+	comment "Light Crusader (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 84390291 )
 )
 
 game (
-	comment "Light Crusader (Japan) (Mega Drive Mini)"
+	comment "Light Crusader (Japan) (En,Ja) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc F6550938 )
 )
 
 game (
-	comment "Lightening Force - Quest for the Darkstar (World) (Sega Ages)"
+	comment "Lightening Force - Quest for the Darkstar (USA) (Sega Ages)"
 	users 1
 	rom ( crc CA90FF51 )
 )
@@ -6568,19 +6454,19 @@ game (
 )
 
 game (
-	comment "Link Dragon (Taiwan) (En) (Unl)"
+	comment "Link Dragon (Taiwan) (En)"
 	users 1
 	rom ( crc 1B86E623 )
 )
 
 game (
-	comment "Lion King II (Taiwan) (En) (Unl)"
+	comment "Lion King II, The - Simba's Mighty Adventure (Taiwan) (En)"
 	users 2
 	rom ( crc AFF46765 )
 )
 
 game (
-	comment "Lion King 3 (Taiwan) (En) (Unl)"
+	comment "Lion King III, The (Taiwan) (En)"
 	users 1
 	rom ( crc C004219D )
 )
@@ -6598,19 +6484,7 @@ game (
 )
 
 game (
-	comment "Little Medusa (USA) (Demo) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc B9F6C84D )
-)
-
-game (
-	comment "Little Medusa (USA) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc DCD8E4F3 )
-)
-
-game (
-	comment "Ling Huan Daoshi - Super Magican (Taiwan) (Unl)"
+	comment "Super Magican - Ling Huan Daoshi (Taiwan)"
 	users 1
 	rom ( crc E24AC6B2 )
 )
@@ -6628,19 +6502,19 @@ game (
 )
 
 game (
-	comment "Lost Vikings, The (Europe) (Beta)"
+	comment "Lost Vikings, The (Europe) (En,Fr,De) (Beta)"
 	users 3
 	rom ( crc 17BED25F )
 )
 
 game (
-	comment "Lost Vikings, The (USA) (November, 1993)"
+	comment "Lost Vikings, The (USA)"
 	users 3
 	rom ( crc 7BA49EDB )
 )
 
 game (
-	comment "Lost Vikings, The (USA) (October, 1995)"
+	comment "Lost Vikings, The (USA) (Rev 1)"
 	users 3
 	rom ( crc 63729B74 )
 )
@@ -6670,13 +6544,13 @@ game (
 )
 
 game (
-	comment "Lufia & the Fortress of Doom (USA) (Proto)"
+	comment "Lufia & The Fortress of Doom (USA) (Proto)"
 	users 1
 	rom ( crc 2B4C3EC1 )
 )
 
 game (
-	comment "Ma Jiang Qing Ren - Ji Ma Jiang Zhi (Taiwan) (Unl)"
+	comment "Mahjong Qingren (Taiwan)"
 	users 1
 	rom ( crc DDD02BA4 )
 )
@@ -6688,7 +6562,7 @@ game (
 )
 
 game (
-	comment "Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle) (Aftermarket) (Unl)"
+	comment "Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle)"
 	users 1
 	rom ( crc 64E7F1CD )
 )
@@ -6730,85 +6604,79 @@ game (
 )
 
 game (
-	comment "Magic Girl Featuring Ling Ling the Little Witch (World) (Aftermarket) (Unl)"
+	comment "Magic Girl (USA, Europe) (Super Fighter Team)"
 	users 1
 	rom ( crc 8362D852 )
 )
 
 game (
-	comment "Magic Bubble (Taiwan) (En) (Unl)"
+	comment "Magic Bubble (Taiwan) (En)"
 	users 2
 	rom ( crc 3EC61DC1 )
 )
 
 game (
-	comment "Magic Pockets (USA, Europe) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc E0FF2F6B )
-)
-
-game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-01-12)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 1)"
 	users 1
 	rom ( crc 946346F9 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-02)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 2)"
 	users 1
 	rom ( crc 7805B5C9 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-17)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 3)"
 	users 1
 	rom ( crc 2B7A88C0 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-07)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 4)"
 	users 1
 	rom ( crc 26C71EB8 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-11)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 8)"
 	users 1
 	rom ( crc 883023BC )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-31)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 7)"
 	users 1
 	rom ( crc CD788DEF )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-27)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 6)"
 	users 1
 	rom ( crc B065DA40 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-14)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 5)"
 	users 1
 	rom ( crc 37A6A1AF )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-21)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 9)"
 	users 1
 	rom ( crc 7844B7AD )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-25)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 10)"
 	users 1
 	rom ( crc B6BD2D87 )
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-28)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 11)"
 	users 1
 	rom ( crc 9B6BAE87 )
 )
@@ -6826,7 +6694,7 @@ game (
 )
 
 game (
-	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-05-05)"
+	comment "Magic School Bus, The - Space Exploration Game (USA) (Beta 12)"
 	users 1
 	rom ( crc A2315F1C )
 )
@@ -6844,7 +6712,7 @@ game (
 )
 
 game (
-	comment "Mallet Legend's Whac-a-Critter ~ Mallet Legend (USA, Taiwan) (En) (Unl)"
+	comment "Whac-a-Critter (USA)"
 	users 1
 	rom ( crc 1BDD02B8 )
 )
@@ -6874,7 +6742,7 @@ game (
 )
 
 game (
-	comment "Marble Madness (Japan)"
+	comment "Marble Madness (Japan) (En)"
 	users 2
 	rom ( crc 775BC464 )
 )
@@ -6952,13 +6820,13 @@ game (
 )
 
 game (
-	comment "Master of Monsters (Japan) (Beta) (1991-04-26)"
+	comment "Master of Monsters (Japan) (Beta)"
 	users 4
 	rom ( crc BD1683A8 )
 )
 
 game (
-	comment "Master of Weapon (Japan)"
+	comment "Master of Weapon (Japan) (En)"
 	users 4
 	rom ( crc 12AD6178 )
 )
@@ -7012,7 +6880,7 @@ game (
 )
 
 game (
-	comment "McDonald's Treasure Land Adventure (Japan) (Beta)"
+	comment "McDonald's Treasure Land Adventure (Japan) (En,Ja) (Beta)"
 	users 1
 	rom ( crc 7BF477E8 )
 )
@@ -7024,7 +6892,7 @@ game (
 )
 
 game (
-	comment "Medal City (Japan) (SegaNet)"
+	comment "Medal City (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 3EF4135D )
 )
@@ -7078,7 +6946,7 @@ game (
 )
 
 game (
-	comment "Mega Games I (Europe)"
+	comment "Mega Games I (USA, Europe)"
 	users 2
 	rom ( crc DB753224 )
 )
@@ -7096,13 +6964,13 @@ game (
 )
 
 game (
-	comment "Mega Man - The Wily Wars (USA) (Genesis Mini)"
+	comment "Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 0CD405DB )
 )
 
 game (
-	comment "Mega Man - The Wily Wars (USA) (Aftermarket) (Unl)"
+	comment "Mega Man - The Wily Wars (World) (Retro-Bit)"
 	users 1
 	rom ( crc 0831020B )
 )
@@ -7126,7 +6994,7 @@ game (
 )
 
 game (
-	comment "Mega Turrican (Japan) (En) (Proto) (1993-05-18)"
+	comment "Mega Turrican (Japan) (En) (Proto)"
 	users 1
 	rom ( crc 3BA35ACD )
 )
@@ -7138,7 +7006,7 @@ game (
 )
 
 game (
-	comment "Mega Turrican - Director's Cut (World) (Aftermarket) (Unl)"
+	comment "Mega Turrican - Director's Cut (USA, Europe)"
 	users 1
 	rom ( crc CDE15A2A )
 )
@@ -7150,7 +7018,7 @@ game (
 )
 
 game (
-	comment "MegaMind (Japan) (SegaNet)"
+	comment "MegaMind (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 76DF2AE2 )
 )
@@ -7174,7 +7042,7 @@ game (
 )
 
 game (
-	comment "MegaTrax (Japan)"
+	comment "MegaTrax (Japan) (En)"
 	users 2
 	rom ( crc A0837741 )
 )
@@ -7186,7 +7054,7 @@ game (
 )
 
 game (
-	comment "Meng Huan Shui Guo Pan - 777 Casino (Taiwan) (Unl)"
+	comment "Menghuan Shuiguo Pan - 777 Casino (Taiwan)"
 	users 2
 	rom ( crc 42DC03E4 )
 )
@@ -7210,7 +7078,7 @@ game (
 )
 
 game (
-	comment "Michael Jackson's Moonwalker (Japan, USA) (En) (Beta) (1990-04-24)"
+	comment "Michael Jackson's Moonwalker (Japan, USA) (En) (Beta)"
 	users 2
 	rom ( crc DC7ED8C1 )
 )
@@ -7246,13 +7114,13 @@ game (
 )
 
 game (
-	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (July, 1994)"
+	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1)"
 	users 1
 	rom ( crc 7FC1BDF0 )
 )
 
 game (
-	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (September, 1994)"
+	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2)"
 	users 1
 	rom ( crc BAB821F2 )
 )
@@ -7264,7 +7132,7 @@ game (
 )
 
 game (
-	comment "Micro Machines (Europe) (Alt 2)"
+	comment "Micro Machines (Europe) (Rev 2)"
 	users 2
 	rom ( crc 50081A0B )
 )
@@ -7276,7 +7144,7 @@ game (
 )
 
 game (
-	comment "Micro Machines (Europe) (Alt)"
+	comment "Micro Machines (Europe) (Rev 1)"
 	users 2
 	rom ( crc E5CF560D )
 )
@@ -7300,7 +7168,7 @@ game (
 )
 
 game (
-	comment "Micro Machines - Military (Europe) (Beta) (1995)"
+	comment "Micro Machines - Military (Europe) (Beta)"
 	users 8
 	rom ( crc B33D01BC )
 )
@@ -7318,19 +7186,19 @@ game (
 )
 
 game (
-	comment "Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)"
+	comment "Micro Machines 2 - Turbo Tournament (Europe)"
 	users 8
 	rom ( crc 42BFB7EB )
 )
 
 game (
-	comment "Micro Machines 2 - Turbo Tournament (Europe)"
+	comment "Micro Machines 2 - Turbo Tournament (Europe) (Beta 1)"
 	users 8
 	rom ( crc 01C22A5D )
 )
 
 game (
-	comment "Micro Machines 2 - Turbo Tournament (Europe) (Beta)"
+	comment "Micro Machines 2 - Turbo Tournament (Europe) (Beta 2)"
 	users 8
 	rom ( crc 51C9F851 )
 )
@@ -7390,43 +7258,43 @@ game (
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (Europe) (Beta) (1994-08-10)"
+	comment "Mighty Morphin Power Rangers (Europe) (Beta)"
 	users 2
 	rom ( crc E79CD214 )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA) (Beta) (1994-07-08)"
+	comment "Mighty Morphin Power Rangers (USA) (Beta 1)"
 	users 2
 	rom ( crc E6916C54 )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA) (Beta) (1994-07-18)"
+	comment "Mighty Morphin Power Rangers (USA) (Beta 2)"
 	users 2
 	rom ( crc 5ACCDB1A )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA) (Beta) (1994-08-04)"
+	comment "Mighty Morphin Power Rangers (USA) (Beta 3)"
 	users 2
 	rom ( crc F3AE5AAF )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA) (Beta) (1994-08-08)"
+	comment "Mighty Morphin Power Rangers (USA) (Beta 4)"
 	users 2
 	rom ( crc 57644549 )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers (USA) (Beta) (1994-08-09)"
+	comment "Mighty Morphin Power Rangers (USA) (Beta 5)"
 	users 2
 	rom ( crc 4356FE0A )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers - The Fighting Edition (Russia) (En) (Unl)"
+	comment "Power Rangers - The Fighting Edition (Russia) (En)"
 	users 2
 	rom ( crc 1046D696 )
 )
@@ -7444,37 +7312,37 @@ game (
 )
 
 game (
-	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-13)"
+	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta 1)"
 	users 2
 	rom ( crc 227BF7FD )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-17)"
+	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta 2)"
 	users 2
 	rom ( crc 579DE657 )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-22)"
+	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta 3)"
 	users 2
 	rom ( crc C2CA3A8B )
 )
 
 game (
-	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-24)"
+	comment "Mighty Morphin Power Rangers - The Movie (USA) (Beta 4)"
 	users 2
 	rom ( crc 3429FA3A )
 )
 
 game (
-	comment "Mike Ditka Power Football (USA, Europe) (Unl)"
+	comment "Mike Ditka Power Football (USA, Europe)"
 	users 2
 	rom ( crc 6078B310 )
 )
 
 game (
-	comment "Mike Ditka Power Football (USA, Europe) (Unl) (Alt)"
+	comment "Mike Ditka Power Football (USA, Europe) (Alt)"
 	users 2
 	rom ( crc DE50CA8E )
 )
@@ -7486,13 +7354,13 @@ game (
 )
 
 game (
-	comment "Miniplanets (World) (v1.3) (Aftermarket) (Homebrew)"
+	comment "Miniplanets (World) (v1.3)"
 	users 1
 	rom ( crc 8EA40D2F )
 )
 
 game (
-	comment "Miniplanets (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Miniplanets (World) (v1.2)"
 	users 1
 	rom ( crc 48460E4A )
 )
@@ -7510,19 +7378,19 @@ game (
 )
 
 game (
-	comment "Misplaced (World) (En) (Aftermarket) (Unl)"
+	comment "Misplaced (World) (En)"
 	users 1
 	rom ( crc D79FD3EC )
 )
 
 game (
-	comment "Misplaced (World) (Ru) (Aftermarket) (Unl)"
+	comment "Misplaced (World) (Ru)"
 	users 1
 	rom ( crc 1997B949 )
 )
 
 game (
-	comment "MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl)"
+	comment "MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En)"
 	users 1
 	rom ( crc 11E367A1 )
 )
@@ -7534,7 +7402,7 @@ game (
 )
 
 game (
-	comment "Mondu's Fight Palace (USA) (Beta) (1990-07-03)"
+	comment "Mondu's Fight Palace (USA) (Beta)"
 	users 2
 	rom ( crc 754188F9 )
 )
@@ -7558,7 +7426,7 @@ game (
 )
 
 game (
-	comment "Monster World IV (USA) (Genesis Mini)"
+	comment "Monster World IV (World) (En,Ja) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc D26A32B6 )
 )
@@ -7672,13 +7540,13 @@ game (
 )
 
 game (
-	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)"
+	comment "Musha Aleste (Japan) (Switch Online)"
 	users 1
 	rom ( crc 12C68EEE )
 )
 
 game (
-	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan)"
+	comment "Musha Aleste (Japan)"
 	users 1
 	rom ( crc 8FDE18AB )
 )
@@ -7702,19 +7570,19 @@ game (
 )
 
 game (
-	comment "Mystic Defender (USA, Europe)"
+	comment "Mystic Defender (USA, Europe) (En,Ja)"
 	users 1
 	rom ( crc F9CE1AB8 )
 )
 
 game (
-	comment "Mystic Defender (USA, Europe) (Rev A)"
+	comment "Mystic Defender (USA, Europe) (En,Ja) (Rev A)"
 	users 1
 	rom ( crc 50FD5D93 )
 )
 
 game (
-	comment "Mystic Defender (USA, Europe) (Beta) (1989-09-14)"
+	comment "Mystic Defender (USA, Europe) (En,Ja) (Beta)"
 	users 1
 	rom ( crc 5AC0D238 )
 )
@@ -7726,13 +7594,13 @@ game (
 )
 
 game (
-	comment "Nakajima Satoru Kanshuu - F-1 Super License (Japan)"
+	comment "Nakajima Satoru Kanshuu - F1 Super License (Japan)"
 	users 1
 	rom ( crc 8774BC79 )
 )
 
 game (
-	comment "Nakajima Satoru Kanshuu - F-1 Grand Prix (Japan)"
+	comment "Nakajima Satoru Kanshuu - F1 Grand Prix (Japan)"
 	users 1
 	rom ( crc 93BE47CF )
 )
@@ -7750,163 +7618,163 @@ game (
 )
 
 game (
-	comment "NBA Action '94 (USA) (Beta) (1994-01-04)"
+	comment "NBA Action '94 (USA) (Beta 1)"
 	users 5
 	rom ( crc 2491DF2F )
 )
 
 game (
-	comment "NBA Action '94 (USA) (Beta) (1994-01-16)"
+	comment "NBA Action '94 (USA) (Beta 2)"
 	users 5
 	rom ( crc FE43C79D )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-11-18)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 1)"
 	users 5
 	rom ( crc 2D411E4B )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-11-23)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 2)"
 	users 5
 	rom ( crc 4650CFCC )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-02)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 3)"
 	users 5
 	rom ( crc 04BF6F6E )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-09)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 4)"
 	users 5
 	rom ( crc 2B198487 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-15)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 5)"
 	users 5
 	rom ( crc 10A3B46D )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-22)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 6)"
 	users 5
 	rom ( crc F92BA323 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-24)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 7)"
 	users 5
 	rom ( crc DDB04550 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-29)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 8)"
 	users 5
 	rom ( crc DCEBE32A )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-30)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 9)"
 	users 5
 	rom ( crc D87956C9 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-31)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 10)"
 	users 5
 	rom ( crc 582A378F )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-03)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 11)"
 	users 5
 	rom ( crc 374AF160 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-08)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 12)"
 	users 5
 	rom ( crc 0A6B7B9E )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-12)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 13)"
 	users 5
 	rom ( crc B47FF025 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-15)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 14)"
 	users 5
 	rom ( crc 9C6A1F27 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-21)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 16)"
 	users 5
 	rom ( crc E337BDFB )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-22)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 17)"
 	users 5
 	rom ( crc 7BD7CA47 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-24)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 18)"
 	users 5
 	rom ( crc 15ABCF41 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-18)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 15)"
 	users 5
 	rom ( crc C4A0A624 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-27)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 20)"
 	users 5
 	rom ( crc EF7F608B )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-27) (Alt)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 19)"
 	users 5
 	rom ( crc 79C7FB00 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-28)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 22)"
 	users 5
 	rom ( crc 57C2C69C )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-28) (Alt)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 21)"
 	users 5
 	rom ( crc 97D7075D )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-30)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 23)"
 	users 5
 	rom ( crc 2FAC80B2 )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-02-01)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 24)"
 	users 5
 	rom ( crc 2C02A79D )
 )
 
 game (
-	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-02-02)"
+	comment "NBA Action '95 Starring David Robinson (USA, Europe) (Beta 25)"
 	users 5
 	rom ( crc A9167903 )
 )
@@ -7936,7 +7804,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (Japan)"
+	comment "NBA Jam (Japan) (En)"
 	users 4
 	rom ( crc A6C6305A )
 )
@@ -7954,7 +7822,7 @@ game (
 )
 
 game (
-	comment "NBA Jam (USA, Europe) (Beta) (April, 1993)"
+	comment "NBA Jam (USA, Europe) (Beta)"
 	users 4
 	rom ( crc E35F7EEE )
 )
@@ -7972,7 +7840,7 @@ game (
 )
 
 game (
-	comment "NBA Live 95 (Korea)"
+	comment "NBA Live Nong-gu 95 (Korea)"
 	users 4
 	rom ( crc 779C1244 )
 )
@@ -7998,7 +7866,7 @@ game (
 game (
 	comment "NBA Playoffs - Bulls vs Blazers (Japan)"
 	users 2
-	rom ( crc 4565CE1F )
+	rom ( crc EAE8C000 )
 )
 
 game (
@@ -8016,7 +7884,7 @@ game (
 game (
 	comment "NCAA Final Four Basketball (USA)"
 	users 4
-	rom ( crc ED0C1303 )
+	rom ( crc 48FB7E7C )
 )
 
 game (
@@ -8044,7 +7912,7 @@ game (
 )
 
 game (
-	comment "NewZealand Story, The (Japan)"
+	comment "NewZealand Story, The (Japan) (En)"
 	users 1
 	rom ( crc 1C77AD21 )
 )
@@ -8056,7 +7924,7 @@ game (
 )
 
 game (
-	comment "Newman Haas IndyCar featuring Nigel Mansell (World)"
+	comment "Newman Haas IndyCar Featuring Nigel Mansell (World)"
 	users 2
 	rom ( crc 1233A229 )
 )
@@ -8068,127 +7936,127 @@ game (
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-01)"
+	comment "NFL '95 (USA) (Beta 1)"
 	users 4
 	rom ( crc 5A57EA4E )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-05)"
+	comment "NFL '95 (USA) (Beta 2)"
 	users 4
 	rom ( crc 88D51773 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-10)"
+	comment "NFL '95 (USA) (Beta 3)"
 	users 4
 	rom ( crc A3C5710B )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-17)"
+	comment "NFL '95 (USA) (Beta 7)"
 	users 4
 	rom ( crc A6015C29 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-17) (Alt)"
+	comment "NFL '95 (USA) (Beta 6)"
 	users 4
 	rom ( crc 655966C8 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-12)"
+	comment "NFL '95 (USA) (Beta 5)"
 	users 4
 	rom ( crc CC86A259 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-22)"
+	comment "NFL '95 (USA) (Beta 8)"
 	users 4
 	rom ( crc B01434E5 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-30)"
+	comment "NFL '95 (USA) (Beta 9)"
 	users 4
 	rom ( crc D0E0A436 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-31)"
+	comment "NFL '95 (USA) (Beta 10)"
 	users 4
 	rom ( crc C360521E )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-01)"
+	comment "NFL '95 (USA) (Beta 11)"
 	users 4
 	rom ( crc 9240FCAA )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-02)"
+	comment "NFL '95 (USA) (Beta 12)"
 	users 4
 	rom ( crc FF049A49 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-05)"
+	comment "NFL '95 (USA) (Beta 15)"
 	users 4
 	rom ( crc 123985A5 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-04)"
+	comment "NFL '95 (USA) (Beta 13)"
 	users 4
 	rom ( crc 60604D40 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-05) (Alt)"
+	comment "NFL '95 (USA) (Beta 14)"
 	users 4
 	rom ( crc DBDF61AC )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-06)"
+	comment "NFL '95 (USA) (Beta 16)"
 	users 4
 	rom ( crc 624B8699 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-07)"
+	comment "NFL '95 (USA) (Beta 17)"
 	users 4
 	rom ( crc AE8AA4BE )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-08)"
+	comment "NFL '95 (USA) (Beta 18)"
 	users 4
 	rom ( crc 22C5E289 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-09)"
+	comment "NFL '95 (USA) (Beta 19)"
 	users 4
 	rom ( crc 55DF1066 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11)"
+	comment "NFL '95 (USA) (Beta 21)"
 	users 4
 	rom ( crc 111AC6A0 )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-09-11) (Alt)"
+	comment "NFL '95 (USA) (Beta 20)"
 	users 4
 	rom ( crc 21614C4F )
 )
 
 game (
-	comment "NFL '95 (USA) (Beta) (1994-08-12) (Alt)"
+	comment "NFL '95 (USA) (Beta 4)"
 	users 4
 	rom ( crc 3D23633B )
 )
@@ -8206,13 +8074,13 @@ game (
 )
 
 game (
-	comment "NFL Football '94 (Japan)"
+	comment "NFL Football '94 (Japan) (En)"
 	users 4
 	rom ( crc E490DC4A )
 )
 
 game (
-	comment "NFL Football '94 (Japan) (1993-11-04) (Sega Channel)"
+	comment "NFL Football '94 (Japan) (En) (Sega Channel)"
 	users 4
 	rom ( crc 2C50EBF6 )
 )
@@ -8266,7 +8134,7 @@ game (
 )
 
 game (
-	comment "NHL '94 (USA, Europe) (Re-release)"
+	comment "NHL '94 (USA, Europe) (NHL 06)"
 	users 4
 	rom ( crc 7B344D0C )
 )
@@ -8296,7 +8164,7 @@ game (
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-09-14)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 1)"
 	users 2
 	rom ( crc 5D4BC48D )
 )
@@ -8308,91 +8176,91 @@ game (
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-09-29)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 2)"
 	users 2
 	rom ( crc 96BAE44F )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-10-21)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 4)"
 	users 2
 	rom ( crc 17EB2238 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-10-01)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 3)"
 	users 2
 	rom ( crc B1C0FBB2 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-07)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 5)"
 	users 2
 	rom ( crc E8F2C88F )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-09)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 6)"
 	users 2
 	rom ( crc 82624073 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-21)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 8)"
 	users 2
 	rom ( crc CFE4059D )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-19)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 7)"
 	users 2
 	rom ( crc CD0F588A )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-22)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 9)"
 	users 2
 	rom ( crc 81D30FE6 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-27)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 11)"
 	users 2
 	rom ( crc 658FFE52 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-23)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 10)"
 	users 2
 	rom ( crc 88D4FC38 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-28)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 12)"
 	users 2
 	rom ( crc 51AD0056 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-11-29)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 13)"
 	users 2
 	rom ( crc A060A60B )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-12-01)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 15)"
 	users 2
 	rom ( crc C209D720 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-12-01) (Alt)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 14)"
 	users 2
 	rom ( crc 112E4CB3 )
 )
 
 game (
-	comment "NHL All-Star Hockey 95 (USA) (Beta) (1994-12-02)"
+	comment "NHL All-Star Hockey 95 (USA) (Beta 16)"
 	users 2
 	rom ( crc 01D6A6C7 )
 )
@@ -8410,13 +8278,13 @@ game (
 )
 
 game (
-	comment "NHLPA Hockey 93 (USA, Europe) (Rev A)"
+	comment "NHLPA Hockey 93 (USA, Europe) (Rev 1)"
 	users 2
 	rom ( crc F361D0BF )
 )
 
 game (
-	comment "NHLPA Hockey 93 (USA, Europe) (Rev A) (Sample)"
+	comment "NHLPA Hockey 93 (USA, Europe) (Rev 1) (Sample)"
 	users 2
 	rom ( crc 93E509EA )
 )
@@ -8464,7 +8332,7 @@ game (
 )
 
 game (
-	comment "Ninja Burai Densetsu (Japan) (Beta) (1991-05-28)"
+	comment "Ninja Burai Densetsu (Japan) (Beta)"
 	users 1
 	rom ( crc 49089471 )
 )
@@ -8506,31 +8374,31 @@ game (
 )
 
 game (
-	comment "Odeio Carros (World) (Aftermarket) (Homebrew)"
+	comment "Odeio Carros (World)"
 	users 1
 	rom ( crc 770969B6 )
 )
 
 game (
-	comment "Oh Mummy Genesis (World) (Aftermarket) (Unl)"
+	comment "Oh Mummy Genesis (World)"
 	users 2
 	rom ( crc B7F68B29 )
 )
 
 game (
-	comment "Old Towers (USA) (Aftermarket) (Unl)"
+	comment "Old Towers (USA) (Piepacker)"
 	users 1
 	rom ( crc C66D9C37 )
 )
 
 game (
-	comment "Old Towers (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "Old Towers (World) (v1.2)"
 	users 1
 	rom ( crc D875E97D )
 )
 
 game (
-	comment "Old Towers (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Old Towers (World) (v1.1)"
 	users 1
 	rom ( crc 1A7E29FC )
 )
@@ -8572,7 +8440,7 @@ game (
 )
 
 game (
-	comment "Onslaught (USA, Europe) (Unl)"
+	comment "Onslaught (USA, Europe)"
 	users 1
 	rom ( crc 9F19D6DF )
 )
@@ -8590,37 +8458,37 @@ game (
 )
 
 game (
-	comment "Ooze, The (Europe) (Beta) (1995-07-28)"
+	comment "Ooze, The (Europe) (Beta)"
 	users 1
 	rom ( crc 7CF868E7 )
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-15)"
+	comment "Ooze, The (USA) (Beta 1)"
 	users 1
 	rom ( crc 921106FD )
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-19)"
+	comment "Ooze, The (USA) (Beta 2)"
 	users 1
 	rom ( crc FA39281D )
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-22)"
+	comment "Ooze, The (USA) (Beta 3)"
 	users 1
 	rom ( crc CE1F139F )
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-26)"
+	comment "Ooze, The (USA) (Beta 4)"
 	users 1
 	rom ( crc 70419442 )
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-29)"
+	comment "Ooze, The (USA) (Beta 6)"
 	users 1
 	rom ( crc CA93E93B )
 )
@@ -8632,7 +8500,7 @@ game (
 )
 
 game (
-	comment "Ooze, The (USA) (Beta) (1995-06-29) (Alt)"
+	comment "Ooze, The (USA) (Beta 5)"
 	users 1
 	rom ( crc 1776763B )
 )
@@ -8680,7 +8548,7 @@ game (
 )
 
 game (
-	comment "OutRun (Japan)"
+	comment "OutRun (Japan) (En)"
 	users 1
 	rom ( crc EE7D9F4A )
 )
@@ -8692,7 +8560,7 @@ game (
 )
 
 game (
-	comment "OutRun (USA, Europe) (Sega Smash Pack)"
+	comment "OutRun (USA) (Sega Smash Pack)"
 	users 1
 	rom ( crc E6821FB1 )
 )
@@ -8704,7 +8572,7 @@ game (
 )
 
 game (
-	comment "OutRun 2019 (Japan)"
+	comment "OutRun 2019 (Japan) (En)"
 	users 1
 	rom ( crc 0EAC7440 )
 )
@@ -8722,7 +8590,7 @@ game (
 )
 
 game (
-	comment "OutRunners (Japan)"
+	comment "OutRunners (Japan) (En)"
 	users 2
 	rom ( crc E164A09F )
 )
@@ -8776,7 +8644,7 @@ game (
 )
 
 game (
-	comment "Paddle Fighter (Japan) (SegaNet)"
+	comment "Paddle Fighter (Japan) (Sega Game Toshokan)"
 	users 2
 	rom ( crc 3D8147E6 )
 )
@@ -8812,25 +8680,25 @@ game (
 )
 
 game (
-	comment "Panorama Cotton (Japan) (Beta) (1993-11-27)"
+	comment "Panorama Cotton (Japan) (Beta)"
 	users 1
 	rom ( crc 54D82F86 )
 )
 
 game (
-	comment "Panorama Cotton (USA) (Aftermarket) (Unl)"
+	comment "Panorama Cotton (USA) (Strictly Limited Games)"
 	users 1
-	rom ( crc 2FF2EAFB )
+	rom ( crc D70F49C6 )
 )
 
 game (
-	comment "Paperboy (USA, Europe) (Beta) (1991-10-28)"
+	comment "Paperboy (USA, Europe) (Beta)"
 	users 2
 	rom ( crc 9856D9EA )
 )
 
 game (
-	comment "Paperboy (Japan)"
+	comment "Paperboy (Japan) (En,Ja)"
 	users 2
 	rom ( crc E14250AE )
 )
@@ -8848,37 +8716,25 @@ game (
 )
 
 game (
-	comment "Papi Commando (World) (Aftermarket) (Homebrew)"
+	comment "Papi Commando (World)"
 	users 2
 	rom ( crc EC16D540 )
 )
 
 game (
-	comment "Papi Commando (World) (Demo) (Aftermarket) (Homebrew)"
-	users 2
-	rom ( crc 6FA66BDC )
-)
-
-game (
-	comment "Papi Commando Reload - TECTOY Demo (World) (Demo) (Aftermarket) (Homebrew)"
-	users 2
-	rom ( crc D73E6AD5 )
-)
-
-game (
-	comment "Papi Commando Remix (World) (Aftermarket) (Homebrew)"
+	comment "Papi Commando Remix (World)"
 	users 2
 	rom ( crc D15C6391 )
 )
 
 game (
-	comment "Papi Commando Remix Deluxe (World) (v1.1) (Aftermarket) (Homebrew)"
+	comment "Papi Commando Remix Deluxe (World) (v1.1)"
 	users 2
 	rom ( crc 6C8EE0B0 )
 )
 
 game (
-	comment "Papi Commando Remix Deluxe (World) (Aftermarket) (Homebrew)"
+	comment "Papi Commando Remix Deluxe (World)"
 	users 2
 	rom ( crc 227A251B )
 )
@@ -8896,13 +8752,13 @@ game (
 )
 
 game (
-	comment "Pat Riley Basketball (USA) (Beta) (1990-06-14)"
+	comment "Pat Riley Basketball (USA) (Beta)"
 	users 2
 	rom ( crc 00F4C7CC )
 )
 
 game (
-	comment "Pebble Beach Golf Links (USA) (Rev A) (1994-02-14) (Sega Channel)"
+	comment "Pebble Beach Golf Links (USA) (Rev A) (Sega Channel)"
 	users 4
 	rom ( crc D124CE9C )
 )
@@ -8938,7 +8794,7 @@ game (
 )
 
 game (
-	comment "Pepenga Pengo (Japan)"
+	comment "Pepenga Pengo (Japan) (En)"
 	users 4
 	rom ( crc D1E2324B )
 )
@@ -8974,13 +8830,13 @@ game (
 )
 
 game (
-	comment "PGA Tour Golf (USA, Europe) (PGA09)"
+	comment "PGA Tour Golf (USA, Europe) (Rev 1)"
 	users 4
 	rom ( crc C1F0B4E1 )
 )
 
 game (
-	comment "PGA Tour Golf (USA, Europe) (PGA07)"
+	comment "PGA Tour Golf (USA, Europe)"
 	users 4
 	rom ( crc 0489FF8E )
 )
@@ -8998,7 +8854,7 @@ game (
 )
 
 game (
-	comment "PGA Tour Golf II (USA, Europe) (Rev A)"
+	comment "PGA Tour Golf II (USA, Europe) (Rev 1)"
 	users 4
 	rom ( crc E82B8606 )
 )
@@ -9016,13 +8872,13 @@ game (
 )
 
 game (
-	comment "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)"
+	comment "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc B23CD7AA )
 )
 
 game (
-	comment "Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)"
+	comment "Phantasy Star - Sennenki no Owari ni (Japan) (SEGA Classic Collection)"
 	users 1
 	rom ( crc FE45F95D )
 )
@@ -9046,19 +8902,19 @@ game (
 )
 
 game (
-	comment "Phantasy Star II (Brazil) (En)"
+	comment "Phantasy Star II (Brazil)"
 	users 1
 	rom ( crc E6688B66 )
 )
 
 game (
-	comment "Phantasy Star II (USA, Europe) (Beta) (1989-07-28)"
+	comment "Phantasy Star II (USA, Europe) (Beta)"
 	users 1
 	rom ( crc B034C46E )
 )
 
 game (
-	comment "Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)"
+	comment "Phantasy Star II (USA, Europe) (Rev A) (SEGA Classic Collection)"
 	users 1
 	rom ( crc 75AF3D59 )
 )
@@ -9072,17 +8928,17 @@ game (
 game (
 	comment "Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1)"
 	users 1
-	rom ( crc 80515DB1 )
+	rom ( crc B1E01B9F )
 )
 
 game (
-	comment "Phantasy Star II - Amia's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc A3A724AA )
 )
 
 game (
-	comment "Phantasy Star II - Anne's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc FAFA5B6F )
 )
@@ -9090,11 +8946,11 @@ game (
 game (
 	comment "Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2)"
 	users 1
-	rom ( crc 2522E2BB )
+	rom ( crc 699A64DF )
 )
 
 game (
-	comment "Phantasy Star II - Huey's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 1A076F83 )
 )
@@ -9102,7 +8958,7 @@ game (
 game (
 	comment "Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1)"
 	users 1
-	rom ( crc 73938433 )
+	rom ( crc BCCF4FA7 )
 )
 
 game (
@@ -9112,13 +8968,13 @@ game (
 )
 
 game (
-	comment "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc C334F308 )
 )
 
 game (
-	comment "Phantasy Star II - Nei's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 3D9AD465 )
 )
@@ -9126,35 +8982,35 @@ game (
 game (
 	comment "Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)"
 	users 1
-	rom ( crc D714351C )
+	rom ( crc FB5A6AE4 )
 )
 
 game (
-	comment "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 6B5916D2 )
 )
 
 game (
-	comment "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 1F83BEB2 )
 )
 
 game (
-	comment "Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)"
+	comment "Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc D40C76D6 )
 )
 
 game (
-	comment "Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease)"
+	comment "Phantasy Star III - Generations of Doom (USA, Europe) (SEGA Classic Collection)"
 	users 1
 	rom ( crc 1D1C62FB )
 )
 
 game (
-	comment "Phantasy Star III - Generations of Doom (Brazil) (En)"
+	comment "Phantasy Star III - Generations of Doom (Brazil)"
 	users 1
 	rom ( crc 2E9B4C23 )
 )
@@ -9184,37 +9040,37 @@ game (
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Beta) (1994-05-30)"
+	comment "Phantasy Star IV (USA) (Beta 1)"
 	users 1
 	rom ( crc B32B17E1 )
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Beta) (1994-06-08)"
+	comment "Phantasy Star IV (USA) (Beta 2)"
 	users 1
 	rom ( crc DC2E1C0A )
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Beta) (1994-08-15)"
+	comment "Phantasy Star IV (USA) (Beta 3)"
 	users 1
 	rom ( crc 60137F25 )
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Genesis Mini)"
+	comment "Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 2EE18BC3 )
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Beta) (1994-10-27)"
+	comment "Phantasy Star IV (USA) (Beta 4)"
 	users 1
 	rom ( crc 12A2590A )
 )
 
 game (
-	comment "Phantasy Star IV (USA) (Beta) (1994-11-07)"
+	comment "Phantasy Star IV (USA) (Beta 5)"
 	users 1
 	rom ( crc BDA29CDF )
 )
@@ -9232,7 +9088,7 @@ game (
 )
 
 game (
-	comment "Phelios (Japan) (Virtual Console)"
+	comment "Phelios (Japan) (En) (Virtual Console)"
 	users 1
 	rom ( crc 14DC2668 )
 )
@@ -9244,7 +9100,7 @@ game (
 )
 
 game (
-	comment "Phelios (Japan)"
+	comment "Phelios (Japan) (En)"
 	users 1
 	rom ( crc 94596174 )
 )
@@ -9256,31 +9112,31 @@ game (
 )
 
 game (
-	comment "Pier Solar and the Great Architects (World) (Beta) (Aftermarket) (Unl)"
+	comment "Pier Solar and the Great Architects (USA) (Beta)"
 	users 1
 	rom ( crc 55FFB501 )
 )
 
 game (
-	comment "Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint) (Aftermarket) (Unl)"
+	comment "Pier Solar and the Great Architects (Europe) (En,Fr,De) (Reprint)"
 	users 1
 	rom ( crc 4261EA9B )
 )
 
 game (
-	comment "Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint A) (Aftermarket) (Unl)"
+	comment "Pier Solar and the Great Architects (Europe) (En,Fr,De) (Reprint A)"
 	users 1
 	rom ( crc 25B7063E )
 )
 
 game (
-	comment "Pier Solar and the Great Architects (World) (En,Es,Pt) (Reprint B) (Aftermarket) (Unl)"
+	comment "Pier Solar and the Great Architects (USA) (En,Es,Pt) (Reprint B)"
 	users 1
 	rom ( crc DFB94F1B )
 )
 
 game (
-	comment "Pier Solar and the Great Architects (World) (En,Fr,Es) (Aftermarket) (Unl)"
+	comment "Pier Solar and the Great Architects (Japan) (En,Fr,Es)"
 	users 1
 	rom ( crc 003A0754 )
 )
@@ -9334,7 +9190,7 @@ game (
 )
 
 game (
-	comment "Pit-Fighter (World) (Beta)"
+	comment "Pit-Fighter (World) (En,Ja) (Beta)"
 	users 2
 	rom ( crc 1E0E0831 )
 )
@@ -9370,7 +9226,7 @@ game (
 )
 
 game (
-	comment "Pocket Monsters (Taiwan) (En) (Unl)"
+	comment "Pikachu - Pocket Monster (Taiwan) (En)"
 	users 1
 	rom ( crc F68F6367 )
 )
@@ -9382,19 +9238,19 @@ game (
 )
 
 game (
-	comment "Pocket Monsters (Taiwan) (En) (Unl) (Alt)"
+	comment "Pikachu - Pocket Monster (Taiwan) (En) (Alt)"
 	users 1
 	rom ( crc FB176667 )
 )
 
 game (
-	comment "Pocket Monsters 2 (Taiwan) (En) (Unl)"
+	comment "Pikachu II - Pocket Monster II (Taiwan) (En)"
 	users 1
 	rom ( crc 30F7031F )
 )
 
 game (
-	comment "Pokemon Stadium (Taiwan) (En) (Unl)"
+	comment "Guaishou Jingji Chang - Pokemon Stadium (Taiwan) (En)"
 	users 2
 	rom ( crc FE187C5D )
 )
@@ -9406,19 +9262,19 @@ game (
 )
 
 game (
-	comment "Populous (Japan)"
+	comment "Populous (Japan) (En)"
 	users 1
 	rom ( crc 97C26818 )
 )
 
 game (
-	comment "Populous (USA) (Unl)"
+	comment "Populous (USA)"
 	users 1
 	rom ( crc BD74B31E )
 )
 
 game (
-	comment "Power Athlete (Japan, Korea) (Ja)"
+	comment "Power Athlete (Japan, Korea) (En)"
 	users 2
 	rom ( crc B41B77CF )
 )
@@ -9472,13 +9328,13 @@ game (
 )
 
 game (
-	comment "Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental)"
+	comment "Primal Rage (USA) (Demo 2) (Sega Channel) (Rental)"
 	users 2
 	rom ( crc 5E19C1C0 )
 )
 
 game (
-	comment "Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive)"
+	comment "Primal Rage (USA) (Demo 1) (Test Drive) (Sega Channel)"
 	users 2
 	rom ( crc 9789EA79 )
 )
@@ -9486,11 +9342,11 @@ game (
 game (
 	comment "Primal Rage (USA, Europe) (Beta)"
 	users 2
-	rom ( crc AD2C9555 )
+	rom ( crc 843479A1 )
 )
 
 game (
-	comment "Primal Rage Showdown (USA) (Demo) (1995-08-26) (Sega Channel)"
+	comment "Primal Rage (USA) (Demo 3) (Sega Channel) (Showdown)"
 	users 2
 	rom ( crc C9E3F2DC )
 )
@@ -9508,7 +9364,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia (Europe) (Beta 2)"
+	comment "Prince of Persia (Europe) (Beta 3)"
 	users 1
 	rom ( crc 505314B6 )
 )
@@ -9526,7 +9382,7 @@ game (
 )
 
 game (
-	comment "Prince of Persia 2 (Europe) (Proto) (1995-02-20)"
+	comment "Prince of Persia 2 (Europe) (Proto)"
 	users 1
 	rom ( crc 3AB44D46 )
 )
@@ -9556,7 +9412,7 @@ game (
 )
 
 game (
-	comment "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)"
+	comment "Probotector (Europe) (En,Fr,De) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc 6ED9E471 )
 )
@@ -9568,13 +9424,13 @@ game (
 )
 
 game (
-	comment "Probotector (World) (En,Fr,De) (Contra Anniversary Collection)"
+	comment "Probotector (Europe) (En,Fr,De) (Contra Anniversary Collection)"
 	users 2
 	rom ( crc C14F4E78 )
 )
 
 game (
-	comment "Probotector (World) (En,Fr,De) (60 Hz) (Contra Anniversary Collection)"
+	comment "Probotector (Europe) (En,Fr,De) (60 Hz) (Contra Anniversary Collection)"
 	users 2
 	rom ( crc 5E42179D )
 )
@@ -9592,7 +9448,7 @@ game (
 )
 
 game (
-	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (Beta)"
+	comment "Psycho Pinball (Europe) (Beta)"
 	users 4
 	rom ( crc F29A5532 )
 )
@@ -9634,7 +9490,7 @@ game (
 )
 
 game (
-	comment "Putter Golf (Japan) (SegaNet)"
+	comment "Putter Golf (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 20F168A6 )
 )
@@ -9676,7 +9532,7 @@ game (
 )
 
 game (
-	comment "Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Console)"
+	comment "Puyo Puyo Tsuu (Japan) (Rev A) (Virtual Console)"
 	users 2
 	rom ( crc EB6E1894 )
 )
@@ -9700,49 +9556,49 @@ game (
 )
 
 game (
-	comment "Pyramid Magic (Japan) (SegaNet)"
+	comment "Pyramid Magic (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 306D839E )
 )
 
 game (
-	comment "Pyramid Magic II (Japan) (SegaNet)"
+	comment "Pyramid Magic II (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc C9DDAC72 )
 )
 
 game (
-	comment "Pyramid Magic III (Japan) (SegaNet)"
+	comment "Pyramid Magic III (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 8329820A )
 )
 
 game (
-	comment "Pyramid Magic Special (Japan) (SegaNet)"
+	comment "Pyramid Magic Special (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 153A3AFA )
 )
 
 game (
-	comment "QuackShot Starring Donald Duck (World)"
+	comment "QuackShot Starring Donald Duck (World) (En,Ja)"
 	users 1
 	rom ( crc 88C8DD94 )
 )
 
 game (
-	comment "QuackShot Starring Donald Duck (World) (Rev A) (Alt)"
+	comment "QuackShot Starring Donald Duck (World) (En,Ja) (Rev A) (Alt)"
 	users 1
 	rom ( crc A5C946B3 )
 )
 
 game (
-	comment "QuackShot Starring Donald Duck (World) (Rev A)"
+	comment "QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)"
 	users 1
 	rom ( crc 5DD28DD7 )
 )
 
 game (
-	comment "Queen of Poker Club (Taiwan) (Unl)"
+	comment "Poker Club 6 in 1 (Taiwan)"
 	users 1
 	rom ( crc AE28D9EB )
 )
@@ -9772,7 +9628,7 @@ game (
 )
 
 game (
-	comment "R.B.I. Baseball 3 (USA) (Beta) (1991-07-18)"
+	comment "R.B.I. Baseball 3 (USA) (Beta)"
 	users 2
 	rom ( crc D0430946 )
 )
@@ -9790,7 +9646,7 @@ game (
 )
 
 game (
-	comment "R.B.I. Baseball 4 (Japan)"
+	comment "R.B.I. Baseball 4 (Japan) (En,Ja)"
 	users 2
 	rom ( crc 8F4E1005 )
 )
@@ -9832,25 +9688,25 @@ game (
 )
 
 game (
-	comment "Raiden Densetsu ~ Raiden Trad (Japan, USA) (En)"
+	comment "Raiden Trad (Japan, USA) (En)"
 	users 1
 	rom ( crc F839A811 )
 )
 
 game (
-	comment "Rambo III (Japan) (En)"
+	comment "Rambo III (Japan, USA) (En,Ja)"
 	users 2
 	rom ( crc 2232F03D )
 )
 
 game (
-	comment "Rainbow Islands Extra (Japan)"
+	comment "Rainbow Islands Extra (Japan) (En)"
 	users 1
 	rom ( crc C74DCB35 )
 )
 
 game (
-	comment "Rambo III (USA, Europe, Korea) (En) (Rev A)"
+	comment "Rambo III (USA, Europe, Korea) (En,Ja) (Rev A)"
 	users 2
 	rom ( crc 4D47A647 )
 )
@@ -9880,7 +9736,7 @@ game (
 )
 
 game (
-	comment "Rastan Saga II (Japan)"
+	comment "Rastan Saga II (Japan) (En)"
 	users 1
 	rom ( crc EBACFB5A )
 )
@@ -9916,7 +9772,7 @@ game (
 )
 
 game (
-	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)"
+	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (Sega Channel)"
 	users 2
 	rom ( crc 1B475ED3 )
 )
@@ -9928,7 +9784,7 @@ game (
 )
 
 game (
-	comment "Revenge of Shinobi, The (USA, Europe) (Rev A) (Beta) (1990-02-01)"
+	comment "Revenge of Shinobi, The (USA, Europe) (Rev A) (Beta)"
 	users 1
 	rom ( crc E488EB46 )
 )
@@ -9970,55 +9826,55 @@ game (
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-07-21)"
+	comment "Richard Scarry's Busytown (USA) (Beta 1)"
 	users 2
 	rom ( crc 1E92D6FF )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-09)"
+	comment "Richard Scarry's Busytown (USA) (Beta 2)"
 	users 2
 	rom ( crc C48CBC30 )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-15)"
+	comment "Richard Scarry's Busytown (USA) (Beta 3)"
 	users 2
 	rom ( crc 650ED917 )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-17)"
+	comment "Richard Scarry's Busytown (USA) (Beta 4)"
 	users 2
 	rom ( crc 3B9C3F4A )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-25)"
+	comment "Richard Scarry's Busytown (USA) (Beta 5)"
 	users 2
 	rom ( crc A0C013BA )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-26)"
+	comment "Richard Scarry's Busytown (USA) (Beta 7)"
 	users 2
 	rom ( crc 760CFF62 )
 )
 
 game (
-	comment "Richard Scarry's Busytown (USA) (Beta) (1994-08-26) (Alt)"
+	comment "Richard Scarry's Busytown (USA) (Beta 6)"
 	users 2
 	rom ( crc 1AD270F3 )
 )
 
 game (
-	comment "Rick Dangerous (World) (Aftermarket) (Homebrew)"
+	comment "Rick Dangerous (World)"
 	users 1
 	rom ( crc 545CBBE4 )
 )
 
 game (
-	comment "Riddle Wired (Japan) (SegaNet)"
+	comment "Riddle Wired (Japan) (Sega Game Toshokan)"
 	users 2
 	rom ( crc FAE3D720 )
 )
@@ -10048,7 +9904,7 @@ game (
 )
 
 game (
-	comment "Ristar (USA, Europe) (Beta) (Later)"
+	comment "Ristar (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 9700139B )
 )
@@ -10060,19 +9916,19 @@ game (
 )
 
 game (
-	comment "Ristar - The Shooting Star (Japan, Korea) (Ja)"
+	comment "Ristar - The Shooting Star (Japan, Korea) (En)"
 	users 1
 	rom ( crc CE464F0E )
 )
 
 game (
-	comment "Ristar - The Shooting Star (Japan) (Beta) (1994-07-01)"
+	comment "Ristar - The Shooting Star (Japan) (En) (Beta 1)"
 	users 1
 	rom ( crc 7C5C7A0A )
 )
 
 game (
-	comment "Ristar - The Shooting Star (Japan) (Beta) (1994-07-18)"
+	comment "Ristar - The Shooting Star (Japan) (En) (Beta 2)"
 	users 1
 	rom ( crc 6BECCCC9 )
 )
@@ -10090,7 +9946,7 @@ game (
 )
 
 game (
-	comment "Road Rash 3 (USA, Europe) (Beta) (1994-11-19)"
+	comment "Road Rash 3 (USA, Europe) (Beta)"
 	users 2
 	rom ( crc B6626083 )
 )
@@ -10108,37 +9964,37 @@ game (
 )
 
 game (
-	comment "Road Rash II (USA, Europe) (RR205)"
+	comment "Road Rash II (USA, Europe)"
 	users 2
 	rom ( crc 7B29C209 )
 )
 
 game (
-	comment "Road Rash II (USA, Europe) (RR206)"
+	comment "Road Rash II (USA, Europe) (Rev 1)"
 	users 2
 	rom ( crc 0876E992 )
 )
 
 game (
-	comment "Road Rash II (USA) (Genesis Mini)"
+	comment "Road Rash II (USA) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc C25ABD9E )
 )
 
 game (
-	comment "Road Rash II (Japan) (Mega Drive Mini)"
+	comment "Road Rash II (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc 6CFA9048 )
 )
 
 game (
-	comment "RoadBlasters (USA) (Beta) (1991-06-27)"
+	comment "RoadBlasters (USA) (Beta)"
 	users 1
 	rom ( crc E4EF86B9 )
 )
 
 game (
-	comment "RoadBlasters (Japan)"
+	comment "RoadBlasters (Japan) (En)"
 	users 1
 	rom ( crc A0015440 )
 )
@@ -10162,7 +10018,7 @@ game (
 )
 
 game (
-	comment "RoboCop Versus The Terminator (Europe) (Beta) (1993-07-27)"
+	comment "RoboCop Versus The Terminator (Europe) (Beta)"
 	users 1
 	rom ( crc 2487049F )
 )
@@ -10180,19 +10036,19 @@ game (
 )
 
 game (
-	comment "RoboCop Versus The Terminator (USA) (Beta) (1993-04-30)"
+	comment "RoboCop Versus The Terminator (USA) (Beta)"
 	users 1
 	rom ( crc ECEBFF29 )
 )
 
 game (
-	comment "Robot Wreckage (USA) (Beta) (July, 1992)"
+	comment "Robot Wreckage (USA) (Beta)"
 	users 2
 	rom ( crc C67DDB14 )
 )
 
 game (
-	comment "Robot Battler (Japan) (SegaNet)"
+	comment "Robot Battler (Japan) (Sega Game Toshokan)"
 	users 2
 	rom ( crc FDF23EFF )
 )
@@ -10216,7 +10072,7 @@ game (
 )
 
 game (
-	comment "Rocket Knight Adventures (Japan)"
+	comment "Rocket Knight Adventures (Japan) (En)"
 	users 1
 	rom ( crc D1C8C1C5 )
 )
@@ -10228,7 +10084,7 @@ game (
 )
 
 game (
-	comment "Rocket Knight Adventures (USA) (Sample) (1993-06-15)"
+	comment "Rocket Knight Adventures (USA) (Beta)"
 	users 1
 	rom ( crc 9CBEE37B )
 )
@@ -10240,13 +10096,13 @@ game (
 )
 
 game (
-	comment "Rockman - Mega World (Japan) (Mega Drive Mini)"
+	comment "Rockman - Mega World (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc E8F5668E )
 )
 
 game (
-	comment "Rockman X3 (Taiwan) (En) (Unl)"
+	comment "Rockman X3 (Taiwan) (En)"
 	users 1
 	rom ( crc 3EE639F0 )
 )
@@ -10264,7 +10120,7 @@ game (
 )
 
 game (
-	comment "Rolling Thunder 2 (Japan)"
+	comment "Rolling Thunder 2 (Japan) (En)"
 	users 2
 	rom ( crc 965B2628 )
 )
@@ -10300,7 +10156,7 @@ game (
 )
 
 game (
-	comment "Ronaldinho 98 (Unknown) (Pt) (Pirate)"
+	comment "Ronaldinho 98 (Brazil) (Pirate)"
 	users 8
 	rom ( crc DD27C84E )
 )
@@ -10330,25 +10186,13 @@ game (
 )
 
 game (
-	comment "Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 2E029AB4 )
-)
-
-game (
-	comment "Sacred Line Genesis (World) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc AFF86301 )
-)
-
-game (
 	comment "Sagaia (USA)"
 	users 1
 	rom ( crc F1E22F43 )
 )
 
 game (
-	comment "Saint Sword (Japan)"
+	comment "Saint Sword (Japan) (En)"
 	users 1
 	rom ( crc 3960A00F )
 )
@@ -10360,13 +10204,13 @@ game (
 )
 
 game (
-	comment "Same! Same! Same! (Japan)"
+	comment "Same! Same! Same! (Japan) (En)"
 	users 1
 	rom ( crc 77BBD841 )
 )
 
 game (
-	comment "Same! Same! Same! (Japan) (Beta) (1990-07-30)"
+	comment "Same! Same! Same! (Japan) (En) (Beta)"
 	users 1
 	rom ( crc 6FD46DC2 )
 )
@@ -10396,19 +10240,19 @@ game (
 )
 
 game (
-	comment "Samurai Spirits II (Taiwan) (Unl)"
+	comment "Zhen Shihun - Samurai Spirits II (Taiwan)"
 	users 2
 	rom ( crc 2942F180 )
 )
 
 game (
-	comment "Samurai Spirits II (Taiwan) (Unl) (Alt)"
+	comment "Zhen Shihun - Samurai Spirits II (Taiwan) (Alt)"
 	users 2
 	rom ( crc DDE8C55D )
 )
 
 game (
-	comment "San Guo Zhi Lie Zhuan - Luan Shi Qun Ying (Hong Kong)"
+	comment "San Guo Zhi Lie Zhuan - Luan Shi Qun Ying (Asia)"
 	users 8
 	rom ( crc 3B5CC398 )
 )
@@ -10492,7 +10336,7 @@ game (
 )
 
 game (
-	comment "Second Samurai (World) (Aftermarket) (Unl)"
+	comment "Second Samurai (World) (QUByte Classics)"
 	users 2
 	rom ( crc 12D646B8 )
 )
@@ -10516,7 +10360,7 @@ game (
 )
 
 game (
-	comment "Senjou no Ookami II ~ Mercs (World)"
+	comment "Mercs (World) (En,Ja)"
 	users 1
 	rom ( crc 16113A72 )
 )
@@ -10546,19 +10390,19 @@ game (
 )
 
 game (
-	comment "Shadow Dancer - The Secret of Shinobi (World) (Beta) (1990-10-02)"
+	comment "Shadow Dancer - The Secret of Shinobi (World) (Beta)"
 	users 1
 	rom ( crc 8497CD8D )
 )
 
 game (
-	comment "Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)"
+	comment "Shadow Dancer - The Secret of Shinobi (USA, Europe) (SEGA Classic Collection)"
 	users 1
 	rom ( crc 5CD3E295 )
 )
 
 game (
-	comment "Shadow of the Beast - Mashou no Okite (Japan)"
+	comment "Shadow of the Beast - Mashou no Okite (Japan) (En)"
 	users 1
 	rom ( crc 0CD09D31 )
 )
@@ -10588,25 +10432,25 @@ game (
 )
 
 game (
-	comment "Shadowrun (USA) (Beta) (1993-12-28)"
+	comment "Shadowrun (USA) (Beta 1)"
 	users 1
 	rom ( crc 2455ADD2 )
 )
 
 game (
-	comment "Shadowrun (USA) (Beta) (1993-12-31)"
+	comment "Shadowrun (USA) (Beta 2)"
 	users 1
 	rom ( crc BBB5E2FA )
 )
 
 game (
-	comment "Shadowrun (USA) (Beta) (1994-01-25)"
+	comment "Shadowrun (USA) (Beta 4)"
 	users 1
 	rom ( crc 6E2BBCA8 )
 )
 
 game (
-	comment "Shadowrun (USA) (Beta) (1994-01-25) (Alt)"
+	comment "Shadowrun (USA) (Beta 3)"
 	users 1
 	rom ( crc 2A964BCD )
 )
@@ -10636,13 +10480,13 @@ game (
 )
 
 game (
-	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (SegaNet)"
+	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc A6D7E02D )
 )
 
 game (
-	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (Game no Kanzume Otokuyou)"
+	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (En,Ja) (Game no Kanzume Otokuyou)"
 	users 1
 	rom ( crc 40C44CD3 )
 )
@@ -10702,13 +10546,13 @@ game (
 )
 
 game (
-	comment "Shining Force (USA) (Genesis Mini)"
+	comment "Shining Force (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 4391175E )
 )
 
 game (
-	comment "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)"
+	comment "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 45416AA9 )
 )
@@ -10732,13 +10576,13 @@ game (
 )
 
 game (
-	comment "Shining Force II (USA) (Beta) (1994-04-04)"
+	comment "Shining Force II (USA) (Beta 1)"
 	users 1
 	rom ( crc 5843670C )
 )
 
 game (
-	comment "Shining Force II (USA) (Beta) (1994-06-07)"
+	comment "Shining Force II (USA) (Beta 3)"
 	users 1
 	rom ( crc 03B68BBA )
 )
@@ -10768,7 +10612,7 @@ game (
 )
 
 game (
-	comment "Shining in the Darkness (Brazil) (En)"
+	comment "Shining in the Darkness (Brazil)"
 	users 1
 	rom ( crc 3EE2BBC4 )
 )
@@ -10786,13 +10630,13 @@ game (
 )
 
 game (
-	comment "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)"
+	comment "Shinobi III - Return of the Ninja Master (USA) (Mega Drive Mini, Genesis Mini, Nintendo Classics)"
 	users 1
 	rom ( crc C0F1DE3C )
 )
 
 game (
-	comment "Shinobi III - Return of the Ninja Master (USA) (Beta) (1993-06-29)"
+	comment "Shinobi III - Return of the Ninja Master (USA) (Beta)"
 	users 1
 	rom ( crc ED32899A )
 )
@@ -10822,13 +10666,13 @@ game (
 )
 
 game (
-	comment "Show do Milhao Volume 2 (Brazil)"
+	comment "Show do Milhao - Volume 2 (Brazil)"
 	users 1
 	rom ( crc 48EE66CB )
 )
 
 game (
-	comment "Shui Hu - Feng Yun Zhuan (Taiwan) (Unl)"
+	comment "Shuihu Fengyun Zhuan (Taiwan)"
 	users 2
 	rom ( crc 3E9E010C )
 )
@@ -10846,7 +10690,7 @@ game (
 )
 
 game (
-	comment "Side Pocket (Japan, Korea) (Ja)"
+	comment "Side Pocket (Japan, Korea) (En)"
 	users 2
 	rom ( crc 336BBF3E )
 )
@@ -10900,7 +10744,7 @@ game (
 )
 
 game (
-	comment "Slap Fight MD (Japan)"
+	comment "Slap Fight MD (Japan) (En)"
 	users 1
 	rom ( crc D6695695 )
 )
@@ -10914,11 +10758,11 @@ game (
 game (
 	comment "Slaughter Sport (USA)"
 	users 2
-	rom ( crc AF9F9D9C )
+	rom ( crc AAB2C6C4 )
 )
 
 game (
-	comment "Slime World (Japan)"
+	comment "Slime World (Japan) (En)"
 	users 2
 	rom ( crc 7FF5529F )
 )
@@ -10942,7 +10786,7 @@ game (
 )
 
 game (
-	comment "Snow Bros. - Nick & Tom (Japan)"
+	comment "Snow Bros. - Nick & Tom (Japan) (En)"
 	users 2
 	rom ( crc 11B56228 )
 )
@@ -10960,7 +10804,7 @@ game (
 )
 
 game (
-	comment "Sol-Deace (USA) (1992-02-03) (Sega Channel)"
+	comment "Sol-Deace (USA) (Rev 1) (Sega Channel)"
 	users 1
 	rom ( crc A7994615 )
 )
@@ -10996,7 +10840,7 @@ game (
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-05-25)"
+	comment "Sonic & Knuckles (World) (Beta 1)"
 	users 1
 	rom ( crc 8E8DADD0 )
 )
@@ -11004,41 +10848,41 @@ game (
 game (
 	comment "Sonic & Knuckles (World)"
 	users 1
-	rom ( crc 0658F691 )
+	rom ( crc 4DCFD55C )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-06)"
+	comment "Sonic & Knuckles (World) (Beta 2)"
 	users 1
 	rom ( crc 03A52F63 )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-08)"
+	comment "Sonic & Knuckles (World) (Beta 3)"
 	users 1
 	rom ( crc 7A6C1317 )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-10)"
+	comment "Sonic & Knuckles (World) (Beta 4)"
 	users 1
 	rom ( crc 7092F368 )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-12)"
+	comment "Sonic & Knuckles (World) (Beta 5)"
 	users 1
 	rom ( crc B0A253E8 )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-18)"
+	comment "Sonic & Knuckles (World) (Beta 6)"
 	users 1
 	rom ( crc 2615F5DC )
 )
 
 game (
-	comment "Sonic & Knuckles (World) (Beta) (1994-06-19)"
+	comment "Sonic & Knuckles (World) (Beta 7)"
 	users 1
 	rom ( crc 1EA5B9D1 )
 )
@@ -11050,19 +10894,19 @@ game (
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)"
 	users 1
 	rom ( crc E01F6ED5 )
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A) (Lock-On)"
 	users 1
 	rom ( crc B6C67EAC )
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta)"
 	users 1
 	rom ( crc 8878C1A8 )
 )
@@ -11074,19 +10918,19 @@ game (
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (USA)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On)"
 	users 2
 	rom ( crc 63522553 )
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Europe)"
+	comment "Sonic & Knuckles + Sonic 3 (Europe) (Lock-On)"
 	users 2
 	rom ( crc 92F0929E )
 )
 
 game (
-	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Sonic Mega Collection)"
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On)"
 	users 2
 	rom ( crc 0C06AA82 )
 )
@@ -11098,7 +10942,7 @@ game (
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-19)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 3)"
 	users 1
 	rom ( crc 2C43F43A )
 )
@@ -11110,43 +10954,43 @@ game (
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-07-03)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 1)"
 	users 1
 	rom ( crc 93B75E99 )
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-14)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 2)"
 	users 1
 	rom ( crc D64E7675 )
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-25)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 4)"
 	users 1
 	rom ( crc 465BCFBD )
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-30)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 5)"
 	users 1
 	rom ( crc 57640422 )
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-31)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 6)"
 	users 1
 	rom ( crc 5933E453 )
 )
 
 game (
-	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-09-04)"
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En) (Beta 7)"
 	users 1
 	rom ( crc 2F2A4271 )
 )
 
 game (
-	comment "Sonic 3D Blast - Director's Cut (World) (Unl)"
+	comment "Sonic 3D Blast - Director's Cut (World)"
 	users 1
 	rom ( crc 9767E840 )
 )
@@ -11158,19 +11002,19 @@ game (
 )
 
 game (
-	comment "Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)"
+	comment "Sonic Compilation (USA, Europe, Korea) (En) (Rev A)"
 	users 2
 	rom ( crc 95B5E8D7 )
 )
 
 game (
-	comment "Sonic Crackers (World) (Proto) (1994-07-xx)"
+	comment "Sonic Crackers (USA) (Proto)"
 	users 1
 	rom ( crc 7FADA88D )
 )
 
 game (
-	comment "Sonic Eraser (Japan) (SegaNet)"
+	comment "Sonic Eraser (Japan) (Sega Game Toshokan)"
 	users 2
 	rom ( crc 62D8A0E7 )
 )
@@ -11200,31 +11044,31 @@ game (
 )
 
 game (
-	comment "Sonic Spinball (USA) (Beta) (August, 1993)"
+	comment "Sonic Spinball (USA) (Beta 1)"
 	users 4
 	rom ( crc B1524979 )
 )
 
 game (
-	comment "Sonic Spinball (USA) (Beta) (October, 1993)"
+	comment "Sonic Spinball (USA) (Beta 2)"
 	users 4
 	rom ( crc E9960371 )
 )
 
 game (
-	comment "Sonic Spinball (USA) (1993-09-22) (Sega Channel)"
+	comment "Sonic Spinball (USA) (Sega Channel)"
 	users 4
 	rom ( crc 82C55A36 )
 )
 
 game (
-	comment "Sonic Spinball (Europe) (Beta) (1993-09-17)"
+	comment "Sonic Spinball (Europe) (Beta)"
 	users 4
 	rom ( crc C203C557 )
 )
 
 game (
-	comment "Sonic Spinball (Europe) (Mega Drive Mini)"
+	comment "Sonic Spinball (Europe) (Mega Drive Mini, Genesis Mini)"
 	users 4
 	rom ( crc 2C828E46 )
 )
@@ -11236,13 +11080,13 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog (Unknown) (Beta)"
+	comment "Sonic The Hedgehog (USA, Europe) (Beta)"
 	users 1
 	rom ( crc 917C9CA9 )
 )
 
 game (
-	comment "Sonic The Hedgehog (Japan, Europe, Korea) (En)"
+	comment "Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A)"
 	users 1
 	rom ( crc AFE05EEE )
 )
@@ -11266,7 +11110,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (June, 1992)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 1)"
 	users 2
 	rom ( crc 39FAAA70 )
 )
@@ -11278,43 +11122,43 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (July, 1992)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 2)"
 	users 2
 	rom ( crc EEA21B5C )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Rev B)"
+	comment "Sonic The Hedgehog 2 (World) (Rev B) (Sonic Compilation ~ Sonic Classics)"
 	users 2
 	rom ( crc F23AD4B3 )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-18)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 5)"
 	users 2
 	rom ( crc 8FDA5CC5 )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-21)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 6)"
 	users 2
 	rom ( crc 066B9A89 )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-22)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 7)"
 	users 2
 	rom ( crc CB036E6C )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-24) (Alt)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 8)"
 	users 2
 	rom ( crc DC7BE12C )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-24)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 9)"
 	users 2
 	rom ( crc 6089FADD )
 )
@@ -11326,19 +11170,19 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (September, 1992)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 10)"
 	users 2
 	rom ( crc 5667ECED )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 3)"
 	users 2
 	rom ( crc 370B3CE5 )
 )
 
 game (
-	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)"
+	comment "Sonic The Hedgehog 2 (World) (Beta 4)"
 	users 2
 	rom ( crc 0BE8AFA7 )
 )
@@ -11350,13 +11194,13 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)"
+	comment "Sonic The Hedgehog 3 (USA) (Sega Channel)"
 	users 2
 	rom ( crc EBC0AF69 )
 )
 
 game (
-	comment "Sonic The Hedgehog 3 (Unknown) (Beta) (1993-11-03)"
+	comment "Sonic The Hedgehog 3 (USA) (Beta)"
 	users 2
 	rom ( crc E4A16A49 )
 )
@@ -11368,13 +11212,13 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-05-17)"
+	comment "Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 2)"
 	users 2
 	rom ( crc 766C4B81 )
 )
 
 game (
-	comment "Sonic The Hedgehog 3 (Japan, Korea) (Ja)"
+	comment "Sonic The Hedgehog 3 (Japan, Korea) (En)"
 	users 2
 	rom ( crc F4951D1F )
 )
@@ -11386,7 +11230,7 @@ game (
 )
 
 game (
-	comment "Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-04-08)"
+	comment "Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 1)"
 	users 2
 	rom ( crc 59D23DF5 )
 )
@@ -11404,7 +11248,7 @@ game (
 )
 
 game (
-	comment "Sorcer Kingdom (Japan) (Beta) (1991-11-08)"
+	comment "Sorcer Kingdom (Japan) (Beta)"
 	users 1
 	rom ( crc 3DBC3130 )
 )
@@ -11428,13 +11272,13 @@ game (
 )
 
 game (
-	comment "Soul Blade (Taiwan) (En) (Unl)"
+	comment "Soul Blade (Taiwan) (En)"
 	users 2
 	rom ( crc F26F88D1 )
 )
 
 game (
-	comment "Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl)"
+	comment "Samurai Shodown vs Soul Edge (Taiwan) (En)"
 	users 2
 	rom ( crc B11BD611 )
 )
@@ -11446,7 +11290,7 @@ game (
 )
 
 game (
-	comment "Space Harrier II (Japan) (Launch Cart)"
+	comment "Space Harrier II (Japan) (En) (Launch Cart)"
 	users 1
 	rom ( crc EDC0FB28 )
 )
@@ -11464,7 +11308,7 @@ game (
 )
 
 game (
-	comment "Space Invaders 90 (Japan)"
+	comment "Space Invaders 90 (Japan) (En)"
 	users 1
 	rom ( crc 22ADBD66 )
 )
@@ -11476,7 +11320,7 @@ game (
 )
 
 game (
-	comment "Speedball 2 (Japan)"
+	comment "Speedball 2 (Japan) (En)"
 	users 2
 	rom ( crc F5442334 )
 )
@@ -11494,13 +11338,13 @@ game (
 )
 
 game (
-	comment "Sparkster - Rocket Knight Adventures 2 (Japan)"
+	comment "Sparkster - Rocket Knight Adventures 2 (Japan) (En)"
 	users 1
 	rom ( crc 914EC662 )
 )
 
 game (
-	comment "Speedball 2 - Brutal Deluxe (USA) (Beta) (1991-06-07)"
+	comment "Speedball 2 - Brutal Deluxe (USA) (Beta)"
 	users 2
 	rom ( crc 13C803B7 )
 )
@@ -11512,49 +11356,49 @@ game (
 )
 
 game (
-	comment "Spider-Man (USA, Europe) (Acclaim) (Beta) (1994-12-12)"
+	comment "Spider-Man (USA, Europe) (Beta 2)"
 	users 1
 	rom ( crc B88A710D )
 )
 
 game (
-	comment "Spider-Man (World) (Sega)"
+	comment "Spider-Man vs. The Kingpin (World)"
 	users 1
 	rom ( crc 70AB775F )
 )
 
 game (
-	comment "Spider-Man (USA, Europe) (Acclaim)"
+	comment "Spider-Man (USA, Europe)"
 	users 1
 	rom ( crc 11B5B590 )
 )
 
 game (
-	comment "Spider-Man . Venom - Maximum Carnage (World)"
+	comment "Spider-Man - Venom - Maximum Carnage (World)"
 	users 1
 	rom ( crc 8FA0B6E6 )
 )
 
 game (
-	comment "Spider-Man (USA, Europe) (Acclaim) (Beta) (August, 1994)"
+	comment "Spider-Man (USA, Europe) (Beta 1)"
 	users 1
 	rom ( crc 83E1FE76 )
 )
 
 game (
-	comment "Spider-Man X-Men - Arcade's Revenge (Europe)"
+	comment "Spider-Man - X-Men - Arcade's Revenge (Europe) (Rev 1)"
 	users 1
 	rom ( crc E7014092 )
 )
 
 game (
-	comment "Spider-Man X-Men - Arcade's Revenge (USA, Europe)"
+	comment "Spider-Man - X-Men - Arcade's Revenge (USA, Europe)"
 	users 1
 	rom ( crc 4A4414EA )
 )
 
 game (
-	comment "Spiritual Warfare (USA) (Unl)"
+	comment "Spiritual Warfare (USA)"
 	users 1
 	rom ( crc D9A364FF )
 )
@@ -11584,7 +11428,7 @@ game (
 )
 
 game (
-	comment "Splatterhouse 2 (USA) (1992-03-02) (Sega Channel)"
+	comment "Splatterhouse 2 (USA) (Sega Channel)"
 	users 1
 	rom ( crc ED64CE8C )
 )
@@ -11608,7 +11452,7 @@ game (
 )
 
 game (
-	comment "Splatterhouse Part 3 (Japan, Korea) (Ja)"
+	comment "Splatterhouse Part 3 (Japan, Korea) (En)"
 	users 1
 	rom ( crc 31B83D22 )
 )
@@ -11632,13 +11476,13 @@ game (
 )
 
 game (
-	comment "Squirrel King (Taiwan) (En) (Unl)"
+	comment "Squirrel King (Taiwan) (En)"
 	users 2
 	rom ( crc B8261FF5 )
 )
 
 game (
-	comment "Star Control (USA, Europe) (Unl)"
+	comment "Star Control (USA, Europe)"
 	users 2
 	rom ( crc 8E2BCEAF )
 )
@@ -11656,13 +11500,13 @@ game (
 )
 
 game (
-	comment "Star Odyssey (World) (Unl)"
+	comment "Star Odyssey (USA) (Super Fighter Team)"
 	users 1
 	rom ( crc 0B670A3E )
 )
 
 game (
-	comment "Star Odyssey (USA) (Beta) (1992-01-16)"
+	comment "Star Odyssey (USA) (Proto)"
 	users 1
 	rom ( crc FBBD7EF4 )
 )
@@ -11680,37 +11524,37 @@ game (
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1993-12-28)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 1)"
 	users 1
 	rom ( crc 3BA670F9 )
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1993-12-29)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 2)"
 	users 1
 	rom ( crc 316BBC43 )
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1994-01-03)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 3)"
 	users 1
 	rom ( crc CAC86B68 )
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1994-01-10)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 4)"
 	users 1
 	rom ( crc D138CA3E )
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1994-01-18)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 5)"
 	users 1
 	rom ( crc D8DAB97A )
 )
 
 game (
-	comment "Star Trek - The Next Generation (USA) (Beta) (1994-01-25)"
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Beta 6)"
 	users 1
 	rom ( crc 63F29E6F )
 )
@@ -11722,7 +11566,7 @@ game (
 )
 
 game (
-	comment "Star Wars (USA) (Proto) (1993-01-25)"
+	comment "Star Wars (USA) (Proto)"
 	users 1
 	rom ( crc E1C32FEC )
 )
@@ -11770,7 +11614,7 @@ game (
 )
 
 game (
-	comment "Steel Empire (USA) (1992-03-13) (Sega Channel)"
+	comment "Steel Empire (USA) (Sega Channel)"
 	users 1
 	rom ( crc 097F6440 )
 )
@@ -11782,7 +11626,7 @@ game (
 )
 
 game (
-	comment "Steel Talons (Japan, Korea) (Ja)"
+	comment "Steel Talons (Japan, Korea) (En,Ja)"
 	users 1
 	rom ( crc 04F388E6 )
 )
@@ -11796,7 +11640,7 @@ game (
 game (
 	comment "Steel Talons (USA, Europe) (Beta 1)"
 	users 1
-	rom ( crc 6713ABEE )
+	rom ( crc 163D3B4B )
 )
 
 game (
@@ -11812,7 +11656,7 @@ game (
 )
 
 game (
-	comment "Stormlord (Japan)"
+	comment "Stormlord (Japan) (En)"
 	users 1
 	rom ( crc 0B440FED )
 )
@@ -11824,7 +11668,7 @@ game (
 )
 
 game (
-	comment "Story of Thor, The (Europe) (Beta) (April, 1994)"
+	comment "Story of Thor, The (Europe) (Beta 1)"
 	users 1
 	rom ( crc BFC11649 )
 )
@@ -11842,31 +11686,31 @@ game (
 )
 
 game (
-	comment "Story of Thor, The (Europe) (Beta) (1994-10-04)"
+	comment "Story of Thor, The (Europe) (Beta 2)"
 	users 1
 	rom ( crc 9E486F91 )
 )
 
 game (
-	comment "Story of Thor, The (Europe) (Mega Drive Mini)"
+	comment "Story of Thor, The (Europe) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 8CD9053F )
 )
 
 game (
-	comment "Story of Thor, The (Europe) (Beta) (1994-10-17)"
+	comment "Story of Thor, The (Europe) (Beta 3)"
 	users 1
 	rom ( crc AA43D34A )
 )
 
 game (
-	comment "Story of Thor, The (Germany) (Mega Drive Mini)"
+	comment "Story of Thor, The (Germany) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc 244D768B )
 )
 
 game (
-	comment "Story of Thor, The (Spain) (Mega Drive Mini)"
+	comment "Story of Thor, The (Spain) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc DBF84CA5 )
 )
@@ -11878,13 +11722,13 @@ game (
 )
 
 game (
-	comment "Street Fighter II' - Champion Edition (Europe) (Beta) (1993-03-25)"
+	comment "Street Fighter II' - Champion Edition (Europe) (Beta)"
 	users 2
 	rom ( crc 7BB62DB2 )
 )
 
 game (
-	comment "Street Fighter II' - Champion Edition (USA) (Beta) (1993-07-30)"
+	comment "Street Fighter II' - Champion Edition (USA) (Beta)"
 	users 2
 	rom ( crc 7FFA8B23 )
 )
@@ -11926,7 +11770,7 @@ game (
 )
 
 game (
-	comment "Street Racer (Europe) (Beta) (1995-03-21)"
+	comment "Street Racer (Europe) (Sample)"
 	users 4
 	rom ( crc A439A96E )
 )
@@ -11944,19 +11788,19 @@ game (
 )
 
 game (
-	comment "Street Smart (Japan, USA) (En) (Beta) (1990-06-29)"
+	comment "Street Smart (Japan, USA) (En) (Beta)"
 	users 2
 	rom ( crc D1DE6A2E )
 )
 
 game (
-	comment "Streets of Rage (World)"
+	comment "Streets of Rage (World) (En,Ja)"
 	users 2
 	rom ( crc BFF227C6 )
 )
 
 game (
-	comment "Streets of Rage (World) (Rev A)"
+	comment "Streets of Rage (World) (En,Ja) (Rev A)"
 	users 2
 	rom ( crc 4052E845 )
 )
@@ -11968,91 +11812,91 @@ game (
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Beta) (1994-03-08)"
+	comment "Streets of Rage 3 (USA) (Beta 1)"
 	users 2
 	rom ( crc EA50B551 )
 )
 
 game (
-	comment "Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)"
+	comment "Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc C48B3698 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Beta) (1994-03-17)"
+	comment "Streets of Rage 3 (USA) (Beta 2)"
 	users 2
 	rom ( crc 39AD962B )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Beta) (1994-03-18)"
+	comment "Streets of Rage 3 (USA) (Beta 3)"
 	users 2
 	rom ( crc 60142484 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-01)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 2)"
 	users 2
 	rom ( crc 797E75B7 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-04)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 3)"
 	users 2
 	rom ( crc 6B968F13 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-08)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 4)"
 	users 2
 	rom ( crc D4BA76C2 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-12)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 6)"
 	users 2
 	rom ( crc 3F52CB72 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-11)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 5)"
 	users 2
 	rom ( crc FA5E5A82 )
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-13)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 7)"
 	users 2
 	rom ( crc 6B675807 )
 )
 
 game (
-	comment "Streets of Rage 3 (Europe) (Beta) (1994-04-12)"
+	comment "Streets of Rage 3 (Europe) (Beta 1)"
 	users 2
 	rom ( crc A17CE5AB )
 )
 
 game (
-	comment "Streets of Rage 3 (Europe) (Beta) (1994-04-13)"
+	comment "Streets of Rage 3 (Europe) (Beta 2)"
 	users 2
 	rom ( crc 164E42AE )
 )
 
 game (
-	comment "Streets of Rage 3 (Europe) (Beta) (1994-04-15)"
+	comment "Streets of Rage 3 (Europe) (Beta 3)"
 	users 2
 	rom ( crc C64F1E6B )
 )
 
 game (
-	comment "Streets of Rage 3 (Europe) (Beta) (1994-04-20)"
+	comment "Streets of Rage 3 (Europe) (Beta 4)"
 	users 2
 	rom ( crc 6AE4BD8E )
 )
 
 game (
-	comment "Streets of Rage 3 (Europe) (Beta) (1994-04-25)"
+	comment "Streets of Rage 3 (Europe) (Beta 5)"
 	users 2
 	rom ( crc 7033878A )
 )
@@ -12076,7 +11920,7 @@ game (
 )
 
 game (
-	comment "Streets of Rage 3 (USA) (Rev A) (Beta) (1994-03-28)"
+	comment "Streets of Rage 3 (USA) (Rev A) (Beta 1)"
 	users 2
 	rom ( crc 8757F797 )
 )
@@ -12106,7 +11950,7 @@ game (
 )
 
 game (
-	comment "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)"
+	comment "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc F38C0ED3 )
 )
@@ -12154,31 +11998,31 @@ game (
 )
 
 game (
-	comment "Sub-Terrania (USA) (Beta 2) (October, 1993)"
+	comment "Sub-Terrania (USA) (Beta 2)"
 	users 1
 	rom ( crc 3A1022D1 )
 )
 
 game (
-	comment "Sub-Terrania (USA) (Beta 1) (July, 1993)"
+	comment "Sub-Terrania (USA) (Beta 1)"
 	users 1
 	rom ( crc 9C13D25C )
 )
 
 game (
-	comment "Sub-Terrania (Asia) (En) (Beta 4) (1994-02-02)"
+	comment "Sub-Terrania (Asia) (En) (Beta)"
 	users 1
 	rom ( crc B368E394 )
 )
 
 game (
-	comment "Sub-Terrania (USA) (Beta 3) (October, 1993)"
+	comment "Sub-Terrania (USA) (Beta 3)"
 	users 1
 	rom ( crc 707FA63C )
 )
 
 game (
-	comment "Summer Challenge (USA, Europe) (Unl)"
+	comment "Summer Challenge (USA, Europe)"
 	users 8
 	rom ( crc D7D53DC1 )
 )
@@ -12196,7 +12040,7 @@ game (
 )
 
 game (
-	comment "Super Airwolf (Japan)"
+	comment "Super Airwolf (Japan) (En)"
 	users 1
 	rom ( crc FA451982 )
 )
@@ -12214,7 +12058,7 @@ game (
 )
 
 game (
-	comment "Super Bubble Bobble (Taiwan) (En) (Unl)"
+	comment "Super Bubble Bobble (Taiwan) (En)"
 	users 2
 	rom ( crc 4820A161 )
 )
@@ -12232,7 +12076,7 @@ game (
 )
 
 game (
-	comment "Super Donkey Kong 99 (Taiwan) (En) (Unl)"
+	comment "Super Donkey Kong 99 (Taiwan) (En)"
 	users 1
 	rom ( crc 8E7D9177 )
 )
@@ -12244,13 +12088,13 @@ game (
 )
 
 game (
-	comment "Super Fantasy Zone (Japan)"
+	comment "Super Fantasy Zone (Japan) (En,Ja)"
 	users 1
 	rom ( crc 767780D7 )
 )
 
 game (
-	comment "Super Fantasy Zone (USA) (Ja) (Genesis Mini)"
+	comment "Super Fantasy Zone (USA) (En,Ja) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc D97D913D )
 )
@@ -12274,13 +12118,13 @@ game (
 )
 
 game (
-	comment "Super Hang-On (World) (Sega Smash Pack 2)"
+	comment "Super Hang-On (USA) (En,Ja) (Sega Smash Pack 2)"
 	users 1
 	rom ( crc 7E892199 )
 )
 
 game (
-	comment "Super Hang-On (World) (En,Ja) (Beta) (1989-08-18) (Sega Channel)"
+	comment "Super Hang-On (Japan, USA) (En,Ja) (Beta) (Sega Channel)"
 	users 1
 	rom ( crc B6EAE5C4 )
 )
@@ -12310,7 +12154,7 @@ game (
 )
 
 game (
-	comment "Super Hydlide (USA) (Beta) (1989-10-16)"
+	comment "Super Hydlide (USA) (Beta)"
 	users 1
 	rom ( crc 52E717AC )
 )
@@ -12322,7 +12166,7 @@ game (
 )
 
 game (
-	comment "Super King Kong 99 (Taiwan) (En) (Unl)"
+	comment "Super King Kong 99 (Taiwan) (En)"
 	users 1
 	rom ( crc 413DFEE2 )
 )
@@ -12340,7 +12184,7 @@ game (
 )
 
 game (
-	comment "Super Monaco GP (USA) (En,Ja)"
+	comment "Super Monaco GP (USA) (En,Ja) (Sega Classic)"
 	users 1
 	rom ( crc 725018EE )
 )
@@ -12364,7 +12208,7 @@ game (
 )
 
 game (
-	comment "Super Off Road (USA, Europe) (Unl)"
+	comment "Super Off Road (USA, Europe)"
 	users 2
 	rom ( crc 8F2FDADA )
 )
@@ -12376,7 +12220,7 @@ game (
 )
 
 game (
-	comment "Super Real Basketball (Japan, Korea) (Ja)"
+	comment "Super Real Basketball (Japan, Korea) (En)"
 	users 2
 	rom ( crc 4346E11A )
 )
@@ -12388,7 +12232,7 @@ game (
 )
 
 game (
-	comment "Super Shinobi II, The (Japan) (Beta 2)"
+	comment "Super Shinobi II, The (Japan) (En,Ja) (Beta 2)"
 	users 1
 	rom ( crc C47E8AEA )
 )
@@ -12400,19 +12244,19 @@ game (
 )
 
 game (
-	comment "Super Shinobi, The (Japan)"
+	comment "Revenge of Shinobi, The (Japan, USA) (En)"
 	users 1
 	rom ( crc 5C7E5EA6 )
 )
 
 game (
-	comment "Super Shinobi, The (Japan) (En) (Beta) (1989-xx-xx) (Sega Smash Pack)"
+	comment "Super Shinobi, The (Japan) (En) (Beta) (Sega Smash Pack)"
 	users 1
 	rom ( crc FA1B8AEB )
 )
 
 game (
-	comment "Super Shinobi, The (Japan) (En) (Beta) (1989-08-21) (Sega Channel)"
+	comment "Super Shinobi, The (Japan) (En) (Beta) (Sega Channel)"
 	users 1
 	rom ( crc 370253D8 )
 )
@@ -12424,7 +12268,7 @@ game (
 )
 
 game (
-	comment "Super Skidmarks (Europe) (Beta) (1995-09-22)"
+	comment "Super Skidmarks (Europe) (Beta) (J-Cart)"
 	users 4
 	rom ( crc 720CC7CB )
 )
@@ -12472,7 +12316,7 @@ game (
 )
 
 game (
-	comment "Super Thunder Blade (Japan) (Launch Cart)"
+	comment "Super Thunder Blade (Japan) (En) (Launch Cart)"
 	users 1
 	rom ( crc 8BD77836 )
 )
@@ -12526,7 +12370,7 @@ game (
 )
 
 game (
-	comment "Sword of Sodan (Japan)"
+	comment "Sword of Sodan (Japan) (En)"
 	users 1
 	rom ( crc 58EDB3F3 )
 )
@@ -12544,7 +12388,7 @@ game (
 )
 
 game (
-	comment "Sword of Vermilion (USA, Europe) (1993-11-18) (Sega Channel)"
+	comment "Sword of Vermilion (USA, Europe) (Sega Channel)"
 	users 1
 	rom ( crc F38C50BF )
 )
@@ -12586,7 +12430,7 @@ game (
 )
 
 game (
-	comment "T2 - The Arcade Game (USA) (Beta) (August, 1992)"
+	comment "T2 - The Arcade Game (USA) (Beta)"
 	users 2
 	rom ( crc 94255703 )
 )
@@ -12598,7 +12442,7 @@ game (
 )
 
 game (
-	comment "T2 - The Arcade Game (Japan)"
+	comment "T2 - The Arcade Game (Japan) (En)"
 	users 2
 	rom ( crc 5E6FE52C )
 )
@@ -12622,67 +12466,49 @@ game (
 )
 
 game (
-	comment "Tanglewood (World) (GOG) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 1A91C419 )
-)
-
-game (
-	comment "Tanglewood (World) (Aftermarket) (Unl)"
-	users 1
-	rom ( crc 2B914B3B )
-)
-
-game (
-	comment "Tanglewood (World) (v0.8.01) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 5)"
 	users 1
 	rom ( crc 61211912 )
 )
 
 game (
-	comment "Tanglewood (World) (v0.9.37) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 6)"
 	users 1
 	rom ( crc 9CC94381 )
 )
 
 game (
-	comment "Tanglewood (World) (v0.1.04) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 4)"
 	users 1
 	rom ( crc DD537516 )
 )
 
 game (
-	comment "Tanglewood (World) (v0.0.15) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 3)"
 	users 1
 	rom ( crc 5E0EFB0E )
 )
 
 game (
-	comment "Tanglewood (World) (v0.0.14) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 2)"
 	users 1
 	rom ( crc D23BB250 )
 )
 
 game (
-	comment "Tanglewood (World) (v0.0.11) (Demo) (Aftermarket) (Unl)"
+	comment "Tanglewood (World) (Demo 1)"
 	users 1
 	rom ( crc C6504722 )
 )
 
 game (
-	comment "Tanzer (World) (Aftermarket) (Unl)"
+	comment "Tanzer (World) (Digital)"
 	users 1
-	rom ( crc 237299A8 )
+	rom ( crc 33E80D0D )
 )
 
 game (
-	comment "Tanzer (World) (Demo) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc F8A31C40 )
-)
-
-game (
-	comment "Target Earth (USA) (Beta) (1990-02-16)"
+	comment "Target Earth (USA) (Beta)"
 	users 1
 	rom ( crc EBAA609D )
 )
@@ -12690,11 +12516,11 @@ game (
 game (
 	comment "Target Earth (USA, Europe) (Switch Online)"
 	users 1
-	rom ( crc F1CDCDCD )
+	rom ( crc 1D822C3A )
 )
 
 game (
-	comment "Task Force Harrier EX (Japan)"
+	comment "Task Force Harrier EX (Japan) (En)"
 	users 1
 	rom ( crc E9A54EED )
 )
@@ -12718,7 +12544,7 @@ game (
 )
 
 game (
-	comment "Tatsujin ~ Truxton (World)"
+	comment "Truxton (World)"
 	users 1
 	rom ( crc 5BD0882D )
 )
@@ -12772,13 +12598,13 @@ game (
 )
 
 game (
-	comment "Technocop (USA) (Beta) (September, 1990)"
+	comment "Technocop (USA) (Beta 2)"
 	users 1
 	rom ( crc 059AC8FB )
 )
 
 game (
-	comment "Technocop (USA) (Beta) (1990-09-12)"
+	comment "Technocop (USA) (Beta 1)"
 	users 1
 	rom ( crc F06ED8CA )
 )
@@ -12790,7 +12616,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl (Japan)"
+	comment "Tecmo Super Bowl (Japan) (En)"
 	users 2
 	rom ( crc 90C6E20C )
 )
@@ -12808,7 +12634,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super Bowl II - Special Edition (Japan)"
+	comment "Tecmo Super Bowl II - Special Edition (Japan) (En)"
 	users 2
 	rom ( crc 32FB633D )
 )
@@ -12832,7 +12658,7 @@ game (
 )
 
 game (
-	comment "Tecmo Super NBA Basketball (Japan)"
+	comment "Tecmo Super NBA Basketball (Japan) (En)"
 	users 2
 	rom ( crc 79F33EB6 )
 )
@@ -12850,7 +12676,7 @@ game (
 )
 
 game (
-	comment "Tecmo World Cup '92 (Japan)"
+	comment "Tecmo World Cup '92 (Japan) (En)"
 	users 2
 	rom ( crc 5E93C8B0 )
 )
@@ -12862,7 +12688,7 @@ game (
 )
 
 game (
-	comment "Teddy Boy Blues (Japan) (SegaNet)"
+	comment "Teddy Boy Blues (Japan) (Sega Game Toshokan)"
 	users 1
 	rom ( crc 733D2EB3 )
 )
@@ -12874,7 +12700,7 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl)"
+	comment "Teenage Mutant Ninja Turtles - The Legend Returns (Russia)"
 	users 1
 	rom ( crc 7FB1356E )
 )
@@ -12910,7 +12736,7 @@ game (
 )
 
 game (
-	comment "Tekken Special (Taiwan) (En) (Unl)"
+	comment "Tekken Special (Taiwan) (En)"
 	users 2
 	rom ( crc 010F6369 )
 )
@@ -12928,13 +12754,13 @@ game (
 )
 
 game (
-	comment "Telethugs (World) (Aftermarket) (Homebrew)"
+	comment "Telethugs (World)"
 	users 2
 	rom ( crc 742DA49F )
 )
 
 game (
-	comment "Tenchi o Kurau III - Sangoku Gaiden (Taiwan) (Unl)"
+	comment "Tenchi o Kurau III - Sangoku Gaiden (Taiwan)"
 	users 2
 	rom ( crc E833BC6E )
 )
@@ -12952,31 +12778,31 @@ game (
 )
 
 game (
-	comment "Terminator, The (USA) (Beta) (1992-04-14)"
+	comment "Terminator, The (USA) (Beta)"
 	users 1
 	rom ( crc 7350A152 )
 )
 
 game (
-	comment "Tetris (Japan)"
+	comment "Tetris (Japan) (En) (Mega 6)"
 	users 2
 	rom ( crc 4CE90DB0 )
 )
 
 game (
-	comment "Test Drive II - The Duel (USA, Europe) (Unl)"
+	comment "Test Drive II - The Duel (USA, Europe)"
 	users 1
 	rom ( crc F9BDF8C5 )
 )
 
 game (
-	comment "Tetris (USA) (Genesis Mini)"
+	comment "Tetris (USA) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc C8DD8841 )
 )
 
 game (
-	comment "Tetris (Japan) (Mega Drive Mini)"
+	comment "Tetris (Japan) (Mega Drive Mini, Genesis Mini)"
 	users 2
 	rom ( crc B6FB7A7D )
 )
@@ -13006,19 +12832,19 @@ game (
 )
 
 game (
-	comment "Thunder Force II MD (Japan)"
+	comment "Thunder Force II MD (Japan) (En)"
 	users 1
 	rom ( crc E75EC3E0 )
 )
 
 game (
-	comment "Thunder Force III (Japan, USA) (En) (Beta) (1990-08-01)"
+	comment "Thunder Force III (Japan, USA) (En) (Rev 1) (Beta)"
 	users 1
 	rom ( crc 2B5C2063 )
 )
 
 game (
-	comment "Thunder Force IV (World) (Sega Ages)"
+	comment "Thunder Force IV (Japan) (En) (Sega Ages)"
 	users 1
 	rom ( crc 311D9D4A )
 )
@@ -13030,7 +12856,7 @@ game (
 )
 
 game (
-	comment "Thunder Force IV (Japan)"
+	comment "Thunder Force IV (Japan) (En)"
 	users 1
 	rom ( crc 8D606480 )
 )
@@ -13060,7 +12886,7 @@ game (
 )
 
 game (
-	comment "Time Dominator 1st (Japan, Korea) (Ja)"
+	comment "Time Dominator 1st (Japan, Korea) (En)"
 	users 1
 	rom ( crc 7EBA7A5C )
 )
@@ -13078,13 +12904,13 @@ game (
 )
 
 game (
-	comment "Tinhead (USA) (Ballistic) (April, 1994)"
+	comment "Tinhead (USA)"
 	users 1
 	rom ( crc D6724B84 )
 )
 
 game (
-	comment "Tinhead (USA) (Spectrum HoloByte) (October, 1995)"
+	comment "Tinhead (USA) (Rev 1)"
 	users 1
 	rom ( crc ADA75F2F )
 )
@@ -13132,7 +12958,7 @@ game (
 )
 
 game (
-	comment "TNN Bass Tournament of Champions (USA)"
+	comment "TNN Bass Tournament of Champions (USA) (Rev 1)"
 	users 1
 	rom ( crc C83FFA1B )
 )
@@ -13180,13 +13006,13 @@ game (
 )
 
 game (
-	comment "ToeJam & Earl in Panic on Funkotron (USA) (Beta) (August, 1993)"
+	comment "ToeJam & Earl in Panic on Funkotron (USA) (Beta)"
 	users 2
 	rom ( crc C6A1A8DC )
 )
 
 game (
-	comment "ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)"
+	comment "ToeJam & Earl in Panic on Funkotron (USA) (Sega Channel)"
 	users 2
 	rom ( crc D9DFBB5C )
 )
@@ -13210,7 +13036,7 @@ game (
 )
 
 game (
-	comment "Tom and Jerry - Frantic Antics (Japan) (En)"
+	comment "Tom and Jerry (Japan) (En)"
 	users 2
 	rom ( crc F800C814 )
 )
@@ -13234,25 +13060,25 @@ game (
 )
 
 game (
-	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-04-26)"
+	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta 2)"
 	users 2
 	rom ( crc 54C77D3E )
 )
 
 game (
-	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-04-27)"
+	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta 3)"
 	users 2
 	rom ( crc 16000453 )
 )
 
 game (
-	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-05-02)"
+	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta 4)"
 	users 2
 	rom ( crc 8954DEE9 )
 )
 
 game (
-	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta) (March, 1993)"
+	comment "Tom Mason's Dinosaurs for Hire (USA) (Beta 1)"
 	users 2
 	rom ( crc 3A538D98 )
 )
@@ -13282,7 +13108,7 @@ game (
 )
 
 game (
-	comment "Top Pro Golf (Japan)"
+	comment "Top Pro Golf (Japan) (En)"
 	users 2
 	rom ( crc 62BAD606 )
 )
@@ -13294,7 +13120,7 @@ game (
 )
 
 game (
-	comment "Top Pro Golf 2 (Japan)"
+	comment "Top Pro Golf 2 (Japan) (En)"
 	users 4
 	rom ( crc B8CE98B3 )
 )
@@ -13306,7 +13132,7 @@ game (
 )
 
 game (
-	comment "Tougiou King Colossus (Japan)"
+	comment "Tougi Ou - King Colossus (Japan)"
 	users 1
 	rom ( crc FFE7B3C7 )
 )
@@ -13330,12 +13156,6 @@ game (
 )
 
 game (
-	comment "Toy Story (USA) (Sample)"
-	users 1
-	rom ( crc 9321BEC1 )
-)
-
-game (
 	comment "Toys - Let the Toy Wars begin! (USA)"
 	users 1
 	rom ( crc CBC9951B )
@@ -13354,7 +13174,7 @@ game (
 )
 
 game (
-	comment "Traysia (USA) (Beta) (1992-01-22)"
+	comment "Traysia (USA) (Beta)"
 	users 1
 	rom ( crc DAA83CB5 )
 )
@@ -13362,13 +13182,13 @@ game (
 game (
 	comment "Triple Play - Gold Edition (USA)"
 	users 4
-	rom ( crc C25FF3F2 )
+	rom ( crc 5396796F )
 )
 
 game (
 	comment "Triple Play 96 (USA)"
 	users 4
-	rom ( crc 565E2F2E )
+	rom ( crc 9E5BE31B )
 )
 
 game (
@@ -13378,7 +13198,7 @@ game (
 )
 
 game (
-	comment "Trouble Shooter (USA) (Beta) (1991-09-12)"
+	comment "Trouble Shooter (USA) (Beta)"
 	users 1
 	rom ( crc 4AB3033C )
 )
@@ -13390,13 +13210,13 @@ game (
 )
 
 game (
-	comment "Truco '96 (Argentina) (Unl)"
+	comment "Truco '96 (Argentina)"
 	users 1
-	rom ( crc 8E6E825E )
+	rom ( crc CDDBECFC )
 )
 
 game (
-	comment "Tun Shi Tian Di 3 - San Guo Wai Chuan (Taiwan) (Unl)"
+	comment "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter (Taiwan)"
 	users 2
 	rom ( crc 6F98247D )
 )
@@ -13414,13 +13234,13 @@ game (
 )
 
 game (
-	comment "Turbo OutRun (Japan, Europe) (En) (Beta) (1991-12-09)"
+	comment "Turbo OutRun (Japan, Europe) (En) (Beta)"
 	users 1
 	rom ( crc 2A7F2B36 )
 )
 
 game (
-	comment "Turrican (USA, Europe) (Unl)"
+	comment "Turrican (USA, Europe)"
 	users 1
 	rom ( crc 634D67A6 )
 )
@@ -13438,19 +13258,19 @@ game (
 )
 
 game (
-	comment "Twisted Flipper (USA) (Beta 1)"
+	comment "Twisted Flipper (USA, Europe) (Beta 1)"
 	users 4
 	rom ( crc 6DD47554 )
 )
 
 game (
-	comment "Twisted Flipper (USA) (Beta 2)"
+	comment "Twisted Flipper (USA, Europe) (Beta 2)"
 	users 4
 	rom ( crc D43D5145 )
 )
 
 game (
-	comment "Two Crude Dudes (USA) (Beta) (1991-11-24)"
+	comment "Two Crude Dudes (USA) (Beta)"
 	users 2
 	rom ( crc 4BA361A7 )
 )
@@ -13486,7 +13306,7 @@ game (
 )
 
 game (
-	comment "Uchuu Senkan Gomora (Japan)"
+	comment "Uchuu Senkan Gomora (Japan) (En)"
 	users 2
 	rom ( crc C511E8D2 )
 )
@@ -13522,25 +13342,25 @@ game (
 )
 
 game (
-	comment "Ultracore (Europe) (Aftermarket) (Unl)"
+	comment "Ultracore (Europe) (Strictly Limited Games)"
 	users 1
 	rom ( crc 77D3D240 )
 )
 
 game (
-	comment "Ultracore (Japan) (En) (Aftermarket) (Unl)"
+	comment "Ultracore (Japan) (En) (Columbus Circle)"
 	users 1
 	rom ( crc AE7FDA5A )
 )
 
 game (
-	comment "Ultracore (USA, Europe) (Switch, PS Vita) (Aftermarket) (Unl)"
+	comment "Ultracore (USA, Europe) (Switch, PS Vita)"
 	users 1
 	rom ( crc B270C265 )
 )
 
 game (
-	comment "Ultracore (USA) (Aftermarket) (Unl)"
+	comment "Ultracore (USA) (Strictly Limited Games)"
 	users 1
 	rom ( crc 4852C1C0 )
 )
@@ -13564,7 +13384,7 @@ game (
 )
 
 game (
-	comment "Universal Soldier (USA, Europe) (Unl)"
+	comment "Universal Soldier (USA, Europe)"
 	users 1
 	rom ( crc 352EBD49 )
 )
@@ -13582,25 +13402,13 @@ game (
 )
 
 game (
-	comment "UWOL - Quest for Money (World) (v1.2) (Aftermarket) (Homebrew)"
+	comment "UWOL - Quest for Money (World) (v1.2)"
 	users 1
 	rom ( crc 6FA88172 )
 )
 
 game (
-	comment "UWOL - Quest for Money (World) (v1.0) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 6FA88172 )
-)
-
-game (
-	comment "UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 6FA88172 )
-)
-
-game (
-	comment "V-V (Japan)"
+	comment "V-V (Japan) (En)"
 	users 1
 	rom ( crc AD9D0EC0 )
 )
@@ -13612,7 +13420,7 @@ game (
 )
 
 game (
-	comment "Valis (USA) (Beta) (1991-10-25)"
+	comment "Valis (USA) (Beta) (Sega Channel)"
 	users 1
 	rom ( crc 74A133A8 )
 )
@@ -13624,7 +13432,7 @@ game (
 )
 
 game (
-	comment "Vampire Killer (Japan) (Castlevania Anniversary Collection)"
+	comment "Vampire Killer (Japan) (En) (Castlevania Anniversary Collection)"
 	users 1
 	rom ( crc 238A9B8F )
 )
@@ -13636,13 +13444,13 @@ game (
 )
 
 game (
-	comment "Vampire Killer (Japan) (Mega Drive Mini)"
+	comment "Vampire Killer (Japan) (En) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc DB03961B )
 )
 
 game (
-	comment "Vampire Killer (Japan)"
+	comment "Vampire Killer (Japan) (En)"
 	users 1
 	rom ( crc 91B57D2B )
 )
@@ -13654,7 +13462,7 @@ game (
 )
 
 game (
-	comment "Vapor Trail (USA) (Beta) (1991-05-26)"
+	comment "Vapor Trail (USA) (Beta)"
 	users 2
 	rom ( crc 2634BDBD )
 )
@@ -13666,7 +13474,7 @@ game (
 )
 
 game (
-	comment "Vectorman (USA) (Genesis Mini)"
+	comment "Vectorman (USA) (Mega Drive Mini, Genesis Mini)"
 	users 1
 	rom ( crc B0F8C546 )
 )
@@ -13684,13 +13492,13 @@ game (
 )
 
 game (
-	comment "Vectorman (USA, Europe) (Sega Smash Pack 2)"
+	comment "Vectorman (USA) (Sega Channel)"
 	users 1
 	rom ( crc 5C680397 )
 )
 
 game (
-	comment "Vectorman (USA, Europe) (Beta 3) (1995-07-24)"
+	comment "Vectorman (USA, Europe) (Beta 3)"
 	users 1
 	rom ( crc 0145738B )
 )
@@ -13702,43 +13510,43 @@ game (
 )
 
 game (
-	comment "Vectorman 2 (USA) (Sample) (1996-08-28)"
+	comment "Vectorman 2 (USA) (Sample)"
 	users 1
 	rom ( crc B9C79DC9 )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (August, 1995)"
+	comment "Vectorman 2 (USA) (Beta 1)"
 	users 1
 	rom ( crc ADA2B0EF )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (1996-08-15)"
+	comment "Vectorman 2 (USA) (Beta 2)"
 	users 1
 	rom ( crc 998B087C )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (1996-08-16)"
+	comment "Vectorman 2 (USA) (Beta 3)"
 	users 1
 	rom ( crc 2986E5CE )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (1996-08-19)"
+	comment "Vectorman 2 (USA) (Beta 4)"
 	users 1
 	rom ( crc 49EFAB7E )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (1996-08-26)"
+	comment "Vectorman 2 (USA) (Beta 5)"
 	users 1
 	rom ( crc EB8124C8 )
 )
 
 game (
-	comment "Vectorman 2 (USA) (Beta) (1996-08-27)"
+	comment "Vectorman 2 (USA) (Beta 6)"
 	users 1
 	rom ( crc 6333D89A )
 )
@@ -13750,7 +13558,7 @@ game (
 )
 
 game (
-	comment "Venom . Spider-Man - Separation Anxiety (USA, Europe)"
+	comment "Venom - Spider-Man - Separation Anxiety (USA, Europe)"
 	users 2
 	rom ( crc 512ADE32 )
 )
@@ -13774,13 +13582,13 @@ game (
 )
 
 game (
-	comment "Viewpoint (USA) (Beta) (August, 1994)"
+	comment "Viewpoint (USA) (Beta 2)"
 	users 2
 	rom ( crc DECD238F )
 )
 
 game (
-	comment "Viewpoint (USA) (Beta) (1994-07-22)"
+	comment "Viewpoint (USA) (Beta 1)"
 	users 2
 	rom ( crc D13FB892 )
 )
@@ -13798,31 +13606,31 @@ game (
 )
 
 game (
-	comment "Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-19)"
+	comment "Virtua Fighter 2 (USA, Europe) (Beta 1)"
 	users 2
 	rom ( crc C5EE3974 )
 )
 
 game (
-	comment "Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-30)"
+	comment "Virtua Fighter 2 (USA, Europe) (Beta 2)"
 	users 2
 	rom ( crc 6A0F3A7B )
 )
 
 game (
-	comment "Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-13)"
+	comment "Virtua Fighter 2 (USA, Europe) (Beta 3)"
 	users 2
 	rom ( crc FA5BAD91 )
 )
 
 game (
-	comment "Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-20)"
+	comment "Virtua Fighter 2 (USA, Europe) (Beta 4)"
 	users 2
 	rom ( crc AF516DAD )
 )
 
 game (
-	comment "Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-27)"
+	comment "Virtua Fighter 2 (USA, Europe) (Beta 5)"
 	users 2
 	rom ( crc 95AB6AB6 )
 )
@@ -13834,7 +13642,7 @@ game (
 )
 
 game (
-	comment "Virtua Racing (Japan)"
+	comment "Virtua Racing (Japan) (En)"
 	users 2
 	rom ( crc 53A293B5 )
 )
@@ -13870,7 +13678,7 @@ game (
 )
 
 game (
-	comment "Volfied (Japan)"
+	comment "Volfied (Japan) (En)"
 	users 1
 	rom ( crc B0C5E3F7 )
 )
@@ -13894,25 +13702,25 @@ game (
 )
 
 game (
-	comment "Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-08)"
+	comment "Wacky Worlds Creativity Studio (USA) (Beta 1)"
 	users 1
 	rom ( crc 48D33EA0 )
 )
 
 game (
-	comment "Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-17)"
+	comment "Wacky Worlds Creativity Studio (USA) (Beta 2)"
 	users 1
 	rom ( crc 4615970B )
 )
 
 game (
-	comment "Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-19)"
+	comment "Wacky Worlds Creativity Studio (USA) (Beta 3)"
 	users 1
 	rom ( crc 7F286925 )
 )
 
 game (
-	comment "Wani Wani World (Japan)"
+	comment "Wani Wani World (Japan) (En)"
 	users 2
 	rom ( crc 56F0DBB2 )
 )
@@ -13930,13 +13738,13 @@ game (
 )
 
 game (
-	comment "Warlock (USA, Europe) (Beta) (December, 1994)"
+	comment "Warlock (USA, Europe) (Beta)"
 	users 1
 	rom ( crc C9B6EDB3 )
 )
 
 game (
-	comment "WarpSpeed (USA, Europe) (Unl)"
+	comment "WarpSpeed (USA, Europe)"
 	users 1
 	rom ( crc 143697ED )
 )
@@ -13966,13 +13774,13 @@ game (
 )
 
 game (
-	comment "Warsong (USA) (Beta) (1991-10-01)"
+	comment "Warsong (USA) (Beta)"
 	users 1
 	rom ( crc 522642C6 )
 )
 
 game (
-	comment "Water Margin - A Tale of Clouds and Wind (USA) (Aftermarket) (Unl)"
+	comment "Water Margin - A Tale of Clouds and Wind (USA) (Piko Interactive)"
 	users 2
 	rom ( crc 7F93B916 )
 )
@@ -14044,7 +13852,7 @@ game (
 )
 
 game (
-	comment "Whip Rush (USA) (Beta) (1990-01-29)"
+	comment "Whip Rush (USA) (Beta)"
 	users 1
 	rom ( crc FF39FC9F )
 )
@@ -14080,7 +13888,7 @@ game (
 )
 
 game (
-	comment "Wimbledon Championship Tennis (Japan)"
+	comment "Wimbledon Championship Tennis (Japan) (En)"
 	users 4
 	rom ( crc 3E0C9DAF )
 )
@@ -14098,7 +13906,7 @@ game (
 )
 
 game (
-	comment "Winter Challenge (USA, Europe) (Unl)"
+	comment "Winter Challenge (USA, Europe)"
 	users 8
 	rom ( crc DBC3ED1C )
 )
@@ -14110,7 +13918,7 @@ game (
 )
 
 game (
-	comment "Wisdom Tree Collection (USA) (Aftermarket) (Unl)"
+	comment "Wisdom Tree Collection (USA) (Piko Interactive)"
 	users 1
 	rom ( crc E77806A8 )
 )
@@ -14176,13 +13984,13 @@ game (
 )
 
 game (
-	comment "Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta) (1991-07-25)"
+	comment "Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta)"
 	users 1
 	rom ( crc 334035F8 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (January, 1994)"
+	comment "World Championship Soccer II (USA) (Beta 1)"
 	users 4
 	rom ( crc C1E21C1A )
 )
@@ -14200,109 +14008,109 @@ game (
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-03)"
+	comment "World Championship Soccer II (USA) (Beta 6)"
 	users 4
 	rom ( crc 5A458D42 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-03) (Alt)"
+	comment "World Championship Soccer II (USA) (Beta 5)"
 	users 4
 	rom ( crc 07B387A4 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-04)"
+	comment "World Championship Soccer II (USA) (Beta 7)"
 	users 4
 	rom ( crc 8FE9F6EF )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-09)"
+	comment "World Championship Soccer II (USA) (Beta 9)"
 	users 4
 	rom ( crc 94625572 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-14)"
+	comment "World Championship Soccer II (USA) (Beta 10)"
 	users 4
 	rom ( crc 43EC107C )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-09) (Alt)"
+	comment "World Championship Soccer II (USA) (Beta 8)"
 	users 4
 	rom ( crc 71FA89CC )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-23)"
+	comment "World Championship Soccer II (USA) (Beta 12)"
 	users 4
 	rom ( crc 3852E514 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-18)"
+	comment "World Championship Soccer II (USA) (Beta 11)"
 	users 4
 	rom ( crc F6735B61 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-24)"
+	comment "World Championship Soccer II (USA) (Beta 13)"
 	users 4
 	rom ( crc A6D43B4A )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-25)"
+	comment "World Championship Soccer II (USA) (Beta 14)"
 	users 4
 	rom ( crc 6B3624FB )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-26)"
+	comment "World Championship Soccer II (USA) (Beta 15)"
 	users 4
 	rom ( crc 1AD7ED9C )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-27)"
+	comment "World Championship Soccer II (USA) (Beta 16)"
 	users 4
 	rom ( crc 4E141509 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-29)"
+	comment "World Championship Soccer II (USA) (Beta 18)"
 	users 4
 	rom ( crc A6759340 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-30)"
+	comment "World Championship Soccer II (USA) (Beta 19)"
 	users 4
 	rom ( crc 8DD49C92 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-03-29) (Alt)"
+	comment "World Championship Soccer II (USA) (Beta 17)"
 	users 4
 	rom ( crc 5F9C51F7 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-02-22)"
+	comment "World Championship Soccer II (USA) (Beta 2)"
 	users 4
 	rom ( crc 6FBFA14E )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-02-23)"
+	comment "World Championship Soccer II (USA) (Beta 3)"
 	users 4
 	rom ( crc AAB9E240 )
 )
 
 game (
-	comment "World Championship Soccer II (USA) (Beta) (1994-02-28)"
+	comment "World Championship Soccer II (USA) (Beta 4)"
 	users 4
 	rom ( crc E210A74C )
 )
@@ -14332,19 +14140,19 @@ game (
 )
 
 game (
-	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En)"
+	comment "World Championship Soccer (Japan, USA) (En)"
 	users 2
 	rom ( crc 6363EF45 )
 )
 
 game (
-	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B)"
+	comment "World Championship Soccer (Japan, USA) (En) (Rev B)"
 	users 2
 	rom ( crc BF272BCB )
 )
 
 game (
-	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)"
+	comment "World Championship Soccer (Japan, USA) (En) (Rev A)"
 	users 2
 	rom ( crc BF84EDE6 )
 )
@@ -14368,115 +14176,109 @@ game (
 )
 
 game (
-	comment "World Heroes (Asia) (En) (Beta) (1994-03-30)"
+	comment "World Heroes (Asia) (En) (Beta 1)"
 	users 2
 	rom ( crc 3F93181A )
 )
 
 game (
-	comment "World Heroes (Asia) (En) (Beta) (1994-04-08)"
+	comment "World Heroes (Asia) (En) (Beta 2)"
 	users 2
 	rom ( crc 2BEA7215 )
 )
 
 game (
-	comment "World Heroes (Asia) (En) (Beta) (1994-04-15)"
+	comment "World Heroes (Asia) (En) (Beta 3)"
 	users 2
 	rom ( crc 6DEC07B3 )
 )
 
 game (
-	comment "World Heroes (Asia) (En) (Beta) (1994-04-20)"
+	comment "World Heroes (Asia) (En) (Beta 5)"
 	users 2
 	rom ( crc F5FFB191 )
 )
 
 game (
-	comment "World Heroes (Asia) (En) (Beta) (1994-04-20) (Alt) [b]"
-	users 2
-	rom ( crc B43B518C )
-)
-
-game (
-	comment "World Heroes (USA) (Beta) (1994-02-23)"
+	comment "World Heroes (USA) (Beta 1)"
 	users 2
 	rom ( crc F5DB477E )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-03)"
+	comment "World Heroes (USA) (Beta 2)"
 	users 2
 	rom ( crc 24A63AEF )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-07)"
+	comment "World Heroes (USA) (Beta 3)"
 	users 2
 	rom ( crc 45C29350 )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-09)"
+	comment "World Heroes (USA) (Beta 4)"
 	users 2
 	rom ( crc 2C7F9E64 )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-15)"
+	comment "World Heroes (USA) (Beta 5)"
 	users 2
 	rom ( crc 2C0B2F4F )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-16)"
+	comment "World Heroes (USA) (Beta 6)"
 	users 2
 	rom ( crc 19C74E2A )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-18)"
+	comment "World Heroes (USA) (Beta 7)"
 	users 2
 	rom ( crc 2BC2A6BB )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-23)"
+	comment "World Heroes (USA) (Beta 9)"
 	users 2
 	rom ( crc 587E6739 )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-22)"
+	comment "World Heroes (USA) (Beta 8)"
 	users 2
 	rom ( crc 5C3C0931 )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-24)"
+	comment "World Heroes (USA) (Beta 10)"
 	users 2
 	rom ( crc 8A656942 )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-30)"
+	comment "World Heroes (USA) (Beta 11)"
 	users 2
 	rom ( crc 50C797CB )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-31)"
+	comment "World Heroes (USA) (Beta 13)"
 	users 2
 	rom ( crc D210AA6E )
 )
 
 game (
-	comment "World Heroes (USA) (Beta) (1994-03-31) (Alt)"
+	comment "World Heroes (USA) (Beta 12)"
 	users 2
 	rom ( crc 92E1BF14 )
 )
 
 game (
-	comment "World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (Ja) (Beta 1)"
+	comment "World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (En) (Beta 1)"
 	users 2
 	rom ( crc 577F680F )
 )
@@ -14506,199 +14308,199 @@ game (
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1993-10-01)"
+	comment "World Series Baseball (USA) (Beta 1)"
 	users 2
 	rom ( crc 3D71F445 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1993-12-22)"
+	comment "World Series Baseball (USA) (Beta 2)"
 	users 2
 	rom ( crc 0DC0558D )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1993-12-29)"
+	comment "World Series Baseball (USA) (Beta 4)"
 	users 2
 	rom ( crc ED949936 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1993-12-26)"
+	comment "World Series Baseball (USA) (Beta 3)"
 	users 2
 	rom ( crc 472E6A58 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1994-01-03)"
+	comment "World Series Baseball (USA) (Beta 5)"
 	users 2
 	rom ( crc 4B53F035 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1994-01-06)"
+	comment "World Series Baseball (USA) (Beta 6)"
 	users 2
 	rom ( crc B07DE2D3 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1994-01-16)"
+	comment "World Series Baseball (USA) (Beta 7)"
 	users 2
 	rom ( crc 5322133E )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1994-02-18)"
+	comment "World Series Baseball (USA) (Beta 8)"
 	users 2
 	rom ( crc 3CADFC50 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Beta) (1994-03-04)"
+	comment "World Series Baseball (USA) (Beta 9)"
 	users 2
 	rom ( crc EDDA44A5 )
 )
 
 game (
-	comment "World Series Baseball (USA) (Rev A) (Beta) (1994-05-27)"
+	comment "World Series Baseball (USA) (Rev A) (Beta)"
 	users 2
 	rom ( crc E473728A )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-12-08)"
+	comment "World Series Baseball '95 (USA) (Beta 1)"
 	users 2
 	rom ( crc 8846B050 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-12-14)"
+	comment "World Series Baseball '95 (USA) (Beta 2)"
 	users 2
 	rom ( crc 385BE354 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1994-12-28)"
+	comment "World Series Baseball '95 (USA) (Beta 3)"
 	users 2
 	rom ( crc 9E6DBC7C )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-01)"
+	comment "World Series Baseball '95 (USA) (Beta 4)"
 	users 2
 	rom ( crc C7574372 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-03)"
+	comment "World Series Baseball '95 (USA) (Beta 5)"
 	users 2
 	rom ( crc 498363F7 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-05)"
+	comment "World Series Baseball '95 (USA) (Beta 6)"
 	users 2
 	rom ( crc 1820ABFB )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-09)"
+	comment "World Series Baseball '95 (USA) (Beta 7)"
 	users 2
 	rom ( crc 3DE7CDBC )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-10)"
+	comment "World Series Baseball '95 (USA) (Beta 8)"
 	users 2
 	rom ( crc AC2772B0 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-14)"
+	comment "World Series Baseball '95 (USA) (Beta 9)"
 	users 2
 	rom ( crc F70B07CF )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-16)"
+	comment "World Series Baseball '95 (USA) (Beta 10)"
 	users 2
 	rom ( crc F0E22B21 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-18)"
+	comment "World Series Baseball '95 (USA) (Beta 11)"
 	users 2
 	rom ( crc 5CE70F8F )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-20)"
+	comment "World Series Baseball '95 (USA) (Beta 12)"
 	users 2
 	rom ( crc 16C15E46 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-25)"
+	comment "World Series Baseball '95 (USA) (Beta 13)"
 	users 2
 	rom ( crc B45D9E33 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-02)"
+	comment "World Series Baseball '95 (USA) (Beta 15)"
 	users 2
 	rom ( crc A947FE5C )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-01-30)"
+	comment "World Series Baseball '95 (USA) (Beta 14)"
 	users 2
 	rom ( crc 6AA76A9D )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-03)"
+	comment "World Series Baseball '95 (USA) (Beta 16)"
 	users 2
 	rom ( crc 1F3754FC )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-07)"
+	comment "World Series Baseball '95 (USA) (Beta 17)"
 	users 2
 	rom ( crc E4056559 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-09)"
+	comment "World Series Baseball '95 (USA) (Beta 19)"
 	users 2
 	rom ( crc 33BB9EDA )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-09) (Alt)"
+	comment "World Series Baseball '95 (USA) (Beta 18)"
 	users 2
 	rom ( crc 83BE98CF )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-11)"
+	comment "World Series Baseball '95 (USA) (Beta 20)"
 	users 2
 	rom ( crc A0664FE9 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-13)"
+	comment "World Series Baseball '95 (USA) (Beta 22)"
 	users 2
 	rom ( crc 9F30AE30 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-14)"
+	comment "World Series Baseball '95 (USA) (Beta 23)"
 	users 2
 	rom ( crc F300A857 )
 )
 
 game (
-	comment "World Series Baseball '95 (USA) (Beta) (1995-02-12)"
+	comment "World Series Baseball '95 (USA) (Beta 21)"
 	users 2
 	rom ( crc 45DA8F18 )
 )
@@ -14728,7 +14530,7 @@ game (
 )
 
 game (
-	comment "Worms (USA) (Proto) (June, 1995)"
+	comment "Worms (USA) (Proto)"
 	users 4
 	rom ( crc 1D191694 )
 )
@@ -14746,7 +14548,7 @@ game (
 )
 
 game (
-	comment "Wrestle War (Japan, Europe) (Ja) (Beta) (September, 1990)"
+	comment "Wrestle War (Japan, Europe) (En) (Beta)"
 	users 2
 	rom ( crc 1CDEE87B )
 )
@@ -14758,13 +14560,13 @@ game (
 )
 
 game (
-	comment "Wrestleball (Japan)"
+	comment "Wrestleball (Japan) (En)"
 	users 2
 	rom ( crc D563E07F )
 )
 
 game (
-	comment "Wu Kong Wai Zhuan (Taiwan) (Unl)"
+	comment "Wukong Waizhuan (Taiwan)"
 	users 1
 	rom ( crc 880A916E )
 )
@@ -14776,7 +14578,7 @@ game (
 )
 
 game (
-	comment "Wu Kong Wai Zhuan (Taiwan) (Unl) (Alt)"
+	comment "Wukong Waizhuan (Taiwan) (Alt)"
 	users 1
 	rom ( crc 0BD70E54 )
 )
@@ -14824,115 +14626,115 @@ game (
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-06)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 1)"
 	users 2
 	rom ( crc A720EBB4 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-10)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 2)"
 	users 2
 	rom ( crc 9B5DD185 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-10-18)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 3)"
 	users 2
 	rom ( crc 52CFF37D )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-17)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 4)"
 	users 2
 	rom ( crc D90CD0DE )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-23)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 5)"
 	users 2
 	rom ( crc 4386A381 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-30)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 7)"
 	users 2
 	rom ( crc 331DAE0A )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-28)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 6)"
 	users 2
 	rom ( crc 70383A4D )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-03)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 9)"
 	users 2
 	rom ( crc 669B939C )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-02)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 8)"
 	users 2
 	rom ( crc 7AD7A4E9 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-06)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 10)"
 	users 2
 	rom ( crc 5B1D0CF5 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-07)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 11)"
 	users 2
 	rom ( crc 246A30DA )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-08)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 12)"
 	users 2
 	rom ( crc C6D90B1C )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-09)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 13)"
 	users 2
 	rom ( crc 28307B58 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-10)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 14)"
 	users 2
 	rom ( crc 73E2EFFE )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-11)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 16)"
 	users 2
 	rom ( crc 11415B86 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-11) (Alt)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 15)"
 	users 2
 	rom ( crc 51876259 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-14)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 17)"
 	users 2
 	rom ( crc CD662DE6 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-15)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 18)"
 	users 2
 	rom ( crc A5188E30 )
 )
 
 game (
-	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-16)"
+	comment "X-Men 2 - Clone Wars (USA, Europe) (Beta 19)"
 	users 2
 	rom ( crc E8C40972 )
 )
@@ -14944,21 +14746,21 @@ game (
 )
 
 game (
-	comment "X-Perts (USA) (Beta) (June, 1995)"
+	comment "X-Perts (USA) (Beta)"
 	users 1
 	rom ( crc 9D067249 )
 )
 
 game (
-	comment "XDR - X-Dazedly-Ray (Japan)"
+	comment "XDR - X-Dazedly-Ray (Japan) (En)"
 	users 1
 	rom ( crc AB22D002 )
 )
 
 game (
-	comment "Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl)"
+	comment "Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Evercade)"
 	users 2
-	rom ( crc AC5F4CCA )
+	rom ( crc 170CE847 )
 )
 
 game (
@@ -14968,57 +14770,51 @@ game (
 )
 
 game (
-	comment "Xin Qi Gai Wang Zi (Taiwan) (Unl)"
+	comment "Xin Qigai Wangzi (Taiwan)"
 	users 1
 	rom ( crc DD2F38B5 )
 )
 
 game (
-	comment "Xin Qi Gai Wang Zi (Taiwan) (Unl) (Alt)"
+	comment "Xin Qigai Wangzi (Taiwan) (Alt)"
 	users 1
 	rom ( crc DA5A4BFE )
 )
 
 game (
-	comment "Xin Qi Gai Wang Zi (Taiwan) (Beta) (Unl)"
+	comment "Xin Qigai Wangzi (Taiwan) (Beta)"
 	users 1
 	rom ( crc 703704A0 )
 )
 
 game (
-	comment "Ya Se Chuan Shuo (Taiwan) (Unl)"
+	comment "Diguo Wangchao (Ya Se Chuanshuo) (Taiwan)"
 	users 1
 	rom ( crc 095B9A15 )
 )
 
 game (
-	comment "Ya Se Chuan Shuo (Taiwan) (Unl) (Alt)"
+	comment "Diguo Wangchao (Ya Se Chuanshuo) (Taiwan) (Alt)"
 	users 1
 	rom ( crc 6C097CB1 )
 )
 
 game (
-	comment "Yazzie (USA) (Aftermarket) (Unl)"
+	comment "Yazzie (World) (v1.1) (Evercade)"
 	users 1
 	rom ( crc A104E033 )
 )
 
 game (
-	comment "Yazzie (World) (Aftermarket) (Homebrew)"
+	comment "Yazzie (World) (Itch.io)"
 	users 1
 	rom ( crc 93D5AD8A )
 )
 
 game (
-	comment "Yi Men Ying Lie - Yang Jia Jiang (Taiwan) (Unl)"
+	comment "Yimen Yinglie - Yangjia Jiang (Taiwan)"
 	users 1
 	rom ( crc 6604A79E )
-)
-
-game (
-	comment "Yazzie (World) (dmaSafe) (Aftermarket) (Homebrew)"
-	users 1
-	rom ( crc 93D5AD8A )
 )
 
 game (
@@ -15046,7 +14842,7 @@ game (
 )
 
 game (
-	comment "Ys III (USA) (Beta) (1991-08-28)"
+	comment "Ys III (USA) (Beta)"
 	users 1
 	rom ( crc 69994C44 )
 )
@@ -15058,7 +14854,7 @@ game (
 )
 
 game (
-	comment "Yu Yu Hakusho - Makyou Toitsusen (Japan) (Beta) (June, 1994) (Sega Channel)"
+	comment "Yu Yu Hakusho - Makyou Toitsusen (Japan) (Beta) (Sega Channel)"
 	users 4
 	rom ( crc 742EA744 )
 )
@@ -15076,13 +14872,13 @@ game (
 )
 
 game (
-	comment "Zan Yasha Enbukyoku (Japan)"
+	comment "Zan - Yasha Enbukyoku (Japan)"
 	users 2
 	rom ( crc 637FE8F3 )
 )
 
 game (
-	comment "Zany Golf (USA) (Unl)"
+	comment "Zany Golf (USA)"
 	users 4
 	rom ( crc ED5D12EA )
 )
@@ -15112,13 +14908,13 @@ game (
 )
 
 game (
-	comment "Zero Tolerance (World) (GOG) (Aftermarket) (Homebrew)"
+	comment "Zero Tolerance (World) (Evercade, GOG)"
 	users 1
-	rom ( crc AF9092F0 )
+	rom ( crc 852DD0B5 )
 )
 
 game (
-	comment "Zero Wing (USA) (Aftermarket) (Unl)"
+	comment "Zero Wing (World) (Retro-Bit)"
 	users 1
 	rom ( crc D525BABB )
 )
@@ -15136,25 +14932,25 @@ game (
 )
 
 game (
-	comment "Zhan Qi Chinese Battle Chess (Taiwan) (Unl)"
+	comment "Zhanqi - Chinese Battle Chess (Taiwan)"
 	users 1
 	rom ( crc 9D3DDE48 )
 )
 
 game (
-	comment "Zhong Guo Xiang Qi (Taiwan) (Unl)"
+	comment "Zhongguo Xiangqi (Taiwan)"
 	users 2
 	rom ( crc 475215A0 )
 )
 
 game (
-	comment "Zhuo Gui Da Shi - Ghost Hunter (Taiwan) (Unl)"
+	comment "Zhua Gui Dashi - Ghost Hunter (Taiwan)"
 	users 2
 	rom ( crc 76C62A8B )
 )
 
 game (
-	comment "Zombie High (USA) (Proto) (1992-08-11)"
+	comment "Zombie High (USA) (Proto)"
 	users 1
 	rom ( crc 7BEA6194 )
 )
@@ -15169,12 +14965,6 @@ game (
 	comment "Zombies Ate My Neighbors (USA)"
 	users 2
 	rom ( crc 2BF3626F )
-)
-
-game (
-	comment "Zool (Unknown) (Beta) [b]"
-	users 1
-	rom ( crc BC882082 )
 )
 
 game (
@@ -15214,8 +15004,7 @@ game (
 )
 
 game (
-	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan)"
+	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)"
 	users 1
 	rom ( crc 1A761E67 )
 )
-

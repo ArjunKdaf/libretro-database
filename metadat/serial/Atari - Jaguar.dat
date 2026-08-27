@@ -28,7 +28,7 @@ game (
 )
 
 game (
-	comment "Battle Sphere Gold (World)"
+	comment "BattleSphere Gold (World)"
 	serial "J9807E"
 	rom (
 		crc 67F9AB3A
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Cybermorph (World) (Rev 1)"
+	comment "Cybermorph (World) (Rev A)"
 	serial "J9000"
 	rom (
 		crc BDE67498
@@ -84,7 +84,7 @@ game (
 )
 
 game (
-	comment "Cybermorph (World) (Rev 2)"
+	comment "Cybermorph (World) (Rev B)"
 	serial "J9000"
 	rom (
 		crc ECF854E7
@@ -140,18 +140,10 @@ game (
 )
 
 game (
-	comment "Fight for Life (World)"
+	comment "Fight for Life (USA, Europe)"
 	serial "J9037E"
 	rom (
 		crc B14C4753
-	)
-)
-
-game (
-	comment "Fight for Life (World) (Alt 1)"
-	serial "J9037E"
-	rom (
-		crc C6C7BA62
 	)
 )
 
@@ -167,7 +159,15 @@ game (
 	comment "Flip Out! (World)"
 	serial "J9040E"
 	rom (
-		crc FAE31DD0
+		crc 892BC67C
+	)
+)
+
+game (
+	comment "Flip Out! (World)"
+	serial "J9040E"
+	rom (
+		crc 76BB7D03
 	)
 )
 
@@ -188,7 +188,7 @@ game (
 )
 
 game (
-	comment "I-War (World)"
+	comment "I-War (USA, Europe)"
 	serial "J9043E"
 	rom (
 		crc 97EB4651
@@ -196,7 +196,7 @@ game (
 )
 
 game (
-	comment "Iron Soldier (World) (v1.04)"
+	comment "Iron Soldier (World)"
 	serial "J9026E"
 	rom (
 		crc 08F15576
@@ -228,7 +228,7 @@ game (
 )
 
 game (
-	comment "NBA Jam - Tournament Edition (World)"
+	comment "NBA Jam - Tournament Edition (USA, Europe)"
 	serial "J9089E"
 	rom (
 		crc 0AC83D77
@@ -244,7 +244,7 @@ game (
 )
 
 game (
-	comment "Pitfall - The Mayan Adventure (World)"
+	comment "Pitfall - The Mayan Adventure (USA, Europe)"
 	serial "J9101E"
 	rom (
 		crc 817A2273
@@ -284,7 +284,7 @@ game (
 )
 
 game (
-	comment "Ruiner Pinball (World)"
+	comment "Ruiner Pinball (USA, Europe)"
 	serial "J9061E"
 	rom (
 		crc 5B6BB205
@@ -300,7 +300,7 @@ game (
 )
 
 game (
-	comment "Soccer Kid (World)"
+	comment "Soccer Kid (World) (Beta)"
 	serial "CF3002"
 	rom (
 		crc 42A13EC5
@@ -316,7 +316,7 @@ game (
 )
 
 game (
-	comment "SuperCross 3D (World)"
+	comment "Supercross 3D (USA, Europe)"
 	serial "J9044E"
 	rom (
 		crc EC22F572
@@ -356,15 +356,7 @@ game (
 )
 
 game (
-	comment "Towers II (World)"
-	serial "JA256"
-	rom (
-		crc CAF33BD6
-	)
-)
-
-game (
-	comment "Trevor McFur in the Crescent Galaxy (World)"
+	comment "Trevor McFur in the Crescent Galaxy (World) (Rev A)"
 	serial "J9001"
 	rom (
 		crc 1E451446
@@ -396,7 +388,7 @@ game (
 )
 
 game (
-	comment "White Men Can't Jump (World)"
+	comment "White Men Can't Jump (USA, Europe)"
 	serial "J9070E"
 	rom (
 		crc 14915F20
@@ -436,10 +428,9 @@ game (
 )
 
 game (
-	comment "Zoop! (World)"
+	comment "Zoop (USA, Europe)"
 	serial "J9109E"
 	rom (
 		crc C5562581
 	)
 )
-

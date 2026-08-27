@@ -36,7 +36,7 @@ game (
 )
 
 game (
-	comment "Brutal Unleashed - Above the Claw (USA)"
+	comment "Brutal - Above the Claw (USA)"
 	serial "T-8301B"
 	rom (
 		crc 7A72C939
@@ -68,7 +68,7 @@ game (
 )
 
 game (
-	comment "FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)"
+	comment "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)"
 	serial "T-5002B-50"
 	rom (
 		crc FB14A7C8
@@ -76,7 +76,7 @@ game (
 )
 
 game (
-	comment "Golf Magazine 36 Great Holes Starring Fred Couples (Europe)"
+	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)"
 	serial "84602-50"
 	rom (
 		crc 6EF99202
@@ -172,7 +172,7 @@ game (
 )
 
 game (
-	comment "Star Trek Starfleet Academy - Starship Bridge Simulator (USA)"
+	comment "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)"
 	serial "84521"
 	rom (
 		crc DD9708B9
@@ -204,7 +204,7 @@ game (
 )
 
 game (
-	comment "Stellar Assault (Japan)"
+	comment "Stellar Assault (Japan) (En)"
 	serial "GM-4010"
 	rom (
 		crc FCE4C8C7
@@ -266,4 +266,3 @@ game (
 		crc 6DE1BC75
 	)
 )
-

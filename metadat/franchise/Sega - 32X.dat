@@ -40,79 +40,73 @@ game (
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-09)"
+	comment "Doom (Japan, USA) (En) (Beta 2)"
 	franchise "Doom"
 	rom ( crc 8D757B51 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-25)"
+	comment "Doom (Japan, USA) (En) (Beta 7)"
 	franchise "Doom"
 	rom ( crc B9AE1316 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-27)"
+	comment "Doom (Japan, USA) (En) (Beta 8)"
 	franchise "Doom"
 	rom ( crc 12991053 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-23)"
+	comment "Doom (Japan, USA) (En) (Beta 6)"
 	franchise "Doom"
 	rom ( crc ABC3EB89 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-06)"
+	comment "Doom (Japan, USA) (En) (Beta 1)"
 	franchise "Doom"
 	rom ( crc 646D5C47 )
 )
 
 game (
-	comment "Doom (Europe) (Beta) (1994-10-02)"
-	franchise "Doom"
-	rom ( crc 6182E821 )
-)
-
-game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-14)"
+	comment "Doom (Japan, USA) (En) (Beta 3)"
 	franchise "Doom"
 	rom ( crc 102678B3 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-16)"
+	comment "Doom (Japan, USA) (En) (Beta 4)"
 	franchise "Doom"
 	rom ( crc B554596F )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-12-01)"
+	comment "Doom (Japan, USA) (En) (Beta 9)"
 	franchise "Doom"
 	rom ( crc 7DCC1C18 )
 )
 
 game (
-	comment "Doom (Japan, USA) (En) (Beta) (1994-09-21)"
+	comment "Doom (Japan, USA) (En) (Beta 5)"
 	franchise "Doom"
 	rom ( crc 2D09B919 )
 )
 
 game (
-	comment "Doom RR (Japan, USA) (En) (Beta) (1995-03-07)"
+	comment "Doom RR (Japan, USA) (En) (Beta 3)"
 	franchise "Doom"
 	rom ( crc 955CF84A )
 )
 
 game (
-	comment "Doom RR (Japan, USA) (En) (Beta) (1995-02-21)"
+	comment "Doom RR (Japan, USA) (En) (Beta 2)"
 	franchise "Doom"
 	rom ( crc 6F1572F9 )
 )
 
 game (
-	comment "Doom RR (Japan, USA) (En) (Beta) (1995-02-15)"
+	comment "Doom RR (Japan, USA) (En) (Beta 1)"
 	franchise "Doom"
 	rom ( crc 48399BC5 )
 )
@@ -136,73 +130,73 @@ game (
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 1)"
 	franchise "Sonic"
 	rom ( crc D62AE235 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 2)"
 	franchise "Sonic"
 	rom ( crc 4307D738 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 3)"
 	franchise "Sonic"
 	rom ( crc 36A294E0 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 4)"
 	franchise "Sonic"
 	rom ( crc 5523EA78 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 5)"
 	franchise "Sonic"
 	rom ( crc 468AD032 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 6)"
 	franchise "Sonic"
 	rom ( crc 7B32E440 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 7)"
 	franchise "Sonic"
 	rom ( crc B099E5F6 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 8)"
 	franchise "Sonic"
 	rom ( crc E95D7F57 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 9)"
 	franchise "Sonic"
 	rom ( crc 7B716175 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 10)"
 	franchise "Sonic"
 	rom ( crc 14F43E14 )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 11)"
 	franchise "Sonic"
 	rom ( crc AFF06BFF )
 )
 
 game (
-	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)"
+	comment "Knuckles' Chaotix (Japan, USA) (En) (Beta 12)"
 	franchise "Sonic"
 	rom ( crc BA0A1108 )
 )
@@ -262,7 +256,7 @@ game (
 )
 
 game (
-	comment "Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)"
+	comment "Space Harrier (Japan, USA) (En) (Beta)"
 	franchise "Space Harrier"
 	rom ( crc 2C65FA40 )
 )
@@ -292,109 +286,109 @@ game (
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-09-23)"
+	comment "Star Wars Arcade (Europe) (Beta 1)"
 	franchise "Star Wars"
 	rom ( crc 8E7BFC7C )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-09-29)"
+	comment "Star Wars Arcade (Europe) (Beta 2)"
 	franchise "Star Wars"
 	rom ( crc 7682FE72 )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-10-06)"
+	comment "Star Wars Arcade (Europe) (Beta 3)"
 	franchise "Star Wars"
 	rom ( crc C00AF920 )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-10-07)"
+	comment "Star Wars Arcade (Europe) (Beta 4)"
 	franchise "Star Wars"
 	rom ( crc 57AFC1AC )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-09-30)"
+	comment "Star Wars Arcade (Japan) (Beta 1)"
 	franchise "Star Wars"
 	rom ( crc 6074F26C )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-10-03)"
+	comment "Star Wars Arcade (Japan) (Beta 2)"
 	franchise "Star Wars"
 	rom ( crc A653A183 )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-10-05)"
+	comment "Star Wars Arcade (Japan) (Beta 3)"
 	franchise "Star Wars"
 	rom ( crc 9861E21F )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-01)"
+	comment "Star Wars Arcade (USA) (Beta 2)"
 	franchise "Star Wars"
 	rom ( crc B0BB29EB )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-08-30)"
+	comment "Star Wars Arcade (USA) (Beta 1)"
 	franchise "Star Wars"
 	rom ( crc 10D4A078 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-06)"
+	comment "Star Wars Arcade (USA) (Beta 3)"
 	franchise "Star Wars"
 	rom ( crc B8D9317C )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-07)"
+	comment "Star Wars Arcade (USA) (Beta 4)"
 	franchise "Star Wars"
 	rom ( crc C6A8582B )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-09)"
+	comment "Star Wars Arcade (USA) (Beta 5)"
 	franchise "Star Wars"
 	rom ( crc 5BDD86D3 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-12)"
+	comment "Star Wars Arcade (USA) (Beta 6)"
 	franchise "Star Wars"
 	rom ( crc 118A011C )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-13)"
+	comment "Star Wars Arcade (USA) (Beta 7)"
 	franchise "Star Wars"
 	rom ( crc DC5628BA )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-15)"
+	comment "Star Wars Arcade (USA) (Beta 9)"
 	franchise "Star Wars"
 	rom ( crc 34C6A769 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-14)"
+	comment "Star Wars Arcade (USA) (Beta 8)"
 	franchise "Star Wars"
 	rom ( crc EFC980FE )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-16)"
+	comment "Star Wars Arcade (USA) (Beta 10)"
 	franchise "Star Wars"
 	rom ( crc 150A0DFD )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-18)"
+	comment "Star Wars Arcade (USA) (Beta 11)"
 	franchise "Star Wars"
 	rom ( crc 02933D44 )
 )
@@ -412,43 +406,43 @@ game (
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 1)"
 	franchise "Virtua Fighter"
 	rom ( crc 46A88625 )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 2)"
 	franchise "Virtua Fighter"
 	rom ( crc 8DF6401C )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 3)"
 	franchise "Virtua Fighter"
 	rom ( crc 3B88F987 )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 4)"
 	franchise "Virtua Fighter"
 	rom ( crc 6A364BCE )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 5)"
 	franchise "Virtua Fighter"
 	rom ( crc 1C4C13F3 )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 6)"
 	franchise "Virtua Fighter"
 	rom ( crc D4F5484B )
 )
 
 game (
-	comment "Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)"
+	comment "Virtua Fighter (Japan, USA) (En) (Beta 7)"
 	franchise "Virtua Fighter"
 	rom ( crc AFF4D320 )
 )
@@ -476,4 +470,3 @@ game (
 	franchise "WWF"
 	rom ( crc 61833503 )
 )
-

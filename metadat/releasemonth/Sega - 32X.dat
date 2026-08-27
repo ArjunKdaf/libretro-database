@@ -28,25 +28,19 @@ game (
 )
 
 game (
-	comment "Doom (Europe) (Beta) (1994-10-02)"
-	releasemonth "12"
-	rom ( crc 6182E821 )
-)
-
-game (
 	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)"
 	releasemonth "3"
 	rom ( crc 6EF99202 )
 )
 
 game (
-	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)"
+	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta 1)"
 	releasemonth "3"
 	rom ( crc A63B0636 )
 )
 
 game (
-	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)"
+	comment "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta 2)"
 	releasemonth "3"
 	rom ( crc CC0334BB )
 )
@@ -100,127 +94,127 @@ game (
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-09-23)"
+	comment "Star Wars Arcade (Europe) (Beta 1)"
 	releasemonth "11"
 	rom ( crc 8E7BFC7C )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-09-29)"
+	comment "Star Wars Arcade (Europe) (Beta 2)"
 	releasemonth "11"
 	rom ( crc 7682FE72 )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-10-06)"
+	comment "Star Wars Arcade (Europe) (Beta 3)"
 	releasemonth "11"
 	rom ( crc C00AF920 )
 )
 
 game (
-	comment "Star Wars Arcade (Europe) (Beta) (1994-10-07)"
+	comment "Star Wars Arcade (Europe) (Beta 4)"
 	releasemonth "11"
 	rom ( crc 57AFC1AC )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-09-30)"
+	comment "Star Wars Arcade (Japan) (Beta 1)"
 	releasemonth "12"
 	rom ( crc 6074F26C )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-10-03)"
+	comment "Star Wars Arcade (Japan) (Beta 2)"
 	releasemonth "12"
 	rom ( crc A653A183 )
 )
 
 game (
-	comment "Star Wars Arcade (Japan) (Beta) (1994-10-05)"
+	comment "Star Wars Arcade (Japan) (Beta 3)"
 	releasemonth "12"
 	rom ( crc 9861E21F )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-01)"
+	comment "Star Wars Arcade (USA) (Beta 2)"
 	releasemonth "11"
 	rom ( crc B0BB29EB )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-08-30)"
+	comment "Star Wars Arcade (USA) (Beta 1)"
 	releasemonth "11"
 	rom ( crc 10D4A078 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-06)"
+	comment "Star Wars Arcade (USA) (Beta 3)"
 	releasemonth "11"
 	rom ( crc B8D9317C )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-07)"
+	comment "Star Wars Arcade (USA) (Beta 4)"
 	releasemonth "11"
 	rom ( crc C6A8582B )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-09)"
+	comment "Star Wars Arcade (USA) (Beta 5)"
 	releasemonth "11"
 	rom ( crc 5BDD86D3 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-12)"
+	comment "Star Wars Arcade (USA) (Beta 6)"
 	releasemonth "11"
 	rom ( crc 118A011C )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-13)"
+	comment "Star Wars Arcade (USA) (Beta 7)"
 	releasemonth "11"
 	rom ( crc DC5628BA )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-15)"
+	comment "Star Wars Arcade (USA) (Beta 9)"
 	releasemonth "11"
 	rom ( crc 34C6A769 )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-14)"
+	comment "Star Wars Arcade (USA) (Beta 8)"
 	releasemonth "11"
 	rom ( crc EFC980FE )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-16)"
+	comment "Star Wars Arcade (USA) (Beta 10)"
 	releasemonth "11"
 	rom ( crc 150A0DFD )
 )
 
 game (
-	comment "Star Wars Arcade (USA) (Beta) (1994-09-18)"
+	comment "Star Wars Arcade (USA) (Beta 11)"
 	releasemonth "11"
 	rom ( crc 02933D44 )
 )
 
 game (
-	comment "Stellar Assault (Japan)"
+	comment "Stellar Assault (Japan) (En)"
 	releasemonth "4"
 	rom ( crc FCE4C8C7 )
 )
 
 game (
-	comment "Stellar Assault (Japan) (En) (Beta) (1995-02-06)"
+	comment "Stellar Assault (Japan) (En) (Beta 1)"
 	releasemonth "4"
 	rom ( crc 24057310 )
 )
 
 game (
-	comment "Stellar Assault (Japan) (En) (Beta) (1995-02-13)"
+	comment "Stellar Assault (Japan) (En) (Beta 2)"
 	releasemonth "4"
 	rom ( crc CA0DE10E )
 )
@@ -250,20 +244,19 @@ game (
 )
 
 game (
-	comment "Virtua Racing Deluxe (USA) (Beta) (1994-08-22)"
+	comment "Virtua Racing Deluxe (USA) (Beta 1)"
 	releasemonth "11"
 	rom ( crc 6EBB3EDA )
 )
 
 game (
-	comment "Virtua Racing Deluxe (USA) (Beta) (1994-08-29)"
+	comment "Virtua Racing Deluxe (USA) (Beta 2)"
 	releasemonth "11"
 	rom ( crc 86A318DE )
 )
 
 game (
-	comment "Virtua Racing Deluxe (USA) (Beta) (1994-09-05)"
+	comment "Virtua Racing Deluxe (USA) (Beta 3)"
 	releasemonth "11"
 	rom ( crc 99F38344 )
 )
-

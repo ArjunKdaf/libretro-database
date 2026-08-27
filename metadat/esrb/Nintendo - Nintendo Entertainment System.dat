@@ -10,7 +10,7 @@ game (
 )
 
 game (
-	comment "10-Yard Fight (Japan)"
+	comment "10-Yard Fight (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 44AA3EEB )
 )
@@ -22,7 +22,7 @@ game (
 )
 
 game (
-	comment "10-Yard Fight (Japan) (Rev 1)"
+	comment "10-Yard Fight (Japan) (En) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc 83146ECF )
 )
@@ -52,13 +52,13 @@ game (
 )
 
 game (
-	comment "1991 Du Ma Racing (Asia) (Ja) (Idea-Tek) (Unl)"
+	comment "1991 Du Ma Racing (Taiwan) (Super Mega)"
 	esrb_rating "E"
 	rom ( crc FE316FCE )
 )
 
 game (
-	comment "1991 Du Ma Racing (Asia) (Ja) (Micro Genius) (Unl)"
+	comment "1991 Du Ma Racing (Taiwan) (TXC)"
 	esrb_rating "E"
 	rom ( crc 83E29EA1 )
 )
@@ -112,13 +112,13 @@ game (
 )
 
 game (
-	comment "8 Eyes (World) (Aftermarket) (Unl)"
+	comment "8 Eyes (World) (Digital)"
 	esrb_rating "E"
 	rom ( crc A1C16875 )
 )
 
 game (
-	comment "8 Eyes (World) (Pixel Heart) (Aftermarket) (Unl)"
+	comment "8 Eyes (USA, Europe) (Pixel Heart)"
 	esrb_rating "E"
 	rom ( crc 22C0543E )
 )
@@ -136,7 +136,7 @@ game (
 )
 
 game (
-	comment "Abadox (Japan)"
+	comment "Abadox (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc E8549CE8 )
 )
@@ -148,13 +148,13 @@ game (
 )
 
 game (
-	comment "Action 52 (USA) (Rev A) (Unl)"
+	comment "Action 52 (USA) (Rev A)"
 	esrb_rating "E"
 	rom ( crc B373644C )
 )
 
 game (
-	comment "Action 52 (USA) (Unl)"
+	comment "Action 52 (USA)"
 	esrb_rating "E"
 	rom ( crc EE91F2A7 )
 )
@@ -190,13 +190,13 @@ game (
 )
 
 game (
-	comment "After Burner (Japan)"
+	comment "After Burner (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc A4AC4A21 )
 )
 
 game (
-	comment "After Burner (USA) (Unl)"
+	comment "After Burner (USA)"
 	esrb_rating "E"
 	rom ( crc A0FB921E )
 )
@@ -220,7 +220,7 @@ game (
 )
 
 game (
-	comment "Air Fortress (Japan)"
+	comment "Air Fortress (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 6DA461E2 )
 )
@@ -244,13 +244,13 @@ game (
 )
 
 game (
-	comment "Airwolf (USA) (Acclaim)"
+	comment "Airwolf (USA)"
 	esrb_rating "E"
 	rom ( crc A1C13577 )
 )
 
 game (
-	comment "Airwolf (Europe) (Acclaim)"
+	comment "Airwolf (Europe)"
 	esrb_rating "E"
 	rom ( crc 23380680 )
 )
@@ -286,13 +286,13 @@ game (
 )
 
 game (
-	comment "Akumajou Dracula (Japan)"
+	comment "Akumajou Dracula (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 04379750 )
 )
 
 game (
-	comment "Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection)"
+	comment "Akumajou Dracula (World) (Castlevania Anniversary Collection)"
 	esrb_rating "E"
 	rom ( crc 2301821E )
 )
@@ -300,7 +300,13 @@ game (
 game (
 	comment "Akumajou Special - Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection)"
 	esrb_rating "E"
-	rom ( crc 2FAB9777 )
+	rom ( crc 80EE60D0 )
+)
+
+game (
+	comment "Akumajou Special - Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection)"
+	esrb_rating "E"
+	rom ( crc 8281C50F )
 )
 
 game (
@@ -340,7 +346,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (Japan)"
+	comment "Alien Syndrome (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc A71AB50B )
 )
@@ -352,7 +358,7 @@ game (
 )
 
 game (
-	comment "Alien Syndrome (USA) (Unl)"
+	comment "Alien Syndrome (USA)"
 	esrb_rating "E"
 	rom ( crc 711347EA )
 )
@@ -442,13 +448,13 @@ game (
 )
 
 game (
-	comment "Arctic (Japan)"
+	comment "Arctic (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 4B445F62 )
 )
 
 game (
-	comment "Arctic Adventure - Penguin & Seal (Australia) (Unl)"
+	comment "Arctic Adventure - Penguin & Seal (Australia)"
 	esrb_rating "E"
 	rom ( crc 6C9475E3 )
 )
@@ -472,13 +478,19 @@ game (
 )
 
 game (
-	comment "Arkanoid (Asia) (En) (LC10) (Pirate)"
+	comment "Arkanoid (Asia) (En) (Pirate)"
 	esrb_rating "E"
-	rom ( crc 26404B0C )
+	rom ( crc 3C9BDCFB )
 )
 
 game (
-	comment "Arkanoid II (Japan) (En) (Beta)"
+	comment "Arkanoid (Asia) (En) (Pirate)"
+	esrb_rating "E"
+	rom ( crc 512FBDE7 )
+)
+
+game (
+	comment "Arkanoid II (Japan) (En) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc A82282EA )
 )
@@ -544,7 +556,7 @@ game (
 )
 
 game (
-	comment "Athena (Japan)"
+	comment "Athena (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 2F03E972 )
 )
@@ -568,25 +580,25 @@ game (
 )
 
 game (
-	comment "Atlantis no Nazo (Japan)"
+	comment "Atlantis no Nazo (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc F250A44C )
 )
 
 game (
-	comment "Atlantis no Nazo (Japan) (Beta)"
+	comment "Atlantis no Nazo (Japan) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc 5A3AA867 )
 )
 
 game (
-	comment "Atlantis no Nazo (Japan) (Virtual Console, Switch Online)"
+	comment "Atlantis no Nazo (Japan) (En) (Virtual Console, Switch Online)"
 	esrb_rating "E"
 	rom ( crc 06F8EEA5 )
 )
 
 game (
-	comment "Attack Animal Gakuen (Japan)"
+	comment "Attack Animal Gakuen (Japan) (En) (Famicom 3D System)"
 	esrb_rating "E"
 	rom ( crc FD43E1A7 )
 )
@@ -604,7 +616,7 @@ game (
 )
 
 game (
-	comment "Auto-Upturn (Asia) (Ja) (PAL) (Unl)"
+	comment "Auto-Upturn (Asia) (En)"
 	esrb_rating "E"
 	rom ( crc 2DF05C93 )
 )
@@ -616,25 +628,25 @@ game (
 )
 
 game (
-	comment "AV Pachi-Slot (Asia) (Ja) (Unl)"
+	comment "AV Pachi-Slot (Taiwan) (Ja) (Idea-Tek)"
 	esrb_rating "M"
 	rom ( crc 1E920A85 )
 )
 
 game (
-	comment "AV Pachi-Slot (Japan) (Unl)"
+	comment "AV Pachi-Slot - Big Chance (Japan) (Rev 1)"
 	esrb_rating "M"
 	rom ( crc 5EB31F30 )
 )
 
 game (
-	comment "Baby Boomer (USA) (Unl)"
+	comment "Baby Boomer (USA)"
 	esrb_rating "E"
 	rom ( crc EC0E9C09 )
 )
 
 game (
-	comment "Baby Boomer (Korea) (En) (Unl)"
+	comment "Baby Boomer (Korea) (En)"
 	esrb_rating "E"
 	rom ( crc E6D95E6A )
 )
@@ -706,7 +718,7 @@ game (
 )
 
 game (
-	comment "Ballblazer (Japan)"
+	comment "Ballblazer (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc EC846C33 )
 )
@@ -730,7 +742,7 @@ game (
 )
 
 game (
-	comment "Balloon Fight (Japan) (En) (GameCube Edition)"
+	comment "Balloon Fight (Japan) (En) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc FEE54047 )
 )
@@ -742,19 +754,19 @@ game (
 )
 
 game (
-	comment "Balloon Fight (USA) (e-Reader Edition)"
+	comment "Balloon Fight (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 0EBFBABA )
 )
 
 game (
-	comment "Baltron (Japan)"
+	comment "Baltron (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 654749F7 )
 )
 
 game (
-	comment "Baltron (Japan) (Beta)"
+	comment "Baltron (Japan) (En) (Beta)"
 	esrb_rating "E"
 	rom ( crc 642AA7C7 )
 )
@@ -834,7 +846,13 @@ game (
 game (
 	comment "Bases Loaded (USA)"
 	esrb_rating "E"
-	rom ( crc 24C1AA93 )
+	rom ( crc 16CF1F3B )
+)
+
+game (
+	comment "Bases Loaded (USA)"
+	esrb_rating "E"
+	rom ( crc 6AB09C68 )
 )
 
 game (
@@ -844,7 +862,7 @@ game (
 )
 
 game (
-	comment "Batman (Japan)"
+	comment "Batman (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 84D34CED )
 )
@@ -886,13 +904,13 @@ game (
 )
 
 game (
-	comment "Big Nose and the Witchdoctor (USA) (Beta) (Unl)"
+	comment "Big Nose and the Witchdoctor (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc 49274B27 )
 )
 
 game (
-	comment "Bio Miracle Bokutte Upa (Japan)"
+	comment "Bio Miracle Bokutte Upa (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc CC4C8E9C )
 )
@@ -934,19 +952,19 @@ game (
 )
 
 game (
-	comment "Blaster Master (USA) (Beta) (1988-05-20)"
+	comment "Blaster Master (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc 4A1A63D0 )
 )
 
 game (
-	comment "Blaster Master (USA, Europe) (Virtual Console)"
+	comment "Blaster Master (USA, Europe) (Wii U Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 1905811F )
 )
 
 game (
-	comment "Blaster Master (Japan) (Virtual Console)"
+	comment "Chou-Wakusei Senki - MetaFight (Japan) (En) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc BAEF0555 )
 )
@@ -964,7 +982,7 @@ game (
 )
 
 game (
-	comment "Bomberman (Japan)"
+	comment "Bomberman (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc DCBBE28B )
 )
@@ -982,7 +1000,7 @@ game (
 )
 
 game (
-	comment "Boulder Dash (Japan)"
+	comment "Boulder Dash (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc C5B0BCEA )
 )
@@ -1006,7 +1024,7 @@ game (
 )
 
 game (
-	comment "Bubble Bath Babes (USA) (Unl)"
+	comment "Bubble Bath Babes (USA)"
 	esrb_rating "M"
 	rom ( crc E6FBADC2 )
 )
@@ -1036,7 +1054,7 @@ game (
 )
 
 game (
-	comment "Buggy Popper (Japan)"
+	comment "Buggy Popper (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 681B1B0E )
 )
@@ -1068,7 +1086,13 @@ game (
 game (
 	comment "Bugs Bunny Fun House (USA) (Beta)"
 	esrb_rating "E"
-	rom ( crc 520EA9FA )
+	rom ( crc 5907652E )
+)
+
+game (
+	comment "Bugs Bunny Fun House (USA) (Beta)"
+	esrb_rating "E"
+	rom ( crc 40734DA7 )
 )
 
 game (
@@ -1078,7 +1102,7 @@ game (
 )
 
 game (
-	comment "BurgerTime (Japan)"
+	comment "BurgerTime (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 09A12136 )
 )
@@ -1090,7 +1114,7 @@ game (
 )
 
 game (
-	comment "Caltron - 6 in 1 (USA) (Unl)"
+	comment "Caltron - 6 in 1 (USA)"
 	esrb_rating "E"
 	rom ( crc F7B0A26C )
 )
@@ -1138,7 +1162,7 @@ game (
 )
 
 game (
-	comment "Castlevania (World) (Konami Collector's Series) (Unl)"
+	comment "Castlevania (World) (Konami Collector's Series)"
 	esrb_rating "E"
 	rom ( crc 082269C6 )
 )
@@ -1150,7 +1174,7 @@ game (
 )
 
 game (
-	comment "Castlevania II - Simon's Quest (World) (Konami Collector's Series) (Unl)"
+	comment "Castlevania II - Simon's Quest (World) (Konami Collector's Series)"
 	esrb_rating "E"
 	rom ( crc 8C029F34 )
 )
@@ -1186,7 +1210,7 @@ game (
 )
 
 game (
-	comment "Castlevania III - Dracula's Curse (World) (Konami Collector's Series) (Unl)"
+	comment "Castlevania III - Dracula's Curse (World) (Konami Collector's Series)"
 	esrb_rating "E"
 	rom ( crc 5C9D1D50 )
 )
@@ -1210,7 +1234,7 @@ game (
 )
 
 game (
-	comment "Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection) (Aftermarket) (Unl)"
+	comment "Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)"
 	esrb_rating "E"
 	rom ( crc 62138E31 )
 )
@@ -1234,7 +1258,7 @@ game (
 )
 
 game (
-	comment "Chou-Wakusei Senki - MetaFight (Japan)"
+	comment "Chou-Wakusei Senki - MetaFight (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc FF02811A )
 )
@@ -1270,7 +1294,7 @@ game (
 )
 
 game (
-	comment "Contra (World) (Konami Collector's Series) (Unl)"
+	comment "Contra (World) (Konami Collector's Series)"
 	esrb_rating "E"
 	rom ( crc D3C6BE6E )
 )
@@ -1330,7 +1354,7 @@ game (
 )
 
 game (
-	comment "Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Japan)"
+	comment "Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 06E9100A )
 )
@@ -1342,7 +1366,7 @@ game (
 )
 
 game (
-	comment "Donkey Kong (Japan)"
+	comment "Donkey Kong (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 3FA5A4F7 )
 )
@@ -1354,19 +1378,19 @@ game (
 )
 
 game (
-	comment "Donkey Kong (USA) (Rev 1) (e-Reader Edition)"
+	comment "Donkey Kong (USA) (Rev 1) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 36BF9F65 )
 )
 
 game (
-	comment "Donkey Kong (World) (Rev 1) (GameCube Edition)"
+	comment "Donkey Kong (World) (Rev 1) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 69A711FD )
 )
 
 game (
-	comment "Donkey Kong 3 (World) (GameCube Edition)"
+	comment "Donkey Kong 3 (World) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 47BEB9A1 )
 )
@@ -1378,25 +1402,25 @@ game (
 )
 
 game (
-	comment "Donkey Kong 3 (USA) (e-Reader Edition)"
+	comment "Donkey Kong 3 (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 849B93D0 )
 )
 
 game (
-	comment "Donkey Kong Jr. (World) (Rev 1) (GameCube Edition)"
+	comment "Donkey Kong Jr. (World) (Rev 1) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 4BE5AA9D )
 )
 
 game (
-	comment "Donkey Kong Jr. (USA) (Rev 1) (e-Reader Edition)"
+	comment "Donkey Kong Jr. (USA) (Rev 1) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc BC05039F )
 )
 
 game (
-	comment "Donkey Kong Jr. (Japan)"
+	comment "Donkey Kong Jr. (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc CC56D9A3 )
 )
@@ -1444,7 +1468,7 @@ game (
 )
 
 game (
-	comment "Dr. Mario (USA) (Beta 1) (1990-04-27)"
+	comment "Dr. Mario (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 233055B6 )
 )
@@ -1458,7 +1482,13 @@ game (
 game (
 	comment "Dr. Mario (USA) (Beta 2)"
 	esrb_rating "E"
-	rom ( crc BA8579C5 )
+	rom ( crc 84A9AD82 )
+)
+
+game (
+	comment "Dr. Mario (USA) (Beta 2)"
+	esrb_rating "E"
+	rom ( crc C84F6700 )
 )
 
 game (
@@ -1528,37 +1558,37 @@ game (
 )
 
 game (
-	comment "DuckTales (USA) (Beta) (1989-02-05)"
+	comment "DuckTales (USA) (Beta 1)"
 	esrb_rating "E"
 	rom ( crc 88E87F83 )
 )
 
 game (
-	comment "DuckTales (USA) (Beta) (1989-05-25)"
+	comment "DuckTales (USA) (Beta 2)"
 	esrb_rating "E"
 	rom ( crc 5B9DDBD6 )
 )
 
 game (
-	comment "DuckTales (World) (The Disney Afternoon Collection) (Aftermarket) (Unl)"
+	comment "DuckTales (World) (The Disney Afternoon Collection)"
 	esrb_rating "E"
 	rom ( crc E10D36F3 )
 )
 
 game (
-	comment "Dudes with Attitude (USA) (Unl)"
+	comment "Dudes with Attitude (USA) (MB-91)"
 	esrb_rating "E"
 	rom ( crc 9BF3803A )
 )
 
 game (
-	comment "Dudes with Attitude (USA) (Rev 1) (Unl)"
+	comment "Dudes with Attitude (USA) (NINA-06)"
 	esrb_rating "E"
 	rom ( crc 2F8F22FC )
 )
 
 game (
-	comment "EarthBound Beginnings (USA, Europe) (Virtual Console)"
+	comment "EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)"
 	esrb_rating "T"
 	rom ( crc ABBE02FA )
 )
@@ -1570,13 +1600,13 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan)"
+	comment "Elevator Action (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 9F1F2182 )
 )
 
 game (
-	comment "Elevator Action (Japan) (Rev 1)"
+	comment "Elevator Action (Japan) (En) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc 19FFA2EF )
 )
@@ -1588,15 +1618,21 @@ game (
 )
 
 game (
-	comment "Elevator Action (Japan) (Rev 1) (Virtual Console)"
+	comment "Elevator Action (Japan) (En) (Rev 1) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 31DC8B26 )
 )
 
 game (
-	comment "Excitebike (Asia) (En) (LA21) (Pirate)"
+	comment "Excitebike (Asia) (En) (Pirate)"
 	esrb_rating "E"
-	rom ( crc 17787FAF )
+	rom ( crc 12CA5AC8 )
+)
+
+game (
+	comment "Excitebike (Asia) (En) (Pirate)"
+	esrb_rating "E"
+	rom ( crc 393F1F36 )
 )
 
 game (
@@ -1606,13 +1642,13 @@ game (
 )
 
 game (
-	comment "Excitebike (USA) (e-Reader Edition)"
+	comment "Excitebike (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc FFBB6E4F )
 )
 
 game (
-	comment "Excitebike (Japan, USA) (En) (GameCube Edition)"
+	comment "Excitebike (Japan, USA) (En) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 486CEC05 )
 )
@@ -1624,7 +1660,7 @@ game (
 )
 
 game (
-	comment "Excitebike (Japan, USA) (En) (Virtual Console)"
+	comment "Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini)"
 	esrb_rating "E"
 	rom ( crc 7F6B35C4 )
 )
@@ -1738,7 +1774,7 @@ game (
 )
 
 game (
-	comment "Galaga (Japan)"
+	comment "Galaga (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 2ED7CD88 )
 )
@@ -1756,13 +1792,13 @@ game (
 )
 
 game (
-	comment "Galaxian (Japan)"
+	comment "Galaxian (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 8451DC60 )
 )
 
 game (
-	comment "Galaxian (Japan) (Rev 1)"
+	comment "Galaxian (Japan) (En) (Rev 1)"
 	esrb_rating "E"
 	rom ( crc FAB815BE )
 )
@@ -1770,7 +1806,13 @@ game (
 game (
 	comment "Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)"
 	esrb_rating "E"
-	rom ( crc 9CD85129 )
+	rom ( crc 3A9EE524 )
+)
+
+game (
+	comment "Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)"
+	esrb_rating "E"
+	rom ( crc B6805889 )
 )
 
 game (
@@ -1780,7 +1822,7 @@ game (
 )
 
 game (
-	comment "Gekikame Ninja Den (Japan) (The Cowabunga Collection) (Aftermarket)"
+	comment "Gekikame Ninja Den (Japan) (The Cowabunga Collection)"
 	esrb_rating "E"
 	rom ( crc F51BCC5F )
 )
@@ -1822,7 +1864,7 @@ game (
 )
 
 game (
-	comment "Golf (USA) (e-Reader Edition)"
+	comment "Golf (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 636EA7C5 )
 )
@@ -1840,25 +1882,25 @@ game (
 )
 
 game (
-	comment "Golf (USA)"
+	comment "Golf (USA, Asia) (En)"
 	esrb_rating "E"
 	rom ( crc 2014B5D1 )
 )
 
 game (
-	comment "Golf (Europe) (GameCube Edition)"
+	comment "Golf (Europe) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 45B809E6 )
 )
 
 game (
-	comment "Golf (Japan) (En) (GameCube Edition)"
+	comment "Golf (Japan) (En) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc E28A9513 )
 )
 
 game (
-	comment "Goonies (Japan)"
+	comment "Goonies (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 7B12E8E6 )
 )
@@ -1918,7 +1960,7 @@ game (
 )
 
 game (
-	comment "Highway Star (Japan)"
+	comment "Highway Star (Japan) (En) (Famicom 3D System)"
 	esrb_rating "E"
 	rom ( crc 711EC878 )
 )
@@ -1942,7 +1984,7 @@ game (
 )
 
 game (
-	comment "Hot Slots (Asia) (Ja) (Unl)"
+	comment "Hot Slots (USA)"
 	esrb_rating "M"
 	rom ( crc 69310A47 )
 )
@@ -1960,7 +2002,7 @@ game (
 )
 
 game (
-	comment "Indiana Jones and the Temple of Doom (USA) (Unl)"
+	comment "Indiana Jones and the Temple of Doom (USA) (V1.1)"
 	esrb_rating "E"
 	rom ( crc 5FFFF9FB )
 )
@@ -1986,7 +2028,13 @@ game (
 game (
 	comment "Kid Dracula (World) (Castlevania Anniversary Collection)"
 	esrb_rating "E"
-	rom ( crc ABA5001B )
+	rom ( crc A677AC48 )
+)
+
+game (
+	comment "Kid Dracula (World) (Castlevania Anniversary Collection)"
+	esrb_rating "E"
+	rom ( crc 64AFD592 )
 )
 
 game (
@@ -2086,13 +2134,13 @@ game (
 )
 
 game (
-	comment "Legend of Zelda, The (USA) (Rev 1) (GameCube Edition)"
+	comment "Legend of Zelda, The (USA) (Rev 1) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 486E5EEF )
 )
 
 game (
-	comment "Legend of Zelda, The (USA) (Collector's Edition)"
+	comment "Legend of Zelda, The (USA) (Zelda Collection)"
 	esrb_rating "E"
 	rom ( crc 3ADA8E8A )
 )
@@ -2134,7 +2182,7 @@ game (
 )
 
 game (
-	comment "Life Force (USA) (Rev 1)"
+	comment "Life Force (USA) (Rev 1) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc E4AFDB8F )
 )
@@ -2206,7 +2254,7 @@ game (
 )
 
 game (
-	comment "Makaimura (Japan)"
+	comment "Makaimura (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 1BF83927 )
 )
@@ -2236,13 +2284,13 @@ game (
 )
 
 game (
-	comment "Mario Bros. (USA) (e-Reader Edition)"
+	comment "Mario Bros. (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 066073A4 )
 )
 
 game (
-	comment "Mario Bros. (World) (GameCube Edition)"
+	comment "Mario Bros. (World) (Animal Crossing)"
 	esrb_rating "E"
 	rom ( crc 79639DC5 )
 )
@@ -2302,7 +2350,7 @@ game (
 )
 
 game (
-	comment "Mega Man 2 (USA) (Mega Man iam8bit 30th Anniversary) (Aftermarket) (Unl)"
+	comment "Mega Man 2 (USA) (iam8bit)"
 	esrb_rating "E"
 	rom ( crc EE8EA65F )
 )
@@ -2470,9 +2518,15 @@ game (
 )
 
 game (
-	comment "Micro Mages (World) (Aftermarket) (Homebrew)"
+	comment "Micro Mages (World) (Demo 2)"
 	esrb_rating "E"
-	rom ( crc 7982ACC7 )
+	rom ( crc C302087E )
+)
+
+game (
+	comment "Micro Mages (World) (Demo 2)"
+	esrb_rating "E"
+	rom ( crc F4EB34C1 )
 )
 
 game (
@@ -2584,19 +2638,19 @@ game (
 )
 
 game (
-	comment "NESnake 2 (World) (v1.2) (PAL) (Aftermarket) (Homebrew)"
+	comment "NESnake 2 (World) (v1.2) (PAL)"
 	esrb_rating "E"
 	rom ( crc 28C2FFCD )
 )
 
 game (
-	comment "NESnake 2 (World) (v1.3) (Aftermarket) (Homebrew)"
+	comment "NESnake 2 (World) (v1.3)"
 	esrb_rating "E"
 	rom ( crc 74E21558 )
 )
 
 game (
-	comment "NESnake 2 (World) (v1.2) (NTSC) (Aftermarket) (Homebrew)"
+	comment "NESnake 2 (World) (v1.2)"
 	esrb_rating "E"
 	rom ( crc EC5B9262 )
 )
@@ -2620,7 +2674,7 @@ game (
 )
 
 game (
-	comment "Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Sample) (1990-01-18)"
+	comment "Ninja Gaiden II - The Dark Sword of Chaos (USA) (Beta)"
 	esrb_rating "E"
 	rom ( crc C6E6F6A1 )
 )
@@ -2746,7 +2800,7 @@ game (
 )
 
 game (
-	comment "Obake no Q Tarou - Wanwan Panic (Japan)"
+	comment "Obake no Q Tarou - Wanwan Panic (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 49673028 )
 )
@@ -2764,19 +2818,19 @@ game (
 )
 
 game (
-	comment "Pac-Man (USA) (Virtual Console)"
+	comment "Pac-Man (USA) (Namco) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 5CCE7A22 )
 )
 
 game (
-	comment "Pac-Man Championship Edition (USA, Europe) (Namco Museum Archives Vol 1)"
+	comment "Pac-Man - Championship Edition (USA, Europe) (Namco Museum Archives Vol 1)"
 	esrb_rating "E"
 	rom ( crc 39E8AE60 )
 )
 
 game (
-	comment "Pac-Man Championship Edition (Japan) (En) (Namcot Collection)"
+	comment "Pac-Man - Championship Edition (Japan) (En) (Namcot Collection)"
 	esrb_rating "E"
 	rom ( crc BB8E5D2E )
 )
@@ -2890,7 +2944,7 @@ game (
 )
 
 game (
-	comment "Rocman X (Asia) (Ja) (Unl)"
+	comment "Rocman X (Asia) (En) (Pirate)"
 	esrb_rating "E"
 	rom ( crc 39AC02CD )
 )
@@ -2938,7 +2992,7 @@ game (
 )
 
 game (
-	comment "Shen Tan Ke Nan (Asia) (Unl)"
+	comment "Shentan Kenan (China) (Pirate)"
 	esrb_rating "E"
 	rom ( crc 089DF231 )
 )
@@ -2968,49 +3022,49 @@ game (
 )
 
 game (
-	comment "Soap Panic (Japan) (Unl)"
+	comment "Soap Panic (Japan)"
 	esrb_rating "M"
 	rom ( crc 60B5535F )
 )
 
 game (
-	comment "Solar Wars (World) (Aftermarket) (Homebrew)"
+	comment "Solar Wars (World)"
 	esrb_rating "E"
 	rom ( crc 7D34E80A )
 )
 
 game (
-	comment "Solar Wars (World) (Aftermarket) (Homebrew) (Alt)"
+	comment "Solar Wars (World) (v1.3)"
 	esrb_rating "E"
 	rom ( crc DE18B7FF )
 )
 
 game (
-	comment "Solar Wars (World) (v1.5) (Aftermarket) (Homebrew)"
+	comment "Solar Wars (World) (v1.5) (CNROM)"
 	esrb_rating "E"
 	rom ( crc 4F3DC56F )
 )
 
 game (
-	comment "Solar Wars (World) (v1) (Aftermarket) (Homebrew)"
+	comment "Solar Wars (World) (Beta 1) (No Sound)"
 	esrb_rating "E"
 	rom ( crc 97C6FF08 )
 )
 
 game (
-	comment "Solar Wars (World) (v2) (Aftermarket) (Homebrew)"
+	comment "Solar Wars (World) (Beta 2) (No Sound)"
 	esrb_rating "E"
 	rom ( crc BF359FA9 )
 )
 
 game (
-	comment "Somari (Asia) (En) (Aftermarket) (Pirate)"
+	comment "Somari (Taiwan) (En) (Pirate)"
 	esrb_rating "E"
 	rom ( crc EAA3C5D2 )
 )
 
 game (
-	comment "Somari (Asia) (En) (Rev 1) (Aftermarket) (Pirate)"
+	comment "Somari (Taiwan) (En) (v1.1) (Pirate)"
 	esrb_rating "E"
 	rom ( crc C7992017 )
 )
@@ -3076,13 +3130,13 @@ game (
 )
 
 game (
-	comment "Super Mario USA (Japan)"
+	comment "Super Mario USA (Japan) (En)"
 	esrb_rating "E"
 	rom ( crc 94076BF6 )
 )
 
 game (
-	comment "Super Mario USA (Japan) (Virtual Console)"
+	comment "Super Mario USA (Japan) (En) (Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 5B31115B )
 )
@@ -3112,7 +3166,7 @@ game (
 )
 
 game (
-	comment "TaleSpin (World) (The Disney Afternoon Collection) (Aftermarket) (Unl)"
+	comment "TaleSpin (World) (The Disney Afternoon Collection)"
 	esrb_rating "E"
 	rom ( crc 55E705DD )
 )
@@ -3160,13 +3214,13 @@ game (
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles (Japan) (En) (The Cowabunga Collection) (Aftermarket)"
+	comment "Teenage Mutant Ninja Turtles (Japan) (En) (The Cowabunga Collection)"
 	esrb_rating "E"
 	rom ( crc 6853E7A7 )
 )
 
 game (
-	comment "Teenage Mutant Ninja Turtles (USA) (The Cowabunga Collection) (Aftermarket)"
+	comment "Teenage Mutant Ninja Turtles (USA) (The Cowabunga Collection)"
 	esrb_rating "E"
 	rom ( crc 7F29F6C4 )
 )
@@ -3238,12 +3292,6 @@ game (
 )
 
 game (
-	comment "Ufouria - The Saga (USA) (Proto 1)"
-	esrb_rating "E"
-	rom ( crc 51125D00 )
-)
-
-game (
 	comment "Ufouria - The Saga (USA, Europe) (Wii Virtual Console)"
 	esrb_rating "E"
 	rom ( crc 61B971CC )
@@ -3262,27 +3310,21 @@ game (
 )
 
 game (
-	comment "Urban Champion (USA) (e-Reader Edition)"
+	comment "Urban Champion (USA) (e-Reader)"
 	esrb_rating "E"
 	rom ( crc 403E924C )
 )
 
 game (
-	comment "Virus (USA) (Beta) (1989-xx-xx)"
+	comment "Virus (USA) (Proto 1)"
 	esrb_rating "E"
 	rom ( crc CAC36615 )
 )
 
 game (
-	comment "Virus (USA) (Beta) (1990-02-02)"
+	comment "Virus (USA) (Proto 2)"
 	esrb_rating "E"
 	rom ( crc 9C249E25 )
-)
-
-game (
-	comment "Virus (USA) (Beta) (1990-03-xx)"
-	esrb_rating "E"
-	rom ( crc 8064E7D6 )
 )
 
 game (
@@ -3434,4 +3476,3 @@ game (
 	esrb_rating "E"
 	rom ( crc F3C6D400 )
 )
-

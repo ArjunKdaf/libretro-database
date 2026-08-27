@@ -10,13 +10,13 @@ game (
 )
 
 game (
-	comment "Air Fortress (Japan) (Proto) (1986-10-20)"
+	comment "Air Fortress (Japan) (Proto)"
 	genre "Shoot'em Up"
 	rom ( crc 4928D322 )
 )
 
 game (
-	comment "Adian no Tsue (Japan) (Beta) (1986-10-29)"
+	comment "Adian no Tsue (Japan) (Beta)"
 	genre "Educational"
 	rom ( crc E342932F )
 )
@@ -34,25 +34,25 @@ game (
 )
 
 game (
-	comment "Akuu Senki Raijin (Japan) (Beta) (1987-06-10)"
+	comment "Akuu Senki Raijin (Japan) (Beta)"
 	genre "Shoot'em Up"
 	rom ( crc CE97DDD2 )
 )
 
 game (
-	comment "Aliens - Alien 2 (Japan) (Proto) (1986-12-15)"
+	comment "Aliens - Alien 2 (Japan) (Proto)"
 	genre "Shoot'em Up"
 	rom ( crc 2B779EE3 )
 )
 
 game (
-	comment "Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)"
+	comment "Aki to Tsukasa no Fushigi no Kabe (Japan)"
 	genre "Puzzle"
 	rom ( crc 672B7F6C )
 )
 
 game (
-	comment "All Night Nippon Super Mario Bros. (Japan) (Promo)"
+	comment "All Night Nippon Super Mario Bros. (Japan) (En) (Promo)"
 	genre "Platform"
 	rom ( crc 43E7FE95 )
 )
@@ -66,7 +66,7 @@ game (
 game (
 	comment "Backgammon (Japan)"
 	genre "Board"
-	rom ( crc 850BC084 )
+	rom ( crc 4D62DE66 )
 )
 
 game (
@@ -90,7 +90,7 @@ game (
 game (
 	comment "Balloon Fight (Japan) (En) (Proto)"
 	genre "Platform"
-	rom ( crc 5A6F44A9 )
+	rom ( crc 2724BA9A )
 )
 
 game (
@@ -126,95 +126,89 @@ game (
 game (
 	comment "Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 84FAE82B )
+	rom ( crc 494CC75E )
 )
 
 game (
 	comment "Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console)"
 	genre "Platform"
-	rom ( crc 84FAE82B )
+	rom ( crc E6801342 )
 )
 
 game (
-	comment "Bishoujo Alien Battle (Japan) (Unl)"
+	comment "Bishoujo Alien Battle (Japan)"
 	genre "Card"
 	rom ( crc E89FED10 )
 )
 
 game (
-	comment "Bishoujo Alien Battle (Japan) (Unl) (Alt) [b]"
-	genre "Card"
-	rom ( crc BD94735E )
-)
-
-game (
-	comment "Bishoujo Control (Japan) (Unl)"
+	comment "Bishoujo Control (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc 058330FE )
 )
 
 game (
-	comment "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl)"
+	comment "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan)"
 	genre "Board"
 	rom ( crc 798BEA42 )
 )
 
 game (
-	comment "Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl)"
+	comment "Bishoujo Kachinuki Renju - Gomoku Narabe (Japan)"
 	genre "Board"
 	rom ( crc FF06EB11 )
 )
 
 game (
-	comment "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl)"
+	comment "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan)"
 	genre "Board"
 	rom ( crc 478F36D6 )
 )
 
 game (
-	comment "Bishoujo Mahjong Club (Japan) (Unl)"
+	comment "Bishoujo Mahjong Club (Japan)"
 	genre "Board"
 	rom ( crc DEAEF7E0 )
 )
 
 game (
-	comment "Bishoujo Sexy Puzzle (Japan) (Unl)"
+	comment "Bishoujo Sexy Puzzle (Japan)"
 	genre "Puzzle"
 	rom ( crc 6B0F343E )
 )
 
 game (
-	comment "Bishoujo Sexy Derby (Japan) (Unl)"
+	comment "Bishoujo Sexy Derby (Japan)"
 	genre "Adult"
 	rom ( crc BEB6DD2A )
 )
 
 game (
-	comment "Bishoujo Shashinkan - Moving School (Japan) (Unl)"
+	comment "Bishoujo Shashinkan - Moving School (Japan)"
 	genre "Adult"
 	rom ( crc 8E0BBA37 )
 )
 
 game (
-	comment "Bishoujo Shashinkan - Studio Cut (Japan) (Unl)"
+	comment "Bishoujo Shashinkan - Studio Cut (Japan)"
 	genre "Simulation"
 	rom ( crc D761A49C )
 )
 
 game (
-	comment "Bishoujo Sexy Slot (Japan) (Unl)"
+	comment "Bishoujo Sexy Slot (Japan)"
 	genre "Adult"
 	rom ( crc BC15B7F1 )
 )
 
 game (
-	comment "Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl)"
+	comment "Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1)"
 	genre "Role-playing (RPG)"
 	rom ( crc 6E59EC4F )
 )
 
 game (
-	comment "Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl)"
+	comment "Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2)"
 	genre "Role-playing (RPG)"
 	rom ( crc DD80EA36 )
 )
@@ -228,7 +222,7 @@ game (
 game (
 	comment "Bubble Bobble (Japan) (Wii and Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc 86B755E1 )
+	rom ( crc 1CFC87EC )
 )
 
 game (
@@ -240,13 +234,7 @@ game (
 game (
 	comment "Bubble Bobble (Japan) (3DS Virtual Console)"
 	genre "Platform"
-	rom ( crc 86B755E1 )
-)
-
-game (
-	comment "Casino de Pink (Japan) (Unl) [b]"
-	genre "Adult"
-	rom ( crc D3E3FD42 )
+	rom ( crc E48F3EA6 )
 )
 
 game (
@@ -274,7 +262,7 @@ game (
 )
 
 game (
-	comment "Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl)"
+	comment "Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan)"
 	genre "Adult"
 	rom ( crc 6F298C83 )
 )
@@ -282,7 +270,7 @@ game (
 game (
 	comment "Clu Clu Land (Japan) (En) (GameCube, Virtual Console)"
 	genre "Puzzle"
-	rom ( crc 12BF0901 )
+	rom ( crc 406EDD8D )
 )
 
 game (
@@ -292,31 +280,31 @@ game (
 )
 
 game (
-	comment "Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl)"
+	comment "Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan)"
 	genre "Shooter"
 	rom ( crc 6880B1F3 )
 )
 
 game (
-	comment "Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl)"
+	comment "Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan)"
 	genre "Shooter"
 	rom ( crc 6532906E )
 )
 
 game (
-	comment "Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl)"
+	comment "Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan)"
 	genre "Card"
 	rom ( crc EDDB3816 )
 )
 
 game (
-	comment "Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl)"
+	comment "Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan)"
 	genre "Card"
 	rom ( crc A3BD4E0B )
 )
 
 game (
-	comment "Date de Blackjack (Japan) (Unl)"
+	comment "Date de Blackjack (Japan)"
 	genre "Gambling"
 	rom ( crc AD361F32 )
 )
@@ -340,7 +328,7 @@ game (
 )
 
 game (
-	comment "Dead Zone (Japan) (Beta) (1986-10-06)"
+	comment "Dead Zone (Japan) (Beta)"
 	genre "Adventure"
 	rom ( crc 9B91F0F8 )
 )
@@ -384,11 +372,11 @@ game (
 game (
 	comment "Dracula II - Noroi no Fuuin (Japan) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc 9B0F34A6 )
+	rom ( crc F451269F )
 )
 
 game (
-	comment "Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24)"
+	comment "Druid - Kyoufu no Tobira (Japan) (Beta)"
 	genre "Action"
 	rom ( crc 47FF9438 )
 )
@@ -408,11 +396,11 @@ game (
 game (
 	comment "Egger Land (Japan) (Rev 1) (Possible Proto)"
 	genre "Puzzle"
-	rom ( crc 089FA25A )
+	rom ( crc CF2A8BF8 )
 )
 
 game (
-	comment "Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11)"
+	comment "Egger Land - Souzou e no Tabidachi (Japan) (Beta)"
 	genre "Puzzle"
 	rom ( crc 5C50B9FC )
 )
@@ -430,7 +418,7 @@ game (
 )
 
 game (
-	comment "Emi-chan no Moero Yakyuuken! (Japan) (Unl)"
+	comment "Emi-chan no Moero Yakyuuken! (Japan)"
 	genre "Adult"
 	rom ( crc 13B688B4 )
 )
@@ -450,7 +438,7 @@ game (
 game (
 	comment "Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc B94B78EA )
+	rom ( crc B954C11A )
 )
 
 game (
@@ -462,7 +450,7 @@ game (
 game (
 	comment "Esper Dream (Japan) (Rev 1) (3DS Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc B94B78EA )
+	rom ( crc EDAF1A42 )
 )
 
 game (
@@ -484,7 +472,7 @@ game (
 )
 
 game (
-	comment "Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)"
+	comment "Fairy Pinball - Yousei Tachi no Pinball (Japan)"
 	genre "Pinball"
 	rom ( crc AC7ED005 )
 )
@@ -502,15 +490,9 @@ game (
 )
 
 game (
-	comment "Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt)"
-	genre "Pinball"
-	rom ( crc 8D561754 )
-)
-
-game (
 	comment "Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)"
 	genre "Racing"
-	rom ( crc F8A257B2 )
+	rom ( crc 81FADA11 )
 )
 
 game (
@@ -520,27 +502,27 @@ game (
 )
 
 game (
-	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7)"
+	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System)"
 	genre "Racing"
 	rom ( crc A6A25143 )
 )
 
 game (
-	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5)"
+	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System)"
 	genre "Racing"
 	rom ( crc A0F93B27 )
 )
 
 game (
-	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)"
+	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System)"
 	genre "Racing"
-	rom ( crc B1BDB8AA )
+	rom ( crc 0B2C84E9 )
 )
 
 game (
 	comment "Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc 23D66E1B )
+	rom ( crc 7AF926AB )
 )
 
 game (
@@ -564,13 +546,13 @@ game (
 game (
 	comment "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc AC989864 )
+	rom ( crc 5742BD49 )
 )
 
 game (
 	comment "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc AC989864 )
+	rom ( crc 4233BDF3 )
 )
 
 game (
@@ -600,19 +582,19 @@ game (
 game (
 	comment "Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc D4DF5E03 )
+	rom ( crc 61360DA0 )
 )
 
 game (
 	comment "Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc A834D289 )
+	rom ( crc 6DBF2FFC )
 )
 
 game (
 	comment "Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc A834D289 )
+	rom ( crc 4D092907 )
 )
 
 game (
@@ -624,7 +606,7 @@ game (
 game (
 	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc FABD64FD )
+	rom ( crc 91BC6638 )
 )
 
 game (
@@ -636,13 +618,13 @@ game (
 game (
 	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc 11A2A474 )
+	rom ( crc 26E56B6B )
 )
 
 game (
 	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console)"
 	genre "Adventure"
-	rom ( crc 11A2A474 )
+	rom ( crc 0C697954 )
 )
 
 game (
@@ -654,7 +636,7 @@ game (
 game (
 	comment "Family Composer (Japan) (Rev 1) (Possible Proto)"
 	genre "Music / Dancing"
-	rom ( crc 49FF37AF )
+	rom ( crc FDDBC00D )
 )
 
 game (
@@ -682,7 +664,7 @@ game (
 )
 
 game (
-	comment "Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer)"
+	comment "Famimaga Disk Vol. 4 - Clocks (Japan) (Disk Writer)"
 	genre "Puzzle"
 	rom ( crc 135831C4 )
 )
@@ -712,55 +694,55 @@ game (
 )
 
 game (
-	comment "Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl)"
+	comment "Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan)"
 	genre "Board"
 	rom ( crc 722ECA6D )
 )
 
 game (
-	comment "Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl)"
+	comment "Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan)"
 	genre "Board"
 	rom ( crc F4300462 )
 )
 
 game (
-	comment "Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl)"
+	comment "Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan)"
 	genre "Board"
 	rom ( crc D065DFCF )
 )
 
 game (
-	comment "Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl)"
+	comment "Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan)"
 	genre "Board"
 	rom ( crc 1F0E3CBC )
 )
 
 game (
-	comment "Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl)"
+	comment "Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan)"
 	genre "Board"
 	rom ( crc EFF1B027 )
 )
 
 game (
-	comment "Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl)"
+	comment "Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan)"
 	genre "Board"
 	rom ( crc 7D853EEC )
 )
 
 game (
-	comment "Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl)"
+	comment "Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan)"
 	genre "Board"
 	rom ( crc F5DE88B1 )
 )
 
 game (
-	comment "Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl)"
+	comment "Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan)"
 	genre "Board"
 	rom ( crc 4A42467D )
 )
 
 game (
-	comment "Fuuun Shourin Ken - Ankoku no Maou (Japan)"
+	comment "Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System)"
 	genre "Fighting"
 	rom ( crc 3C5F6468 )
 )
@@ -790,7 +772,7 @@ game (
 )
 
 game (
-	comment "Game no Tatsujin - Money Wars (Japan) (Unl)"
+	comment "Game no Tatsujin - Money Wars (Japan)"
 	genre "Adult"
 	rom ( crc DA1E66C9 )
 )
@@ -804,7 +786,7 @@ game (
 game (
 	comment "Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto)"
 	genre "Adventure"
-	rom ( crc 37695AA6 )
+	rom ( crc 960D68B0 )
 )
 
 game (
@@ -834,7 +816,7 @@ game (
 game (
 	comment "Golf (Japan) (Rev 2) (Possible Proto)"
 	genre "Sports"
-	rom ( crc 14C939E9 )
+	rom ( crc 04BBD0FC )
 )
 
 game (
@@ -880,7 +862,7 @@ game (
 )
 
 game (
-	comment "Golf, The - Bishoujo Classic (Japan) (Unl)"
+	comment "Golf, The - Bishoujo Classic (Japan)"
 	genre "Sports"
 	rom ( crc 6781C413 )
 )
@@ -888,7 +870,7 @@ game (
 game (
 	comment "Gomoku Narabe (Japan) (Proto)"
 	genre "Board"
-	rom ( crc 6521FAC2 )
+	rom ( crc D080F23A )
 )
 
 game (
@@ -916,7 +898,7 @@ game (
 )
 
 game (
-	comment "Gyruss (Japan) (Beta) (1988-10-03)"
+	comment "Gyruss (Japan) (Beta)"
 	genre "Shoot'em Up"
 	rom ( crc 73B64FFE )
 )
@@ -928,7 +910,7 @@ game (
 )
 
 game (
-	comment "Hayama Reiko no Date de Blackjack (Japan) (Unl)"
+	comment "Hayama Reiko no Date de Blackjack (Japan)"
 	genre "Gambling"
 	rom ( crc E918A01A )
 )
@@ -954,7 +936,7 @@ game (
 game (
 	comment "Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console)"
 	genre "Platform"
-	rom ( crc DBF2F8E0 )
+	rom ( crc B88D9BC2 )
 )
 
 game (
@@ -982,7 +964,7 @@ game (
 )
 
 game (
-	comment "Ice Climber (Japan) (Disk Writer)"
+	comment "Ice Climber (Japan) (En) (Disk Writer)"
 	genre "Platform"
 	rom ( crc 036A80DD )
 )
@@ -996,19 +978,19 @@ game (
 game (
 	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)"
 	genre "Adventure"
-	rom ( crc C94DD6E1 )
+	rom ( crc 10266CDD )
 )
 
 game (
 	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6)"
 	genre "Adventure"
-	rom ( crc C94DD6E1 )
+	rom ( crc ABDDEC53 )
 )
 
 game (
 	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer)"
 	genre "Adventure"
-	rom ( crc C94DD6E1 )
+	rom ( crc ED26AB9F )
 )
 
 game (
@@ -1026,7 +1008,7 @@ game (
 game (
 	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)"
 	genre "Adventure"
-	rom ( crc C94DD6E1 )
+	rom ( crc 525C5BB1 )
 )
 
 game (
@@ -1036,7 +1018,7 @@ game (
 )
 
 game (
-	comment "Jingorou (Japan) (Unl)"
+	comment "Jingorou (Japan)"
 	genre "Various"
 	rom ( crc 72A0BD81 )
 )
@@ -1044,7 +1026,7 @@ game (
 game (
 	comment "Kaettekita Mario Bros. (Japan) (Disk Writer)"
 	genre "Platform"
-	rom ( crc 596643BE )
+	rom ( crc 4D5BFD77 )
 )
 
 game (
@@ -1090,7 +1072,7 @@ game (
 )
 
 game (
-	comment "Kind Gal's (Japan) (Disk 2) (Unl)"
+	comment "Kind Gal's (Japan) (Disk 2)"
 	genre "Adventure"
 	rom ( crc 65C5AAEC )
 )
@@ -1102,7 +1084,7 @@ game (
 )
 
 game (
-	comment "Kind Gal's (Japan) (Disk 1) (Unl)"
+	comment "Kind Gal's (Japan) (Disk 1)"
 	genre "Adventure"
 	rom ( crc 66686B06 )
 )
@@ -1138,7 +1120,7 @@ game (
 )
 
 game (
-	comment "Kobayashi Hitomi Shocking Tennis (Japan) (Unl)"
+	comment "Kobayashi Hitomi Shocking Tennis (Japan)"
 	genre "Sports"
 	rom ( crc 187EC24C )
 )
@@ -1150,7 +1132,7 @@ game (
 )
 
 game (
-	comment "Kobayashi Hitomi no Hold Up (Japan) (Unl)"
+	comment "Kobayashi Hitomi no Hold Up (Japan)"
 	genre "Adult"
 	rom ( crc 8A286B73 )
 )
@@ -1162,7 +1144,7 @@ game (
 )
 
 game (
-	comment "Konamic Tennis (Japan) (Beta) (1986-10-22)"
+	comment "Konamic Tennis (Japan) (Beta)"
 	genre "Sports"
 	rom ( crc 694F064C )
 )
@@ -1174,7 +1156,7 @@ game (
 )
 
 game (
-	comment "Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03)"
+	comment "Koneko Monogatari - The Adventures of Chatran (Japan) (Sample)"
 	genre "Platform"
 	rom ( crc 3438794B )
 )
@@ -1182,53 +1164,59 @@ game (
 game (
 	comment "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)"
 	genre "Role-playing (RPG)"
-	rom ( crc 1187FE3D )
+	rom ( crc 3024CAD5 )
 )
 
 game (
 	comment "Link no Bouken - The Legend of Zelda 2 (Japan)"
 	genre "Role-playing (RPG)"
-	rom ( crc 25DDEDAD )
+	rom ( crc 0C3EBC28 )
 )
 
 game (
 	comment "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)"
 	genre "Role-playing (RPG)"
-	rom ( crc 25DDEDAD )
+	rom ( crc D9D60599 )
+)
+
+game (
+	comment "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)"
+	genre "Role-playing (RPG)"
+	rom ( crc DF122ED1 )
 )
 
 game (
 	comment "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console)"
 	genre "Role-playing (RPG)"
-	rom ( crc 25DDEDAD )
+	rom ( crc 5F1D39CB )
 )
 
 game (
-	comment "Lipstick #1 - Lolita Hen (Japan) (Unl)"
+	comment "Lipstick #1 - Lolita Hen (Japan)"
 	genre "Adult"
 	rom ( crc 25F0A30F )
 )
 
 game (
-	comment "Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl)"
+	comment "Lipstick #2 - Joshi Gakusei Hen (Japan)"
 	genre "Adult"
 	rom ( crc 784EE9C5 )
 )
 
 game (
-	comment "Lipstick #4 - Hakui no Tenshi Hen (Japan) (Unl)"
+	comment "Lipstick #4 - Hakui no Tenshi Hen (Japan)"
 	genre "Adult"
 	rom ( crc 3C636CE0 )
 )
 
 game (
-	comment "Lipstick #3 - OL Hen (Japan) (Unl)"
+	comment "Lipstick #3 - OL Hen (Japan)"
 	genre "Adult"
 	rom ( crc 416315EC )
 )
 
 game (
-	comment "Lipstick #5 - Stewardess Hen (Japan) (Unl)"
+	comment "Lipstick #5 - Stewardess Hen (Japan)"
 	genre "Adult"
 	rom ( crc 30472B1E )
 )
@@ -1252,7 +1240,7 @@ game (
 )
 
 game (
-	comment "Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl)"
+	comment "Mahjong Goraku - Bishoujo Meijinsen (Japan)"
 	genre "Adult"
 	rom ( crc 19AE50DD )
 )
@@ -1272,7 +1260,7 @@ game (
 game (
 	comment "Mahjong Kazoku (Japan)"
 	genre "Board"
-	rom ( crc 3D43B203 )
+	rom ( crc 0160BB59 )
 )
 
 game (
@@ -1308,17 +1296,17 @@ game (
 game (
 	comment "Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc 582E3B66 )
+	rom ( crc 6AA1E4A2 )
 )
 
 game (
 	comment "Metroid (Japan) (Rev 3) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc 582E3B66 )
+	rom ( crc F45A0636 )
 )
 
 game (
-	comment "Michael English Daibouken (Japan) (Sample) (1987-03-25)"
+	comment "Michael English Daibouken (Japan) (Sample)"
 	genre "Educational"
 	rom ( crc E1BF6B02 )
 )
@@ -1344,7 +1332,7 @@ game (
 game (
 	comment "Money Game, The (Japan) (Proto)"
 	genre "Simulation"
-	rom ( crc E93ACD0C )
+	rom ( crc 6F81A8DA )
 )
 
 game (
@@ -1362,7 +1350,13 @@ game (
 game (
 	comment "Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto)"
 	genre "Puzzle"
-	rom ( crc 23096B29 )
+	rom ( crc C51FAFB7 )
+)
+
+game (
+	comment "Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto)"
+	genre "Puzzle"
+	rom ( crc 542F5CB8 )
 )
 
 game (
@@ -1392,13 +1386,13 @@ game (
 game (
 	comment "Nazo no Murasamejou (Japan) (GameCube)"
 	genre "Adventure"
-	rom ( crc 74523C8B )
+	rom ( crc DE74418B )
 )
 
 game (
 	comment "Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console)"
 	genre "Adventure"
-	rom ( crc 74523C8B )
+	rom ( crc 6D054479 )
 )
 
 game (
@@ -1416,7 +1410,7 @@ game (
 game (
 	comment "Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)"
 	genre "Adventure"
-	rom ( crc 74523C8B )
+	rom ( crc 1DF004F6 )
 )
 
 game (
@@ -1452,7 +1446,7 @@ game (
 game (
 	comment "Othello (Japan) (DV 2)"
 	genre "Board"
-	rom ( crc 7CEFC63B )
+	rom ( crc 39709BF6 )
 )
 
 game (
@@ -1464,7 +1458,7 @@ game (
 game (
 	comment "Othello (Japan) (DV 3, 5) (Disk Writer)"
 	genre "Board"
-	rom ( crc 7CEFC63B )
+	rom ( crc 7E901E0B )
 )
 
 game (
@@ -1474,7 +1468,7 @@ game (
 )
 
 game (
-	comment "Otocky (Japan) (Beta) (1986-04-15)"
+	comment "Otocky (Japan) (Beta)"
 	genre "Shoot'em Up"
 	rom ( crc 0CF97F84 )
 )
@@ -1570,19 +1564,19 @@ game (
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 1 (Japan)"
 	genre "Adult"
 	rom ( crc A6B85A58 )
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 2 (Japan)"
 	genre "Adult"
 	rom ( crc 5FF683AF )
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 3 (Japan)"
 	genre "Adult"
 	rom ( crc DA347669 )
 )
@@ -1594,19 +1588,19 @@ game (
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 4 (Japan)"
 	genre "Adult"
 	rom ( crc A887BC15 )
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 5 (Japan)"
 	genre "Adult"
 	rom ( crc C09721A9 )
 )
 
 game (
-	comment "Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)"
+	comment "Sailor Fuku Bishoujo Zukan Vol. 6 (Japan)"
 	genre "Adult"
 	rom ( crc 69B6AFED )
 )
@@ -1638,7 +1632,7 @@ game (
 game (
 	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console)"
 	genre "Strategy"
-	rom ( crc 83268F0A )
+	rom ( crc 286FBAEB )
 )
 
 game (
@@ -1650,7 +1644,7 @@ game (
 game (
 	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console)"
 	genre "Strategy"
-	rom ( crc 83268F0A )
+	rom ( crc F24355AF )
 )
 
 game (
@@ -1660,19 +1654,19 @@ game (
 )
 
 game (
-	comment "Sexy Invaders (Japan) (Unl)"
+	comment "Sexy Invaders (Japan)"
 	genre "Adult"
 	rom ( crc 413E49DA )
 )
 
 game (
-	comment "Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl)"
+	comment "Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan)"
 	genre "Adult"
 	rom ( crc FAA53B67 )
 )
 
 game (
-	comment "Shanghai (Japan) (Proto) (1986-10-16)"
+	comment "Shanghai (Japan) (Proto)"
 	genre "Board"
 	rom ( crc B1ED9311 )
 )
@@ -1692,7 +1686,7 @@ game (
 game (
 	comment "Silviana - Ai Ippai no Little Angel (Japan)"
 	genre "Role-playing (RPG)"
-	rom ( crc CC7738CD )
+	rom ( crc 09F95CB9 )
 )
 
 game (
@@ -1702,7 +1696,7 @@ game (
 )
 
 game (
-	comment "Soccer (Japan)"
+	comment "Soccer (Japan) (En)"
 	genre "Sports"
 	rom ( crc 638B6903 )
 )
@@ -1738,7 +1732,7 @@ game (
 )
 
 game (
-	comment "Super Mario Bros. (Japan)"
+	comment "Super Mario Bros. (Japan) (En)"
 	genre "Platform"
 	rom ( crc E0890CF2 )
 )
@@ -1758,7 +1752,7 @@ game (
 game (
 	comment "Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)"
 	genre "Platform"
-	rom ( crc B1CF3780 )
+	rom ( crc 5D08DD11 )
 )
 
 game (
@@ -1770,7 +1764,13 @@ game (
 game (
 	comment "Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.)"
 	genre "Platform"
-	rom ( crc B1CF3780 )
+	rom ( crc 42B63CA5 )
+)
+
+game (
+	comment "Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.)"
+	genre "Platform"
+	rom ( crc 88675F5C )
 )
 
 game (
@@ -1786,7 +1786,7 @@ game (
 )
 
 game (
-	comment "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)"
+	comment "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta)"
 	genre "Board"
 	rom ( crc FC14D862 )
 )
@@ -1800,7 +1800,7 @@ game (
 game (
 	comment "Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc A8DD4134 )
+	rom ( crc C139F698 )
 )
 
 game (
@@ -1812,7 +1812,7 @@ game (
 game (
 	comment "Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc A5179B5B )
+	rom ( crc 9AC78F51 )
 )
 
 game (
@@ -1830,7 +1830,7 @@ game (
 game (
 	comment "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc DA9A5DEC )
+	rom ( crc C4BE81E1 )
 )
 
 game (
@@ -1846,13 +1846,13 @@ game (
 )
 
 game (
-	comment "Tenshitachi no Houkago (Japan) (Disk 1) (Unl)"
+	comment "Tenshitachi no Houkago (Japan) (Disk 1)"
 	genre "Adult"
 	rom ( crc 0082D965 )
 )
 
 game (
-	comment "Tenshitachi no Houkago (Japan) (Disk 2) (Unl)"
+	comment "Tenshitachi no Houkago (Japan) (Disk 2)"
 	genre "Adult"
 	rom ( crc 1D47C48F )
 )
@@ -1876,9 +1876,9 @@ game (
 )
 
 game (
-	comment "Tobidase Daisakusen (Japan)"
+	comment "Tobidase Daisakusen (Japan) (Famicom 3D System)"
 	genre "Action"
-	rom ( crc 06D1F56C )
+	rom ( crc CAA25A7F )
 )
 
 game (
@@ -1896,11 +1896,11 @@ game (
 game (
 	comment "Topple Zip (Japan) (Project EGG)"
 	genre "Shoot'em Up"
-	rom ( crc E6E5ED6A )
+	rom ( crc A461BF9B )
 )
 
 game (
-	comment "TwinBee (Japan) (Disk Writer)"
+	comment "TwinBee (Japan) (En) (Disk Writer)"
 	genre "Shoot'em Up"
 	rom ( crc 4A5480E1 )
 )
@@ -1926,7 +1926,7 @@ game (
 game (
 	comment "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)"
 	genre "Role-playing (RPG)"
-	rom ( crc BB9F839F )
+	rom ( crc 74C0CD54 )
 )
 
 game (
@@ -1936,9 +1936,9 @@ game (
 )
 
 game (
-	comment "Vs. Excitebike (Japan, USA) (Virtual Console)"
+	comment "Vs. Excitebike (Japan, USA) (En) (Virtual Console)"
 	genre "Racing"
-	rom ( crc 79AA22D5 )
+	rom ( crc A1A824BF )
 )
 
 game (
@@ -1978,7 +1978,7 @@ game (
 )
 
 game (
-	comment "Yakyuuken Part II - Gal's Dungeon (Japan) (Unl)"
+	comment "Yakyuuken Part II - Gal's Dungeon (Japan)"
 	genre "Adult"
 	rom ( crc 616B9385 )
 )
@@ -2014,19 +2014,19 @@ game (
 )
 
 game (
-	comment "Zanac (Japan)"
+	comment "Zanac (AI) (Japan)"
 	genre "Shoot'em Up"
 	rom ( crc 2D90879B )
 )
 
 game (
-	comment "Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl)"
+	comment "Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan)"
 	genre "Adult"
 	rom ( crc A646F79E )
 )
 
 game (
-	comment "Zatsugaku Olympic Quiz Part II (Japan) (Unl)"
+	comment "Zatsugaku Olympic Quiz Part II (Japan)"
 	genre "Adult"
 	rom ( crc D69A4D87 )
 )
@@ -2038,7 +2038,7 @@ game (
 )
 
 game (
-	comment "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28)"
+	comment "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta)"
 	genre "Adventure"
 	rom ( crc 2F222391 )
 )
@@ -2052,18 +2052,17 @@ game (
 game (
 	comment "Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube)"
 	genre "Adventure"
-	rom ( crc 1C4AD4C8 )
+	rom ( crc 3F9E421C )
 )
 
 game (
 	comment "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)"
 	genre "Adventure"
-	rom ( crc 1C4AD4C8 )
+	rom ( crc B64B1456 )
 )
 
 game (
 	comment "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console)"
 	genre "Adventure"
-	rom ( crc 1C4AD4C8 )
+	rom ( crc 0FB00A60 )
 )
-

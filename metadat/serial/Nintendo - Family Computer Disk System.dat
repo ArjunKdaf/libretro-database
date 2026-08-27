@@ -15,39 +15,39 @@ game (
 	comment "Ai Senshi Nicol (Japan)"
 	serial "KDS-AIN"
 	rom (
-		crc 21A1AD6E
+		crc 3FBDBE79
 	)
 )
 
 game (
-	comment "Akumajou Dracula (Japan) (Rev 1) [b]"
+	comment "Akumajou Dracula (Japan) (Rev 1)"
 	serial "KDS-AKM"
 	rom (
-		crc 90E9E614
+		crc 9661E6A4
 	)
 )
 
 game (
-	comment "Akumajou Dracula (Japan) (Rev 2) [b]"
+	comment "Akumajou Dracula (Japan) (Rev 2) (Disk Writer)"
 	serial "KDS-AKM"
 	rom (
-		crc 41A471B3
+		crc 7448FB40
 	)
 )
 
 game (
-	comment "Akumajou Dracula (Japan) [b]"
+	comment "Akumajou Dracula (Japan)"
 	serial "KDS-AKM"
 	rom (
-		crc 509E4346
+		crc 90E99457
 	)
 )
 
 game (
-	comment "Akuu Senki Raijin (Japan) (Disk Writer) [b]"
+	comment "Akuu Senki Raijin (Japan) (Disk Writer)"
 	serial "SQF-RJN"
 	rom (
-		crc 115208BE
+		crc E188393F
 	)
 )
 
@@ -55,7 +55,7 @@ game (
 	comment "Apple Town Monogatari - Little Computer People (Japan)"
 	serial "SQF-APT"
 	rom (
-		crc 0F160238
+		crc 1967673E
 	)
 )
 
@@ -63,7 +63,7 @@ game (
 	comment "Armana no Kiseki (Japan)"
 	serial "KDS-ARM"
 	rom (
-		crc BB32BBD7
+		crc EC6D5DE3
 	)
 )
 
@@ -71,15 +71,15 @@ game (
 	comment "Aspic - Majaou no Noroi (Japan)"
 	serial "BTC-ASP"
 	rom (
-		crc 0028FB11
+		crc 1999ADDB
 	)
 )
 
 game (
-	comment "Backgammon (Japan) [b]"
+	comment "Backgammon (Japan)"
 	serial "FMC-BAG"
 	rom (
-		crc 97FF65A0
+		crc 4D62DE66
 	)
 )
 
@@ -87,7 +87,7 @@ game (
 	comment "Bakutoushi Patton-kun (Japan)"
 	serial "SFC-PAT"
 	rom (
-		crc 0D2ACF3F
+		crc 617942A4
 	)
 )
 
@@ -100,10 +100,10 @@ game (
 )
 
 game (
-	comment "Big Challenge! Dogfight Spirit (Japan) [b]"
+	comment "Big Challenge! Dogfight Spirit (Japan)"
 	serial "JDF-DFS"
 	rom (
-		crc 4C4440BB
+		crc 4E92B68E
 	)
 )
 
@@ -140,23 +140,23 @@ game (
 )
 
 game (
-	comment "Bomber Man (Japan) (Disk Writer) [b]"
+	comment "Bomberman (Japan) (Disk Writer)"
 	serial "HFC-BMD"
 	rom (
-		crc 8E440AD2
+		crc B84C2259
 	)
 )
 
 game (
-	comment "Breeder (Japan) [b]"
+	comment "Breeder (Japan)"
 	serial "SFC-BRE"
 	rom (
-		crc 6E103744
+		crc F8FC6D6E
 	)
 )
 
 game (
-	comment "Bubble Bobble (Japan) [b]"
+	comment "Bubble Bobble (Japan)"
 	serial "TFD-BUB"
 	rom (
 		crc 8C8D153E
@@ -164,7 +164,7 @@ game (
 )
 
 game (
-	comment "BurgerTime (Japan) (Disk Writer) [b]"
+	comment "BurgerTime (Japan) (Disk Writer)"
 	serial "DFC-BGT"
 	rom (
 		crc B3D3D6E5
@@ -175,23 +175,23 @@ game (
 	comment "Chitei Tairiku Ordola (Japan)"
 	serial "SSD-ORD"
 	rom (
-		crc AACD4F64
+		crc 9671CE0C
 	)
 )
 
 game (
-	comment "Cleopatra no Mahou (Japan) [b]"
+	comment "Cleopatra no Mahou (Japan)"
 	serial "SQF-CLO"
 	rom (
-		crc B65E1335
+		crc FDEAA3D8
 	)
 )
 
 game (
-	comment "Clu Clu Land (Japan) (Disk Writer) [b]"
+	comment "Clu Clu Land (Japan) (En) (Disk Writer)"
 	serial "FMC-CLD"
 	rom (
-		crc 12BF0901
+		crc 85E771B9
 	)
 )
 
@@ -199,15 +199,15 @@ game (
 	comment "Cocona World (Japan)"
 	serial "SFL-CCN"
 	rom (
-		crc BBDD411E
+		crc C198AB00
 	)
 )
 
 game (
-	comment "Dandy - Zeuon no Fukkatsu (Japan) [b]"
+	comment "Dandy - Zeuon no Fukkatsu (Japan)"
 	serial "PNF-DAN"
 	rom (
-		crc 45BC7D70
+		crc F027228E
 	)
 )
 
@@ -220,10 +220,10 @@ game (
 )
 
 game (
-	comment "Dig Dug II (Japan) (Disk Writer) [b]"
+	comment "Dig Dug II (Japan) (Disk Writer)"
 	serial "NDS-DD2"
 	rom (
-		crc 819B7566
+		crc 283D67AB
 	)
 )
 
@@ -231,7 +231,7 @@ game (
 	comment "Dirty Pair - Project Eden (Japan)"
 	serial "BAN-DPR"
 	rom (
-		crc BB25EE05
+		crc 5F0A149B
 	)
 )
 
@@ -239,15 +239,15 @@ game (
 	comment "Donkey Kong Jr. (Japan) (Disk Writer)"
 	serial "FMC-JRD"
 	rom (
-		crc C7715A35
+		crc 90E16269
 	)
 )
 
 game (
-	comment "Doremikko (Japan) [b]"
+	comment "Doremikko (Japan)"
 	serial "KDS-DRE"
 	rom (
-		crc D6963515
+		crc BEE7A47B
 	)
 )
 
@@ -255,7 +255,7 @@ game (
 	comment "Dr. Chaos - Jigoku no Tobira (Japan)"
 	serial "PNF-DRC"
 	rom (
-		crc BD732720
+		crc 7954BD8F
 	)
 )
 
@@ -263,7 +263,7 @@ game (
 	comment "Dracula II - Noroi no Fuuin (Japan)"
 	serial "KDS-DRK"
 	rom (
-		crc 9D81180E
+		crc 3A0BB17B
 	)
 )
 
@@ -271,7 +271,7 @@ game (
 	comment "Druid - Kyoufu no Tobira (Japan)"
 	serial "JFD-DRD"
 	rom (
-		crc 054B3627
+		crc 69139E45
 	)
 )
 
@@ -284,10 +284,10 @@ game (
 )
 
 game (
-	comment "Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer) [b]"
+	comment "Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)"
 	serial "HAL-EGS"
 	rom (
-		crc ACD50FE2
+		crc 94DE6CCB
 	)
 )
 
@@ -300,18 +300,18 @@ game (
 )
 
 game (
-	comment "Esper Dream (Japan) (Rev 1) [b]"
+	comment "Esper Dream (Japan) (Rev 1) (Disk Writer)"
 	serial "KDS-ESP"
 	rom (
-		crc 4BBC69D0
+		crc 7AECF9D8
 	)
 )
 
 game (
-	comment "Esper Dream (Japan) [b]"
+	comment "Esper Dream (Japan)"
 	serial "KDS-ESP"
 	rom (
-		crc 9DDD66AE
+		crc E33C8305
 	)
 )
 
@@ -319,7 +319,7 @@ game (
 	comment "Exciting Baseball (Japan)"
 	serial "KDS-EBS"
 	rom (
-		crc 3C42814F
+		crc F63C93BD
 	)
 )
 
@@ -327,7 +327,7 @@ game (
 	comment "Exciting Basket (Japan)"
 	serial "KDS-EKB"
 	rom (
-		crc C601BD65
+		crc 96B5DCAE
 	)
 )
 
@@ -335,7 +335,7 @@ game (
 	comment "Exciting Billiard (Japan)"
 	serial "KDS-EKS"
 	rom (
-		crc F7E359C3
+		crc D6E57884
 	)
 )
 
@@ -343,15 +343,15 @@ game (
 	comment "Exciting Soccer - Konami Cup (Japan)"
 	serial "KDS-ESC"
 	rom (
-		crc F3530BC8
+		crc D6C838FE
 	)
 )
 
 game (
-	comment "Fairytale (Japan) [b]"
+	comment "Fairytale (Japan)"
 	serial "SFC-FYT"
 	rom (
-		crc C3559103
+		crc A92BC067
 	)
 )
 
@@ -359,7 +359,7 @@ game (
 	comment "Falsion (Japan)"
 	serial "KDS-FAL"
 	rom (
-		crc 891416AE
+		crc 5442C889
 	)
 )
 
@@ -367,23 +367,15 @@ game (
 	comment "Famicom Grand Prix - F1 Race (Japan)"
 	serial "FSC-FRGE"
 	rom (
-		crc C0DF6047
+		crc 0CE9573B
 	)
 )
 
 game (
-	comment "Famicom Grand Prix II - 3D Hot Rally (Japan)"
+	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System)"
 	serial "FSC-TDRE"
 	rom (
-		crc 0857C4E8
-	)
-)
-
-game (
-	comment "Famicom Grand Prix II - 3D Hot Rally (Japan) (Alt 1)"
-	serial "FSC-TDRE"
-	rom (
-		crc 99723219
+		crc A6A25143
 	)
 )
 
@@ -391,15 +383,7 @@ game (
 	comment "Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)"
 	serial "FMC-ON2"
 	rom (
-		crc D2FC309E
-	)
-)
-
-game (
-	comment "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) [b]"
-	serial "FMC-ON1"
-	rom (
-		crc 4D11AE5F
+		crc 29DE8C55
 	)
 )
 
@@ -407,7 +391,7 @@ game (
 	comment "Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)"
 	serial "FMC-UU2"
 	rom (
-		crc 9AB85AE2
+		crc 9CFD349B
 	)
 )
 
@@ -415,7 +399,7 @@ game (
 	comment "Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)"
 	serial "FMC-UU1"
 	rom (
-		crc 0471D711
+		crc CB8CF11C
 	)
 )
 
@@ -423,20 +407,12 @@ game (
 	comment "Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)"
 	serial "FMC-TC2"
 	rom (
-		crc 6634E3C2
+		crc 37DE7BD4
 	)
 )
 
 game (
-	comment "Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan)"
-	serial "FMC-TC1"
-	rom (
-		crc 5CD3D1E3
-	)
-)
-
-game (
-	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) [b]"
+	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)"
 	serial "FMC-TC4"
 	rom (
 		crc EF5FC6B8
@@ -444,39 +420,31 @@ game (
 )
 
 game (
-	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) [b]"
+	comment "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)"
 	serial "FMC-TC3"
 	rom (
-		crc 18999088
+		crc FE908A02
 	)
 )
 
 game (
-	comment "Family Composer (Japan) [b]"
+	comment "Family Composer (Japan) (Disk Writer)"
 	serial "TKS-FC0"
 	rom (
-		crc 206B0C9F
+		crc 01E451B9
 	)
 )
 
 game (
-	comment "Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer) [b]"
+	comment "Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)"
 	serial "GTS-HKD"
 	rom (
-		crc 6FFE266A
+		crc 645B4C48
 	)
 )
 
 game (
-	comment "Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer) [b]"
-	serial "GTS-CXD"
-	rom (
-		crc 5C497943
-	)
-)
-
-game (
-	comment "Final Commando - Akai Yousai (Japan)"
+	comment "Final Command - Akai Yousai (Japan)"
 	serial "KDS-AKA"
 	rom (
 		crc 08028E43
@@ -487,7 +455,7 @@ game (
 	comment "Fire Bam (Japan)"
 	serial "HAL-FBM"
 	rom (
-		crc 2EC381AC
+		crc 744CD2F8
 	)
 )
 
@@ -495,7 +463,7 @@ game (
 	comment "Fire Rock (Japan)"
 	serial "USE-FRC"
 	rom (
-		crc 54D3AC61
+		crc 33B5B551
 	)
 )
 
@@ -503,23 +471,23 @@ game (
 	comment "Fuuun Shourin Ken (Japan)"
 	serial "JFD-FSH"
 	rom (
-		crc 05288646
+		crc 620E0D98
 	)
 )
 
 game (
-	comment "Fuuun Shourin Ken - Ankoku no Maou (Japan)"
+	comment "Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System)"
 	serial "JFD-SAM"
 	rom (
-		crc 03739416
+		crc 3C5F6468
 	)
 )
 
 game (
-	comment "Galaga (Japan) (Disk Writer) [b]"
+	comment "Galaga (Japan) (Disk Writer)"
 	serial "NDS-GAG"
 	rom (
-		crc DDEE6BA2
+		crc AB413401
 	)
 )
 
@@ -527,15 +495,15 @@ game (
 	comment "Gall Force - Eternal Story (Japan)"
 	serial "HAL-GAL"
 	rom (
-		crc E170AB89
+		crc 2CF62AA9
 	)
 )
 
 game (
-	comment "German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan) [b]"
+	comment "German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)"
 	serial "BAN-MAR"
 	rom (
-		crc 30529227
+		crc B1FDA4EC
 	)
 )
 
@@ -548,10 +516,10 @@ game (
 )
 
 game (
-	comment "Gokuraku Yuugi - Game Tengoku (Japan) [b]"
+	comment "Gokuraku Yuugi - Game Tengoku (Japan)"
 	serial "SFL-GTG"
 	rom (
-		crc 2A7EC6AC
+		crc 42FC78AE
 	)
 )
 
@@ -559,7 +527,7 @@ game (
 	comment "Golf (Japan)"
 	serial "FMC-GLF"
 	rom (
-		crc B15026A5
+		crc 9AB768F5
 	)
 )
 
@@ -572,10 +540,10 @@ game (
 )
 
 game (
-	comment "Golf - Japan Course (Japan)"
+	comment "Golf - Japan Course (Japan) (DV 2)"
 	serial "FSC-GFJE"
 	rom (
-		crc 6B3325D8
+		crc FD5B83A1
 	)
 )
 
@@ -599,55 +567,55 @@ game (
 	comment "Golf - US Course (Japan)"
 	serial "FMC-GLF"
 	rom (
-		crc 9944329A
+		crc BDEAC502
 	)
 )
 
 game (
-	comment "Goonies (Japan) (Disk Writer) [b]"
+	comment "Goonies (Japan) (Disk Writer)"
 	serial "KDS-GNS"
 	rom (
-		crc 7680ACFD
+		crc 5BA05C82
 	)
 )
 
 game (
-	comment "Green Beret (Japan) [b]"
+	comment "Green Beret (Japan)"
 	serial "KDS-GRN"
 	rom (
-		crc 576F8809
+		crc D0916BB6
 	)
 )
 
 game (
-	comment "Gun.Smoke (Japan) [b]"
+	comment "Gun.Smoke (Japan)"
 	serial "CAP-GUN"
 	rom (
-		crc FB640EC2
+		crc C6D3968A
 	)
 )
 
 game (
-	comment "Gyruss (Japan) [b]"
+	comment "Gyruss (Japan)"
 	serial "KDS-GRS"
 	rom (
-		crc 623954AD
+		crc BFC78F7D
 	)
 )
 
 game (
-	comment "Halley Wars (Japan) [b]"
+	comment "Halley Wars (Japan)"
 	serial "TFD-HAL"
 	rom (
-		crc B866378E
+		crc 4DE34546
 	)
 )
 
 game (
-	comment "Hao-kun no Fushigi na Tabi (Japan) [b]"
+	comment "Hao-kun no Fushigi na Tabi (Japan)"
 	serial "SQF-HFT"
 	rom (
-		crc CB7A8570
+		crc FD6BF87C
 	)
 )
 
@@ -655,39 +623,39 @@ game (
 	comment "Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1)"
 	serial "FMC-PTM"
 	rom (
-		crc BC88AA13
+		crc E7E6E77A
 	)
 )
 
 game (
-	comment "Hikaru Genji - Roller Panic (Japan) [b]"
+	comment "Hikaru Genji - Roller Panic (Japan)"
 	serial "PNF-GEN"
 	rom (
-		crc 0847FEF8
+		crc 58CF45F3
 	)
 )
 
 game (
-	comment "I Am a Teacher - Super Mario no Sweater (Japan) [b]"
+	comment "I Am a Teacher - Super Mario no Sweater (Japan)"
 	serial "ROY-ISM"
 	rom (
-		crc CE7E8631
+		crc BB51C5D0
 	)
 )
 
 game (
-	comment "I Am a Teacher - Teami no Kiso (Japan) [b]"
+	comment "I Am a Teacher - Teami no Kiso (Japan)"
 	serial "ROY-ITK"
 	rom (
-		crc 6A14FFAF
+		crc C54D80BF
 	)
 )
 
 game (
-	comment "Ice Climber (Japan) (Disk Writer) [b]"
+	comment "Ice Climber (Japan) (En) (Disk Writer)"
 	serial "FMC-ICD"
 	rom (
-		crc 575789B6
+		crc 036A80DD
 	)
 )
 
@@ -695,23 +663,23 @@ game (
 	comment "Ice Hockey (Japan)"
 	serial "FMC-ICE"
 	rom (
-		crc 8C845C81
+		crc 189FA707
 	)
 )
 
 game (
-	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan)"
+	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)"
 	serial "FMC-THSE"
 	rom (
-		crc 33525638
+		crc 9C9616B8
 	)
 )
 
 game (
-	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (Alt 1) [b]"
+	comment "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)"
 	serial "FMC-THSE"
 	rom (
-		crc 1D9E50B1
+		crc 10266CDD
 	)
 )
 
@@ -719,15 +687,15 @@ game (
 	comment "Igo - Kyuu Roban Taikyoku (Japan)"
 	serial "BPS-IGO"
 	rom (
-		crc 40A438F8
+		crc 2E1E75AE
 	)
 )
 
 game (
-	comment "Ishidou (Japan) (Disk Writer) [b]"
+	comment "Ishidou (Japan) (Disk Writer)"
 	serial "HIR-ISO"
 	rom (
-		crc 982C4B57
+		crc 0C54A19E
 	)
 )
 
@@ -735,15 +703,7 @@ game (
 	comment "Jikai Shounen Met Mag (Japan)"
 	serial "SQF-MTM"
 	rom (
-		crc 7851DD72
-	)
-)
-
-game (
-	comment "Kaettekita Mario Brothers (Japan) (Disk Writer) [b]"
-	serial "FMC-KMB"
-	rom (
-		crc 1D31BAB1
+		crc A25A1001
 	)
 )
 
@@ -751,7 +711,7 @@ game (
 	comment "Kalin no Tsurugi (Japan)"
 	serial "SQF-KRN"
 	rom (
-		crc C63A0059
+		crc 30A753BE
 	)
 )
 
@@ -759,7 +719,7 @@ game (
 	comment "Kamen Rider Black - Taiketsu Shadow Moon (Japan)"
 	serial "BAN-BLA"
 	rom (
-		crc BD279798
+		crc 566C6DDF
 	)
 )
 
@@ -767,15 +727,15 @@ game (
 	comment "Karate Champ (Japan)"
 	serial "DFC-KAR"
 	rom (
-		crc 48F777B9
+		crc DFD06601
 	)
 )
 
 game (
-	comment "Kattobi! Douji (Japan) [b]"
+	comment "Kattobi! Douji (Japan)"
 	serial "PAC-KTD"
 	rom (
-		crc D584E77F
+		crc 8A54CE0B
 	)
 )
 
@@ -791,7 +751,7 @@ game (
 	comment "Kick and Run (Japan)"
 	serial "TFD-KIC"
 	rom (
-		crc 13E293F7
+		crc E3D0DCFC
 	)
 )
 
@@ -804,18 +764,18 @@ game (
 )
 
 game (
-	comment "Kikikai-kai - Dotou Hen (Japan) (Rev 1) [b]"
+	comment "Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer)"
 	serial "TFD-KIK"
 	rom (
-		crc FCE6C80B
+		crc 007AA4FD
 	)
 )
 
 game (
-	comment "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) [b]"
+	comment "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)"
 	serial "BAN-KNM"
 	rom (
-		crc E1D66911
+		crc 03D8CDB1
 	)
 )
 
@@ -831,7 +791,7 @@ game (
 	comment "Knight Move (Japan)"
 	serial "FMC-KMV"
 	rom (
-		crc AEEF4A97
+		crc FD6EF8D7
 	)
 )
 
@@ -844,10 +804,10 @@ game (
 )
 
 game (
-	comment "Konamic Tennis (Japan) [b]"
+	comment "Konamic Tennis (Japan)"
 	serial "KDS-TNI"
 	rom (
-		crc 1CD10D73
+		crc EDBAEE55
 	)
 )
 
@@ -860,10 +820,10 @@ game (
 )
 
 game (
-	comment "Lutter (Japan) (Disk Writer) [b]"
+	comment "Lutter (Japan) (Disk Writer)"
 	serial "ATH-LTD"
 	rom (
-		crc E39A4EEA
+		crc 89EF45DD
 	)
 )
 
@@ -871,15 +831,15 @@ game (
 	comment "Maerchen Veil (Japan)"
 	serial "SSD-MVL"
 	rom (
-		crc D112CFD0
+		crc 973CF165
 	)
 )
 
 game (
-	comment "Magma Project - Hacker (Japan) [b]"
+	comment "Magma Project - Hacker (Japan)"
 	serial "GTS-MPH"
 	rom (
-		crc E94ACE67
+		crc 1CEE986E
 	)
 )
 
@@ -892,10 +852,10 @@ game (
 )
 
 game (
-	comment "Mahjong Kazoku (Japan) [b]"
+	comment "Mahjong Kazoku (Japan)"
 	serial "IFD-MJK"
 	rom (
-		crc 3D43B203
+		crc 0160BB59
 	)
 )
 
@@ -903,7 +863,7 @@ game (
 	comment "Matou no Houkai - The Hero of Babel (Japan)"
 	serial "L30V5918 (PNF-MAT)"
 	rom (
-		crc B5096C18
+		crc AC0615F9
 	)
 )
 
@@ -911,15 +871,15 @@ game (
 	comment "Meikyuu Jiin Dababa (Japan)"
 	serial "KDS-MIK"
 	rom (
-		crc 1526D32E
+		crc 8B54D368
 	)
 )
 
 game (
-	comment "Metroid (Japan) (Rev 1) [b]"
+	comment "Metroid (Japan) (Rev 1)"
 	serial "FMC-MET"
 	rom (
-		crc 08A13A9E
+		crc 9C8045DF
 	)
 )
 
@@ -935,7 +895,7 @@ game (
 	comment "Michael English Daibouken (Japan)"
 	serial "SCO-MEA"
 	rom (
-		crc E5AB0E6C
+		crc D446FD96
 	)
 )
 
@@ -948,26 +908,26 @@ game (
 )
 
 game (
-	comment "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) [b]"
+	comment "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)"
 	serial "KDS-TIN"
 	rom (
-		crc 13205221
+		crc 05AFBD03
 	)
 )
 
 game (
-	comment "Monitor Puzzle Kinetic Connection, The - Kineco (Japan)"
+	comment "Monitor Puzzle Kineko, The - Kinetic Connection (Japan)"
 	serial "IFD-KI2"
 	rom (
-		crc 36094115
+		crc A8516D48
 	)
 )
 
 game (
-	comment "Monitor Puzzle Kinetic Connection, The - Kineco II (Japan) (Disk Writer) [b]"
+	comment "Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)"
 	serial "IFD-KI2"
 	rom (
-		crc C4F0A9C2
+		crc DCED2708
 	)
 )
 
@@ -980,18 +940,18 @@ game (
 )
 
 game (
-	comment "Nankin no Adventure (Japan) [b]"
+	comment "Nankin no Adventure (Japan) (Disk Writer)"
 	serial "SSD-NAD"
 	rom (
-		crc AF68B7C1
+		crc 12892375
 	)
 )
 
 game (
-	comment "Nazo no Kabe - Block Kuzushi (Japan) [b]"
+	comment "Nazo no Kabe - Block Kuzushi (Japan)"
 	serial "KDS-NZN"
 	rom (
-		crc C8511D33
+		crc 09292F11
 	)
 )
 
@@ -1004,7 +964,7 @@ game (
 )
 
 game (
-	comment "Nazoler Land - Dai 2 Gou (Japan)"
+	comment "Nazoler Land - Dainigou (Japan)"
 	serial "SSD-NZB"
 	rom (
 		crc 19DEACE2
@@ -1012,23 +972,23 @@ game (
 )
 
 game (
-	comment "Nazoler Land - Dai 3 Gou (Japan)"
+	comment "Nazoler Land - Daisangou (Japan)"
 	serial "SSD-NZC"
 	rom (
-		crc E8391502
+		crc 872CD3CF
 	)
 )
 
 game (
-	comment "Nazoler Land - Soukan Gou (Japan)"
+	comment "Nazoler Land - Soukangou (Japan)"
 	serial "SSD-NZL"
 	rom (
-		crc 78AE95AB
+		crc B42FD111
 	)
 )
 
 game (
-	comment "Nazoler Land Special!! - Quiz Ou wo Sagase (Japan) [b]"
+	comment "Nazoler Land Special!! - Quiz Ou wo Sagase (Japan)"
 	serial "SSD-NZL"
 	rom (
 		crc F449FC6C
@@ -1036,50 +996,34 @@ game (
 )
 
 game (
-	comment "Neunzehn (Japan) [b]"
-	serial "SFC-NEU"
-	rom (
-		crc 567FB962
-	)
-)
-
-game (
 	comment "Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)"
 	serial "BAN-HRD"
 	rom (
-		crc 654083CC
+		crc CBCA97F5
 	)
 )
 
 game (
-	comment "Othello (Japan)"
-	serial "KWD-OTH"
-	rom (
-		crc AC0E1E61
-	)
-)
-
-game (
-	comment "Otocky (Japan) [b]"
+	comment "Otocky (Japan)"
 	serial "ASC-OTO"
 	rom (
-		crc 8143C338
+		crc 673B4713
 	)
 )
 
 game (
-	comment "Pac-Man (Japan) (Disk Writer) [b]"
+	comment "Pac-Man (Japan) (Disk Writer)"
 	serial "NDS-PAC"
 	rom (
-		crc E1C1C60D
+		crc CDF3CA4B
 	)
 )
 
 game (
-	comment "Pachinko Grand Prix (Japan) [b]"
+	comment "Pachinko Grand Prix (Japan)"
 	serial "DFC-PGP"
 	rom (
-		crc 299D751D
+		crc 1C185588
 	)
 )
 
@@ -1087,12 +1031,12 @@ game (
 	comment "Pro Golfer Saru - Kage no Tournament (Japan)"
 	serial "BAN-PGS"
 	rom (
-		crc 32FE4E7C
+		crc 76966A72
 	)
 )
 
 game (
-	comment "Pro Wres (Japan)"
+	comment "Pro Wres (Japan) (En)"
 	serial "FMC-PRO"
 	rom (
 		crc D6CE8AC6
@@ -1116,42 +1060,42 @@ game (
 )
 
 game (
-	comment "Putt Putt Golf (Japan) [b]"
+	comment "Putt Putt Golf (Japan)"
 	serial "PAC-PPG"
 	rom (
-		crc 805F5166
+		crc 98195A6A
 	)
 )
 
 game (
-	comment "Puzzle Boys (Japan) (Disk Writer) [b]"
+	comment "Puzzle Boys (Japan) (Disk Writer)"
 	serial "ATL-PUZ"
 	rom (
-		crc B9F22094
+		crc 78F31548
 	)
 )
 
 game (
-	comment "Radical Bomber!! Jirai-kun (Japan) [b]"
+	comment "Radical Bomber!! Jirai-kun (Japan) (Disk Writer)"
 	serial "JFD-GRK"
 	rom (
-		crc E9B2EDC9
+		crc 9BDEDA19
 	)
 )
 
 game (
-	comment "Reflect World (Japan) [b]"
+	comment "Reflect World (Japan)"
 	serial "ECF-RWD"
 	rom (
-		crc 52F623D1
+		crc 816E45D0
 	)
 )
 
 game (
-	comment "Relics - Ankoku Yousai (Japan) [b]"
+	comment "Relics - Ankoku Yousai (Japan)"
 	serial "BTC-RLC"
 	rom (
-		crc A6D98134
+		crc 5DE87797
 	)
 )
 
@@ -1159,7 +1103,7 @@ game (
 	comment "Replicart (Japan)"
 	serial "TFD-REP"
 	rom (
-		crc 73541735
+		crc C374C9ED
 	)
 )
 
@@ -1167,39 +1111,39 @@ game (
 	comment "Risa no Yousei Densetsu (Japan)"
 	serial "KDS-YOU"
 	rom (
-		crc 532DF6BC
+		crc D7943621
 	)
 )
 
 game (
-	comment "Roger Rabbit (Japan) [b]"
+	comment "Roger Rabbit (Japan)"
 	serial "KSC-RRR"
 	rom (
-		crc 8350559A
+		crc A7783DC0
 	)
 )
 
 game (
-	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer) [b]"
+	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer)"
 	serial "BAN-SGW"
 	rom (
-		crc 9D287C3F
+		crc 189F7A6B
 	)
 )
 
 game (
-	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) [b]"
+	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1)"
 	serial "BAN-SGW"
 	rom (
-		crc BB15C4F6
+		crc 43F70704
 	)
 )
 
 game (
-	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) [b]"
+	comment "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)"
 	serial "BAN-SGW"
 	rom (
-		crc C1DCB7E4
+		crc D5F14605
 	)
 )
 
@@ -1207,15 +1151,15 @@ game (
 	comment "SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer)"
 	serial "BAN-SGW"
 	rom (
-		crc 4F3EA872
+		crc 98F12376
 	)
 )
 
 game (
-	comment "Samurai Sword (Japan) [b]"
+	comment "Samurai Sword (Japan)"
 	serial "CAP-SMU"
 	rom (
-		crc A6C01D25
+		crc DA2D8561
 	)
 )
 
@@ -1228,10 +1172,10 @@ game (
 )
 
 game (
-	comment "Section-Z (Japan) [b]"
+	comment "Section-Z (Japan)"
 	serial "CAP-SCZ"
 	rom (
-		crc 89BB5790
+		crc 0BCB926F
 	)
 )
 
@@ -1239,7 +1183,7 @@ game (
 	comment "Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)"
 	serial "IMA-MAJ"
 	rom (
-		crc AEA5691A
+		crc 5CAC8BA1
 	)
 )
 
@@ -1247,12 +1191,12 @@ game (
 	comment "Smash Ping Pong (Japan)"
 	serial "FMC-PPN"
 	rom (
-		crc 2A001165
+		crc B235B657
 	)
 )
 
 game (
-	comment "Soccer (Japan)"
+	comment "Soccer (Japan) (En)"
 	serial "FMC-SCC"
 	rom (
 		crc 638B6903
@@ -1271,7 +1215,7 @@ game (
 	comment "Super Boy Allan (Japan)"
 	serial "SSD-ALN"
 	rom (
-		crc 4D5AEBE4
+		crc 72F6194B
 	)
 )
 
@@ -1279,20 +1223,20 @@ game (
 	comment "Super Lode Runner (Japan)"
 	serial "IFD-SLR"
 	rom (
-		crc E66F4682
+		crc C5A7E32C
 	)
 )
 
 game (
-	comment "Super Lode Runner II (Japan) (Disk Writer) [b]"
+	comment "Super Lode Runner II (Japan) (Disk Writer)"
 	serial "IFD-SL2"
 	rom (
-		crc 758888F4
+		crc 042C902B
 	)
 )
 
 game (
-	comment "Super Mario Brothers (Japan)"
+	comment "Super Mario Bros. (Japan) (En)"
 	serial "FMC-SMA"
 	rom (
 		crc E0890CF2
@@ -1300,7 +1244,7 @@ game (
 )
 
 game (
-	comment "Super Mario Brothers 2 (Japan)"
+	comment "Super Mario Bros. 2 (Japan) (En)"
 	serial "FMC-SMA"
 	rom (
 		crc F04CD4CD
@@ -1308,18 +1252,10 @@ game (
 )
 
 game (
-	comment "Super Mario Brothers 2 (Japan) (Alt 1)"
+	comment "Super Mario Bros. 2 (Japan) (En) (DV 2)"
 	serial "FMC-SMA"
 	rom (
 		crc 5C419EE8
-	)
-)
-
-game (
-	comment "Tama & Friends - 3 Choume Daibouken (Japan) [b]"
-	serial "BAN-UTM"
-	rom (
-		crc 91290BC3
 	)
 )
 
@@ -1335,15 +1271,15 @@ game (
 	comment "Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)"
 	serial "DFC-KF2"
 	rom (
-		crc BB597F44
+		crc FB9E5E31
 	)
 )
 
 game (
-	comment "Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) [b]"
+	comment "Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan)"
 	serial "DFC-KF1"
 	rom (
-		crc 7E61FB44
+		crc 05376233
 	)
 )
 
@@ -1351,15 +1287,15 @@ game (
 	comment "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)"
 	serial "DFC-JUK"
 	rom (
-		crc 06262BEB
+		crc 5855AE09
 	)
 )
 
 game (
-	comment "Tarot Uranai (Japan) [b]"
+	comment "Tarot Uranai (Japan)"
 	serial "SCO-TAR"
 	rom (
-		crc E67A149A
+		crc 8DB1881A
 	)
 )
 
@@ -1375,7 +1311,7 @@ game (
 	comment "Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)"
 	serial "FMC-TT2"
 	rom (
-		crc 1B21787F
+		crc A7D51BFA
 	)
 )
 
@@ -1383,7 +1319,7 @@ game (
 	comment "Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)"
 	serial "FMC-TT1"
 	rom (
-		crc F4C6B394
+		crc 63F06A01
 	)
 )
 
@@ -1391,15 +1327,15 @@ game (
 	comment "Titanic Mystery - Ao no Senritsu (Japan)"
 	serial "GAT-TIT"
 	rom (
-		crc FF00F147
+		crc FB36075C
 	)
 )
 
 game (
-	comment "Tobidase Daisakusen (Japan)"
+	comment "Tobidase Daisakusen (Japan) (Famicom 3D System)"
 	serial "SQF-TDS"
 	rom (
-		crc 25CBBE75
+		crc CAA25A7F
 	)
 )
 
@@ -1407,47 +1343,47 @@ game (
 	comment "Tooyama no Kinsan Space Chou - Mr. Gold (Japan)"
 	serial "TDF-MRG"
 	rom (
-		crc 0CE56DB2
+		crc 8EE50DAE
 	)
 )
 
 game (
-	comment "Topple Zip (Japan) [b]"
+	comment "Topple Zip (Japan)"
 	serial "BTC-TPZ"
 	rom (
-		crc CB68E307
+		crc 84591D73
 	)
 )
 
 game (
-	comment "Transformers - The Headmasters (Japan) [b]"
+	comment "Transformers - The Headmasters (Japan)"
 	serial "TFC-TFH"
 	rom (
-		crc 3B46DBBF
+		crc A6D5E984
 	)
 )
 
 game (
-	comment "TwinBee (Japan) (Disk Writer)"
+	comment "TwinBee (Japan) (En) (Disk Writer)"
 	serial "KDS-TWN"
 	rom (
-		crc 909BDCA2
+		crc 4A5480E1
 	)
 )
 
 game (
-	comment "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) [b]"
+	comment "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan)"
 	serial "BAN-ULM"
 	rom (
-		crc ABCC81BF
+		crc CC64BA9B
 	)
 )
 
 game (
-	comment "Ultraman 2 - Shutsugeki Katoku Tai (Japan)"
+	comment "Ultraman 2 - Shutsugeki Katokutai (Japan)"
 	serial "BAN-UL2"
 	rom (
-		crc F08F3854
+		crc 8F7F0352
 	)
 )
 
@@ -1463,7 +1399,7 @@ game (
 	comment "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)"
 	serial "BAN-ULC"
 	rom (
-		crc FD150E81
+		crc 74C0CD54
 	)
 )
 
@@ -1476,18 +1412,18 @@ game (
 )
 
 game (
-	comment "Vs. Excitebike (Japan)"
+	comment "Vs. Excitebike (Japan) (En)"
 	serial "FMC-EBD"
 	rom (
-		crc 08381FDB
+		crc FEBE1841
 	)
 )
 
 game (
-	comment "Wardner no Mori (Japan) [b]"
+	comment "Wardner no Mori (Japan)"
 	serial "TFD-WAD"
 	rom (
-		crc 2D04E09F
+		crc 26C78381
 	)
 )
 
@@ -1495,39 +1431,39 @@ game (
 	comment "Winter Games (Japan)"
 	serial "PNF-WIN"
 	rom (
-		crc 6AB5E1D6
+		crc 4BF6E7BC
 	)
 )
 
 game (
-	comment "Wrecking Crew (Japan) (Disk Writer) [b]"
+	comment "Wrecking Crew (Japan) (Disk Writer)"
 	serial "FMC-WRD"
 	rom (
-		crc 04763D6A
+		crc 68B88428
 	)
 )
 
 game (
-	comment "Xevious (Japan) (Disk Writer) [b]"
+	comment "Xevious (Japan) (Disk Writer)"
 	serial "NDS-XEV"
 	rom (
-		crc 3DA99B11
+		crc 50B8E0A1
 	)
 )
 
 game (
-	comment "Youkai Yashiki (Japan) [b]"
+	comment "Youkai Yashiki (Japan)"
 	serial "IFD-YOK"
 	rom (
-		crc 181719AD
+		crc 335EFCC9
 	)
 )
 
 game (
-	comment "Yume Koujou Doki Doki Panic (Japan)"
+	comment "Yume Koujou - Doki Doki Panic (Japan) (DV 2)"
 	serial "FCG-DRM"
 	rom (
-		crc 03F223A0
+		crc 4096F677
 	)
 )
 
@@ -1535,15 +1471,7 @@ game (
 	comment "Yuu Maze (Japan)"
 	serial "TFD-UMZ"
 	rom (
-		crc 6EB6AE74
-	)
-)
-
-game (
-	comment "Zanac (Japan) [b]"
-	serial "PNF-ZAN"
-	rom (
-		crc C3ACE814
+		crc 7DB80E2B
 	)
 )
 

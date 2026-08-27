@@ -1,4 +1,4 @@
-cheats = 18
+cheats = 19
 
 cheat0_desc = "Enable Code (Must Be On)"
 cheat0_code = "0000D834+000A+10000360+0007"
@@ -72,6 +72,6 @@ cheat17_desc = "Have All Chips"
 cheat17_code = "42019018+0001+000100B0+0014"
 cheat17_enable = false
 
-cheat17_desc = "Max All Chips"
-cheat17_code = "42019036+0063+000000B0+0014"
-cheat17_enable = false
+cheat18_desc = "Max All Chips"
+cheat18_code = "42019036+0063+000000B0+0014"
+cheat18_enable = false

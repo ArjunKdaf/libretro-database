@@ -1,4 +1,4 @@
-cheats = 149
+cheats = 150
 
 cheat0_desc = "Mario On Ice"
 cheat0_code = "EDA5-0F6F+61A5-040F+61A6-0D6F"
@@ -348,9 +348,9 @@ cheat86_desc = "Lakitu Throws Out An Amazing Flying Hammer Brother"
 cheat86_code = "B837-6D61+BA37-6F61"
 cheat86_enable = false
 
-cheat86_desc = "Mario Has A Halo On Map"
-cheat86_code = "31B4-6F07"
-cheat86_enable = false
+cheat149_desc = "Mario Has A Halo On Map"
+cheat149_code = "31B4-6F07"
+cheat149_enable = false
 
 cheat87_desc = "Time Doesn't Countdown"
 cheat87_code = "6664-64D7"

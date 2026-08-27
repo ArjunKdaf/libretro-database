@@ -100,9 +100,9 @@ cheat24_desc = "Arbok"
 cheat24_code = "011804D2"
 cheat24_enable = false
 
-cheat24_desc = "Pikachu"
-cheat24_code = "011904D2"
-cheat24_enable = false
+cheat251_desc = "Pikachu"
+cheat251_code = "011904D2"
+cheat251_enable = false
 
 cheat25_desc = "Raichu"
 cheat25_code = "011A04D2"
@@ -754,7 +754,7 @@ cheat186_enable = false
 
 cheat187_desc = "Azumarill"
 cheat187_code = "01B804D2"
-cheat1087_enable = false
+cheat253_enable = false
 
 cheat188_desc = "Sudowoodo"
 cheat188_code = "01B904D2"

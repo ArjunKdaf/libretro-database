@@ -875,13 +875,13 @@ game (
 
 game (
 	comment "Battletoads-Double Dragon (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0F51E752 )
 )
 
 game (
 	comment "Battletoads-Double Dragon (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 26DE4E7B )
 )
 
@@ -3299,19 +3299,19 @@ game (
 
 game (
 	comment "Wario no Mori (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FBF569CF )
 )
 
 game (
 	comment "Wario's Woods (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 63763814 )
 )
 
 game (
 	comment "Wario's Woods (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0F8D9597 )
 )
 

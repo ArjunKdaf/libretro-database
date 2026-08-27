@@ -5,31 +5,31 @@ clrmamepro (
 
 game (
 	comment "Aircars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 91BD2B8F )
 )
 
 game (
 	comment "Aircars (USA) (Beta) (1994-11-14)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 53E35744 )
 )
 
 game (
 	comment "Atari Karts (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 99C32931 )
 )
 
 game (
 	comment "Atari Karts (World) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 52C996E0 )
 )
 
 game (
 	comment "Attack of the Mutant Penguins (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 08ED56B2 )
 )
 
@@ -47,37 +47,37 @@ game (
 
 game (
 	comment "Checkered Flag (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 887A0B76 )
 )
 
 game (
 	comment "Bubsy in Fractured Furry Tales (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F8ACAB4C )
 )
 
 game (
 	comment "Cannon Fodder (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3296BD76 )
 )
 
 game (
 	comment "Checkered Flag (World) (Beta) (CES 1993)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CE94C0D5 )
 )
 
 game (
 	comment "Defender 2000 (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8A9D9763 )
 )
 
 game (
 	comment "Defender 2000 (World) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 952D07F0 )
 )
 
@@ -107,7 +107,7 @@ game (
 
 game (
 	comment "Fever Pitch Soccer (World) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 24FA43DC )
 )
 
@@ -131,13 +131,13 @@ game (
 
 game (
 	comment "Flip Out! (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0A003412 )
 )
 
 game (
 	comment "Flashback - The Quest for Identity (World) (En,Fr)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D68EA1ED )
 )
 
@@ -149,13 +149,13 @@ game (
 
 game (
 	comment "I-War (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 874ECC1D )
 )
 
 game (
 	comment "Hover Strike (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DD6CF81A )
 )
 
@@ -167,7 +167,7 @@ game (
 
 game (
 	comment "Iron Soldier (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2CFE30D4 )
 )
 
@@ -185,19 +185,19 @@ game (
 
 game (
 	comment "Missile Command VR (World) (Beta) (1995-07-05)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5810CADB )
 )
 
 game (
 	comment "Missile Command 3D (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F53B35FC )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 12484F21 )
 )
 
@@ -215,13 +215,13 @@ game (
 
 game (
 	comment "Power Drive Rally (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 832DED1B )
 )
 
 game (
 	comment "Ruiner Pinball (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1FDBFF60 )
 )
 
@@ -233,25 +233,25 @@ game (
 
 game (
 	comment "Super Burnout (World) (Demo) (WCES 1995)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0F698FB3 )
 )
 
 game (
 	comment "Super Burnout (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C0891A53 )
 )
 
 game (
 	comment "Supercross 3D (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3E1260A8 )
 )
 
 game (
 	comment "Theme Park (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 53D56E1C )
 )
 
@@ -263,13 +263,13 @@ game (
 
 game (
 	comment "Val d'Isere Skiing and Snowboarding (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 41ACAA25 )
 )
 
 game (
 	comment "White Men Can't Jump (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 02F320A1 )
 )
 
@@ -281,43 +281,43 @@ game (
 
 game (
 	comment "Zool 2 (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B8C8ED62 )
 )
 
 game (
 	comment "Zoop (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AA5D2395 )
 )
 
 game (
 	comment "Aircars (USA) (Beta) (1994-11-14)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 53E35744 )
 )
 
 game (
 	comment "Aircars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 40E1A1D0 )
 )
 
 game (
 	comment "Atari Karts (World) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 52C996E0 )
 )
 
 game (
 	comment "Atari Karts (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E28756DE )
 )
 
 game (
 	comment "Attack of the Mutant Penguins (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CD5BF827 )
 )
 
@@ -335,37 +335,37 @@ game (
 
 game (
 	comment "Cannon Fodder (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BDA405C6 )
 )
 
 game (
 	comment "Checkered Flag (World) (Beta) (CES 1993)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CE94C0D5 )
 )
 
 game (
 	comment "Checkered Flag (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FA7775AE )
 )
 
 game (
 	comment "Bubsy in Fractured Furry Tales (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2E17D5DA )
 )
 
 game (
 	comment "Defender 2000 (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 27594C6A )
 )
 
 game (
 	comment "Defender 2000 (World) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 952D07F0 )
 )
 
@@ -395,7 +395,7 @@ game (
 
 game (
 	comment "Fever Pitch Soccer (World) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3615AF6A )
 )
 
@@ -419,13 +419,13 @@ game (
 
 game (
 	comment "Flip Out! (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 892BC67C )
 )
 
 game (
 	comment "Flashback - The Quest for Identity (World) (En,Fr)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DE55DCC7 )
 )
 
@@ -437,19 +437,19 @@ game (
 
 game (
 	comment "Hover Strike (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4899628F )
 )
 
 game (
 	comment "I-War (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 97EB4651 )
 )
 
 game (
 	comment "Iron Soldier (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 08F15576 )
 )
 
@@ -467,7 +467,7 @@ game (
 
 game (
 	comment "Missile Command 3D (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DA9C4162 )
 )
 
@@ -479,13 +479,13 @@ game (
 
 game (
 	comment "Missile Command VR (World) (Beta) (1995-07-05)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5810CADB )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0AC83D77 )
 )
 
@@ -503,25 +503,25 @@ game (
 
 game (
 	comment "Power Drive Rally (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1660F070 )
 )
 
 game (
 	comment "Ruiner Pinball (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5B6BB205 )
 )
 
 game (
 	comment "Super Burnout (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6F8B2547 )
 )
 
 game (
 	comment "Super Burnout (World) (Demo) (WCES 1995)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0F698FB3 )
 )
 
@@ -533,13 +533,13 @@ game (
 
 game (
 	comment "Supercross 3D (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EC22F572 )
 )
 
 game (
 	comment "Theme Park (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 47EBC158 )
 )
 
@@ -557,7 +557,7 @@ game (
 
 game (
 	comment "Val d'Isere Skiing and Snowboarding (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C9608717 )
 )
 
@@ -569,19 +569,19 @@ game (
 
 game (
 	comment "White Men Can't Jump (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 14915F20 )
 )
 
 game (
 	comment "Zool 2 (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8975F48B )
 )
 
 game (
 	comment "Zoop (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C5562581 )
 )
 

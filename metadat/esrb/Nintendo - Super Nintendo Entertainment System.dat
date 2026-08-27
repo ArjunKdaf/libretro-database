@@ -23,13 +23,13 @@ game (
 
 game (
 	comment "Aaahh!!! Real Monsters (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 27FF5BA1 )
 )
 
 game (
 	comment "Aaahh!!! Real Monsters (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 946313FB )
 )
 
@@ -239,13 +239,13 @@ game (
 
 game (
 	comment "Air Cavalry (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B3F57CC6 )
 )
 
 game (
 	comment "Air Cavalry (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6B452801 )
 )
 
@@ -293,13 +293,13 @@ game (
 
 game (
 	comment "Albert Odyssey (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 46F29066 )
 )
 
 game (
 	comment "Albert Odyssey (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 46CA01A9 )
 )
 
@@ -431,7 +431,7 @@ game (
 
 game (
 	comment "Aqutallion (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4CA1696F )
 )
 
@@ -551,13 +551,13 @@ game (
 
 game (
 	comment "BASS Masters Classic (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 925206EA )
 )
 
 game (
 	comment "BASS Masters Classic (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 832A27C2 )
 )
 
@@ -629,7 +629,7 @@ game (
 
 game (
 	comment "BattleTech 3050 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 56C7EB66 )
 )
 
@@ -965,13 +965,13 @@ game (
 
 game (
 	comment "Bronkie the Bronchiasaurus (USA) (En,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1200F3CF )
 )
 
 game (
 	comment "Brunswick World Tournament of Champions (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 52E4DC92 )
 )
 
@@ -1157,13 +1157,13 @@ game (
 
 game (
 	comment "Circuit USA (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5A13366C )
 )
 
 game (
 	comment "Civilization - Sekai Shichi Daibunmei (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9D5CE088 )
 )
 
@@ -1187,19 +1187,19 @@ game (
 
 game (
 	comment "College Slam (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CE842C6D )
 )
 
 game (
 	comment "College Football USA 97 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A27940C1 )
 )
 
 game (
 	comment "College Slam (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1A4D2366 )
 )
 
@@ -1223,49 +1223,49 @@ game (
 
 game (
 	comment "Contra III - The Alien Wars (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FFDF4355 )
 )
 
 game (
 	comment "Contra III - The Alien Wars (USA) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A2E60061 )
 )
 
 game (
 	comment "Contra III - The Alien Wars (World) (Contra Anniversary Collection)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6128275A )
 )
 
 game (
 	comment "Contra III - The Alien Wars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 84DA7CFE )
 )
 
 game (
 	comment "Contra IV - The Alien Wars (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C438DDD3 )
 )
 
 game (
 	comment "Contra Spirits (Japan) (Demo)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EFA3A034 )
 )
 
 game (
 	comment "Contra Spirits (World) (Contra Anniversary Collection)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8B037C37 )
 )
 
 game (
 	comment "Contra Spirits (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B8CFE377 )
 )
 
@@ -1367,79 +1367,79 @@ game (
 
 game (
 	comment "Dirt Trax FX (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9DBC2330 )
 )
 
 game (
 	comment "Dirt Trax FX (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 61A86C7F )
 )
 
 game (
 	comment "Donald Duck no Maui Mallard (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D60A27A6 )
 )
 
 game (
 	comment "Donald in Maui Mallard (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D56C21A1 )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2EA6B7E8 )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4C794A4D )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2EB33785 )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 006364DB )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4E2D90F4 )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B296039C )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8FAEB68A )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 46272B03 )
 )
 
 game (
 	comment "Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (En,Fr) (Rev 1) (Switch Online)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 24AAE139 )
 )
 
@@ -1613,7 +1613,7 @@ game (
 
 game (
 	comment "Emmitt Smith Football (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 09C3C0EF )
 )
 
@@ -1643,7 +1643,7 @@ game (
 
 game (
 	comment "Estpolis Denki II (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D9665BBC )
 )
 
@@ -1733,13 +1733,13 @@ game (
 
 game (
 	comment "Fever Pitch Soccer (Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 25C8F98A )
 )
 
 game (
 	comment "Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9B1EA779 )
 )
 
@@ -1949,55 +1949,55 @@ game (
 
 game (
 	comment "Foreman for Real (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8C1B9F50 )
 )
 
 game (
 	comment "Foreman for Real (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D7576775 )
 )
 
 game (
 	comment "Foreman for Real (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5FA4D051 )
 )
 
 game (
 	comment "Frank Thomas Big Hurt Baseball (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 50300F58 )
 )
 
 game (
 	comment "Frank Thomas Big Hurt Baseball (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1A895B24 )
 )
 
 game (
 	comment "Frank Thomas Big Hurt Baseball (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 21239DDA )
 )
 
 game (
 	comment "Frantic Flea (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CE5C3AF9 )
 )
 
 game (
 	comment "Frantic Flea (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FFA8D1FF )
 )
 
 game (
 	comment "Frantic Flea (Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4DA05714 )
 )
 
@@ -2141,13 +2141,13 @@ game (
 
 game (
 	comment "GP-1 - Part II (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A9014E12 )
 )
 
 game (
 	comment "GP-1 RS - Rapid Stream (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D4488768 )
 )
 
@@ -2177,25 +2177,25 @@ game (
 
 game (
 	comment "Hagane (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 63245CAC )
 )
 
 game (
 	comment "Hagane (Japan) (Beta) [b]"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F0BC3837 )
 )
 
 game (
 	comment "Hagane - The Final Conflict (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7F6CCF00 )
 )
 
 game (
 	comment "Hagane - The Final Conflict (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8E0A7034 )
 )
 
@@ -2219,7 +2219,7 @@ game (
 
 game (
 	comment "Head-On Soccer (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 60DC3634 )
 )
 
@@ -2273,19 +2273,19 @@ game (
 
 game (
 	comment "Hoshi no Kirby Super Deluxe (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 151BD470 )
 )
 
 game (
 	comment "Hoshi no Kirby Super Deluxe (Japan) (Rev 2)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1F35F230 )
 )
 
 game (
 	comment "Hoshi no Kirby Super Deluxe (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DBBCD010 )
 )
 
@@ -2333,13 +2333,13 @@ game (
 
 game (
 	comment "Incantation (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 34FAD701 )
 )
 
 game (
 	comment "Incantation (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D0FF7E9F )
 )
 
@@ -2441,13 +2441,13 @@ game (
 
 game (
 	comment "Jigsaw Party (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 78F229DC )
 )
 
 game (
 	comment "Jigsaw Party (Japan) (Beta) (1994-03-25)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F3F2AC30 )
 )
 
@@ -2627,19 +2627,19 @@ game (
 
 game (
 	comment "Kawasaki Superbike Challenge (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C736DFC0 )
 )
 
 game (
 	comment "Kawasaki Superbike Challenge (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E8ED176E )
 )
 
 game (
 	comment "Ken Griffey Jr.'s Winning Run (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E9B4BD73 )
 )
 
@@ -2711,7 +2711,7 @@ game (
 
 game (
 	comment "King Arthur & The Knights of Justice (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 615A183B )
 )
 
@@ -2729,7 +2729,7 @@ game (
 
 game (
 	comment "Kirby Super Star (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 89D0F7DC )
 )
 
@@ -2765,7 +2765,7 @@ game (
 
 game (
 	comment "Kirby's Fun Pak (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CE33DCFB )
 )
 
@@ -2795,13 +2795,13 @@ game (
 
 game (
 	comment "Kouryuuki (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 23D61C64 )
 )
 
 game (
 	comment "Kyle Petty's No Fear Racing (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AEE90A85 )
 )
 
@@ -3053,55 +3053,55 @@ game (
 
 game (
 	comment "Lufia (Germany)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8278693D )
 )
 
 game (
 	comment "Lufia (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FDB80165 )
 )
 
 game (
 	comment "Lufia (Netherlands)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 380D91FE )
 )
 
 game (
 	comment "Lufia (Spain)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D93C0DD4 )
 )
 
 game (
 	comment "Lufia II - Rise of the Sinistrals (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 20F2AC29 )
 )
 
 game (
 	comment "Madden NFL 96 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 51A1FE86 )
 )
 
 game (
 	comment "Madden NFL 96 (USA) (Sample)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4C78D04A )
 )
 
 game (
 	comment "Madden NFL 97 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc ABCF026E )
 )
 
 game (
 	comment "Madden NFL 98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CF10CC01 )
 )
 
@@ -3251,37 +3251,37 @@ game (
 
 game (
 	comment "Mark Davis' The Fishing Master (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 22A109B9 )
 )
 
 game (
 	comment "Marvel Super Heroes - War of the Gems (Japan) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4EC91D9C )
 )
 
 game (
 	comment "Marvel Super Heroes - War of the Gems (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E86CFE8F )
 )
 
 game (
 	comment "Marvel Super Heroes - War of the Gems (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AB628C0C )
 )
 
 game (
 	comment "Marvel Super Heroes in War of the Gems (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AC0F2C23 )
 )
 
 game (
 	comment "Marvel Super Heroes in War of the Gems (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 00AF56E8 )
 )
 
@@ -3311,7 +3311,7 @@ game (
 
 game (
 	comment "Maui Mallard in Cold Shadow (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2D3B9662 )
 )
 
@@ -3329,13 +3329,13 @@ game (
 
 game (
 	comment "MechWarrior 3050 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4CCC3651 )
 )
 
 game (
 	comment "MechWarrior 3050 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C0ACC92D )
 )
 
@@ -3473,25 +3473,25 @@ game (
 
 game (
 	comment "Mighty Morphin Power Rangers - The Movie (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E722E2A7 )
 )
 
 game (
 	comment "Mighty Morphin Power Rangers - The Movie (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E3EF6201 )
 )
 
 game (
 	comment "Mohawk & Headphone Jack (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6CF14848 )
 )
 
 game (
 	comment "Mohawk & Headphone Jack (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0B207E7F )
 )
 
@@ -3623,19 +3623,19 @@ game (
 
 game (
 	comment "Mr. Do! (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CCEBB6E8 )
 )
 
 game (
 	comment "Mr. Do! (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3847CF64 )
 )
 
 game (
 	comment "Mr. Do! (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1C1025E2 )
 )
 
@@ -3671,19 +3671,19 @@ game (
 
 game (
 	comment "Ms. Pac-Man (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 37C89424 )
 )
 
 game (
 	comment "Ms. Pac-Man (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 74D210D3 )
 )
 
 game (
 	comment "Ms. Pac-Man (USA) (Beta) (1996-06-18)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 41CAE05B )
 )
 
@@ -3719,121 +3719,121 @@ game (
 
 game (
 	comment "NBA Give 'n Go (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E52B9AF6 )
 )
 
 game (
 	comment "NBA Give 'n Go (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 68C8B643 )
 )
 
 game (
 	comment "NBA Hang Time (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7BBFE8C0 )
 )
 
 game (
 	comment "NBA Hang Time (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 262CE76B )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D48C8041 )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3C169224 )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1FBC1DDB )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1FE85551 )
 )
 
 game (
 	comment "NBA Jikkyou Basket - Winning Dunk (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7ECAA194 )
 )
 
 game (
 	comment "NBA Live 95 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 500F57D3 )
 )
 
 game (
 	comment "NBA Live 95 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 56FDBB8C )
 )
 
 game (
 	comment "NBA Live 95 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1CD2393D )
 )
 
 game (
 	comment "NBA Live 96 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 17689C62 )
 )
 
 game (
 	comment "NBA Live 96 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 042A6495 )
 )
 
 game (
 	comment "NBA Live 97 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2C680C99 )
 )
 
 game (
 	comment "NBA Live 97 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5115B8E5 )
 )
 
 game (
 	comment "NBA Live 98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 514BFCB5 )
 )
 
 game (
 	comment "NBA Live 97 (USA) (Beta) (1996-09-20)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D7C0CAD3 )
 )
 
 game (
 	comment "NCAA Final Four Basketball (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 75793E21 )
 )
 
 game (
 	comment "NCAA Final Four Basketball (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B07CFA91 )
 )
 
@@ -3845,91 +3845,91 @@ game (
 
 game (
 	comment "NFL Quarterback Club (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 87BC35AF )
 )
 
 game (
 	comment "NFL Quarterback Club (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 79F16421 )
 )
 
 game (
 	comment "NFL Quarterback Club '95 (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1C036B4F )
 )
 
 game (
 	comment "NFL Quarterback Club (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 78D10E07 )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9708ABE3 )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3A4C0DE6 )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E557689F )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B87ABC7E )
 )
 
 game (
 	comment "NHL '97 (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 91DA8D5C )
 )
 
 game (
 	comment "NHL 96 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 148B2734 )
 )
 
 game (
 	comment "NHL 96 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B6C6E7F3 )
 )
 
 game (
 	comment "NHL 97 (Europe) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1A53B7A8 )
 )
 
 game (
 	comment "NHL 97 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 313B9622 )
 )
 
 game (
 	comment "NHL 97 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 06BADB74 )
 )
 
 game (
 	comment "NHL 97 (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4F72AA8C )
 )
 
@@ -3947,13 +3947,13 @@ game (
 
 game (
 	comment "Nosferatu (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2C5DF175 )
 )
 
 game (
 	comment "Nosferatu (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DE762764 )
 )
 
@@ -3971,19 +3971,19 @@ game (
 
 game (
 	comment "Oomono Black Bass Fishing - Jinzouko Hen (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CD2A1A67 )
 )
 
 game (
 	comment "P.T.O. II - Pacific Theater of Operations (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A614D268 )
 )
 
 game (
 	comment "Packy & Marlon (USA) (En,Fr,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BAB26E9C )
 )
 
@@ -4001,13 +4001,13 @@ game (
 
 game (
 	comment "PGA European Tour (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BE94E60D )
 )
 
 game (
 	comment "PGA European Tour (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 914F2EA3 )
 )
 
@@ -4031,7 +4031,7 @@ game (
 
 game (
 	comment "Pieces (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BB6C3C54 )
 )
 
@@ -4235,55 +4235,55 @@ game (
 
 game (
 	comment "Porky Pig's Haunted Holiday (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7107B229 )
 )
 
 game (
 	comment "Porky Pig's Haunted Holiday (USA) (Beta) (1995-01-26)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9699E23C )
 )
 
 game (
 	comment "Porky Pig's Haunted Holiday (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F09E91A1 )
 )
 
 game (
 	comment "Porky Pig's Haunted Holiday (USA) (Beta) (1995-08-07)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 237E8233 )
 )
 
 game (
 	comment "Power Piggs of the Dark Age (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 87AFC187 )
 )
 
 game (
 	comment "Power Piggs of the Dark Age (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 81DA4B6A )
 )
 
 game (
 	comment "Power Rangers Zeo - Battle Racers (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6AA46CFC )
 )
 
 game (
 	comment "Power Piggs of the Dark Age (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E945530D )
 )
 
 game (
 	comment "Power Rangers Zeo - Battle Racers (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 389300CF )
 )
 
@@ -4331,19 +4331,19 @@ game (
 
 game (
 	comment "Prince of Persia 2 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 50581D9D )
 )
 
 game (
 	comment "Prince of Persia 2 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2D25A9E1 )
 )
 
 game (
 	comment "Prince of Persia 2 - The Shadow & the Flame (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5B793CC3 )
 )
 
@@ -4403,13 +4403,13 @@ game (
 
 game (
 	comment "Realm (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9BE46820 )
 )
 
 game (
 	comment "Realm (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0744BA5B )
 )
 
@@ -4427,7 +4427,7 @@ game (
 
 game (
 	comment "Ren & Stimpy Show, The - Buckeroo$! (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 672EBF39 )
 )
 
@@ -4469,7 +4469,7 @@ game (
 
 game (
 	comment "Rise of the Phoenix (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 908B90B1 )
 )
 
@@ -4715,19 +4715,19 @@ game (
 
 game (
 	comment "Scooby-Doo Mystery (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 98D7611E )
 )
 
 game (
 	comment "seaQuest DSV (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DCA75893 )
 )
 
 game (
 	comment "seaQuest DSV (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A6579E03 )
 )
 
@@ -4943,13 +4943,13 @@ game (
 
 game (
 	comment "Sid Meier's Civilization (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5855F7EA )
 )
 
 game (
 	comment "Sid Meier's Civilization (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 41FDBA82 )
 )
 
@@ -5111,67 +5111,67 @@ game (
 
 game (
 	comment "Speedy Gonzales - Los Gatos Bandidos (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E2DBAD76 )
 )
 
 game (
 	comment "Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CB0653D0 )
 )
 
 game (
 	comment "Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 2)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E44F42BA )
 )
 
 game (
 	comment "Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (No. 14)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EFE9E087 )
 )
 
 game (
 	comment "Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (1995-03-02) (No. 04)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D0DE3012 )
 )
 
 game (
 	comment "Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9DDE5CEA )
 )
 
 game (
 	comment "Spider-Man (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C99E174E )
 )
 
 game (
 	comment "Spider-Man (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 02C52D37 )
 )
 
 game (
 	comment "Spider-Man (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DC57FC0B )
 )
 
 game (
 	comment "Sporting News Baseball, The (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 315AF696 )
 )
 
 game (
 	comment "Sporting News Baseball, The (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9854063B )
 )
 
@@ -5225,25 +5225,25 @@ game (
 
 game (
 	comment "Stargate (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AF4D4439 )
 )
 
 game (
 	comment "Stargate (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 24BBDDF8 )
 )
 
 game (
 	comment "Stargate (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 526CE576 )
 )
 
 game (
 	comment "Stargate (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2BB45263 )
 )
 
@@ -5273,7 +5273,7 @@ game (
 
 game (
 	comment "Sterling Sharpe - End 2 End (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 70D9C906 )
 )
 
@@ -5471,7 +5471,7 @@ game (
 
 game (
 	comment "Super Bases Loaded 3 - License to Steal (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F0540D1B )
 )
 
@@ -5597,19 +5597,19 @@ game (
 
 game (
 	comment "Super Donkey Kong 2 - Dixie & Diddy (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A0BE8E71 )
 )
 
 game (
 	comment "Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 46079C0F )
 )
 
 game (
 	comment "Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 07FFB7AA )
 )
 
@@ -5741,31 +5741,31 @@ game (
 
 game (
 	comment "Super Mario RPG (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5527071E )
 )
 
 game (
 	comment "Super Mario RPG (Japan) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6DD4CC8A )
 )
 
 game (
 	comment "Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D695090D )
 )
 
 game (
 	comment "Super Mario RPG - Legend of the Seven Stars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1B8A0625 )
 )
 
 game (
 	comment "Super Moero!! Pro Yakyuu (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DA5AD200 )
 )
 
@@ -5837,7 +5837,7 @@ game (
 
 game (
 	comment "Super R.B.I. Baseball (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 31DB6CFE )
 )
 
@@ -5927,67 +5927,67 @@ game (
 
 game (
 	comment "Super Star Wars - Jedi no Fukushuu (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D21C6E7E )
 )
 
 game (
 	comment "Super Star Wars - Return of the Jedi (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 020CA165 )
 )
 
 game (
 	comment "Super Star Wars - Return of the Jedi (Europe) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A79C7E7F )
 )
 
 game (
 	comment "Super Star Wars - Return of the Jedi (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C709EC69 )
 )
 
 game (
 	comment "Super Star Wars - Return of the Jedi (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4A5F30D8 )
 )
 
 game (
 	comment "Super Star Wars - Return of the Jedi (Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 59ED9CAF )
 )
 
 game (
 	comment "Super Star Wars - The Empire Strikes Back (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5BFDCD6C )
 )
 
 game (
 	comment "Super Star Wars - Teikoku no Gyakushuu (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 05DA6B44 )
 )
 
 game (
 	comment "Super Star Wars - The Empire Strikes Back (Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 101D2DFA )
 )
 
 game (
 	comment "Super Star Wars - The Empire Strikes Back (Europe) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D308AA3E )
 )
 
 game (
 	comment "Super Star Wars - The Empire Strikes Back (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F45B15BE )
 )
 
@@ -5999,7 +5999,7 @@ game (
 
 game (
 	comment "Super Star Wars - The Empire Strikes Back (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1E7EA62C )
 )
 
@@ -6119,7 +6119,7 @@ game (
 
 game (
 	comment "SWAT Kats - The Radical Squadron (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EA2A23FB )
 )
 
@@ -6131,25 +6131,25 @@ game (
 
 game (
 	comment "Syndicate (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FD851819 )
 )
 
 game (
 	comment "Syndicate (Europe) (En,Fr,De) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 181CAE99 )
 )
 
 game (
 	comment "Syndicate (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 63C52DC4 )
 )
 
 game (
 	comment "Syndicate (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D74570D3 )
 )
 
@@ -6209,25 +6209,25 @@ game (
 
 game (
 	comment "Tecmo Secret of the Stars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EF968ED1 )
 )
 
 game (
 	comment "Tecmo Secret of the Stars (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 421D2C18 )
 )
 
 game (
 	comment "Teitoku no Ketsudan II (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D71810E7 )
 )
 
 game (
 	comment "Teitoku no Ketsudan II (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DAFED69C )
 )
 
@@ -6335,37 +6335,37 @@ game (
 
 game (
 	comment "Timecop (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BC0C9B71 )
 )
 
 game (
 	comment "Timecop (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 130B0933 )
 )
 
 game (
 	comment "Timecop (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4D56B5C3 )
 )
 
 game (
 	comment "Timon & Pumbaa's Jungle Games (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5E91C599 )
 )
 
 game (
 	comment "Timon & Pumbaa's Jungle Games (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 341C6FB0 )
 )
 
 game (
 	comment "Tin Star (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EC26F75B )
 )
 
@@ -6503,19 +6503,19 @@ game (
 
 game (
 	comment "Venom - Spider-Man - Separation Anxiety (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CD274974 )
 )
 
 game (
 	comment "Venom - Spider-Man - Separation Anxiety (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 919C509D )
 )
 
 game (
 	comment "Venom - Spider-Man - Separation Anxiety (USA) (Sample)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0AB432EC )
 )
 
@@ -6545,55 +6545,55 @@ game (
 
 game (
 	comment "War 2410 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AD2DC53A )
 )
 
 game (
 	comment "War 3010 - The Revolution (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 98C974BE )
 )
 
 game (
 	comment "Warlock (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D90530AC )
 )
 
 game (
 	comment "Warlock (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DCADBD80 )
 )
 
 game (
 	comment "Warlock (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A47884D0 )
 )
 
 game (
 	comment "Warlock (USA) (Beta 2)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EC9450D1 )
 )
 
 game (
 	comment "Warlock (USA) (Beta 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AF7C1A95 )
 )
 
 game (
 	comment "Wayne Gretzky and the NHLPA All-Stars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0B7D22B2 )
 )
 
 game (
 	comment "Wayne Gretzky and the NHLPA All-Stars (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9C1E576A )
 )
 
@@ -6653,31 +6653,31 @@ game (
 
 game (
 	comment "Wing Commander (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A7A22A40 )
 )
 
 game (
 	comment "Wing Commander (Germany)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C8A95814 )
 )
 
 game (
 	comment "Wing Commander (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 42299CEA )
 )
 
 game (
 	comment "Wing Commander (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 65AD4F8D )
 )
 
 game (
 	comment "Wing Commander (Germany) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 49FBD64E )
 )
 
@@ -6695,25 +6695,25 @@ game (
 
 game (
 	comment "Wolverine (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D9119D9B )
 )
 
 game (
 	comment "Wolverine - Adamantium Rage (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 78FC0D86 )
 )
 
 game (
 	comment "Wolverine - Adamantium Rage (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4E62D6BF )
 )
 
 game (
 	comment "Wolverine - Adamantium Rage (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 98455315 )
 )
 
@@ -6731,13 +6731,13 @@ game (
 
 game (
 	comment "WWF Raw (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A5A3BFBC )
 )
 
 game (
 	comment "WWF Raw (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3E0038BF )
 )
 
@@ -6767,31 +6767,31 @@ game (
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (Japan) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AFBEE7B1 )
 )
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6B8C5603 )
 )
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1BA08495 )
 )
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (USA) (Beta) (VideoGames)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0C7CA5AC )
 )
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (USA) (Beta) (Club Nintendo)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4EBED2E2 )
 )
 

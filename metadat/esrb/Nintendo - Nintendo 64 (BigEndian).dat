@@ -263,7 +263,7 @@ game (
 
 game (
 	comment "Automobili Lamborghini (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 210F594E )
 )
 
@@ -275,7 +275,7 @@ game (
 
 game (
 	comment "Automobili Lamborghini (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 17932C62 )
 )
 
@@ -419,25 +419,25 @@ game (
 
 game (
 	comment "Blast Corps (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 22CA221D )
 )
 
 game (
 	comment "Blast Corps (Europe) (En,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2FF810CF )
 )
 
 game (
 	comment "Blast Corps (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 23D415F8 )
 )
 
 game (
 	comment "Blastdozer (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4605759E )
 )
 
@@ -1205,19 +1205,19 @@ game (
 
 game (
 	comment "Extreme-G (Europe) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1BE8E42B )
 )
 
 game (
 	comment "Extreme-G (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 856227BB )
 )
 
 game (
 	comment "Extreme-G (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A43A0B17 )
 )
 
@@ -1301,13 +1301,13 @@ game (
 
 game (
 	comment "F1 Pole Position 64 (USA) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 873BC45A )
 )
 
 game (
 	comment "F1 Pole Position 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EC8B6DB6 )
 )
 
@@ -1325,7 +1325,7 @@ game (
 
 game (
 	comment "FIFA 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 26F52456 )
 )
 
@@ -1349,7 +1349,7 @@ game (
 
 game (
 	comment "FIFA Soccer 64 (USA) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3B22F9F2 )
 )
 
@@ -1571,7 +1571,7 @@ game (
 
 game (
 	comment "Golden Nugget 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CC8D41A7 )
 )
 
@@ -1739,7 +1739,7 @@ game (
 
 game (
 	comment "Human Grand Prix - The New Generation (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A3FC9AEA )
 )
 
@@ -1781,7 +1781,7 @@ game (
 
 game (
 	comment "Hyper Olympics in Nagano 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F7C2BB67 )
 )
 
@@ -2207,7 +2207,7 @@ game (
 
 game (
 	comment "Madden Football 64 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C39F863D )
 )
 
@@ -2237,7 +2237,7 @@ game (
 
 game (
 	comment "Madden Football 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 43B28179 )
 )
 
@@ -2579,19 +2579,19 @@ game (
 
 game (
 	comment "Mischief Makers (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 12529953 )
 )
 
 game (
 	comment "Mischief Makers (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C454E245 )
 )
 
 game (
 	comment "Mischief Makers (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AF7B3820 )
 )
 
@@ -2771,13 +2771,13 @@ game (
 
 game (
 	comment "Nagano Winter Olympics '98 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 36D43F29 )
 )
 
 game (
 	comment "Nagano Winter Olympics '98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1F8D21FB )
 )
 
@@ -2801,7 +2801,7 @@ game (
 
 game (
 	comment "NBA Hangtime (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BF05FE53 )
 )
 
@@ -2819,7 +2819,7 @@ game (
 
 game (
 	comment "NBA Hangtime (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 72E2ACA9 )
 )
 
@@ -3029,13 +3029,13 @@ game (
 
 game (
 	comment "NHL Breakaway 98 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 30B28491 )
 )
 
 game (
 	comment "NHL Breakaway 98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F59B082F )
 )
 
@@ -3275,19 +3275,19 @@ game (
 
 game (
 	comment "Pilotwings 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 334E88BF )
 )
 
 game (
 	comment "Pilotwings 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 001EE45B )
 )
 
 game (
 	comment "Pilotwings 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C445F7E3 )
 )
 
@@ -4001,7 +4001,7 @@ game (
 
 game (
 	comment "Snobo Kids (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9B691DF4 )
 )
 
@@ -4013,13 +4013,13 @@ game (
 
 game (
 	comment "Snowboard Kids (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 540C190B )
 )
 
 game (
 	comment "Snowboard Kids (Europe, Australia)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4F2415F3 )
 )
 
@@ -4391,7 +4391,7 @@ game (
 
 game (
 	comment "Super Speed Race 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D96B76C3 )
 )
 
@@ -4469,13 +4469,13 @@ game (
 
 game (
 	comment "Tetrisphere (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2E953131 )
 )
 
 game (
 	comment "Tetrisphere (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5DB18578 )
 )
 
@@ -4655,19 +4655,19 @@ game (
 
 game (
 	comment "Top Gear Rally (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 83B04584 )
 )
 
 game (
 	comment "Top Gear Rally (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D8E793F5 )
 )
 
 game (
 	comment "Top Gear Rally (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A04F1CC0 )
 )
 
@@ -4679,7 +4679,7 @@ game (
 
 game (
 	comment "Top Gear Rally (Asia) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C4BC4DF8 )
 )
 
@@ -5099,73 +5099,73 @@ game (
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D74117B0 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D3610A02 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0580EEE7 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9EF814CD )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DD2BB7B6 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A977CC81 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0EFF3F94 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 694B3B0B )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2462389E )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6E5A30ED )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 53751331 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey '98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5C593E2E )
 )
 
@@ -5195,13 +5195,13 @@ game (
 
 game (
 	comment "WCW vs. nWo - World Tour (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B3A472A3 )
 )
 
 game (
 	comment "WCW vs. nWo - World Tour (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AD6FE55F )
 )
 
@@ -5213,7 +5213,7 @@ game (
 
 game (
 	comment "WCW vs. nWo - World Tour (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 85E0C097 )
 )
 
@@ -5249,7 +5249,7 @@ game (
 
 game (
 	comment "Wheel of Fortune (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C2571693 )
 )
 
@@ -5261,7 +5261,7 @@ game (
 
 game (
 	comment "Wildwaters (USA) (1999-06-15) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc ECB6780C )
 )
 
@@ -5447,7 +5447,7 @@ game (
 
 game (
 	comment "Yuke Yuke!! Trouble Makers (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F8BB860C )
 )
 
@@ -5759,13 +5759,13 @@ game (
 
 game (
 	comment "Automobili Lamborghini (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3BAF58D5 )
 )
 
 game (
 	comment "Automobili Lamborghini (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A4374EAC )
 )
 
@@ -5921,25 +5921,25 @@ game (
 
 game (
 	comment "Blast Corps (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 767A95E7 )
 )
 
 game (
 	comment "Blast Corps (Europe) (En,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4C820695 )
 )
 
 game (
 	comment "Blast Corps (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9CBBCCF1 )
 )
 
 game (
 	comment "Blastdozer (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 081A3641 )
 )
 
@@ -6707,19 +6707,19 @@ game (
 
 game (
 	comment "Extreme-G (Europe) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0B71B1EA )
 )
 
 game (
 	comment "Extreme-G (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 750DC9A7 )
 )
 
 game (
 	comment "Extreme-G (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 04CB74EC )
 )
 
@@ -6803,13 +6803,13 @@ game (
 
 game (
 	comment "F1 Pole Position 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc ED750623 )
 )
 
 game (
 	comment "F1 Pole Position 64 (USA) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 30A24D89 )
 )
 
@@ -6833,7 +6833,7 @@ game (
 
 game (
 	comment "FIFA 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AE2583FB )
 )
 
@@ -6851,7 +6851,7 @@ game (
 
 game (
 	comment "FIFA Soccer 64 (USA) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 57DE7CAB )
 )
 
@@ -7067,7 +7067,7 @@ game (
 
 game (
 	comment "Golden Nugget 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 70594D3C )
 )
 
@@ -7235,7 +7235,7 @@ game (
 
 game (
 	comment "Human Grand Prix - The New Generation (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 31E102E3 )
 )
 
@@ -7283,7 +7283,7 @@ game (
 
 game (
 	comment "Hyper Olympics in Nagano 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C1EA5D33 )
 )
 
@@ -7733,13 +7733,13 @@ game (
 
 game (
 	comment "Madden Football 64 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FAB3E50D )
 )
 
 game (
 	comment "Madden Football 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 42E5FAFA )
 )
 
@@ -8081,19 +8081,19 @@ game (
 
 game (
 	comment "Mischief Makers (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 68A4F072 )
 )
 
 game (
 	comment "Mischief Makers (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7D222D3F )
 )
 
 game (
 	comment "Mischief Makers (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C3300CEF )
 )
 
@@ -8273,7 +8273,7 @@ game (
 
 game (
 	comment "Nagano Winter Olympics '98 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C44DE11C )
 )
 
@@ -8285,7 +8285,7 @@ game (
 
 game (
 	comment "Nagano Winter Olympics '98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EE8288D4 )
 )
 
@@ -8303,7 +8303,7 @@ game (
 
 game (
 	comment "NBA Hangtime (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7E6D00AE )
 )
 
@@ -8315,7 +8315,7 @@ game (
 
 game (
 	comment "NBA Hangtime (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 714CF532 )
 )
 
@@ -8531,13 +8531,13 @@ game (
 
 game (
 	comment "NHL Breakaway 98 (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8C0C9669 )
 )
 
 game (
 	comment "NHL Breakaway 98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 49D86C00 )
 )
 
@@ -8777,19 +8777,19 @@ game (
 
 game (
 	comment "Pilotwings 64 (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C902E57C )
 )
 
 game (
 	comment "Pilotwings 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3D3A84A9 )
 )
 
 game (
 	comment "Pilotwings 64 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 728807E7 )
 )
 
@@ -9503,13 +9503,13 @@ game (
 
 game (
 	comment "Snobo Kids (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 213BF381 )
 )
 
 game (
 	comment "Snowboard Kids (Europe, Australia)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5619A70D )
 )
 
@@ -9539,7 +9539,7 @@ game (
 
 game (
 	comment "Snowboard Kids (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 020FB906 )
 )
 
@@ -9875,7 +9875,7 @@ game (
 
 game (
 	comment "Super Speed Race 64 (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0F879A70 )
 )
 
@@ -9965,7 +9965,7 @@ game (
 
 game (
 	comment "Tetrisphere (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 70A3A5CE )
 )
 
@@ -9977,7 +9977,7 @@ game (
 
 game (
 	comment "Tetrisphere (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7CB31B0F )
 )
 
@@ -10151,7 +10151,7 @@ game (
 
 game (
 	comment "Top Gear Rally (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 40B3BB21 )
 )
 
@@ -10163,19 +10163,19 @@ game (
 
 game (
 	comment "Top Gear Rally (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C6707CD6 )
 )
 
 game (
 	comment "Top Gear Rally (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 137287F5 )
 )
 
 game (
 	comment "Top Gear Rally (Asia) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C4BC4DF8 )
 )
 
@@ -10601,73 +10601,73 @@ game (
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FB289893 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6C93FF83 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 90044C4B )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 74A7B725 )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 394948C4 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 485275ED )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 442A4F5F )
 )
 
 game (
 	comment "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 54D190A8 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9781F88D )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6F6DC53D )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C2678971 )
 )
 
 game (
 	comment "Wayne Gretzky's 3D Hockey '98 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 355FB089 )
 )
 
@@ -10685,7 +10685,7 @@ game (
 
 game (
 	comment "WCW vs. nWo - World Tour (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 37F358EB )
 )
 
@@ -10703,13 +10703,13 @@ game (
 
 game (
 	comment "WCW vs. nWo - World Tour (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DFBFC61F )
 )
 
 game (
 	comment "WCW vs. nWo - World Tour (USA) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A74DA07A )
 )
 
@@ -10751,7 +10751,7 @@ game (
 
 game (
 	comment "Wheel of Fortune (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8D3EFA8D )
 )
 
@@ -10763,7 +10763,7 @@ game (
 
 game (
 	comment "Wildwaters (USA) (1999-06-15) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 40443C67 )
 )
 
@@ -10949,7 +10949,7 @@ game (
 
 game (
 	comment "Yuke Yuke!! Trouble Makers (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B69D3068 )
 )
 

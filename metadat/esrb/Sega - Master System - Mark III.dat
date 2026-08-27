@@ -65,7 +65,7 @@ game (
 
 game (
 	comment "Baku Baku (Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 35D84DC2 )
 )
 
@@ -89,7 +89,7 @@ game (
 
 game (
 	comment "Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 46340C41 )
 )
 
@@ -275,7 +275,7 @@ game (
 
 game (
 	comment "Legend of Illusion Starring Mickey Mouse (Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6350E649 )
 )
 
@@ -341,13 +341,13 @@ game (
 
 game (
 	comment "Mortal Kombat II (Europe, Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2663BF18 )
 )
 
 game (
 	comment "NBA Jam (Europe) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 332A847D )
 )
 
@@ -545,25 +545,25 @@ game (
 
 game (
 	comment "Super Monaco GP (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3EF12BAA )
 )
 
 game (
 	comment "Super Monaco GP (Europe, Brazil) (En) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A1D6D963 )
 )
 
 game (
 	comment "Super Monaco GP (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DD7ADBCC )
 )
 
 game (
 	comment "Super Monaco GP (Europe, Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 55BF81A0 )
 )
 
@@ -581,7 +581,7 @@ game (
 
 game (
 	comment "Taz in Escape from Mars (Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 11CE074C )
 )
 
@@ -593,7 +593,7 @@ game (
 
 game (
 	comment "Virtua Fighter Animation (Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 57F1545B )
 )
 
@@ -635,7 +635,7 @@ game (
 
 game (
 	comment "X-Men - Mojo World (Brazil) (En)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 3E1387F6 )
 )
 

@@ -5,25 +5,25 @@ clrmamepro (
 
 game (
 	comment "3-D Tetris (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BB71B522 )
 )
 
 game (
 	comment "BLOX (World) (v1.0) (Aftermarket) (Homebrew)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7BAF43B0 )
 )
 
 game (
 	comment "Bound High (Japan) (En) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E81A3703 )
 )
 
 game (
 	comment "BLOX (World) (v1.1) (Aftermarket) (Homebrew)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 450FEAB5 )
 )
 
@@ -65,19 +65,19 @@ game (
 
 game (
 	comment "Jack Bros. no Meiro de Hiihoo! (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CAB61E8B )
 )
 
 game (
 	comment "Jack Bros. (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A44DE03C )
 )
 
 game (
 	comment "Niko-chan Battle (Japan) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F3CD40DD )
 )
 
@@ -95,7 +95,7 @@ game (
 
 game (
 	comment "Panic Bomber (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 19BB2DFB )
 )
 
@@ -119,7 +119,7 @@ game (
 
 game (
 	comment "Tobidase! Panibon (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 40498F5E )
 )
 

@@ -17,25 +17,25 @@ game (
 
 game (
 	comment "Adventures of Pinocchio, The (Europe) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0B9DE1DC )
 )
 
 game (
 	comment "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4825B25F )
 )
 
 game (
 	comment "Aladdin (World) (Disney Classic Games) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 53918941 )
 )
 
 game (
 	comment "Aladdin (Europe) (Sample) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 28827EA5 )
 )
 
@@ -47,13 +47,13 @@ game (
 
 game (
 	comment "Animaniacs (Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7B23E05C )
 )
 
 game (
 	comment "Animaniacs (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 673C815D )
 )
 
@@ -83,13 +83,13 @@ game (
 
 game (
 	comment "Batman Forever (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EF3592CC )
 )
 
 game (
 	comment "Batman Forever (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C2FD6244 )
 )
 
@@ -179,25 +179,25 @@ game (
 
 game (
 	comment "Casper (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E4B30634 )
 )
 
 game (
 	comment "Casper (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E67A10E1 )
 )
 
 game (
 	comment "Casper (USA) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 14C66168 )
 )
 
 game (
 	comment "Castlevania Legends (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AD9C17FB )
 )
 
@@ -239,19 +239,19 @@ game (
 
 game (
 	comment "College Slam (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A549A572 )
 )
 
 game (
 	comment "CutThroat Island (Japan) (En) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6A5F5A0D )
 )
 
 game (
 	comment "CutThroat Island (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc EEBDD360 )
 )
 
@@ -275,13 +275,13 @@ game (
 
 game (
 	comment "Desert Strike - Return to the Gulf (Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B700F7F7 )
 )
 
 game (
 	comment "Desert Strike - Return to the Gulf (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6A702C32 )
 )
 
@@ -305,25 +305,25 @@ game (
 
 game (
 	comment "Donkey Kong Land (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9AECA05C )
 )
 
 game (
 	comment "Donkey Kong Land 2 (Japan) (Proto) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 68E5FC2A )
 )
 
 game (
 	comment "Donkey Kong Land (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 49DC0D37 )
 )
 
 game (
 	comment "Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2827E5D4 )
 )
 
@@ -467,31 +467,31 @@ game (
 
 game (
 	comment "Dragon's Lair (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 73C994A0 )
 )
 
 game (
 	comment "Dragon's Lair - The Legend (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 00A14889 )
 )
 
 game (
 	comment "Dragon's Lair - The Legend (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7A38B5C3 )
 )
 
 game (
 	comment "DragonHeart (France)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8D089356 )
 )
 
 game (
 	comment "DragonHeart (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5129A518 )
 )
 
@@ -545,13 +545,13 @@ game (
 
 game (
 	comment "Earthworm Jim (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B1A7A008 )
 )
 
 game (
 	comment "Earthworm Jim (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 259FF267 )
 )
 
@@ -713,19 +713,19 @@ game (
 
 game (
 	comment "FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E5989908 )
 )
 
 game (
 	comment "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AF4A5DE1 )
 )
 
 game (
 	comment "FIFA Soccer 97 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DCAB906C )
 )
 
@@ -827,13 +827,13 @@ game (
 
 game (
 	comment "Foreman for Real (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 860EA816 )
 )
 
 game (
 	comment "Foreman for Real (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 77083AE0 )
 )
 
@@ -845,7 +845,7 @@ game (
 
 game (
 	comment "Frank Thomas Big Hurt Baseball (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 9A494AE6 )
 )
 
@@ -941,7 +941,7 @@ game (
 
 game (
 	comment "Ganbare Goemon - Kurofunetou no Nazo (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 910AFE24 )
 )
 
@@ -1157,19 +1157,19 @@ game (
 
 game (
 	comment "Hoshi no Kirby (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 21035F95 )
 )
 
 game (
 	comment "Hoshi no Kirby (Japan) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 04342C83 )
 )
 
 game (
 	comment "Hoshi no Kirby 2 (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4BEDF22C )
 )
 
@@ -1199,7 +1199,7 @@ game (
 
 game (
 	comment "James Bond 007 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc CA3BC3CE )
 )
 
@@ -1211,79 +1211,79 @@ game (
 
 game (
 	comment "Judge Dredd (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 951B9907 )
 )
 
 game (
 	comment "Judge Dredd (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B9D11656 )
 )
 
 game (
 	comment "Jungle Strike (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 763ABABB )
 )
 
 game (
 	comment "Jungle Strike (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7A8CDBE8 )
 )
 
 game (
 	comment "Killer Instinct (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc AC793B54 )
 )
 
 game (
 	comment "Kirby no Block Ball (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DF3BBCD7 )
 )
 
 game (
 	comment "Kirby no Kirakira Kids (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 47F42F42 )
 )
 
 game (
 	comment "Kirby no Pinball (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8B44FB7D )
 )
 
 game (
 	comment "Kirby's Block Ball (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7AD90B4B )
 )
 
 game (
 	comment "Kirby's Dream Land (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 40F25740 )
 )
 
 game (
 	comment "Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8DC07C35 )
 )
 
 game (
 	comment "Kirby's Pinball Land (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 31CB6526 )
 )
 
 game (
 	comment "Kirby's Star Stacker (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 91300898 )
 )
 
@@ -1361,19 +1361,19 @@ game (
 
 game (
 	comment "Madden 97 (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 88A837A2 )
 )
 
 game (
 	comment "Madden 96 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FD9DC1AD )
 )
 
 game (
 	comment "Mario's Picross (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F2D652AD )
 )
 
@@ -1445,7 +1445,7 @@ game (
 
 game (
 	comment "Metroid II - Return of Samus (World)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DEE05370 )
 )
 
@@ -1469,19 +1469,19 @@ game (
 
 game (
 	comment "Mickey's Chase (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 0AB490C8 )
 )
 
 game (
 	comment "Mickey's Dangerous Chase (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E72DB762 )
 )
 
 game (
 	comment "Mickey's Dangerous Chase (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7B822D8F )
 )
 
@@ -1493,37 +1493,37 @@ game (
 
 game (
 	comment "Moguranya (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 82FCA204 )
 )
 
 game (
 	comment "Mole Mania (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2C36C74C )
 )
 
 game (
 	comment "Monopoly (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D8AC08B5 )
 )
 
 game (
 	comment "Monopoly (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FD90F0D6 )
 )
 
 game (
 	comment "Monopoly (Europe) (En,Fr,De)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 987B621E )
 )
 
 game (
 	comment "Montezuma's Return! (Europe) (En,Fr,De,Es,It)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E7AC155B )
 )
 
@@ -1583,7 +1583,7 @@ game (
 
 game (
 	comment "Mr. Nutz (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 03B64A35 )
 )
 
@@ -1631,13 +1631,13 @@ game (
 
 game (
 	comment "Mystical Ninja Starring Goemon (Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A1813CD5 )
 )
 
 game (
 	comment "Mystical Ninja Starring Goemon (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FAFB343C )
 )
 
@@ -1649,7 +1649,7 @@ game (
 
 game (
 	comment "NBA Live 96 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8885C7CD )
 )
 
@@ -1673,19 +1673,19 @@ game (
 
 game (
 	comment "Nettou World Heroes 2 Jet (Japan) (Rev 1) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7C5FFE52 )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc D583BC4E )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (Japan) (En) (Proto)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 011E75FB )
 )
 
@@ -1697,7 +1697,7 @@ game (
 
 game (
 	comment "Olympic Summer Games (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc BE81BD61 )
 )
 
@@ -1709,31 +1709,31 @@ game (
 
 game (
 	comment "Pac-In-Time (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 50A15DC8 )
 )
 
 game (
 	comment "Pac-In-Time (Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 8690B691 )
 )
 
 game (
 	comment "Pac-In-Time (Europe) (Rev 1) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7FF79DF9 )
 )
 
 game (
 	comment "PGA European Tour (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7D7DEF64 )
 )
 
 game (
 	comment "PGA Tour 96 (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 6FF72043 )
 )
 
@@ -1745,13 +1745,13 @@ game (
 
 game (
 	comment "Pinocchio (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 085C4A02 )
 )
 
 game (
 	comment "Pinocchio (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2D924E46 )
 )
 
@@ -1763,13 +1763,13 @@ game (
 
 game (
 	comment "Primal Rage (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C95D927B )
 )
 
 game (
 	comment "Primal Rage (USA, Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc F738D4D1 )
 )
 
@@ -1865,13 +1865,13 @@ game (
 
 game (
 	comment "seaQuest DSV (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 31A3BD99 )
 )
 
 game (
 	comment "seaQuest DSV (USA, Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 229AEE8E )
 )
 
@@ -1889,7 +1889,7 @@ game (
 
 game (
 	comment "Shaq Fu (USA) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7ED43FE6 )
 )
 
@@ -1949,55 +1949,55 @@ game (
 
 game (
 	comment "Star Wars (Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7E3F6BBE )
 )
 
 game (
 	comment "Star Wars (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B01DA1AE )
 )
 
 game (
 	comment "Star Wars (USA, Europe) (Rev 1)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5D8DEB5B )
 )
 
 game (
 	comment "Street Fighter II (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc C775F488 )
 )
 
 game (
 	comment "Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 54A0AAA3 )
 )
 
 game (
 	comment "Street Racer (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 5BBACAA8 )
 )
 
 game (
 	comment "Street Racer (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc FCFB4CE4 )
 )
 
 game (
 	comment "Super Bombliss (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc B503FFAD )
 )
 
 game (
 	comment "Super Donkey Kong GB (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 695F4600 )
 )
 
@@ -2015,7 +2015,7 @@ game (
 
 game (
 	comment "Superman (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 358E0091 )
 )
 
@@ -2045,7 +2045,7 @@ game (
 
 game (
 	comment "Taz-Mania 2 (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 4CCB65E0 )
 )
 
@@ -2075,7 +2075,7 @@ game (
 
 game (
 	comment "Tetris Blast (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7BE5A73F )
 )
 
@@ -2087,13 +2087,13 @@ game (
 
 game (
 	comment "Tetris Plus (Japan) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 2EC9120A )
 )
 
 game (
 	comment "Tetris Plus (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc DAFC3BFF )
 )
 
@@ -2129,7 +2129,7 @@ game (
 
 game (
 	comment "Urban Strike (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 89625945 )
 )
 
@@ -2147,7 +2147,7 @@ game (
 
 game (
 	comment "Wave Race (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc A6595506 )
 )
 
@@ -2171,7 +2171,7 @@ game (
 
 game (
 	comment "World Heroes 2 Jet (USA, Europe) (SGB Enhanced)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 67303954 )
 )
 
@@ -2195,19 +2195,19 @@ game (
 
 game (
 	comment "Zoop (USA, Europe)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 14F8B6BB )
 )
 
 game (
 	comment "Zoop (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 10E1A10C )
 )
 
 game (
 	comment "Zoop (USA, Europe) (Beta)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 7B440074 )
 )
 

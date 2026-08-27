@@ -413,7 +413,7 @@ game (
 
 game (
 	comment "Takin' It to the Hoop (USA)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc E9D51797 )
 )
 
@@ -425,7 +425,7 @@ game (
 
 game (
 	comment "USA Pro Basketball (Japan)"
-	esrb_rating "KA"
+	esrb_rating "E"
 	rom ( crc 1CAD4B7F )
 )
 

@@ -545,5 +545,5 @@ cheat135_code = "89FFFFFE 0002"
 cheat135_enable = false
 
 cheat136_desc = "Master Code"
-cheat136_code = "DE000400 F100B7B0+00002400 0000"
+cheat136_code = "DE000400+0000+F100B7B0+2400"
 cheat136_enable = false

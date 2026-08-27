@@ -1,7 +1,7 @@
 cheats = 32
 
 cheat0_desc = "Enable (Must Be On)"
-cheat0_code = "DE025C00 F1025F30+00002400 F1025F34+00002400 0000"
+cheat0_code = "DE025C00+0000+F1025F30+2400+F1025F34+2400"
 cheat0_enable = false
 
 cheat1_desc = "Activator 1 P1"

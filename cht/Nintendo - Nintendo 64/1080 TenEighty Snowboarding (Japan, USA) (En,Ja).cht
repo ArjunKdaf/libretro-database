@@ -689,5 +689,5 @@ cheat171_code = "D106272E 0000"
 cheat171_enable = false
 
 cheat172_desc = "Master Code"
-cheat172_code = "DE000400 EE000000"
+cheat172_code = "DE000400+0000+EE000000+0000"
 cheat172_enable = false

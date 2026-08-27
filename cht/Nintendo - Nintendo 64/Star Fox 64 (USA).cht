@@ -41,7 +41,7 @@ cheat9_code = "800D2D84 0000+800D2D85 0000+800D2D86 0000+800D2D87 0000+800D2D88 
 cheat9_enable = false
 
 cheat10_desc = "Additional Enable Code (Cheat Device 3.20 Or Higher Needed!)"
-cheat10_code = "EE000000 CC000000"
+cheat10_code = "EE000000+0000+CC000000+0000"
 cheat10_enable = false
 
 cheat11_desc = "P1 Character Modifier"

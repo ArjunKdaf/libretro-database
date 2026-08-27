@@ -333,7 +333,7 @@ cheat82_code = "D1265DB8 05E1+81265DB8 1000"
 cheat82_enable = false
 
 cheat83_desc = "Master code"
-cheat83_code = "DE000400 EE000000"
+cheat83_code = "DE000400+0000+EE000000+0000"
 cheat83_enable = false
 
 cheat84_desc = "Finish a race immediately"

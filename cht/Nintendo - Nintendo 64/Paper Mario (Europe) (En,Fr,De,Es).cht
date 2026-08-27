@@ -9,7 +9,7 @@ cheat1_code = "F006D650 0000"
 cheat1_enable = false
 
 cheat2_desc = "Master Code"
-cheat2_code = "DE025C00 F106D650+00002400 0000"
+cheat2_code = "DE025C00+0000+F106D650+2400"
 cheat2_enable = false
 
 cheat3_desc = "Infinite FPs"

@@ -5,7 +5,7 @@ cheat0_code = "DE000400 0000"
 cheat0_enable = false
 
 cheat1_desc = "Enable Code (<u>Must</u> Be On) (Cheat Device 3.20 Or Higher Needed!)"
-cheat1_code = "DE000400 EE000000"
+cheat1_code = "DE000400+0000+EE000000+0000"
 cheat1_enable = false
 
 cheat2_desc = "Activator 1 P1"

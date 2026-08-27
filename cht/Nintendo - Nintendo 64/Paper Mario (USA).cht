@@ -49,7 +49,7 @@ cheat11_code = "8110F456 0000"
 cheat11_enable = false
 
 cheat12_desc = "Enable Code (Must Be On)"
-cheat12_code = "DE025C00 F106C6B0+00002400 0000"
+cheat12_code = "DE025C00+0000+F106C6B0+2400"
 cheat12_enable = false
 
 cheat13_desc = "Activator 1 P1"

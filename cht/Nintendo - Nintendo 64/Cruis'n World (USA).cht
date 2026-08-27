@@ -1,7 +1,7 @@
 cheats = 112
 
 cheat0_desc = "Enable Code (Must Be On)"
-cheat0_code = "DE0AD400 812FE5EC+00002402 812FE5EE+00000001 0000"
+cheat0_code = "DE2AD400+0000+812FE5EC+2402+812FE5EE+0001"
 cheat0_enable = false
 
 cheat1_desc = "Alternate Enable Code (Must Be One)"
@@ -445,5 +445,5 @@ cheat110_code = ""
 cheat110_enable = false
 
 cheat111_desc = "Master Code"
-cheat111_code = "DE0AD400 F12FE5EC+00002402 F12FE5EE+00000001 CC000000"
+cheat111_code = "DE2AD400+0000+F12FE5EC+2402+F12FE5EE+0001+CC000000+0000"
 cheat111_enable = false

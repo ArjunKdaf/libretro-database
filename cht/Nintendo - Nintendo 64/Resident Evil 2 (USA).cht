@@ -257,7 +257,7 @@ cheat63_code = "810E8FF0 00FF"
 cheat63_enable = false
 
 cheat64_desc = "Enable Code (Must Be On) (Cheat Device 3.2 Or Higher Needed!)"
-cheat64_code = "EE000000 F10004F0+00002400 F10004F4+00002400 0000"
+cheat64_code = "EE000000+0000+F10004F0+2400+F10004F4+2400"
 cheat64_enable = false
 
 cheat65_desc = "Activator 1 P1"

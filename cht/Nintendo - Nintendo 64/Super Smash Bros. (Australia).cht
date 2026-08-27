@@ -1,7 +1,7 @@
 cheats = 242
 
 cheat0_desc = "Enable Code (Must Be On)"
-cheat0_code = "DE000400 F1039CB0+00002400 0000"
+cheat0_code = "DE000400+0000+F1039CB0+2400"
 cheat0_enable = false
 
 cheat1_desc = "1P Character Modifier"

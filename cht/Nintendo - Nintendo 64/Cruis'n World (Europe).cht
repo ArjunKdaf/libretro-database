@@ -5,7 +5,7 @@ cheat0_code = ""
 cheat0_enable = false
 
 cheat1_desc = "(M) Must Be On - Action-Replay / Equalizer"
-cheat1_code = "DE0AD400 F12FE5E0+00001000 0000"
+cheat1_code = "DE2AD400+0000+F12FE5E0+1000"
 cheat1_enable = false
 
 cheat2_desc = "Infinite Time"

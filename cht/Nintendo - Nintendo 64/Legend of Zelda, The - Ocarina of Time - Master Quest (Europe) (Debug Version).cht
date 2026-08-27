@@ -97,5 +97,5 @@ cheat23_code = "813D7CE8 2400"
 cheat23_enable = false
 
 cheat24_desc = "Master Code"
-cheat24_code = "EE000000 F1009310+00002400 0000"
+cheat24_code = "EE000000+0000+F1009310+2400"
 cheat24_enable = false

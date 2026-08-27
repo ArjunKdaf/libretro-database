@@ -13,7 +13,7 @@ cheat2_code = "D12804C8 0000"
 cheat2_enable = false
 
 cheat3_desc = "Enable Code (Must Be On)"
-cheat3_code = "DE000400 8124B728+00001700 812864E4+00001700 812D2E00+00001300 0000"
+cheat3_code = "DE000400+0000+8124B728+1700+812864E4+1700+812D2E00+1300"
 cheat3_enable = false
 
 cheat4_desc = "Improved Enable Code (Use This For Hacking)"

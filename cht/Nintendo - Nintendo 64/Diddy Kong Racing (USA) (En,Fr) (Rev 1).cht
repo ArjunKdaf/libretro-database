@@ -25,7 +25,7 @@ cheat5_code = ""
 cheat5_enable = false
 
 cheat6_desc = "Enable Code (Must Be On)"
-cheat6_code = "DE000400 F1025000+00001000 F1025002+00000002 F105FB1C+00001000 F105FB1E+00000004 0000"
+cheat6_code = "DE000400+0000+F1025000+1000+F1025002+0002+F105FB1C+1000+F105FB1E+0004"
 cheat6_enable = false
 
 cheat7_desc = "99 Balloons"

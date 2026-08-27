@@ -5,7 +5,7 @@ cheat0_code = "8108C39C 2400"
 cheat0_enable = false
 
 cheat1_desc = "Enable Code (Must Be On) (Cheat Device 3.2 Or Higher Needed!)"
-cheat1_code = "EE000000 F10004F0+00002400 F10004F4+00002400 0000"
+cheat1_code = "EE000000+0000+F10004F0+2400+F10004F4+2400"
 cheat1_enable = false
 
 cheat2_desc = "Infinite Health (RAM)"

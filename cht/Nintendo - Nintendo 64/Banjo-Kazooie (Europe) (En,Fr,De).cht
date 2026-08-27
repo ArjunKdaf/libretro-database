@@ -1,11 +1,11 @@
 cheats = 119
 
 cheat0_desc = "(M) Must Be On"
-cheat0_code = "DE000400 8124C628+00001700 812874C4+00001700 812D3F80+00001300 0000"
+cheat0_code = "DE000400+0000+8124C628+1700+812874C4+1700+812D3F80+1300"
 cheat0_enable = false
 
 cheat1_desc = "(M) Must Be On (Alternative)"
-cheat1_code = "DE000400 F1039300+00002402 0000"
+cheat1_code = "DE000400+0000+F1039300+2402"
 cheat1_enable = false
 
 cheat2_desc = "Activator #1 P1"
